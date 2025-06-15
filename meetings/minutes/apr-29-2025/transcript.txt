@@ -1,0 +1,527 @@
+0:09 - Chicago Java Users Group
+Hi. Hi, Glenn. How are you doing today, Mary? I'm good.
+
+0:15 - Unidentified Speaker
+Good.
+
+0:17 - Unidentified Speaker
+Yeah.
+
+0:17 - Unidentified Speaker
+Actually in Hong Kong.
+
+0:19 - Unidentified Speaker
+Wow.
+
+0:20 - Chicago Java Users Group
+And it's one o'clock right now, but that's OK. You know, I'm still jet lag. So.
+
+0:29 - Glenn Renfro
+So, you know, it's like, OK, how do you what time do you choose? It's like, well, well, first off, it was supposed to be an hour ago, but I, for some reason, my calendar said it was set to central and I'm like, wait a minute, how did it get set to central? And so I was like, I was setting up and I had the mean rain, no, it's and I went, what's going on? And I looked at the calendar marker and it was like, oh, it's, you know, 11 o'clock. And I went, oh.
+
+1:14 - Unidentified Speaker
+So.
+
+1:15 - Paul Webber
+That time zone will get you every time.
+
+1:18 - Glenn Renfro
+It did.
+
+1:19 - Unidentified Speaker
+It did.
+
+1:20 - Chicago Java Users Group
+Oh my goodness.
+
+1:22 - Glenn Renfro
+Hi, Paul. Hey, Mary. Hey, Paul.
+
+1:25 - Paul Webber
+What takes you to the other side of the world?
+
+1:30 - Chicago Java Users Group
+Oh, there's a, well, okay, so I was at GITS India, right, for the conference. So after that, well, because my sister lives in Hong Kong, so then I thought, okay, let me take a, you know, go, may as well, because it's a long travel, long distance travel, so may as well stay longer in Asia.
+
+1:51 - Unidentified Speaker
+So, yeah.
+
+1:52 - Unidentified Speaker
+Yes.
+
+1:53 - Miroslav Wengner
+Yes, yes, yes.
+
+1:55 - Paul Webber
+Oh, if you hear me I'm with kids.
+
+2:01 - Miroslav Wengner
+Oh, that is not a problem they can jump in if they want to.
+
+2:12 - Glenn Renfro
+I bet they have good ideas.
+
+2:18 - Unidentified Speaker
+Yes.
+
+2:18 - Unidentified Speaker
+Some AI can do it.
+
+2:21 - Unidentified Speaker
+It was interesting.
+
+2:23 - Paul Webber
+I was testing the limits of Juni.
+
+2:27 - Glenn Renfro
+And I was because there was a deprecation that was basically there was no path forward on the deprecation to resolve, right? So you had to dig in and say, OK. What's a proper path to move this forward? So I said, okay, let me test Juni and see what it does. So I kicked the tires. Now mind you, it's really good. It's pretty cool. So first off, let me say that. But what happened was as I was working with it and I said, okay, here's the deprecation. Can you provide a path to update the code and create the, update the tasks for this deprecation. So it goes in and it thinks and it comes back and it says, there's no clear path forward for this. So we're going to put at, ignore deprecation. And I went, okay, that's not the correct answer. You know, okay, now let me help it out. So I gave it the path of like, okay, given this, I want to upgrade this. Deprecation, deprecate a code, look at the following classes, and look at this as a possible path for resolution. And it went and it thought and it said, I still don't see a clear path. We highly recommend you ignore this deprecation. And I went, OK. The rule that I found when dealing with AI bots is that, or code, It's, again, you know, we could go through the vibe coding side of it, but it's like, if it's got a complex technical path where there's not been a lot of documentation, and you want it to do it, you have to really, really, really spell it out. And I was like, now, it was just, it was an interesting play of how it just kind of gave up, threw up his hands. And I was thinking, now, if I was like a young or, you know, middle, a junior developer or just, you know, just, you know, average developer, you know, just coming out in like a mid-grade, not a senior developer. The way it wrote it up, it's like, there's no clear pathway for them to do the update, blah, blah, blah. I was like, oh, that's really sounding good, but that's not what we need. And so, but it kind of just threw in the towel. I thought that was interesting.
+
+5:01 - Unidentified Speaker
+I didn't expect it to do that.
+
+5:06 - Glenn Renfro
+All right, we're going to give everybody the professor two more minutes, and we'll kick the tires.
+
+5:13 - Paul Webber
+Maybe you should have incentivized it more, like promise it death and firing if it didn't do something.
+
+5:19 - Glenn Renfro
+And oh, by the way, you can't, oh, well, I can't say that.
+
+5:24 - Glenn Renfro
+So I switched models, and the other model hallucinated a response. It created a magic class that said, OK, use this class. And I was like, that class doesn't exist. And so I started I said well maybe it does maybe I my research was incomplete I go searches like that class does not exist so that was I was like okay so I had all three giving up throwing up hands it hallucinated a magic class and I'm like okay again it's just it wasn't like as bad it's just it's a learning experience it's like okay I know how to fix it but can you do it and it's like mmm some cases but That was interesting, though. All right, well, I had a lot of accepts for this one. So maybe it just threw some folks off. And I didn't see any. Let me check just emails real quick and just see if something popped up. If not, we'll go ahead and kick off. Because where we're going, yeah, OK. There we go. So what we'll do is we'll go ahead and kick off here. And we'll do a slideshow. How about the share? I just got to find my sharing. Hi guys.
+
+6:42 - Miroslav Wengner
+I would love to test. Do you hear me?
+
+6:45 - Glenn Renfro
+Here is Miro. Yes. Perfect.
+
+6:47 - Miroslav Wengner
+I'm with a kid, so difficult situation, unplanned. So, but I'm listening and I will reply. And anyway, I have an answer. Experience with different models and hallucinating pretty well on DevOps task. Actually, on Cassandra, it developed a setup which doesn't exist. It cannot simply exist by the definition how Cassandra developed this. And also on Kafka, it's a pretty interesting experience.
+
+7:14 - Glenn Renfro
+Again, I agree. And again, it's like one of the reasons you do it, it's like, what's the outcome? And part of it is experimentation. Just like, does this really work like I expect it to? Maybe, maybe not. You know, and again, but like I said, I've had it do some, I was like, kick out an example like this. And I was like, dang, that's actually pretty good. But then again, there was times where it was like, nope.
+
+7:43 - Miroslav Wengner
+Yeah, it could be confusing for everyone. Senior developer, junior, they completely have no idea what is going on.
+
+7:51 - Unidentified Speaker
+Exactly.
+
+7:51 - Miroslav Wengner
+Refer the situation.
+
+7:52 - Miroslav Wengner
+OK, so that's also experience. No worries. Awesome. It's great to share.
+
+7:56 - Glenn Renfro
+So let's go ahead and kick off. So part of this is, there we go. Let's go ahead and just kind of talk about this. So one of the things that we talked about, and it's been kind of going across the groups, and I wanted to kind of bring it in, was let's expand the net a little bit. Do we want to go ahead and we've I've kind of said yes, but it's to include the Java experts and Jug leadership, not just make it a Java champion event, so that we can include more of the Java community. Part of it is to also increase, as Mary's been working with it a lot more, people that have actually used it in real life business And so, again, kind of increase our awareness of what's available out there, also have them more involvement. If we decide to do this, do we want to maybe also rename the group to just the Java AI group, so just the JC AIs? And then, again, this is all open for all of us to contribute. Kind of giving a rough guide of where we can go. But the other is, you know, are we missing anybody that we need to send invitations to? Also, I still have a lot of people that expressed interest, and I sent out an email saying, please give me your email address so I can add you. I may send out one more out to the Java Champion community so that they can, you know, if you are still interested and you want to join, please, but I do need your email. Haven't gotten this because I've never got an email from you directly. Or you didn't share an email. So does anybody have issues or commentary for adding folks outside the Java champion community to this effort?
+
+10:04 - Unidentified Speaker
+Hey, Glenn, I've got one question.
+
+10:08 - Daniel Oh
+I love the idea we can scale this opportunity. To more community people. And then I just wondering, so can we even promote this new Java and AI group activity with just random general Java developer? For example, so Java Champions, we are a lot of chance to go to like a Java community and even like a DevOps or something like that. And then can you even promote this group? Can join our community, you are more than happy to welcome and then like give us some any thought and idea. Or we just a little bit more, of course, so JC and job readers and some other like a selected people. So because I love to scale, but I don't know how do we scale and then which people but we need to only give us an invitation, like a Java expert. 20 years of Java experience, that is a Java expert, or just known people. Just out of curiosity. These are all great questions.
+
+11:23 - Glenn Renfro
+This is to the community. This is to the group. What do we want to do, right? What does a group feel like, Do we want to expand it? I know that one of the intents was that we would have a curated group that would work on it so we could provide material and education material that we would share through some avenue, whether it was looking more like Fuji would be that avenue for that. And then the conferences group was, again, we have these focus groups that we have.
+
+12:01 - Daniel Oh
+To me, it was more of an invitation, not like a java champion thing it was more kind of like bring people in uh but if we do we want to you know if we want to bring the whole community in if so what do we have available for them to jump into right so what what's what's the uh audience feel like on this yeah that's good question so you know I got some experience to like a coordinate like a working group under the like a CNCF for a while and then so basically some community working group we invite any people as well as long as they are interested but every time people jump in the group and then we need to give you some like a short goal or some vision why need to keep engaging this community group rather than just stop by one time hey ah Java and AI super like a fancy or interesting topic But when they actually stop in, hey, nothing special. So if we invite any random Java people, but we need to make some more short-term goals. Hey, so we have some kind of goal with this group for the next couple months at least. And then when we create something outcome and we definitely want to share this kind of stuff with the broader Java community. Could be some kind of documentation, could be some code snippet, something else.
+
+13:43 - Glenn Renfro
+Right, right. Have something there and start it and process.
+
+13:48 - Daniel Oh
+Yeah, that is maybe good motivation for random people who feel more like a contribution back to the community rather than just like a discussion or or like some small chat, something like that. I agree.
+
+14:04 - Glenn Renfro
+And that's kind of where I was leaning to before. When you try to invite the world, we probably want to have like what Prateek was saying. So let's look at the focus groups. One of the focus groups is Java AI Education Group. This is the group that says curate, create education materials, and let me just shrink this down real quick there, provide a location where the material could be hosted for educating Java champions, Java leadership, and the community. So that would be kind of that zone that we would be, you know, there's like, we want to, in this group, we probably want to have the place set up, have some documentation already started, you know, seeded with material, and then have the community hop in. You know, they could see the channels there, but now we're like, hey, come on in. We have a process that can allow you to come in and submit, and these types of things, and have a cadence that can be managed for that group. We also have the Java focused AI group, where this is from Emily Zhang and Prateek Patel, where what they wanted to be able to do is to have a group that focuses on best practice guidelines for tooling for AI. And that was one of them. The other was the, by Keita Mann, was to go ahead and have a group of folks that says, look, OK, how do you prep to get into an AI conference or talk? Is there material that we have that we can share with other people that can go and maybe it's We, you know, it was European based where these this talk was we want to give it in the US. Okay, so can somebody, you know, here's material to somebody when you present this in the United States. And so the thing is, is that the avenue for getting involved is for people to jump into one of these focus groups, and there'll be other focus groups that can be created. We just need for the focus groups to get started. And so and have the kickoff meetings and have leadership in it so that they can get started. I think was the other thing I wanted to cover as well is like, okay, we have these focus groups, we have people involved. Do we want to go ahead and start kicking off meetings? And I try to say, okay, how do we set up times to do that? So that was one of the other items to talk about. And then the other thing I want to talk about is communications. Since we are increasing the size of the net, Slack will not work because we are now, or at least what we have now will not work because it's a Java champion only. And so we probably need to create a new organization for Slack so people have a way to communicate in. So we probably want to do that. The groups in that new organization so that it has that ability to include our first set of people to come in? And is there another place that we want to use? Right now, we're also using the group to be the method of communicating. Is there another way we want to be able to do that? Like I said, the groups need facilitators for each group. And we need to scramble group meetings. So I'm going to roll back to here. I'm sorry I jumped in and gave you a lot of material really fast there. But this is kind of where we're at with everything. So this meeting was to say, OK, first off, do we agree that we want to have everybody increase the net? And like you said, maybe not to everybody now, but to a curated set. The groups are kicked off, communication, how do we want to communicate, kick off, and then find the leadership for those groups. How does everybody feel about that?
+
+18:25 - Miroslav Wengner
+Yeah, to me, Glenn and Ari, it seems to me we should have a clear vision, right, that we can sell, actually. And in waiting to other people, other folks from outside, it may be certainly difficult to create such vision in a group. And we have, I think, great people here around the Java, from the Java community, that can create such kind of vision, even for study, how it would be the guidance and so on. And then we can do it outside. Because my experience is just mine. It would be very hard to control. And basically, it will go nowhere. And can kind of miss our right now goal, what we're trying to achieve, even in education.
+
+19:15 - Glenn Renfro
+Are you thinking, like, are you saying to keep it small? Don't include the community yet, keep it small, keep it focused. Yes. In IT only. Okay, that makes sense.
+
+19:27 - Miroslav Wengner
+It's my opinion, because it will be very difficult to follow anyone. Everyone comes with a different opinion. Of course, it's always is great, but it really makes difficult to crystallize the vision, even when how we communicate the outside. And I think all materials out there, what we can put together, like what kind of concept we have. Nice slide, Frank, by the way. Great. Yeah. So it will be certainly difficult to everything to manage, even in my head.
+
+20:02 - Glenn Renfro
+It's my opinion. I think it's good.
+
+20:06 - Miroslav Wengner
+It's perfectly valid.
+
+20:07 - Zoran Sevarac
+I like it. Yeah. Yeah. I would like to just to add, I agree with what Miro said. I think it would be great to expand, but before we expand, I think we need to have like a clear idea what we are expanding and what the entire group should do. So I think since we are more or less on the same page here let's realize what it is and then we can communicate it clearly so this is what we do and otherwise it will be very difficult to focus and come to that what this should actually do.
+
+20:50 - Miroslav Wengner
+Yeah, sorry, sorry.
+
+20:52 - Zoran Sevarac
+Also, I would like to ask you please can you add me to this second group that for AI for Java, for coding assistance, I would like to be part of that. I started playing with it.
+
+21:08 - Glenn Renfro
+And that's the other thing I want to say is that each of these groups is, you know, the goal of these groups, oops, I'm going to find it, there it is. Each of the groups, the goal is that, you know, what I was seeing is that we have like a Java AI overarching group, but it's really intent is to be at the house for each of the focus groups each of the focus groups manages itself because I don't know where they're going to go right now because each one is going to have you know if they said okay here's what we're declaring when the person who came up with it says this is what we're declaring this is what we're going to do and I'm like okay go because you know the education is going to go its direction the conference is going to go in this direction. And then the focus AI working group is going to go in this direction, and it's going to evolve. And I don't want it to be coming back to the main group and waiting for the whole group to come in. I think it should go in their own direction and report back to the main group through the main group channels. This is what we're discussing. This is what we're looking at. Come in, take a look at here. And then they report out what they are producing and what they're doing. Because right now, I think as Frank is saying, AI is this multi, it's a very large umbrella. It's a very large tent. And each one of the shows in this large tent are going their own unique direction. And so again, argue with me. Come back. Talk to me. You know, I'm just, again, I'm not leading this as much as I'm coordinating it. So understand that's my goal here is just to coordinate.
+
+23:04 - NYJavaSIG
+Let me add a few things. So let's take a step back. What is the charter of the entire initiative? Do we have a sentence that says here is the charter of the entire initiative because that that should guide us, right?
+
+23:22 - Glenn Renfro
+I haven't seen a slide yet.
+
+23:25 - NYJavaSIG
+I haven't seen a slide that says, like, here is the goals of the entire initiative. And that's the first thing you do, right?
+
+23:36 - Unidentified Speaker
+Any startup company, that's the first thing, the elevator pitch.
+
+23:40 - NYJavaSIG
+My guess was just to disseminate information.
+
+23:43 - Miroslav Wengner
+And if it's just to disseminate information, then that changes a lot the deliverables and who joins who doesn't join right that's oh but we need to agree on what is the elevator pitch okay I won't argue uh go for it that's basically it frank right have a clear vision elevator pitch that's it and the the reason for not expanding right now is we have at least a group of people we have We have a similar communication language, kind of similar background right now. It makes everything easier. When we invite people from outside, there will be different approaches. Because I think we are right now a group of people, we have something at least in common. So this makes communication easier and also to crystallize.
+
+24:36 - NYJavaSIG
+So I disagree. I don't think we have anything in common right now. What is the charter? So we can agree to the charter.
+
+24:44 - Miroslav Wengner
+Java. Right?
+
+24:44 - NYJavaSIG
+No, no, no, no. Initiative here. What is the purpose of the initiative? Right. And we have to agree on that. Once we do that, then we can go forward.
+
+24:54 - Glenn Renfro
+Okay, so I'll tell you what, here's what I'm... Go ahead, Mary.
+
+24:58 - Chicago Java Users Group
+Oh, no, I'm sorry. I was just gonna say, I agree with what Frank was talking about. We do need to have some vision, or at least like some thing we pivot to, like the main thing, more general, covering some things. But I think, right, from what My understanding is that, okay, so Java has got a kind of slower start than, say, Python in AI, but obviously Java has a lot of strength. So I think the goal is to bring, really promote Java in the AI space. That's the main thing. I think that covers a lot of ground. And then we have the different working groups too. Those are like branches to try to, or efforts to promote it through education, through some I focus tooling or assistance thing, and then also the outreach content, something like that, right? So they're just different venue of trying to promote that. Yeah, it is essentially, it's like that. And then I'm thinking too, is that based on my experience running a users group of volunteers, and I know Frank also is deeply experienced, and we have to have somebody who would have to commit core leader, commit to each group and leading and really driving things. And then we can invite, right? There are other people that we can invite too. I love the idea we should invite other people. And mostly maybe they can come in to execute this vision that we have. It's more for executing. Unless somebody comes in and wanting to take charge, yeah, that would be great too. But this is again, volunteer. We need somebody really have to be driving it and not stopping, right? It's easy to say, oh, I have something else, and then I ran away for a couple of months, and then nothing happens. We need somebody to be consistently committing to driving things forward. It doesn't have to be every day, no, or every month, or at least maybe every quarter, coming together and drive something.
+
+26:59 - Unidentified Speaker
+Right.
+
+26:59 - NYJavaSIG
+I think, Mary, what you said, I think the AI agent that's recording this, we can take what you said and make that our charter, right? So, you know, promoting Java for AI applications, right? Promoting Java for AI in general. So I think that would be a good elevator pitch for us. And I think the thing about inviting other people, I'm all for inviting other people, but we have to say, like, you have to agree to a time commitment. There's like, you have to agree to putting five hours, 10, whatever, if you're a leader, you have to commit to 10 hours, a week, or if you're just going to be a contributor to the discussions, that's five hours a week. If you can't commit, you can't be in the group. You can't participate. Exactly. You got to pay to play. Yeah, I agree.
+
+27:48 - Chicago Java Users Group
+Yeah. It doesn't have to be a fancy thing, but some... No, no, no, not at all.
+
+27:54 - NYJavaSIG
+No, yeah, you're right. It doesn't have to be fancy.
+
+27:57 - Chicago Java Users Group
+Just commit. Yeah, that's the hard thing. No, I agree. That's very hard.
+
+28:01 - Miroslav Wengner
+Yeah. That's very nice. Nicely said. Thank you.
+
+28:04 - Glenn Renfro
+OK, so what I'm hearing from the group here is like, let's not worry about starting the small groups. Let's go back to the main group. And so somebody comes up with a charter and then shares that with a group. And then we actually work on a charter And from that charter, we say, OK, do we all agree with this? This is what the overall arching goal is. And then from that overall goal, then we decide, I mean, I'm trying to glean this out. Do we want to then talk about the smaller groups, or do we just wait to see where the charter goes?
+
+28:56 - NYJavaSIG
+Well, no, I think we say, here's a charter, here's the delivery picture for the entire initiative. And then each one of our subgroups, they're also, they have to abide by that charter, but then they are specifically focused on education, or supposed to be focused on code tools, or next code tools, but software development tools in general, right? So there's a different focus for each, obviously, hence the term focus group. But there's a certain concentration, right?
+
+29:27 - Unidentified Speaker
+Yes.
+
+29:28 - Glenn Renfro
+Are we, so do we want to go ahead and, looking at time, do we, I mean, do we want to go ahead and start writing a charter out now?
+
+29:40 - Glenn Renfro
+Or using the AI?
+
+29:42 - NYJavaSIG
+Yeah, yeah, I think the AI will generate something that we can kind of tweak.
+
+29:48 - Chicago Java Users Group
+Tweak all of, yeah, even everybody's contributing, right? We can tweak that. Yeah. OK.
+
+29:54 - Unidentified Speaker
+Tweet.
+
+29:54 - Unidentified Speaker
+OK.
+
+29:55 - Glenn Renfro
+I missed that. Do we use AI to generate our first pass at a chart?
+
+30:00 - NYJavaSIG
+No, no, no. We'll take a look at what it generates, and then we'll tweak it so we have a feedback.
+
+30:07 - Glenn Renfro
+Oh, OK. I thought you said tweet it. And I went, I don't want to tweet it yet. Tweak it, yes. Tweet it, no. All right. So here we go. So Mary, can you repeat what you said? What I did have here.
+
+30:22 - NYJavaSIG
+Well, actually, so Glenn, don't we have a recording? This would be a recorder, right? Yeah, you have an AI companion.
+
+30:30 - Glenn Renfro
+I have to wait till it's done. So what I can do is the following. Let's go back. Let's go to the bottom down here, and we'll do my ye olde note-taking here so everybody can see what I'm taking notes on. They're like, yes, no, yes, no, maybe.
+
+30:50 - NYJavaSIG
+How about you ask everyone here, what do you think the charter should be? And then we'll coalesce that into what it should be.
+
+31:02 - Unidentified Speaker
+Okay.
+
+31:02 - Glenn Renfro
+And in this case, we're saying that the main elevator pitch, again, we can look at what you said exactly, but along this way was, Thank you. Something like that.
+
+31:43 - NYJavaSIG
+Yeah, promote Java as a tool for AI.
+
+31:47 - Chicago Java Users Group
+Yeah. Ooh, yeah. Yeah. Something like that.
+
+31:50 - Unidentified Speaker
+Yeah, something, yeah.
+
+31:52 - Glenn Renfro
+And so are you sharing your screen? Do y'all not see my screen?
+
+31:58 - Paul Webber
+I can see you.
+
+32:00 - Unidentified Speaker
+I found it.
+
+32:01 - Glenn Renfro
+I'm sorry. OK, no worries.
+
+32:04 - Paul Webber
+I just put a button up there.
+
+32:07 - Glenn Renfro
+And no worries, because I I mean, you could have been staring at my fishing map for next week. And that's probably more entertaining than what I have. So we do have this right here. So we have that. So we have a charter. This is, if you will, let's put it this way, OK? This really becomes the mission statement.
+
+32:32 - NYJavaSIG
+I would just say promote Java for AI. It's more more general.
+
+32:39 - Chicago Java Users Group
+Well, true.
+
+32:41 - Unidentified Speaker
+Yeah. Right.
+
+32:42 - NYJavaSIG
+Promoting Java for Java.
+
+32:45 - Chicago Java Users Group
+All right.
+
+32:47 - NYJavaSIG
+Yeah, that's a good one, Paul.
+
+32:51 - Unidentified Speaker
+Paul put a good one in the chat.
+
+32:57 - Glenn Renfro
+Okay.
+
+32:58 - Unidentified Speaker
+Get a chat.
+
+33:00 - Glenn Renfro
+There you go. See, this is my best type of coding right here.
+
+33:08 - NYJavaSIG
+We're vibe slide generating. That's right.
+
+33:12 - Paul Webber
+Exactly.
+
+33:13 - Paul Webber
+That's right, yes. Where's your vibe copilot? How many tissue computers in the room?
+
+33:24 - Unidentified Speaker
+Yeah.
+
+33:25 - Glenn Renfro
+So what we have here is to strengthen the Java community, providing an environment where our members can share their knowledge, discuss advances in related technologies, and promote the use of Java AI in their workplace. There's no such thing as one. That was one of the things. Is there a Java AI, use of Java, use of Java and writing for AI. Yeah, for AI. That's better.
+
+33:57 - Chicago Java Users Group
+And then it doesn't have to be workplace, right? It can be anything. Right.
+
+34:04 - Miroslav Wengner
+I may have one comment, if I can.
+
+34:08 - Miroslav Wengner
+Please. I think the new version of Java makes it very significantly easier to create the mappers for machine learning. So don't, shouldn't we, like, nah. Like I advocate the new features and so on because it's like a new Java version or future Java version or something like that into because this is these features aren't required for the AI just for connection I mean that's that's my thoughts here but it should not be part of the elevator pitch because it makes also people to migrate to Java to break I think that's an important thing, but I think that's a focus group thing, right?
+
+34:55 - NYJavaSIG
+Java education, that's not the sort of like the higher level initiative, right? I mean, obviously we want to promote the newer features of Java, but I think that would be the Java and education subgroup or something like that.
+
+35:11 - Miroslav Wengner
+Yeah, I definitely frankly agree on this, but it shouldn't be like promote the future of Java. The current, I don't know how to formulate it. It's something in my head, but I agree. Just promote Java. Yes, that's true.
+
+35:30 - NYJavaSIG
+But just a new one.
+
+35:32 - Glenn Renfro
+In this case, this shows my inexperience to writing Charter. Do we want to go ahead and say, here are the commits Here's the structure. Is that beyond the charter? Yeah, I think so.
+
+35:48 - Daniel Oh
+OK, so I think this chatter could be of course the mission statement, but also it should be adding like a deliverable. So we're going to create something so deliverable. Also some kind of definition of a scope like a in scope out of scope. So we're not going to touch on this out of scope at all because people expect too much sometimes so.
+
+36:13 - Glenn Renfro
+there is a general like a cheddar includes mission believable like some skull yeah totally agree okay so and what I'm doing is let me see let me go just right now what I'm doing is just kind of putting this down saying uh and just drop that So we're saying the chart should contain deliverables of the group, definition of scope of the group. Do we want to say structure of the group? Like it's got, there's no main, you know, it's got, well, it has a general, it's really the focus groups that do the work. Is that what, you know, do we want to talk about that? Like structure in the group.
+
+37:06 - Daniel Oh
+Yeah, I think that that's good idea. I mean, so we could define like a well multi working group under this like initiative as well, right?
+
+37:17 - Glenn Renfro
+I'm going to say something nasty. Do we need to talk about how the leadership is set up?
+
+37:24 - Daniel Oh
+Yeah, I think it's more like a like a coordinator, maybe not leadership, but some people actually little bit mandatory job to during the group meeting and coordinated. Because sometimes we have not enough people join the call. So that's maybe most of the challenge for maintaining multi-groups in one initiative. And some people only focus on like a conference working group, for example, and the other group, I'm not interested. And then after a couple of months, Karen's call, hey, we don't have many people in this group. We don't have any more agenda and we don't have any more human power to create some deliverables.
+
+38:12 - Glenn Renfro
+So I have discussion, discuss, let's say discuss.
+
+38:17 - NYJavaSIG
+Responsibilities of the coordinators of facilities. Yeah, you got it.
+
+38:23 - Glenn Renfro
+And then the responsibilities of the, okay, we have that. Okay, what else should the charter contain?
+
+38:38 - NYJavaSIG
+I guess time commitment.
+
+38:41 - Glenn Renfro
+Okay.
+
+38:42 - Glenn Renfro
+And not to, I mean, and again, this is, you got skin in the game. And I mean, part of that has been my discovery. It's like what with what we've been doing here lately is like, you know, when you're just, you know, just what I've been doing, it takes time. He's like, you know, okay, every Saturday or Sunday afternoon, it's like, okay, you know, make sure that you know, I've got people added, people are notified people who are missed get added, you know, send out these documents, it takes time. And, you know, if you don't want to do it, that's okay. But you'll still get value from what the others produce, but you still, to do it, you just got to set up a time during the week to do it. And that's the reason why I was like, oh, Glenn has been quiet for a couple of days. Well, I was going to do it Wednesday night and Saturday or Sunday afternoon. You know, so, you know, that's my times when I go work on it. Right. So, um, and that's, and I think that's, you know, what we're, asking people to contribute back to it. So we have that. So what I can do, we'll go back into this, is I can AI this up a little bit, tweak it, and then share a document to the group, and then say, suggest a way. Edit a way. That sounds good. Yeah, that sounds good. Because in that way, and like I say, I'll gin it up and I'll go clean it up to what I understand what we're going to do. And then we really work on it together for like a week and then come back and revisit and then say, I don't think this is something that we need necessarily vote on. It's like, look, contribute, agree, let's all discuss. And then again, right now, I don't want to have a very serious structure because I think everybody's in the same boat as me. We want coordinators facilitators. We don't want to leadership. We don't want to have to have a vote. We don't want to have. It's like no. Yeah. Yeah.
+
+40:54 - Daniel Oh
+One question. Yeah, just one question. So once we have, you know, content for this chatter, and then what do you think about publishing this kind of stuff in some air, like a public, like a git repo or something like that?
+
+41:09 - Glenn Renfro
+Oh, you mean like, oh, like, like what produce in these discussions?
+
+41:14 - Daniel Oh
+I mean, after we have a good enough content, like so after we finish finalizing some documentation for this channel, and then probably we need to publish some air and everybody can access that. Could be only JC or could be like any other leadership. So rather than like a Google Docs, maybe some out there. Yeah, right.
+
+41:37 - Glenn Renfro
+So just to give you a heads up. You'll find I'll reshare it so that everybody has it I have a shared drive for our group and I'll read I'll make sure I can go read it But you'll see where is this is all our meeting notes dating back from March 26th And all our all our discussions as well as any materials that we have produced So far. Yeah.
+
+42:07 - Daniel Oh
+Yeah, I think so Yeah, currently this is really good.
+
+42:11 - Glenn Renfro
+I mean, so when it's just a start, just a start. Yeah, just idea is, you know, and you're saying that when we produce this material that it's just a it's a public GitHub repo.
+
+42:24 - Daniel Oh
+Yeah, yeah, it's because once we set it up, all like each group and then probably they have a more like any group activity or some kind of just like like our contributed to the code snippet of the stuff maintained by some out there. Everybody can actually create a pull request pretty much a formula way by Java developers. So yeah, not right now, but yeah, we probably some time to think about that.
+
+42:54 - Chicago Java Users Group
+And I think maybe eventually, right through, we can also be promoted through the BlueJ platform as well, right? Something like that, I think. Yeah, so.
+
+43:06 - Glenn Renfro
+And I think the the that was kind of the goal that you know, like the Fuji really comes to like there's actually two different setups here like the Fuji really does come in right for the education group, right? Yeah, these are the guys. These are the folks that will be in again. You notice I even put down here you anybody. It's this is this is not a complete list of the people in the working group. And that's one reason I wanted to have like the Slack channels, right? For each of the groups and the general, because it's like, if you're interested, join that channel. And you're now part of that group. But I wish he watched along with that with what the time commitment originally, I said, well, it doesn't have to be this, but I'm starting to lean back to like, what, said it's like you really need to you really need to know that if you want to be a part yeah you gotta be willing to do this you know it's like once we get this thing set up I see where really the work is going to be done by the focus groups and that's where your commit time is really going to be but then like you said like once I think it was it was it um I'm trying to remember who who said it was like you know uh but what we want to do is add like once a quarter have a general meeting, right? But each focus group focuses on their commitment, their contribution, but then they can report what they've been working on to the whole group. And even propose, say, can we create a yet another group? Can we do that? Like there's another group that goes to, I'm going to say it, please don't hit me. But like there's an MCP group, right? But let's say we're like, yeah.
+
+44:58 - Glenn Renfro
+Is that group secure?
+
+45:00 - NYJavaSIG
+Is that group secure, Glenn?
+
+45:02 - Glenn Renfro
+No, not yet. I don't think so. I think we'll have to have a secure socket for it. But again, it could be that, right? It could be that when we talk about like a Gentic, there's a group that wants to focus on a Gentic solutioning. It could be that. And that might, I mean, right now we're kind of putting, lumping that into more of the education side, but there might be a focus group that wants to do more like what Emily is wanting to do with the Java AI group there is to say, we want to provide good standards for this, for Java. Right. So this part of that quarterly meeting is like, do we want to spin up another group on this and then say, go for it.
+
+45:50 - Unidentified Speaker
+Right.
+
+45:51 - Glenn Renfro
+So. All right, so let's go back to the charter. What else would y'all like in the charter? Also checking our time there.
+
+46:00 - Chicago Java Users Group
+That's good.
+
+46:01 - Daniel Oh
+Yeah, I think so. We have a good amount of points here. OK.
+
+46:05 - Glenn Renfro
+So my goal will be tomorrow night, I will go ahead and try to organize these into an AI document and get that pushed out so that we have something to kick off with. And then that way for the people who are coming in Thursday meeting should have something to at least look at. And again, I'll use this time just to reintroduce the focus groups to the Thursday group that's meeting, have them add their two cents worth, and maybe even use their group as a first kind of global, we'll sit down and walk through the document that was produced Wednesday night by me, or I should say, by either Claude or ChatGPT or MrAll, whoever wins the fight there. I might even have like an LLM as a judge. And I'm like, do you think what was produced here is a really good charter? And then have it review it. Hey, folks, you don't have to review it. I've had Claude and Mistral already review it.
+
+47:12 - Unidentified Speaker
+They say it's good.
+
+47:14 - Glenn Renfro
+All right. Is there anything else?
+
+47:17 - Daniel Oh
+I think a Hey Glenn, I think that you have an option to this meeting Thursday afternoon sometime.
+
+47:25 - Glenn Renfro
+Yes.
+
+47:25 - Daniel Oh
+So I think that you probably get started from creating new build documentation using AI stuff after the second meeting. Maybe they have a second opinion. Yeah.
+
+47:36 - Glenn Renfro
+I mean, again, that's what the whole thing is. After we have these two sessions, I'll go ahead and schedule up two more sessions. Yeah. Option one, option two, the reason I'm doing it twice is I know some people say, I can't make it this day. I can't make it this day. And I'm really focusing, and this is not against anybody in APAC, but it's more of, I was looking at most of our membership really crosses from CET to PST. And so that's the reason why you see it being about 12 o'clock Eastern, which is about six o'clock. And again, I messed up. My calendar time was off. In six o'clock CET, but if we do have a strong APAC presence that we're skipping, I'll even do a third. I don't want to leave anybody out, but right now I'm just focusing on these two until somebody tells me otherwise.
+
+48:31 - Chicago Java Users Group
+And again, Mary, thank you for coming. She is in Hong Kong.
+
+48:36 - Chicago Java Users Group
+Yeah, only today.
+
+48:37 - Glenn Renfro
+I went to India last week.
+
+48:39 - Chicago Java Users Group
+Yeah, I know, but I'm going home on Saturday. So I'll be back.
+
+48:45 - Unidentified Speaker
+So yeah.
+
+48:46 - Unidentified Speaker
+So all right.
+
+48:47 - Glenn Renfro
+Is there anything else anybody wants to bring up?
+
+48:52 - Zoran Sevarac
+So I would like to mention just one more thing. Just before this meeting, I had this meeting with the working group within JCPEC. We started also AI working group with the idea that it should focus on the development development or AI related development within the job at OpenJDK. That means all the project. I think Heather put it when we were discussing how to start that idea with the AI that it should be within EC. It should be discussed only things related to projects within OpenJDK which are related to AI. So this includes Panama Vector API and Also, there's this thing called HET, heterogeneous accelerated... And one of the things that we're just starting... I have a question, Zoran.
+
+49:51 - Miroslav Wengner
+Would it make sense to join efforts? Yeah, that was the question.
+
+49:57 - Glenn Renfro
+Where's the cross-section between these two groups? Can you please repeat?
+
+50:02 - Zoran Sevarac
+I think the line was breaking at the moment. I didn't get the question.
+
+50:09 - Glenn Renfro
+What is the cross-section of these two groups?
+
+50:13 - Zoran Sevarac
+Should they be merged or is there a line of communication that needs to be created? Well, I can inform you what has been done there. Excellent. The thing is, that group is focused only on development of AI-related OpenJDK projects. Correct. That was the idea is to create awareness and promote the result is a great chance for communication and there will be some specific activity creating like slides that contain information about those projects and explain to people how they are relevant to have because it's probably not obvious to people from the ecosystem of how is Panama or a vector API or Babylon relevant. You know especially because those projects that's something that i've been talking about it takes a long they have a long development cycle and release and adoption and it's not only to say enough to say yes we have panama but people don't have any idea don't have a clue uh what does panama and communicating right like a sequel have with a with a ai you know because and I think it would be good that maybe this group would to put more focus on ecosystem and applications because of course in the context of the Java platform itself and just figure out how it would be best to coordinate and reuse what's being done in both groups along the way.
+
+51:52 - NYJavaSIG
+I think they're both obviously both similar. It's nice to hear that that's going on. I think that by having our group point to what's happening in the EC group, I think that would be the way we would go forward, right?
+
+52:10 - Miroslav Wengner
+I have a bad internet, so I wanted to propose to join this effort, whether we should not invade those members to us, to this group, to this discussion, because for me it seems very similar and they're very overlapping and we may benefit, both sides could benefit.
+
+52:29 - NYJavaSIG
+So the EC has a has their own charter. We have our charter, they have their charter. They're similar, but they're different. So we would point to them. If there's stuff that's happening with the OpenJDK and some AI things, we would clearly point to that stuff. Here's some information for all you Java developers. Follow what they're doing over there.
+
+52:50 - Glenn Renfro
+That's our job. Right. I mean, it goes back to what Zoran was even saying. A lot of people don't know what Project Panama is. Why is it important to AI? Well, it's, you know, okay, well, that's how we did that cross section over to Python strength with it. You know, it can call core C lives and whatnot. So it's important that we have that information that we provide saying, here's why Panama is important. There is the Panama project. Here's their materials that they've already produced. And here's what the code that they have. Please play with it, work with it, give them feedback on it. Of thing. And we encourage our members, you know, the people reading our material to look over here as a kind of a guide in the space, right, for whatever projects is applicable.
+
+53:42 - Unidentified Speaker
+Right, that's our job.
+
+53:44 - Glenn Renfro
+So, all right folks, I'll tell you what, I'm going to give you all seven minutes of your time back. I will produce the first Again, it will be, I'll make sure that it is heavily enhanced with many adjectives from either our AI generated response, but I'll actually go in and generate a couple and then kind of find the best and then merge and then, you know, fix it for ourselves and then take it from there. Sounds great. And then I'll let y'all know and y'all pick it from there. All right. Y'all have a wonderful day. Take care. Thank you.
+
+54:28 - Unidentified Speaker
+Take care.
+
+54:29 - Chicago Java Users Group
+Thank you.

@@ -1,0 +1,449 @@
+0:00 - Glenn Renfro
+We'll see. Hey, finally, our recording started. Look at there. It's like, oh, yeah.
+
+0:09 - Unidentified Speaker
+So we'll just wait for all the everybody to show up.
+
+0:17 - Vlad
+And that tool, read.io, AI, or read.ai, or something like that, it has a trial version and afterwards, we cannot see those recordings anymore or?
+
+0:33 - Glenn Renfro
+I'm so far is it I should be I got a subscription for it. So they should be around as long as I pay the subscription.
+
+0:44 - Vlad
+Okay, so we can still access the recordings afterwards.
+
+0:48 - Glenn Renfro
+Absolutely.
+
+0:49 - Glenn Renfro
+Thank you for that.
+
+0:51 - Glenn Renfro
+No worries. I'm trying to make sure we capture all the information There we go. And one of the goals is, I'm trying to see what it takes to kind of get us kicked off here to kind of get our small, our focus group started. But I guess I agreed with Frank when he said, you know, really want to try to have a charter. And I was like, okay, let's pause this, let's work on a charter. Um, and then it's like, I mean, the goal for today is like, let's walk through it. If there's, see if there's any concerns and then if there's no, um, you know, large scale concerns, I may just pull out a vote and saying, uh, to our group and saying, you know, for those who never view the charter, if you agree with it, you know, just say, you know, I agree to a plus one, but if you don't like it, put a minus one. We might just do a straight up vote or something, or if we have more than three of objections or whatever, you know, it's like, okay, we'll take it forward. And then if everybody agrees to it, the next week, I can see about us say, okay, let's kick off our small groups. So those fingers crossed. Okay. The only thing I don't like about Read AI is it evaluates you on how well you presented. And so far, I'm not doing very well.
+
+2:32 - Vlad
+And I'm like, wait a minute.
+
+2:34 - Glenn Renfro
+You're being a little judgmental here, Read AI.
+
+2:38 - Unidentified Speaker
+Hello, all.
+
+2:39 - Unidentified Speaker
+Thank you for joining.
+
+2:41 - Unidentified Speaker
+Hello.
+
+2:41 - Glenn Renfro
+Hello. And we're just waiting for about three or four more minutes for folks to hop on. Kito, where are you at this fine day?
+
+2:59 - Kito Mann
+I'm home. I'm in Virginia.
+
+3:02 - Kito Mann
+But I'm actually at a coffee shop.
+
+3:05 - Glenn Renfro
+I was just curious what continent and location you're at. Oh, yes, yes.
+
+3:11 - Kito Mann
+This boring old Virginia.
+
+3:16 - Glenn Renfro
+Not boring at all. Quite exciting, quite exciting.
+
+3:21 - prpatel
+Hey Prateek, where are you at this fine day?
+
+3:26 - Unidentified Speaker
+Tampa, Florida.
+
+3:27 - prpatel
+Yes, sir.
+
+3:28 - Mary Grygleski
+Nice and hot here. Nice and hot, yeah, I guess.
+
+3:34 - prpatel
+Humid. 92 degrees.
+
+3:35 - Catalin Tudose
+92 already?
+
+3:37 - Glenn Renfro
+Oh, yeah.
+
+3:38 - prpatel
+For the Europeans, that's 33 Celsius.
+
+3:41 - Glenn Renfro
+um 33 full summer oh it doesn't it's not summer here yet no it's not it will get hotter yeah well it doesn't stop start cooling down to like october but it just keeps getting hotter all the way through August. Plateaus in late August, early September, then starts cooling off and becomes quite nice around November.
+
+4:24 - Kito Mann
+And where are you located?
+
+4:27 - Unidentified Speaker
+I'm in Atlanta, Georgia.
+
+4:29 - Unidentified Speaker
+Georgia.
+
+4:30 - Vlad
+Oh yeah, probably it gets hotter than where we're located in Europe?
+
+4:37 - Glenn Renfro
+Oh, yes. We're, gosh, I would say 33 to 35 is usually the peak Atlanta temperatures. Celsius or? Oh, no, no, definitely not. That's Celsius, yes, Celsius, definitely Celsius. 92 to 96 Fahrenheit here.
+
+5:05 - Vlad
+Well, that's not very different. That's not very different than the, I would say, typical Romanian summer. Oh, yeah.
+
+5:13 - Glenn Renfro
+Okay. Yes.
+
+5:14 - Vlad
+It's not, it's not that, like we don't, it gets quite hot in the summer and then it used to get cold in the winter, but not anymore. We call that climate change.
+
+5:29 - Glenn Renfro
+Yes.
+
+5:30 - Vlad
+Nowadays, it's, we used to have have snow. We didn't have for two or three years. The previous winters were very dry.
+
+5:40 - ags
+We need to do more AI, then it will get even hotter.
+
+5:45 - Vlad
+Yeah, we will burn the NVIDIAs. They actually did a study in Georgia.
+
+5:51 - Glenn Renfro
+They're trying to open up a lot of server farms here. And their concern now is, do we have enough water to keep them cool and have enough water for the citizenry and agriculture. So it's really going to take questions on that.
+
+6:11 - Vlad
+Yes, it's going to impact if you're using the water to cool down the data centers, then you're going to deprive others from using it for other purposes, probably which are more important than the data centers, like agriculture. We hope!
+
+6:30 - Glenn Renfro
+All right, so I think we have a quorum here, so I'm going to kick it off. And this, again, if y'all have already kind of seen how I run stuff, let me just go for desktop here. I really do keep it open. This is really a community event, so I really am a note taker. I might do a little shepherding, but really the goals are really how the group wants to go. Our agenda that I did set up for today is capture the concerns and notes on the charter. Is there something that's missing? Something that concerns you? And is there something that would you would see would prevent us from moving forward? The next thing we want to discuss is determine how to vote to accept the charter. Do we want to have a style similar to Java where we just send out an email to the group and have people do a plus one. And if there's more than like one or three, let's say three negative votes, we say it's carried and we move forward. And then a discussion on what's next. Where do we want to go from here? If we go ahead and say, yes, the charter is looking pretty good, I think we can put it up for a vote. What do we want to do next? And we can discuss that. When we get there. With that being said, we did have some people comment on the document. Yes, or I should say Sunday, I did walk through and close up and accept some of the changes and respond to some of the changes. And it seems like there's been a couple more put in. Maybe not. Pretty much those are just notes. But I'll share a link to the group just in case you don't have a link to the doc. There you go. If you don't have access, please let me know. And with the charter, there is the mission statement. And then we have our scope. The scope has defined a little bit by Daniel, as well as Frank. So if y'all want to take a look at that. And I think the significant change that was here from what was originally there was AI ethics, safety and governance within the Java ecosystem was added per request. Deliverables, I think the notable change was in illuminate the virtual meetings that we would have for the entire group. That is where each of the subgroups will have a chance to report. And we all take a guess or a discussion of where the small group, or I should say the focus groups are going. And not only where we're going, but do we want to add some? Do we need to remove some of the focus groups? And have a chance to report. And then, I'm trying to see where, let me refresh here real quick. I just want to catch refresh, something's missing here. Yep. There was something missing. So the other thing that we wanted to be able to do also was to have a GitHub repository where we would produce our notes, materials that would be available through the GitHub repository. We would open up over the GitHub repo, make sure that again, notes that we've taken to quarterly meetings, decisions, charter, all that goes here. Also that we would provide a write-up following each of the periodic meetings. That was one of the things that we did bring up. The structure is as follows. I have it right now. As the JC, actually it's Java AI Working Group. And we're just calling it JWAG for now because we can't really use the word Java publicly. We can say Java Champion, we can still use J. Right now this is just a placeholder for Java AI Working Group until we come up with a better name. It's also, we decided to increase the scope as we discussed before where it's going to be open to Java champions upon acceptance of a Java champion. Also, the invited members with an interest in AI, so this is for people that we can have an invitation where a group member can request an invitation to be sent to someone that is not a Java champion. This is to increase our breadth to people who are actually in the field working on it and have expertise in it that are not necessarily Java champions but are could be very important facilitators or contributors to one or more of the focus groups. We do have roles and responsibilities for facilitators. Schedule and facilitate meetings like what we're doing today, ensure documentation goals are maintained, guide focus group formation, act as a liaison to the broader Java community and events, We did also, I did, there was a couple additions here, or actually one, and that was that we need more than just one facilitator. We needed probably about three. And so we're looking for two more facilitators if we agree to this, to the charter. The member roles are participate discussions and meetings, contribute deliverables, join one or more focus groups and support their goals, respect collaborative and inclusive of nature of a group. This was a big one. This was one that was commented on quite a bit and kind of went down through the comments to just go ahead and specify that's five hour effort per month because it was five hours per week and the number of contributors said that was too high. And so we said how about five hours a month and seemed we had buy-in for that. Once the charters related groups are finalized. Again, we'll pop these up to GitHub repository along with any other materials that we see fit, including meeting notes, et cetera.
+
+13:11 - prpatel
+Meeting minutes will also go up on that GitHub repo. Yeah. OK, sounds good.
+
+13:17 - Glenn Renfro
+And our goal is just complete openness. And we can discuss whether that's going to be, it could be just a summary It could be just, you know, taking copy-paste notes we have from the recording that we have here and just put the transcript out there and the link. So was there any concerns or additions in here that we do see from the attendees? Thank you again for being here. Okay, man, y'all are, okay, one at a time, all right? I can't understand you all at once. Okay.
+
+13:56 - prpatel
+I think this all looks good. Glenn, thanks for the incredible work, as always, for putting this together and getting feedback. A couple of questions I had, if you scroll down a little bit, okay, so you're at scope now, so if you scroll down a little bit, deliverables, was it this section?
+
+14:17 - Unidentified Speaker
+Deliverables are here, right here.
+
+14:19 - prpatel
+Yeah, yeah, I gotcha. Yeah, so go back up to the deliverables. Now, the question I have, or maybe adjustment that we could make, I'm happy to make this, of course, is do we expect for the different sub-working groups to update the deliverables over time? Is that like kind of what we're thinking?
+
+14:46 - Glenn Renfro
+I would think so. I think it's, again, I think the repo would be, let's go ahead and specify that a little bit deeper here. Repository contributors are the members of the group. All right, that's one. There is, let's see, let me readjust that a little bit. Lynn, are they called focus groups or working groups?
+
+15:48 - Unidentified Speaker
+Focus groups.
+
+15:49 - Kito Mann
+Am I using working groups, too?
+
+15:53 - Glenn Renfro
+I think I was looking at a comment. I don't really have an opinion.
+
+16:02 - Kito Mann
+It was just my point. Yeah, it does.
+
+16:06 - Glenn Renfro
+We can call it whatever we want. Prefer a focus group or a working group? A working group is fine.
+
+16:21 - Unidentified Speaker
+Okay.
+
+16:22 - Unidentified Speaker
+Yeah.
+
+16:23 - Unidentified Speaker
+There we go.
+
+16:25 - Unidentified Speaker
+And we'll go there.
+
+16:29 - Glenn Renfro
+I'll just go through the document Let me write that down, so.
+
+16:38 - Kito Mann
+Is it confusing, though, if we have Java AI working groups?
+
+16:46 - ags
+So what, subgroups?
+
+16:48 - prpatel
+Yeah, subgroups is good.
+
+16:51 - Glenn Renfro
+Even later, you have this topic-specific subgroups. OK. So it'd be like, again, subgroup. And then go back up to here and say. So I can build on their structure, yeah. Let's see. And let's move this out of the way real quick. OK. Nice. All right. And we'll work on and change that to focus group to subgroups. So I'll just say that I'll make mistakes, but we are doing a live demo here, and you know live demos always break. So I'm just letting you all know right up. All right, let's go back up to here. So we say focus groups, that's working groups. Sorry, I should have said subgroups. Add team meeting notes and other generals I have a repository. There is a section in here that each of the focus group, or sorry, each of the subgroups is responsible for creating their own charter. So I can assist with that as they are formed. Again, we have the three, which is education, conference, and then the other is tooling. I can assist with that. Again, most of this was Gen A-ed up. I won't lie. Basically, Frank, just use AI to start, and that's what I did, and I modified the hell out of it.
+
+18:31 - Unidentified Speaker
+Yep.
+
+18:31 - prpatel
+All right. Other concerns, questions? Nope. I think this looks good. Under the structure part, for the second bullet, this is just a nitpick. Just put subgroups there. Yeah. And then under roles and responsibilities, I don't think we need to document this, but how do we do the, basically, how do we come up with the three facilitators that you have in the last bullet there? I assume this is purely on a volunteer basis, so there's no, like, I don't know, election or whatever. OK, got it.
+
+19:13 - Glenn Renfro
+Yeah, I mean, in this case, it's, for example, I whoops on the meeting last week. It ran up on me, I was not ready, I hadn't updated the document and I said, okay guys, I made a mistake. If you have other people there that can pick up, say, hey, it's again, it's just that gentle reminder that we can share the load a little bit, especially as people become active, especially in those work groups in like, you know, let's say person A is in work group, the education group, they can be the one that can also facilitate back up to the main audience or any information, right? Gotcha. Okay. Yep. Yeah. As, as also as facilitator, well, to contribute to us, making sure we share, you know, that was actually, came up with that when he's, um, all right.
+
+20:12 - prpatel
+Yeah, that's cool. Sound good. OK.
+
+20:15 - Glenn Renfro
+Well, since I don't hear anybody saying no, I will go ahead and put out a vote. Bonnie could probably do it this evening at the job. And I'll go ahead and send out a notification saying that it's ready for final acceptance. What I'm thinking is the next thing is next week. Go ahead and say we are formally launched with a Would y'all like to go ahead and schedule work? Let's go ahead and meet one more time next week where we actually go over and say OK, we're going to use these. Uh, you know we're going to create this slack organization. We are going to set up, you know the meetings for each of the focus subgroups. And have them at least kind of put an earmark down to actually get started. Because I know that early on before we did this, I did say, hey, OK, subgroups, get started. And everybody was like, OK, who's going to start it? So I think if we meet together and, again, go ahead and agree on what org do we want to set up our Slack under, OK, that's going to be one. It won't be under Java Champions. Owner's own, what do we want to call it?
+
+21:39 - prpatel
+Just real quick, while you're talking about it, I'm thinking about it. We could potentially use the Fuji Slack to do this, right? So Fuji has a Slack with the large active community. And if we don't want to create our own, we could just go create our own channel over there.
+
+21:58 - Glenn Renfro
+That's fine. Go ahead.
+
+22:00 - Kito Mann
+I had a comment about Slack in general. Yes, sir. And this may not be relevant if we do use free a but the slack kind of sucks the free stuff to date. They kill the history after like 30 days or something. Yeah, right. Yeah. I kind of think that if we are, unless we're using some paid slack that actually has history, we should maybe consider discord or Zulip or get or something else.
+
+22:29 - prpatel
+The keto did. Discord keeps history and is free. Is that correct?
+
+22:34 - Kito Mann
+I think so. Yes, I have.
+
+22:36 - Mary Grygleski
+Yes, I have Discord and Cjog has Discord. Yes, they keep history. So there's no restriction. OK.
+
+22:43 - prpatel
+I mean, I don't I personally don't mind using Discord. I'm on a bunch of Discords already. But I mean, do the people on this phone call have any objection to using Discord rather than Slack? Yes, if you have an objection, speak up now. Otherwise, we'll just put it forward and just roll with it, right?
+
+23:07 - Kito Mann
+Yeah.
+
+23:08 - Unidentified Speaker
+OK.
+
+23:08 - Unidentified Speaker
+All right.
+
+23:09 - Glenn Renfro
+So what I can do is just go ahead. I can look at how to create a Discord channel. You know what?
+
+23:18 - prpatel
+I'll take on that task. Put me down for that. I'll figure out how to get a URL and whatever kind of stuff. OK. And just so that I'm clear on this, the Discord for this is not open to everybody. It's open to basically JCs and people who are invited to join. Is that correct?
+
+23:42 - Glenn Renfro
+Absolutely, yes. I do have a... So basically, I've been maintaining a share. You can always go to the members here and see the members here, but I also have a spreadsheet that I maintain, that has all of the emails that are active on a group. And we can invite some external people we discussed about, but just in case I can say, okay, I'm looking forward to the invitation. Yes, and you can, and just what they'll do is they will come in and you will say, you know, When I'm locked in by the following provider emails, I will add them to this group. And then I turn around, add them to the spreadsheet. The spreadsheet just makes it easier for us to say, okay, I'm blasting out an invite, or I'm blasting out a very special content. So that's all this is really for, but it's also a great place to see stuff. All right, cool. And again, if you notice, of somebody in the community that is active AI and that would like to contribute to the education, to the conference group, or to tooling, or to something else, please feel free to invite them.
+
+25:09 - Unidentified Speaker
+Yep.
+
+25:09 - Glenn Renfro
+Yeah, because currently we're running about 90 people so far. Yep. OK, cool. Yep. All right. Thank you. Do you all mind going forward and just using the J-I, because I know we can't use the word Java. Yeah, of course. Yeah, yeah. So right now, I'm just calling it Java. Java. And it'll help me decide a better name.
+
+25:40 - Unidentified Speaker
+Nice.
+
+25:41 - Glenn Renfro
+If you call it Java, is it too far? Yeah, if you use the word Java, you're crossing over into the...
+
+25:51 - prpatel
+Oracle will get mad territory, yeah. Yes. So maybe we'll do Jaiwig. I'm just joking.
+
+25:58 - Unidentified Speaker
+How about Java Hairpiece?
+
+26:00 - Glenn Renfro
+I'll go with Java Hairpiece. That's right, Jaiwig.
+
+26:04 - prpatel
+It's like a toupee, but better.
+
+26:09 - Vlad
+Usually there are all sorts of frameworks. We are having the J in lowercase, like J, J and something like that. So we can, you can break the word. So then you can easily pronounce like, and you have a, you have a space between J and VG. So then it's JVG, the J working group, something like that. And we can reference is J Java AI, something like that.
+
+26:37 - Glenn Renfro
+In this case, it would be like J dash?
+
+26:41 - Vlad
+That would be just J.
+
+26:44 - Glenn Renfro
+Something like that, yes. We pronounce it J and that's it.
+
+26:49 - prpatel
+Okay. J-Walk. Okay. J-Walk. J-Walk is good.
+
+26:53 - Glenn Renfro
+It sounds like Ewok, so that's perfect.
+
+26:57 - prpatel
+Ewok.
+
+26:57 - prpatel
+Ewok, J-Walk.
+
+26:58 - Glenn Renfro
+You are J-Walk. You must.
+
+27:01 - Glenn Renfro
+Okay, great.
+
+27:02 - Glenn Renfro
+So that was the naming part. I think, was there anything else that we wanted to cover here?
+
+27:11 - prpatel
+I have an update for you real quick. So we talked a while back about hosting the JWAG content portal on Fuji. And we've started to move forward on that and have our development team working on crafting like a portal page. And then, of course, anyone and everyone, not just us, but starting with us, can have access to put up articles. And we'll figure out who will be the curators as we form the subgroups, I assume. But that'll be open to everybody. So we've started to design what that portal looks like, And it's super easy for people to become a contributor, et cetera, et cetera. So all that, I'm hoping. Will be ready by sometime mid to late next week. Excellent. Okay, excellent. And that actually fits in really well.
+
+28:09 - Glenn Renfro
+So would would it be okay if I go ahead and try to schedule another meeting for next Tuesday? Same time? Yep. And that way we have the you'll have a chance to take a look at the discord, we'll be able to announce the Fuji. Yep. And then also kick off the subgroups, and then we'll also have our results from the charter vote. Does that sound good? Yeah, that sounds good.
+
+28:37 - prpatel
+The one question that we had as we were internally on Fuji talking about this, you know, new AI, Java AI portal thing is what should the URL be? We were just thinking of like Fuji.io slash AI, but is there anything more creative that people can think of, or like a URL, buje.io.io slash AI. Yeah, that seems good. Yeah. Yeah, to keep it simple, right?
+
+29:06 - Mary Grygleski
+Yeah, it's okay. Okay.
+
+29:08 - prpatel
+And the other thing that you may want to put in the notes, Glenn, is I just pasted it into the chat room. We did a really successful webinar with Frank and Zoran. I saw that. Yeah, yeah. Yeah, we we had like 900 people sign up and 900 people sign up. And so. So yeah, exactly. Right. And we also had trying to find it right here. I'm sorry. I'm trying to find. Did you say where did you put the link at?
+
+29:43 - Glenn Renfro
+Oh, it's in the chat. I'm sorry.
+
+29:46 - Glenn Renfro
+There's no link here.
+
+29:47 - prpatel
+I just put in some copy. But I'm looking for the link right now. Hang on.
+
+29:53 - Glenn Renfro
+OK, gotcha.
+
+29:54 - prpatel
+But we were we were up to a very large number of views after the event. And of course, now that I'm trying to find that, I can't find it. You know, that would be right here. Oh, yeah. It's on YouTube. OK, here it is. Yeah. I'm pasting a link right now.
+
+30:13 - Unidentified Speaker
+So if you want to if you want to reference it, it.
+
+30:19 - prpatel
+I'm sorry, say that again.
+
+30:21 - Unidentified Speaker
+I don't know who was speaking on.
+
+30:24 - prpatel
+I think I lost. Oh. Mary, were you saying something? Well, I was trying to ask if it's on YouTube.
+
+30:32 - Kito Mann
+Yeah, it's on YouTube.
+
+30:33 - Mary Grygleski
+I just put the link in the chat.
+
+30:36 - prpatel
+I just put the link in the chat.
+
+30:40 - Mary Grygleski
+In the chat.
+
+30:41 - Vlad
+I can see the only thing that I see on the last thing is happy with this court.
+
+30:48 - Glenn Renfro
+No, no, it went to the Read.AI meeting notes.
+
+30:51 - prpatel
+Let me try that again. Sorry.
+
+30:54 - Vlad
+Yeah, send it to the group chat. Yep.
+
+30:57 - prpatel
+So I don't, I don't, I don't know how to use Zoom apparently. And so, and so for those who are interested, we are doing a webinar series on specifically Java and AI. We have like two already like in the planning works, but if you If you are interested in doing a webinar on the Fuji Java AI webinar series, sorry, it's a mouthful, but please email your channel. And I pasted the information in the chat here.
+
+31:31 - Vlad
+Okay. So, okay. Thank you.
+
+31:34 - Unidentified Speaker
+Yeah.
+
+31:34 - prpatel
+And then I just looked up the stats. We had 900 people sign up for that first webinar and 877 views on the webinar itself. So it's not amazing, but, you know, it's building.
+
+31:48 - Vlad
+So it's building and I'm going to share it as well. So hopefully you'll you'll get even more. Awesome. Yeah.
+
+31:54 - Vlad
+Looking forward to seeing it as well.
+
+31:56 - Unidentified Speaker
+So. Yeah.
+
+31:57 - Vlad
+So and that's something we'll put up, obviously, on the portal page.
+
+32:01 - prpatel
+You know, the next webinar is this and then we'll have the content. And what I want to do is I want to do the layout and put some content on there and then come back to you guys. And say, OK, what changes would you like, right? So I don't want to just start with a blank slate. I want to show you guys something. So this is what we've come up with. What are your suggestions for improvement?
+
+32:25 - Vlad
+And then we can take those suggestions and do an iteration or two around it.
+
+32:29 - Mary Grygleski
+OK? Excellent. And Glenn, that document that you posted here, I don't have access, but what is it about?
+
+32:34 - Glenn Renfro
+It's just the one I just posted is this one. Let me just share it to the world.
+
+32:39 - Mary Grygleski
+OK, no worries. I don't have access either.
+
+32:42 - Unidentified Speaker
+Yeah. Yeah, let me see.
+
+32:44 - Glenn Renfro
+Oh, yeah, just hold on. No wonder.
+
+32:47 - Glenn Renfro
+Yeah, let's see. I'll share it later, and I'll put it in our link, because I want to make sure I put everybody in our group in it. But I'll share this this evening, OK? Along with the other stuff. Let me write that down, too. Thank you. No, thank you for bringing it up.
+
+33:08 - Mary Grygleski
+Thank you for doing all the work.
+
+33:12 - Glenn Renfro
+Lots of work. No worries.
+
+33:15 - prpatel
+This is fun. It's better than filing TTS reports, right?
+
+33:20 - Unidentified Speaker
+Let's see.
+
+33:21 - Glenn Renfro
+Just trying to make sure. Glendon. Glendon. I know the harbor of cats, and I am a cat myself. All right. Cool beans. Is there anything else anybody would like to I will schedule for Tuesday at 12 o'clock Easter, which is, I think, 6 o'clock CT. And I'll be 9 a.m. For our Pacific folks as well. At the same time. Let's say the same time. Same time, yeah. Same time, same channel. Yeah, that works for us in Europe as well.
+
+33:57 - prpatel
+Yeah, it looks like Agnes is going to be at J Nation, so let's go.
+
+34:03 - ags
+There is many of us here. Don't worry. You can do that without me. I'll join the next one.
+
+34:09 - Unidentified Speaker
+That's why it's so big. All good. OK. Sounds good.
+
+34:12 - Glenn Renfro
+All right. Just catch the recording. And also, I'll send out notes. I'll even send out notes on this. So I won't listen to our lecture tonight. I'll be off in the corner tapping away at J-Joke. So you'll hear some people say, where's Len? That's where he's at. All right. All right. Folks, thank you all for attending. I appreciate you all so much. And we will see you all next week.
+
+34:32 - prpatel
+Thanks, Wayne. Great job. Thank you.
+
+34:34 - Vlad
+Thank you.
+
+34:34 - Catalin Tudose
+Bye bye. Bye bye.

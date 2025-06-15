@@ -1,0 +1,809 @@
+0:00 - Vlad Mihalcea
+Not here.
+
+0:03 - Glenn Renfro
+Why are y'all doing on this fine Wednesday?
+
+0:28 - Unidentified Speaker
+They're doing well.
+
+0:30 - Unidentified Speaker
+Excellent.
+
+0:31 - Unidentified Speaker
+Hello, everyone.
+
+0:33 - Unidentified Speaker
+Hello.
+
+0:33 - Unidentified Speaker
+Hello.
+
+0:34 - Glenn Renfro
+Oh, there we go.
+
+0:38 - Unidentified Speaker
+Just waiting.
+
+0:39 - Unidentified Speaker
+Everybody to pop in.
+
+0:43 - Unidentified Speaker
+And my cat here to lose its little mind.
+
+0:50 - Zoran Sevarac
+Hello, Zoran.
+
+0:52 - Unidentified Speaker
+Hi, hi, Kathleen.
+
+1:03 - Glenn Renfro
+Hello, Burke.
+
+1:04 - Unidentified Speaker
+Hey, how's it going?
+
+1:06 - Glenn Renfro
+Oh, I'm partying, boss. You know me.
+
+1:09 - burkhufnagel
+Always having fun.
+
+1:11 - Unidentified Speaker
+I know.
+
+1:12 - Glenn Renfro
+You're like, Glenn, really?
+
+1:14 - burkhufnagel
+You need to grow up a little bit. Yeah.
+
+1:18 - Glenn Renfro
+Just giving everybody the five minutes, so I'll kind of pop Do you have a haircut?
+
+1:42 - Unidentified Speaker
+You look different.
+
+1:49 - Mary Grygleski
+Who's that? Who is that asking this? Mary asking. I'm just looking at it.
+
+2:01 - Unidentified Speaker
+Why are you asking Mary?
+
+2:03 - Mary Grygleski
+No, because I was just looking at see who is on.
+
+2:08 - Mary Grygleski
+And then I said, Mario, and then my image of Mario had the long hair, right? So I'm like, oh, you surprised me. Did you miss the latest Yeah, I missed it.
+
+2:24 - Mary Grygleski
+Yeah, I was.
+
+2:25 - Mario Fusco
+Yeah. Probably you should see the recording of the haircut.
+
+2:30 - Mary Grygleski
+I did it on stage during the Devoxx keynote. Oh, you did?
+
+2:36 - Unidentified Speaker
+Okay.
+
+2:36 - Unidentified Speaker
+Any bet?
+
+2:37 - Mario Fusco
+Was there any bet? No, no, no, it was not a bet. It was just, you know, the year before, the Devoxx 2023, I had a large with Stefan on the Friday, the last day of the D-box, and we were discussing it, talking about this, and somebody told me, look, you should do this next year, you should cut your hair next year, so we had this long year, one year-long agreement to do this, and then I did it in 2024.
+
+3:16 - Mary Grygleski
+I see.
+
+3:18 - Vlad Mihalcea
+Hello everyone, now I can hear you all.
+
+3:24 - Unidentified Speaker
+Yes.
+
+3:25 - Unidentified Speaker
+Hey Vlad.
+
+3:26 - Unidentified Speaker
+Hello Vladik.
+
+3:28 - Unidentified Speaker
+Hey Glenn, just one technical question.
+
+3:32 - Zoran Sevarac
+When I tried to access these notes for the link you sent me, it says that this requires Okay, so I'll add you I think I told you I was going to add you and I didn't let me. Yes, you sent me links, but it is still when I click nothing again it asks me to get permission you need access request success. And I requested success few times but nothing changed.
+
+4:11 - Glenn Renfro
+Interesting. I didn't get anything.
+
+4:14 - Unidentified Speaker
+Oh, well.
+
+4:16 - Glenn Renfro
+Oh, I bet I know where it went. Yep. Yep. Hold on a second. Let me see here. One more check here. There we go. Yep.
+
+4:31 - Zoran Sevarac
+There they are.
+
+4:33 - Glenn Renfro
+OK, thank you. Yeah, let's see.
+
+4:36 - Unidentified Speaker
+Share.
+
+4:37 - Glenn Renfro
+That's one.
+
+4:39 - Zoran Sevarac
+Yes, yes, it's okay now.
+
+4:41 - Glenn Renfro
+Okay, good. Let me make sure I got all of them. Yep, my apologies on that. Just making sure the world is good. All right, we'll start in about a minute. I was waiting to see if Prateek was going to join us as well.
+
+4:59 - NYJavaSIG
+You guys hear me?
+
+5:01 - Glenn Renfro
+Yes, we sure do. How you doing, Frank?
+
+5:04 - Unidentified Speaker
+Hello, Frank.
+
+5:05 - NYJavaSIG
+Hello. Hello. My Mac is acting up.
+
+5:10 - Unidentified Speaker
+Hi, Frank.
+
+5:11 - Unidentified Speaker
+Howdy.
+
+5:12 - NYJavaSIG
+Time machine on the Mac does not like me. I miss time machine.
+
+5:21 - Glenn Renfro
+I can use on my personal, which is great, but my company, they're like, no, you can't use it. It's so nice.
+
+5:35 - NYJavaSIG
+It's taken a week to back up my Mac. Something is clearly wrong.
+
+5:41 - Glenn Renfro
+Ooh.
+
+5:42 - Unidentified Speaker
+All right.
+
+5:43 - Glenn Renfro
+Well, I'll tell you what, I'm going to go ahead and kick us off.
+
+5:50 - Glenn Renfro
+And let me do this real quick. OK, let's just make sure. I'm going to share a laptop here. Let's see. We'll do a desktop share. Now we'll go to here. I think it's just a doc. Hold on, let me go to, there we go. All right, let me send that out just a little bit.
+
+6:19 - Glenn Renfro
+All right, so, okay.
+
+6:21 - Glenn Renfro
+So basically the last, first of all, thank you all for all attending the previous meetings. Were very productive and we were just kind of catching everybody's ideas on like where do we want to take this effort, the JCAI effort. There was a meeting that we had in Austin this week. It was just a few of us that are a part of this group that got together and had some additional chats about it, but really it was just to kind of make sure we coalesced Some goals and the thing that we that seem to be from both the meetings that we had a couple of weeks ago and this one is that there seems to be. I would say three initiatives. And the first one I'm just going to go ahead and cover and then before we go to like the long tail one here. Is that there was a discussion of creating a focus group on the tooling or the AI tooling around Java and Java developers, that there's a group that wants to focus on the standards and guidance for Java coding assistance, because typically these are generic in nature. And because they're generic in nature, it's like we're missing some of those AI tools are missing the goodness that comes with Java. And I'm trying to remember who recommended us creating a group that would help guide some of the toolmakers in this direction. So that was one of the initiatives that was discussed. And again, to create a focus group on that. And I'm trying to remember who was it that suggested I could look at notes, I think, and see.
+
+8:13 - Emily Jiang
+Patika and myself. OK.
+
+8:15 - Glenn Renfro
+So do we want to create a focus group on this? And if so, who wants to be a part of that? That. Thank you, Emily.
+
+8:25 - Emily Jiang
+Yeah, thank you. I'm happy to be part of it because I have been like working with IBM research to train the Watson, Granite, LLM, Java, all the knowledge and etc. I think this is pretty much everybody kind of want to have a good Also, I think if we build up some good dataset, I think all the LLMs, Code Assistant LLM would benefit from this. We also want to publish the good Java tutorials or the best practices. And etc.
+
+9:17 - Glenn Renfro
+Awesome, as far as I'm concerned, what we can do is. Go ahead and we'll go ahead and start a small group here and for those that are interested in jumping in what I can do for this group is I can host a kickoff for it. And then from that the group can to organize itself around it, but I can certainly organize that, you know, just the kickoff for that and let just people go where they want to go with it. Does that sound good with you, Emily?
+
+9:56 - Emily Jiang
+Yeah, sounds good. The other thing is, I don't know, do we have a Slack group? I mean, that's a good question.
+
+10:02 - Glenn Renfro
+I guess we could create a Slack group. All right. Well, you know, let's, let's put that as an action item.
+
+10:08 - Emily Jiang
+Do we have a workspace? For Java Champions?
+
+10:11 - Emily Jiang
+I can't remember now.
+
+10:13 - Glenn Renfro
+We do have a Slack room for it and I forgot what it is. There is one. Yep, I think somebody may have.
+
+10:23 - Emily Jiang
+Oh yeah, yeah, I got it. Java Champions. I'm in that group. Maybe we can create a channel, you know. The channels, this is for there. We can basically have some offline conversation. Directly from the channels.
+
+10:42 - Glenn Renfro
+Makes sense.
+
+10:44 - Unidentified Speaker
+How would you do that?
+
+10:48 - Emily Jiang
+Write that down? I can create it. I don't know whether I can.
+
+10:59 - Unidentified Speaker
+Oh, yeah.
+
+11:00 - Unidentified Speaker
+I can create a channel.
+
+11:05 - Unidentified Speaker
+OK. All right.
+
+11:07 - Catalin Tudose
+that finds article of Java with capital N-I-A-I, I think.
+
+11:13 - Unidentified Speaker
+Create a scrapper.
+
+11:15 - Unidentified Speaker
+No, no, there.
+
+11:16 - Catalin Tudose
+You mean what I draw?
+
+11:19 - Unidentified Speaker
+The last page.
+
+11:21 - Glenn Renfro
+The third line from bottom to up.
+
+11:25 - Catalin Tudose
+Create a scrapper that finds articles on Java. Oh yeah, that's, yeah, that is, yeah, go ahead. And AI and I.
+
+11:38 - Glenn Renfro
+Oh, well, actually, it's Java and I.
+
+11:41 - Glenn Renfro
+Yeah, yeah, yeah. All right, here we go. That's a good catch. There we go. We'll talk about that. All right, so we'll go ahead. And like I said, I'll join that group. And then I'll set up a meeting with the members there. And we'll see what we can kick off with. That's exactly it, Tom. All right, so the next one is a little bit more open-ended. So in this case, what was discussed is to create a focused AI work group on creating materials and educating the Java champions. It was for educating Java champions, Java leadership, and the community. In this case is that we wanted to cover general AI concepts, like what is AI, generative, predictive, provide materials of what can be done with generative AI and the types that are available, provide links and materials to existing sources. So really quick, the goal here was to go ahead and look at creating a curated list of articles that we think that developers would want to and would be helpful to both beginner, intermediate, advanced Java developers using various AI technology. The thing that I think that was also mentioned is that we would identify those areas where there was not enough coverage, and we would start generating material ourselves. And then what we would do from that would be to curate that into a list of that would be available maybe on something like Fuji and create a group on Fuji where we could actually have this curated list plus on a regular cadence release articles rewrite on that topic that may be again, missing those articles. The goal being that, let's not rewrite what's already out there, but rather augment what is out there, but let people know what's out there is available. That was one group, that was one part of this group. And this is maybe some of the topics were responsible use of AI, bias, privacy, ethics, legal, et cetera, security and AI. Yeah, one was creating Roadmap for Java Developers Proficiency Using Generative AI Predictive and Modified Models. Again, like I said, materials made available. Reuse materials that we have, both created by Frank and Ken. And also reach out to some of our Oracle folks, see what's available out there. The current working group is this group of folks here, others is if anyone else wants to join. And then there's a subset of that. I'll only finish reading this off. Finding existing materials like we talked about before, create materials where gaps can be found, post that on Fuji. And then the other thing that we may have is a subgroup that works out, will work toward academia, but we'll let the primary group to get together on just creating this content. One thing that was discussed is could, in this case, could we have something that would go out and scrape article or do like a web scrape and find those articles and then we start reviewing them. Freddie talked about maybe doing that for the group. That was discussed as well. So in this case, is there anybody Is there anybody that's interested in joining the education group? Again, the curation, the writing of this material outside the folks that expressed interest before, which is Catalin, Ken, Tom, Barry, Pratik, myself, Frank, and Mario. Is there other people interested in joining this group and us forming one?
+
+16:09 - Unidentified Speaker
+Yes, please.
+
+16:10 - Vlad Mihalcea
+I could also join. So it's Vlad.
+
+16:12 - Glenn Renfro
+Yeah, hey, Vlad.
+
+16:13 - Unidentified Speaker
+Hello.
+
+16:14 - Vlad Mihalcea
+Yeah, I don't have, at the moment, I don't have much experience. Just finished Frank's course on LinkedIn. And I was very, very happy about it. So thank you. Thank you very much, Frank, for providing it. Very, very useful.
+
+16:27 - Catalin Tudose
+Frank's course is very popular. Thank you. Thank you.
+
+16:31 - Vlad Mihalcea
+If you want, I could share it on my blog, but I'm not sure about the link, whether you want it to reach the public audience or not. I could just mention the course and what I've learned from it without providing the link if you want. So just let me know.
+
+16:48 - Unidentified Speaker
+Cool.
+
+16:48 - Unidentified Speaker
+How much time do you think that would be required?
+
+16:53 - Mary Grygleski
+OK, let's go back to, let's revisit that five hour rule.
+
+16:58 - Glenn Renfro
+If we visit that, the thing that I'm looking at, I think what Prateek was trying to do is to see if you join a group, it's more of, I think he's trying to do is provide time to it, not just join and leave, right? We don't want that. We want people to join and participate. And I think that was his ultimate goal, saying, okay, let's give it five hours a week. I think that's sometimes a little bit more ambitious because it could be that, you know, like, let's say you decide to write an article and you go across a couple of weeks where you're doing, you know, like three weeks where you're doing five hours a week working on that article, right? Get the article written, curated, edited, get it out there. But the other two or three weeks you're not doing anything because there's nothing to do, right? Maybe it's a half an hour, an hour a week. I think he just wants buy-in, right? If you join, you know, contribute, right? Not just hang out.
+
+18:00 - mirowengner
+I think also it's about the contribution and dedication and contribute and modify the context review and do the proposal. Yeah, I really think so.
+
+18:10 - Glenn Renfro
+I think that's his goal when he said that in Atlanta and back in March. So that's the way I interpret it as.
+
+18:18 - Unidentified Speaker
+OK.
+
+18:19 - Mary Grygleski
+Yeah, I'd like to be helping, actually. Yeah, well, just FYI, because I'm now actually quite active in Chicago with all the AI communities, and a lot of them are not Java, too. So I see a lot of things in there. So I think I can be contributing in a kind of a unique way because I I'm like, you know, in between, it's like connecting different worlds, you know, we're not talking to them and they're not talking to us is what I'm seeing, right? So I, but I do things that needs to be happening, something that Java can step in and fill in the gaps that they cannot do, because a lot of them are Python, you know, for example, doing agent, I was doing this thing with crew AI, they are higher level abstraction of tooling that people all fall for that. Because a lot of non-technical business people are able to use it, right? That type of stuff. So I can also provide an insight on that too.
+
+19:14 - Glenn Renfro
+So. That would be awesome. And I think that's the kind of stuff that we're looking at is, again, it's like the curation of the material, what's missing. And it could be an article, like you said, it could be articles like, well, what we're missing is the interaction. Let's get them to jump in. Or how can we blend in? It could be like, how do we get involved in it in the first place? Outside the Java area, like you said, getting into maybe the more purist areas of, at least for now, for Python. Agreed. Yeah, totally.
+
+19:45 - Mary Grygleski
+OK.
+
+19:45 - Unidentified Speaker
+Any other volunteers?
+
+19:47 - Unidentified Speaker
+Okey dokey.
+
+19:47 - Glenn Renfro
+So again, what I will do is I will, this week, go ahead and create a, what I'll do is I'll reach out to these individuals and then see what week works, and then I'll propose a couple a couple, three times and see what works for folks. Because these are going to be more focused where now I'm just kind of saying, OK, everybody, let's set a time and we'll record it for those people who can't get there. These will be more focused and trying to get more folks to say, OK, what time can we all, most people make it. So the other one, this came from Quito. In this case, it's a form of focus group to help Java champions speak at AI conferences. Kind of goes back to what Mary's saying, is we don't have a lot of presence in just the AI conferences out there. And if you're interested, Peter, I think we can probably pull you in and let you kind of describe what you want to do here.
+
+20:50 - Kito Mann
+Yeah. So can everybody hear me OK? Perfectly. OK, cool. Does my video work? I guess it does. OK, cool. All right. So yeah, basically, we were talking, I was thinking more about conferences and stuff. And when we were talking last week at the Arc of AI conference, I think it was Simon Maple was there, which was nice. He has not been involved in Java much lately, but it was nice to get his perspective from a DevRel perspective. And he was saying, really, you should start with meetups more because meetups are easier when you have people to go to because they don't have to pay for travel stuff like that. So, I like the idea of doing both. So, you know, for situations where someone is able to travel who's already doing DevRel or something and we can help facilitate an AI conference or a set of AI conferences for them, that's good. And then also encouraging, helping Java champions find local meetups where they can go and that are more like not just pure Java, but are more AI focused. So we're helping them go to those meetups and helping them start speaking there and stuff. Because I think it's very key that we make sure that we're seen outside of just Java conferences, to Mary's point. So that's basically the idea. And Simon was thinking it's kind of ambitious because of funding for travel and stuff. But I think there's a lot of Java developers who actually are, you know, they're already talking about AI stuff anyways. So it's just, you know, it's just making sure that they get to the right audience or get or expand their audiences.
+
+22:38 - Unidentified Speaker
+So.
+
+22:38 - Unidentified Speaker
+Great.
+
+22:38 - Glenn Renfro
+Mario, did you have a point? Yeah, I have a question.
+
+22:43 - mirowengner
+It's just to get off. So, you know, when I'm thinking about to speak about conferences, what would be the content? So there is a kind of APIs, how to use the APIs. But what is interesting, I think, is implementation of such kind of algorithms that actually use the AI, utilize the AI. And do you think that that would be something what the company would love to share? You know, I'm just hitting. So there are a few providers of different kind of API tools, but it's already covered by by, by actually the owners of the projects, right? So what would be then the topic actually to present? Even when you have the knowledge, right? And you know how the algorithms works? Yeah. And you can do the predictive algorithm on it. So do you really think that you would love to present it at the conferences? I think that would be maybe to sell out or build up the startup on, right? So I'm just really challenging, you know, what would be the content where you see that what kind of thing we could present? I think a lot of the content that we already present in Java conferences.
+
+24:09 - Kito Mann
+So if you go to any Java conference now, there's already people talking about about like building a spring AI or Lang chain for J or doing rag with Java or, you know, all the same sort of topics. And, you know, I'm sure we could think of new ones too, right? You know, we could even do some topics that are just pure machine learning, you know, using deep nets or something else. So it doesn't have to be purely generative AI.
+
+24:41 - mirowengner
+Yeah, maybe.
+
+24:42 - mirowengner
+But DeepNets is a nice example. Hi, Zoran. Actually, he has the product and he would love to share what you can do with this. Yes, he is the owner. So maybe when someone else would love to join, but he has also GSR, right?
+
+24:59 - Kito Mann
+Yep.
+
+25:00 - mirowengner
+With Frank, the recognition. So that's also a nice topic, but they are just already the owners of this. So what next? Would be the next. I'm just just challenging a brainstorming, you know.
+
+25:13 - Kito Mann
+Well, so you're trying to you're trying to think of things beyond the how to use a set of APIs. Is that what you're getting at?
+
+25:23 - mirowengner
+Yeah.
+
+25:24 - Kito Mann
+I don't know. I think that's that's a good thing to talk about in this working group.
+
+25:30 - mirowengner
+Want to join?
+
+25:32 - Unidentified Speaker
+Yeah.
+
+25:32 - mirowengner
+Well, we have the time. Yeah, sure. Okay. All right. I'm just asking whether it would make a sense, whether it's not again the part of the education itself, actually, where the education group actually, it's that crystallized some kind of topic where we can talk. I'm just brainstorming, whether it makes sense.
+
+25:55 - Mario Fusco
+But there are other hands up, so I leave the stage. Mario, you're next. Okay, yes. I'm also interested in this conference part because Yeah, you know, it's the main place where we're doing evangelization, even if I don't like the word, of the AI thing in the Java spectrum. And a couple of things to consider also to reply to Mario's question. I mean, the first distinction that is important to make is that I believe that there are two main areas. One is more about the data scientist's job, how to create a model, how to do really the algorithmic part of it, as Mario was saying. My personal feeling, but probably unbiased and there are people working in that area. My personal feeling is that us as Java developers are a little bit more detached for that area. I mean, I'm a software developer, I'm not a data scientist and it's a totally different kind of work, right? So probably probably this is not something that we are going to cover. On the other side, the most important part in the Java ecosystem is in the integration of this tool with the rest of the ecosystem. You have a model, but then what do you do with it? You want to make this available to your user, and then you want to add, of course, some layer of security on top of it, single signal, whatever it comes to mind of the enterprise feature. And this is the hot spot for Java, I believe, meaning not working, not the data scientist group, not the data scientist, sorry, part of the work, but the engine during the integration part of the work, okay? So this is the first premise. The other thing is that, okay, I'm one of the most active contributor of Longchain4j these days and of the Quarkus integration of Longchain4j. We are doing some talks around about this topic, of course. So we will have one at Devoxx France week for instance. The whole team and this is another aspect that there is a let's say geographical regional aspect meaning that the whole team is more or less based in Europe, I mean Italy part of the people contributing to it are in France and the main the project we are launching for Jay is in Germany, meaning that we mostly do this kind of events, this kind of talks in Europe. It's very rare that we go outside the continent. So if you are willing to give a talk on this topic, for instance, Asia or in America, we are willing to share some material, even workshop for instance. We are really willing to, how can I say, to bring forward this evangelization also in other region or in conference where we don't usually go and we can help with this.
+
+30:22 - Unidentified Speaker
+Cool.
+
+30:23 - Kito Mann
+I think I agree with you in terms of the topics, sort of the sweet spots for Java developers, too. I think we can also bring insight in terms of enterprise deployments. Not that I have any experience with those, but I know some people have done actual production applications using models in the cloud or something like that. That story and those stories using Java I think is helpful.
+
+30:56 - Unidentified Speaker
+Again?
+
+30:56 - Glenn Renfro
+Yeah, just I'll keep it very brief.
+
+30:59 - Kenneth Kousen
+Just to mention a couple topics I've given talks on before. The idea is not to focus on the Java. The idea is to focus on what you're talking about and just happen to use Java to accomplish whatever it is you're discussing. I think at Arc of AI, I talked about, you know, when it's worthwhile to use prompt stuffing versus when rag works and what the pros and cons and things like that. And just all my examples happen to use Lang chain for J. I could have just as easily used Spring AI or just even done it with a regular RESTful web service, but it wasn't, the focus wasn't the Java part. It just happened to use Java. I've also done talks at like more beginner levels saying I did a talk on uncensored AI tools. And what that's really all about is running some of the uncensored models through Olama. So you're really talking about running models locally. But again, I had Langchain4j sitting there that makes it, or Spring AI, makes it very easy to use Olama through that. But that wasn't the focus of the talk. It just showed how easy it was to get up and running, even when you already had another AI model involved. So when you talk when you talk about conversations, when you talk about any of the major topics in AI, you're not necessarily, I mean, you could, of course, do a talk that's, okay, let's see what Java brings to the table that's so much better. But I like just focusing on the topic itself and being an advocate for Java indirectly by saying, look, I use this because it's really easy to do and it scales nicely and it integrates with everything else I already have in my system. And that's usually a pretty argument, I think.
+
+32:46 - Unidentified Speaker
+Excellent.
+
+32:47 - Glenn Renfro
+I took a note on that.
+
+32:49 - Kenneth Kousen
+By the way, all the YouTube videos and things I have, I'm more than happy to contribute in some way to whatever this education effort is. And also I am, once my semester ends, I'll be looking to expand that a lot more, especially with the Lang chain for J stuff and Spring AI both coming up on their 1.0 releases. So I am looking for opportunities to do that. And it's coordinated as part of this effort, so much the better. Cool.
+
+33:19 - Glenn Renfro
+Yeah, I've got you in this education small group. Yeah, I saw that. Our focus group. Thank you. And did you want to be a part of the conference meetup or just stay in education?
+
+33:28 - Kenneth Kousen
+It couldn't hurt, but especially, I'm not doing a lot of traveling these days, but I'm more than happy to do a meetup. And I don't mind traveling to places I can go directly. Like I'd love to come out and see Mary again out in Chicago.
+
+33:41 - Unidentified Speaker
+Yeah.
+
+33:42 - Unidentified Speaker
+Well, yeah.
+
+33:42 - Mary Grygleski
+I'm sure we could work something out.
+
+33:45 - Kenneth Kousen
+I just have to work around an academic schedule now, that's all.
+
+33:50 - Glenn Renfro
+Yeah, let me go ahead and just put you down. And what we'll do is you can jump in and see if it's a good fit for you.
+
+34:01 - mirowengner
+But I do have you in the education group. You are missing n, Glenn.
+
+34:07 - mirowengner
+Go ahead.
+
+34:07 - mirowengner
+You are missing n, V-N-E.
+
+34:09 - Glenn Renfro
+Oh, V-E-N, yes. Thank you. Thank you. No, thank you. All right. Let's see. We do. Okay. So, Mary, you had a question?
+
+34:19 - Mary Grygleski
+Well, it's not so much of a question because we talk about having some of the venues to start talking. I think Ken brought up a very good point, and that's the thing. If we go and talk at AI types of meetups, conferences, whatever, it has to be a bit more, we tone down on the development side, because their interest is not so much about what tools. They're looking at programming languages, our frameworks, our tooling, to support solving some problems, for example, and can explain it really well. But I was going to say, I mean, to that end, because I'm involved now, again, you know, with the AI, some of the AI meetup groups, and these are like national chapter, and they are expanding as well. If, you know, if anybody is interested, for example, I'm like in the Chicago chapter for two separate groups, and I think they will be open, you know, if anybody in here is feeling, you know, you want to start a chapter of those groups and those groups, like, for example, AI, Gen AI Collective, they're going to rename, rebrand to AI Collective. And I think they have a very extensive network in terms of not just developers, they're builders and also VCs. Startup founders and, you know, all kinds, right? Business people, data scientists, whatever. It's kind of an interesting mix. And it may be a good kind of organization to get, put our foot in the door, so to speak. And, you know, again, they're expanding too. So if there are anybody interested too, I can also try to bridge it and see how, you know, if we want to start doing something there, maybe we can have special interests group in tool development, that type of stuff, focusing on Java as well. Think that type of stuff. So again, just sharing this information with you.
+
+36:13 - NYJavaSIG
+So that's a huge organization, Mary. That's a what?
+
+36:16 - Mary Grygleski
+It's a huge organization.
+
+36:17 - Unidentified Speaker
+It is. It is huge.
+
+36:19 - Mary Grygleski
+Yeah. They're also expanding as well. It's very, very nice, though, at this point, still very nice and easy. They are nonprofit. They are in the process of pending their 501C3 as well. So that's That's kind of good too. What's the name of the group again? It's called Gen AI Collective. They are rebranding to AI Collective. They started up when Gen AI came out like two years ago, but they realized Gen AI is too limiting. So they are rebranding it to AI Collective soon.
+
+36:55 - Emily Jiang
+I'm wondering whether we can basically have a list about AI conferences. I think it's kind of the, this is a good basically people can look it up and submit and et cetera.
+
+37:08 - Mary Grygleski
+Sure.
+
+37:09 - Mary Grygleski
+Yeah.
+
+37:09 - Catalin Tudose
+I think we should filter from all these AI conferences where our Java software development, software engineering, our own expertise will fit because AI is extremely large. They may have AI for healthcare or whatever. Yeah, that's right there. Yeah.
+
+37:24 - Mary Grygleski
+But I think that's something that we can do as part of this group is sort of
+
+37:31 - Emily Jiang
+Yeah, that sounds good.
+
+37:32 - NYJavaSIG
+You know who has really a lot of good intel on this is Steve Chin. Yeah. Mary, you do. You certainly do. Steve does, too. And he has an interesting perspective on the Python-heavy community.
+
+37:46 - Mary Grygleski
+That's right, yeah. The thing is, I feel Java needs to come out because people can't figure out the scalability, the concurrency, all these things that are so Java special, that's really our biggest strength. They're saying, oh, we need to solve all these problems. I'm thinking, Java already is doing some of the concurrency, all these things. They can't figure it out, right? So that's kind of interesting. The timing is on our side.
+
+38:14 - NYJavaSIG
+It's no longer like, do we use Python or Java for creating models? That's a done deal. We're now moving up the stack and it's now agents and frameworks and coordination frameworks. And that's where we fit.
+
+38:27 - Mary Grygleski
+That's exactly where we fit. Totally. I'm very interested in agents that MCP can fit in all these.
+
+38:34 - NYJavaSIG
+And we know how MCP is insufficient and needs a lot more things.
+
+38:39 - Mario Fusco
+And that's stuff that we know. That's right. Yeah. OK, so sorry, just to clarify the goal, our target is more, I mean, we are already covering the Java conferences, of course, with the Java use cases or integration bit for the AI. Our goal is to cover the AI-specific conferences and bring some bit of Java there, right? Yeah.
+
+39:05 - Kito Mann
+I mean, although I wouldn't say that we, you know, if there is a Java meetup that needs a speaker to talk about AI, I don't think we should not help.
+
+39:18 - Mario Fusco
+Yeah, because I'm asking because I'm seeing that There are a few conferences on the AI space in US. I believe there will be one in the next week. It's called Arc of AI. Is somebody participating to it?
+
+39:35 - Kito Mann
+That was last week. It was last week.
+
+39:38 - Mario Fusco
+It was last week. OK. OK. That was it. Somebody will. OK.
+
+39:44 - Emily Jiang
+Also, it's kind of the code remix. It's a focus on AI as well.
+
+39:50 - Mary Grygleski
+Now we will have that in May.
+
+39:53 - Mary Grygleski
+I think that's a no-fluff, yeah, no-fluff just up.
+
+39:57 - Mario Fusco
+I was gonna say... Yeah, I believe we are a bit behind here in Europe, maybe as usual, but I'm not seeing that many AI-specific conferences and events so far. So that's why I'm asking.
+
+40:14 - Emily Jiang
+Yeah, I think, Marian, in Europe, is a lot of AI tracks. It's not like AI conferences. Like in a lot of the conferences, basically, there's AI tracks.
+
+40:28 - Mario Fusco
+Okay, yes, yes. We have AI tracks in conferences. Like, of course, there is an AI tracks at all D-box, including the France one next week, or the Greek one this week. But again, it's an AI track inside the Java conference, so you already are a Java developer. If there is an AI track on the Java conferences, should it be a software development or even a Java track on the AI conferences?
+
+41:04 - Catalin Tudose
+Can we look the other way?
+
+41:07 - Mario Fusco
+Yeah, this is not going to happen so far.
+
+41:11 - Emily Jiang
+So, Cagney, Romania, the DevTalks has bigger data and AI tracks.
+
+41:20 - Catalin Tudose
+Yes, I'm talking about the reverse, because if you're talking about AI, you're not talking absolutely about software development. You may talk about many many other things. So if they open some track or some topics to say, how can we use AI for software development, maybe in particular for Java, this would be a step forward to connect to them. Of course, we can keep the AI tracks on on the Java conferences.
+
+42:01 - Emily Jiang
+I think it's very important to just mention AI tracks. I don't really think we need need to pin down to AI tracks for Java conferences. Because that's where, when we go to AI tracks in the overall conferences, that's where we can grow the new logos. So basically, the people trying to do AI are Han folks. You should do the Java AI. So it's kind of that you will grow basically the audience for Java.
+
+42:35 - Catalin Tudose
+Emily, you sent to everyone in the group two days ago three questions.
+
+42:41 - Emily Jiang
+Yes. I need answers.
+
+42:43 - Catalin Tudose
+I was thinking about providing, if we have time and availability, we may provide some answers here.
+
+42:52 - Emily Jiang
+Yes, that would be good. I don't know whether Glenn allowed me to take some time. Glenn?
+
+43:01 - Emily Jiang
+Well, tell you what.
+
+43:03 - Glenn Renfro
+Let me do this. First off, let's close this section out. Is there anybody who else wants to join this working group? I've got Mario, Kito, Mario, and Ken. Is anyone else for conferences meetup?
+
+43:18 - Kito Mann
+I can join too. Okay.
+
+43:20 - Kito Mann
+I was actually hoping you would join, Mary.
+
+43:23 - Kito Mann
+I almost volunteered you, so.
+
+43:25 - mirowengner
+Yeah, me too.
+
+43:27 - Tom Cools
+I've got to say, if the Gen AI collective gets transformed AI collective, I might have a look at the Belgian chapter for that one as well.
+
+43:36 - Mary Grygleski
+Yeah, and I can connect you. Yeah. So yeah. All right. So I feel is a good group. So but it's very vacant, I do have to admit.
+
+43:44 - Glenn Renfro
+So yeah.
+
+43:45 - Glenn Renfro
+So what I'll do is similarly, this weekend, I'll go ahead and go ahead and reach out to folks and see what our times are good for, you know, in general for this group to get together. And go ahead and set up and I'll kick off the first meeting and then they'll determine the cadence after that. I want to give it back to Emily. We have about 15 minutes, but I just want to go spend a couple more minutes on this. We did have some articles we wanted to write that people brought up. One was at the very beginning was a education article on AI for Java developers. The other was talk about vibe coding, the good, the bad, the ugly. And then there was another one that was discussed about providing a workshop. With those, and with even the Java AI Start site, I'm not going to make these as a conversation to create focus groups on these, I'm going to move those underneath the education group, just because they are based on the discussions that we've had before, is Part of that group is to create articles and material. And so I'm going to go ahead and roll these into that group. So we won't have to cover those. And it would even include the portal part where it's like, okay, if we do curate this list and we do have the people want to generate it, it would be handled in that group. The only other item that we had on the list here was, and I'm not sure this is a group as of yet, it could be for somebody interested in leading it. It's a creative focus group to lobby our governments on AI. Again, kind of think it's more like AI ethics. But that was mentioned and I wanted to give it some time to see if anybody's interested.
+
+45:42 - NYJavaSIG
+We just need to teach our government ethics, period.
+
+45:45 - Glenn Renfro
+Okay, let's see. All right, let me go ahead. I won't disagree. Oh, you're right. But I would say this, we probably don't need a group on it, but what I would do is for each of our respective governments, whether it's national, regional, or local, reach out to your representatives and talk to them about this stuff, right? A lot of them still see it as magic and a solve-all and it clearly is not that. So just be active in that is all we'll say. Unless, is there any other questions on the groups that we've created?
+
+46:31 - Catalin Tudose
+I just dropped an article there that may be considered.
+
+46:36 - Glenn Renfro
+Okay. Where'd you, oh, did you pop it in comments?
+
+46:41 - Catalin Tudose
+In the chat.
+
+46:43 - Glenn Renfro
+In the chat, very good. Okay. Perfect. I'm going to steal it and I'm going to do copy pasta magic here. And I will go ahead and put this here.
+
+47:02 - Glenn Renfro
+And I'll move the others to this one, this group as well.
+
+47:11 - Unidentified Speaker
+Okay.
+
+47:11 - Unidentified Speaker
+All right.
+
+47:13 - Tom Cools
+There we go.
+
+47:15 - Tom Cools
+As a note, shall I go ahead and also create a Slack channel for the education group? I would. So that we have asynchronous communication there since we already have a Slack channel for the other group.
+
+47:26 - Glenn Renfro
+Go ahead. Just what's the name of it?
+
+47:28 - Tom Cools
+I'll dump it in chat in a bit.
+
+47:31 - Glenn Renfro
+I'll create it now. Perfect.
+
+47:32 - Glenn Renfro
+I just need to get onto the...
+
+47:34 - Emily Jiang
+Go ahead. Can you also add me to the education group as well?
+
+47:38 - Glenn Renfro
+Okay.
+
+47:39 - Mary Grygleski
+So maybe we also need one for the meetups and conferences, right?
+
+47:43 - Glenn Renfro
+Yes, if somebody wants to handle that. I still need to get on the Java Champion Slack. So that's my to-do, my personal to-do. All right, cool. Let's see what else is there. So what I'm going to suggest is I'm going to, we have about 12 minutes. I'm going to yield the floor to Emily. Great. Thank you, Glenn.
+
+48:07 - Emily Jiang
+Thank you so much. Thank you, Kathleen, for It's a wonderful suggestion. I know folks are kind of busy. Let me share my screen.
+
+48:19 - Glenn Renfro
+Oh, yeah. Let me give you permission.
+
+48:22 - Glenn Renfro
+I'll see.
+
+48:23 - Emily Jiang
+All right.
+
+48:25 - Emily Jiang
+You should be able to share now.
+
+48:28 - Unidentified Speaker
+Share.
+
+48:29 - Unidentified Speaker
+Perfect.
+
+48:29 - Unidentified Speaker
+Thanks.
+
+48:30 - Unidentified Speaker
+Share.
+
+48:30 - Emily Jiang
+So basically, I put a few questions here. So I would like to get to know I mean, at what stage are people doing AI apps? So first one is, what stage are people writing AI apps in Java? Or do you think they are learning, prototyping, developing, or using in production?
+
+48:59 - mirowengner
+Well, I just found your email, Emily, and I don't right now have any project that is using AI. So I cannot answer your question. I'm working, yeah.
+
+49:14 - mirowengner
+Thank you, Mario.
+
+49:15 - Emily Jiang
+Anybody else like dealing any AI application development?
+
+49:19 - Mary Grygleski
+Okay, so I can answer some since I'm like with consulting, although the clientele is a bit limited. I think they are mostly learning and prototyping right now, the majority. In terms of Java, but not quite in production yet, or at least, you know, with the set of clients that we have currently. So, but I can't speak for all, but I also have heard of folks already doing some things in production, for example, just crunching through a lot of documents thing using Rack time of implementation that I've heard. And, you know, just kind of typical Rack app and then being able to provide that, to work with their company chatbot and look for information than those I've heard of But for Java is still minority, very few. Mostly I've heard is kind of even .NET, for example, things like that with Azure, AI, things like that too, I have. So just, but again, that's from what I have come across so far.
+
+50:30 - Unidentified Speaker
+Okay, thank you.
+
+50:31 - Catalin Tudose
+I would also like to say here that I consider we are mostly at the level of prototyping. And including here the article that I sent you proves this, I think. I am involved in a project that is at the stage of prototyping. We applied here for some publicly funded project for two years. We don't know what will happen. The requirements were to start with the projects from the maturity level 4 and to arrive at least to maturity level 7. So that's why I say we are at the level of prototyping. If you consider that some demo will be helpful for our group, that can be done. But with the participation of my colleague that started the project and that I joined. His name is Vlad Mihalcea. We may come back to this idea at a later meeting. If you have a quick look at least to the article, you can come back to this. Okay.
+
+51:44 - Emily Jiang
+I will definitely check it out. Thank you, Anthony.
+
+51:47 - Glenn Renfro
+I did talk to several folks at Ark of AI, and what I have found is that a lot of the companies that were there like some of the big banks like Visa, Bank of America, Discover, are prototyping or trying to figure out where to put it. But that does not mean that they were not already for years have not already been using predictive AI. So each one of them discussed how they were already using predictive AI. And it didn't sound like it was in Java. Maybe Java was a consumer of some of the output. But they are actively trying to see how they can utilize Java as far as either a generative mode or generative AI or something else along that lines.
+
+52:35 - Glenn Renfro
+So that's the reason they were there.
+
+52:38 - Emily Jiang
+Oh, OK. Thanks, Grant. Great. OK, Tom.
+
+52:41 - Tom Cools
+So yeah, depending on how broadly you define AI, I see it every day because I work at TimeFold, which is an older form of AI. But what I can say is that besides that form of AI, do see at least in some companies in Belgium and with us as well, a lot of prototyping to integrate all forms of AI together with business logic, like the old school rule engines or something, like the things that where you don't want this random semi-random machine to do things, but to have an actually clear answer why certain results are the results that come out of it. So I see a lot of prototyping both from my perspective, Personally at Timeful, we're doing a lot of cool stuff right now, but also within the Belgian community, I see a few more projects popping up right now. It's all prototyping, nothing really, even though they're successful prototypes sometimes, there's still this boundary that people don't want to go into development and production and really kind of risk a public failure, let's say.
+
+53:46 - Emily Jiang
+Yeah, sounds like most of them are prototyping.
+
+53:50 - mirowengner
+okay so mario and then we can need we need to move on to the second mario yeah yeah okay I just wanted to say mary that yes uh I'm working on project and we are not using the x any external api like like for j and some but we I I'm using the we developed a predictive we are using predictive ai and machine learning very intensively on project and very and it's in production okay But we are not connected to outside and we've been using it for a very long time, for years, even when there was no JGPT and so on.
+
+54:31 - Emily Jiang
+Oh, I see. I also heard that machine learning predicts AI.
+
+54:36 - mirowengner
+And also I've been working at SoundCloud 2000 on machine learning and this kind of AI project very intensively.
+
+54:45 - Emily Jiang
+Yeah.
+
+54:45 - Unidentified Speaker
+OK.
+
+54:46 - Emily Jiang
+Just probabilistic algorithms.
+
+54:47 - Unidentified Speaker
+Yeah.
+
+54:48 - mirowengner
+OK.
+
+54:48 - mirowengner
+In production.
+
+54:50 - Unidentified Speaker
+That's it.
+
+54:51 - Emily Jiang
+Yeah. Machine learning, I think, in production, that's the kind of, yeah, it's been talked about by quite a few people. OK. Thank you. So the second question, are you seeing an increase in activity in long-term 4G adoption? Of use cases being defaulted to be written in Python. Any usage, launching 4G, and getting people back from Python to Java for doing AI?
+
+55:35 - Tom Cools
+Okay, so it's a no then, because- in my hand, I was just being polite and waiting. So I am in my personal atmosphere.
+
+55:47 - Tom Cools
+Yes, because I run the Belgian Java user group. So I do see people using LangChain4J. But those were typically already Java developers. So they just use LangChain4J. So they don't have to move to Python. But I do see a lot of companies where anything machine learning or data centered related gets dumped in a department and those people do Python and they don't care about Java. So that's what I'm usually seeing that despite we enable Java people to do the same things, like you've had to use Python before, but when it comes to production, usually it still moves to like a data centric team. And those guys say, Oh no, but I do Python. So I'll just use the Lang chain in Python. That's what I'm seeing. I don't know what it's like for other people in this call.
+
+56:36 - Mario Fusco
+Yes, I have a similar. And this is the reason why I wanted to underline the distinction between data scientists and LLM integrators, because LLM integrators, it's the long chain for J job and what we want to promote. And there's no reason to do this in Python, to be honest. There's no reason why Python should dominate that But I agree with Tom that I'm seeing these trends and I would like to know how I can help to revert it. And yes, I don't know much about the story of blockchain 4G usage into the world, but in reality, I'm pretty sure that lots of companies are using it. I don't know if in production or not, and we just don't know, and I don't know how to know.
+
+57:48 - Unidentified Speaker
+Yes.
+
+57:48 - Emily Jiang
+Yeah, so that's interesting. Yeah, so it looks like basically people stay on Python, and now because of launching 4G, they come to Java. Okay, good.
+
+58:00 - Mary Grygleski
+Sorry, if I may say too, for example, the consultants in my company, they are more familiar with Spring. So now that Spring AI has increased, you know, kind of improved quite a bit. And when they first come out, they are all doing Spring AI. So just wanted to point out to you too. But again, we're in more learning and prototyping stage and not production yet.
+
+58:25 - Emily Jiang
+So you are saying basically, if they are using Spring, they are not going to learn Launching4j, they are not going to use Launching4j, they will directly use Spring AI.
+
+58:35 - Mary Grygleski
+Yeah, that's right. I think it's because they're already familiar with Spring, so they're like, oh, great, you know, Spring AI has it now, so let me use Spring AI. So that's the trend I'm also seeing too, so.
+
+58:49 - NYJavaSIG
+Okay, yeah. Spring AI is not AI.
+
+58:51 - Mary Grygleski
+Yeah, I know. That's true, it's not true. No, it's a client.
+
+58:55 - NYJavaSIG
+I know Launching4j, I'm disappointed in those guys.
+
+59:00 - Unidentified Speaker
+I know.
+
+59:01 - mirowengner
+Maybe Qwarkus AI client.
+
+59:04 - Emily Jiang
+That's a good name.
+
+59:07 - Emily Jiang
+Yeah. I saw the Launching4j has a Launching4j-spring app.
+
+59:14 - Mario Fusco
+Yeah.
+
+59:14 - Mario Fusco
+I believe there is a common misconception in the fact that people compare also in the Java ecosystem, mostly in the Java ecosystem, people compare Longchain4j and Spring AI, which is an unfair comparison, in my opinion. I mean that Spring AI is much more integrated with all the Spring ecosystem and has a lot of capabilities, like the possibility of using CDI and stuff like this, while Longchain4j is just a library to integrate LLMs So a much fair comparison, and this is what I'm trying to explain these days in conferences and events like this, a much more fair comparison will be comparing Spring AI with the Quarkus extension of Longchain4j. And the Quarkus extension of Longchain4j is at least on par, if not better than the Spring AI features. It's just a matter of comparing Apple to Apple.
+
+1:00:26 - Emily Jiang
+That's it.
+
+1:00:27 - Emily Jiang
+Yeah. Great. I know it's the top hour. One quick one. Are there any interesting user case that you can share on GAI apps in Java being worked in the world?
+
+1:00:45 - Unidentified Speaker
+Any great user case?
+
+1:00:47 - Unidentified Speaker
+Okay.
+
+1:00:48 - Unidentified Speaker
+Any hands up?
+
+1:00:50 - NYJavaSIG
+It's interesting use cases, but I can't share them.
+
+1:00:56 - Emily Jiang
+Oh, you cannot share. This is correct.
+
+1:01:00 - Mary Grygleski
+You need to sign the NDA.
+
+1:01:05 - NYJavaSIG
+Are you going to buy pizza, Emily?
+
+1:01:09 - Emily Jiang
+Maybe. Yeah, I will buy you Chicago pizza. Okay, yeah, okay, that's great. Thank you so much. Yeah, to hear what your thought and viewpoint. Thank you so much, Glenn, for me to take this group. No worries at all.
+
+1:01:31 - Glenn Renfro
+I'm gonna go ahead and stop the meeting, but I wanna thank y'all for attending. I will, if it's okay this weekend, I will start reaching out to folks and seeing when they would like to go ahead and kick off they're small groups. The thing that I'm going to probably do ask for each of the focus groups is, and I'll also remind it when I just kind of kick them off, the ones I don't join and even the ones I do join, you know, once we kick them off is let's make sure that we communicate what the groups are doing to the JCAI groups so that we can stay in touch, know what's going on and where is where we can help and also Help us learn what you're doing. So with that, folks, I want y'all to have a great day, and we'll talk to y'all in each of the small groups.

@@ -1,0 +1,281 @@
+1:00 - Unidentified Speaker
+you.
+
+1:11 - Hillmer Chona
+All right. How are you doing today? I'm doing well thanks. I think we're going to have a small audience today.
+
+2:12 - Glenn Renfro
+I think it might be just you and me.
+
+2:16 - Hillmer Chona
+Yeah. I joined and I left because he said it's on Tuesday.
+
+2:21 - Glenn Renfro
+There was one on Tuesday and one today.
+
+2:25 - Hillmer Chona
+I just say that maybe somebody else joined early and saw the message. I left and I go to the email to double check and they say no, they may say 1 p.m. So I rejoined. Yeah. Well, thank you much.
+
+2:42 - Glenn Renfro
+Yeah. I, I noticed that it was, I think I used the same meeting code for both and it said, and it was scheduled. So I may create like a permanent meeting group and just have that present instead of trying to make them per, uh, appointment or per schedule. Let's see. I'm learning how to do all this good stuff. You know, uh, let's see, we'll give everybody else about two more minutes. And I was actually checking to make sure nobody is saying I can't get in on the line. We had about 10 people on the other call. But what we could do today and as people, you know, let people chime in, as they come in, but what we're doing, we did was just kind of go through and discuss, you know, what the groups are. I was going to kind of kick off and say, let's, let's, how do we want to kick groups off because you know and also how do we want them to communicate because we're spreading beyond the java champions into the java realm and uh for this effort and I'll just go ahead and get started here hey Catalin hello only us and I was a little late no worries no worries at all. Let's see, share the screen. You can see my ugly display here. There we go.
+
+4:08 - Unidentified Speaker
+Here we are.
+
+4:09 - Glenn Renfro
+So I just want to cover what we covered in the last meeting and then also, you know, what the precept of this meeting was, what we covered in the last meeting and then the one on Tuesday. Remember, these are It was optional which one you wanted to be in option one or option two and I'll cover what we covered in option one and we'll kind of go through that a bit right there. Let me go ahead and put this in slideshow mode. OK, there we go again. There's been conversations and we're expanding the group to go beyond just. The Java champions and including an invitation to where, you know, if there's a person in the space like a Java expert or a Jugg leader. How can I do that?
+
+5:07 - Catalin Tudose
+We can invite?
+
+5:08 - Glenn Renfro
+Yes, invite them in. Yes, absolutely. Okay. And so the thing is, is that what we're trying to do is, is that there's, there are subject matter experts out there and it go beyond just the Java champions. So We're looking at even changing the name of the Java champions, sorry, the JCAI to Java AI. And invite those folks, bring them in. We're not making it broadcast to the world. It's more of like, hey, we want to invite this person because they're working in it, they're doing something in it, and they can, all right, bring them in. Let's see what else is there.
+
+5:52 - Hillmer Chona
+learn about the name. In the past, we have issues when we try to use Java or Java. Yes. Just keep in mind that.
+
+6:04 - Glenn Renfro
+Okay, let me go ahead and add that to the notes down here.
+
+6:10 - Hillmer Chona
+See, I like the name. Okay, let's go.
+
+6:14 - Glenn Renfro
+Yeah. It this way. See?
+
+6:49 - Catalin Tudose
+So, but JC is Java champion. Yes.
+
+6:52 - Glenn Renfro
+And that was a thing was, is JC AI. Again, it's more of what do we call it? You know, it's no longer, uh, uh, just for the Java champions, we're expanding that scope. So, um, what we do have in this is that we do have, uh, three, uh, focus groups that have been, um, Agreed upon to start off with and we have people that jumped in, but they are not closed. You know if you want to jump in on one jump in and one is the education group. Its goal is again just to allow. For the create the curation of education materials as it pertains to Java and AI, when those materials are not available to create, we're looking at posting that into a on right now Fujiy as a potential first location. So that group is, you know, that's one of the ones that we are saying that is a kind of a go forward one. The other is the conference meetup group. This one is to facilitate people who want to speak at conferences on the cross section of Java and AI. Could be, again, this group formation came around to say, is there materials that we could share amongst ourselves or help each other prepare abstracts as well as materials for presentations on this topic? And here's a group of folks that kind of wanted to jump in on that. Again, it's not closed. It's still wide open. This one focuses on standards and guidance for Java coding assistants. Emily is kicking this off. Partique and Zoron are also jumped in. Yeah, it's not closed. The thing is, is we're holding off the actual first meetings of these groups because it was brought to our attention. I'll talk about that in a second. The other is, is we have to have a form of communications. And I'm suggesting that we create a Slack group. Our new Slack org for this effort, we'll call it for now JCAI, and where each of the focus groups gets a channel. Can it currently use the group, Google group that we have for broadcast notifications to folks? Are there other ways in which you want to communicate? We do need facilities for each of the groups so that they can organize, set the meetings, do all that stuff for it. And then, of course, we need to schedule the groups. But Frank Greco said he wanted to put a pause on kicking off the groups. The reason he wanted to do that was so that we can have a charter. What is this whole thing supposed to be? And so, you know, we came up with a basic mission statement here that says to strengthen the Java community by providing an environment where members can share their knowledge, discuss advances in related technologies, and promote their use, the use of Java for AI in their workplace. And the charter should contain, whoop, went too far there, deliverables of the group, the definition of scope of the group, structure of the group, discuss responsibilities of the coordinators and facilitators, time commitment of the members. And once the charter goal is complete, we make it available to the public via GitHub repository. So last night, you may have seen the email go out. I took and blended all these together and hit the AI first to generate me a beginnings of a charter. And then I modified the charter that it produced and I just opened it up to the group to say, go ahead and edit, tear it up, you know, make suggestions, whatever you want to do, go for it. And so I kicked, that was the last thing that I did for the option one group. So, and that is, so right now we can go anywhere y'all want to go with this. So we could just talk, we can go to the charter, we could talk, ask questions, whatever we want to do.
+
+11:51 - Hillmer Chona
+Have you discussed using the JCP as an umbrella? For this initiative?
+
+11:57 - Glenn Renfro
+So with the JCP, one of the questions is, and this is, it was, we are not going to be producing code as much as training and advisory, I guess.
+
+12:13 - Hillmer Chona
+The idea came to my mind when you talk about the working group of education, because there Yes, here. JCP.
+
+12:26 - Glenn Renfro
+So you think we need to engage JCP with this and see what direction they would like to take, or if they would like to be an umbrella to this? No, just an idea.
+
+12:41 - Hillmer Chona
+And also, if we go to the JCP, we can keep the Java AI education. We can keep Java AI education. And also they have, JCP have a process that we can follow. That's come to my mind because you, this lie about education. And I don't mean that we should go there, but I just want to share that. And I know you have work with Heather. Support pretty well the ideas. This is an idea I know. No, no, no, this is fine.
+
+13:28 - Glenn Renfro
+I mean, again, the one thing I want folks to understand, I'm not leading this. I'm just trying to facilitate and trying to get the group to go where it wants to go and organize itself. And then create the, you know, facilitators for the focus groups. So there's no wrong, there's no wrong answer here. All I will do is like, we talked about it and we said this, but if there's like, oh, good point, you know, let's capture it, right?
+
+14:04 - Hillmer Chona
+Yeah, maybe we can invite Heather to one of our meetings and talk about what we are talking about and ask some guidance. Maybe she can also, you mentioned Fuji. I think you say Fuji. I think that is what they're useful umbrella that we can use. Yep.
+
+14:29 - Glenn Renfro
+And so the Fuji would be again for more of the education group could also be where again, if we decide to come up with standards that would be a place where you'd post standard. For the conference group, it really depends on what they want to do and how they want to organize. For any of the groups, it's really how they want to organize. I mean, and so that's the thing. And it's also if there are other groups to be formed, right? Hey, we want to have a focus on predictive and or an API or whatever it is, right? You know, let's say once Panama ready. Okay, once Panama's ready, we want to have a focus group that says this is things you can do with Panama as it's like creating libraries for model creation. So, excellent points. Anything else you would like to kind of add in?
+
+15:30 - Catalin Tudose
+I would like to say a few things. If you come back to the Java AI in education. Yes, let's go back there. Just to see this in education. So just to share with you a few things. I have just discussed yesterday with Vlad Mihalcea. Yes, he's also on this list. And he's going to start a PhD thesis with Java AI. Oh, wow. And I am planned, probably I will be in some commission to participate in some exams during the time.
+
+16:18 - Unidentified Speaker
+Yes.
+
+16:19 - Catalin Tudose
+So we'll try to popularize this. Maybe we can contact people from there or some other if we are going to release articles, things for contributions? Yes.
+
+16:34 - Glenn Renfro
+Yes.
+
+16:34 - Catalin Tudose
+And also, I'm personally organizing as a Java chapter lead for Locksoft monthly talks with invitees from from all over the world, internal and external from our company. If you would like to have some talk about Java for our company, I would be glad to host you.
+
+17:04 - Unidentified Speaker
+Awesome.
+
+17:05 - Glenn Renfro
+So that's what I wanted to say from my side.
+
+17:10 - Catalin Tudose
+So basically you're saying, let me go back down to notes on that.
+
+17:16 - Glenn Renfro
+So in the same of the paper, PhD paper, yes.
+
+17:21 - Catalin Tudose
+So there may be scientific articles that are related to a PhD thesis or maybe not that so necessary because research is continuous.
+
+17:32 - Hillmer Chona
+I don't know, because I'm also now a student in the Pennsylvania State University, a PhD student. So I'm finishing my coursework today. So since tomorrow, I will be just working on research. And my idea is to be something in Java. Can you repeat the name of the person you said that?
+
+17:54 - Glenn Renfro
+Oh, it's Matt. Vlad. Vlad Mihalchev.
+
+17:58 - Hillmer Chona
+Right here.
+
+17:59 - Catalin Tudose
+No, he was also a student. So he attends, but this is for the autumn. You are registered as a PhD student in the autumn, usually in the universities.
+
+18:17 - Hillmer Chona
+So we're discussing in principle. Also, he's going to start next semester.
+
+18:24 - Catalin Tudose
+Yes, but he's preparing. Yes, the start of the semester is in, of course, the start of the university year is in autumn. And do you know where?
+
+18:37 - Hillmer Chona
+Where? In Romania. Romania, okay. Okay, I'm gonna reach...
+
+18:41 - Glenn Renfro
+Congratulations and good luck to you.
+
+18:43 - Hillmer Chona
+The reason I came back to school is because this is a good time to learn. Yes.
+
+18:52 - Catalin Tudose
+So we keep on going back to school.
+
+18:57 - Glenn Renfro
+It never stops, does it?
+
+18:59 - Catalin Tudose
+Never stop. Otherwise, especially in our field, not absolutely related to AI, to Java, but in IT, if you stop learning, that's it. You are kaput.
+
+19:14 - Glenn Renfro
+I can honestly tell you, one of the reasons I submitted talks in AI and on the topics was as a forcing factor is I said okay not you know like if I'm studying for myself or for work it becomes very focused in this zone but if I start writing a paper or like a blog or I give a talk I dig way deeper a lot and do a lot more work on that learning so that my paper or the talk that I'm giving is richer and better and so I use it as a forcing And so, you know, how do you learn? It's like, well, you can be a student, you can, uh, practice it or you can teach it. And it's that, that, that's, that's how you stay ahead. Well, not even stay ahead, just do right.
+
+20:08 - Catalin Tudose
+Can you please tell me, uh, from our Java champions, uh, who is professor in the university? I know about Zoran. I don't know.
+
+20:20 - Unidentified Speaker
+Frank?
+
+20:21 - Hillmer Chona
+Frank is professor, but I think Frank Greco. Frank Greco?
+
+20:28 - Catalin Tudose
+Uh-huh, okay.
+
+20:29 - Hillmer Chona
+He's not a full-time professor. Also Barry.
+
+20:33 - Hillmer Chona
+Barry Bird.
+
+20:35 - Glenn Renfro
+Yeah. Ken Cousin. Ken Fogle.
+
+20:38 - Hillmer Chona
+It's Fogle.
+
+20:39 - Glenn Renfro
+Yeah, Cousin and Fogle both do.
+
+20:43 - Hillmer Chona
+Yeah, there is. I think it's Francisco. He's a professor in Brazil. I think he's a full-time professor. There is another one.
+
+20:56 - Unidentified Speaker
+Let me try to remember.
+
+20:59 - Glenn Renfro
+I think in England.
+
+21:01 - Hillmer Chona
+I forgot. I know because he sent a paper that he published last year.
+
+21:10 - Catalin Tudose
+Kirny, I think. Dirk Koenig.
+
+21:13 - Hillmer Chona
+I don't remember the name, but probably yes. I know he is based in UK.
+
+21:22 - Catalin Tudose
+Yes, I didn't...
+
+21:23 - Hillmer Chona
+I think he's in Switzerland, but okay. No, maybe it's another one, because I... I think it's another one. He has a... But full-time maybe about four, only four or five. Some of them are just lecturers. But Barry is full-time. Still, I think he's full-time.
+
+21:48 - Unidentified Speaker
+Barry is full-time, yes. Okay, great.
+
+21:50 - Glenn Renfro
+Yeah, Barry is full-time.
+
+21:52 - Glenn Renfro
+I'm trying to remember where he teaches. He's in Jersey is where he teaches. Or New Jersey.
+
+22:00 - Hillmer Chona
+Yeah, he's close to Jersey. I talked to him, but I forgot now. I don't think there's anybody else. So it's just kind of looking through this list. No, no, of course, we have Venkat.
+
+22:16 - Unidentified Speaker
+Venkat.
+
+22:16 - Hillmer Chona
+Oh, yeah, Venkat, yeah.
+
+22:18 - Glenn Renfro
+He's a lecturer, also. He's a lecturer. I just wanted to see.
+
+22:23 - Glenn Renfro
+Wait, that's not there.
+
+22:25 - Glenn Renfro
+OK. And let's see. OK, let's try to think of what else we have. So the action item, so far the action items I do have are as follows. Is to let's talk. Let's reach out the JCP committee. See if this is an umbrella we could go under or let him know what we're doing. I can reach out to Heather to do that and just say you know this is what we're working at and you know how how does how these parts intersect? And I could probably schedule a meeting with her on that or at least email chain. The other is I did add a note note to the education group saying what about people working on their thesis? Yeah, this is a great place for them to. Share, get advice for it. Publish whatever it is. You know it's a great place to do that. Is there any other ideas you want to kind of throw in there? Also, there was a I'll add it to our notes here. I sit on email, but I'll go ahead.
+
+23:37 - Unidentified Speaker
+It's a talk.
+
+23:39 - Glenn Renfro
+So where did it go? I put that shorter.
+
+23:43 - Hillmer Chona
+I have a question about the Slack channel. Yes, sir. Is Slack working now?
+
+23:49 - Glenn Renfro
+Well, we were using the Java Champion organization. OK, so you're there. But we have members of the group now that are not Java Champions. So we have to... Make sure we have to find a plate. We have to create another organization that's outside because we can't add new non-Java or non-JCs to that organization. So that's kind of the catch that we had. I'll do this, too.
+
+24:25 - Hillmer Chona
+And also, I think Maurice also, the Java champion who just joined, Yes, I'm sorry, I'm only dropping in briefly. Are you a college or university professor?
+
+24:39 - Maurice Naftalin
+Sorry?
+
+24:40 - Hillmer Chona
+Are you a college or university?
+
+24:43 - Maurice Naftalin
+No, I'm not. I'm not. I'm independent. Okay.
+
+24:47 - Hillmer Chona
+Now, we were talking about what Java champions, what Java champions are faculty or close to academia?
+
+24:56 - Catalin Tudose
+More or less, let's say, more or less, it's part of Part-time, full-time.
+
+25:02 - Glenn Renfro
+Maybe full-time, maybe part-time, maybe multiple jobs.
+
+25:06 - Catalin Tudose
+Well, welcome, Maurice. Thank you for coming.
+
+25:10 - Glenn Renfro
+I'm afraid I've come late and I'm going to have to leave quite shortly, but this was the only little slot that I had. Well, thank you for coming. I just want to express a bit of support. So what we're doing is do you know? So basically what we're the meeting prior to we just kind of covered the working groups that we've proposed. We've the before we actually start the working groups and schedule them, we decided that we wanted to take a pause and work on the charter for the group. Frank was. I said he felt that it would be So we're all walking on the same page. And so, in the emails I sent out through the group, you'll see where I've added the proposal. It's draft. It's pure draft. And I'm like, tear it up. Let's rip it apart. Let's put it back together and make it what we want it to be. And then in a couple of weeks, reconvene and go over that. Hillmer here brought in a very, very good point. One of the things I realized is since we were expanding the group, it was Java Champion AI group, which is a legal name to use. But I said, well, it's all Java now because we're going to make it more of an invite group where we can bring in people who are not Java champions, but like Java experts or jug leaders that have, you know, want to dig in and have experience in the AI Java field. Bring them in. So I said, well, it's no longer the JCI group, but let's call it Java AI group. And Maurice or sorry, Hillmer said, need to ask somebody about that. So get the word Java. And we're just kind of going through and talking about, like, what are other things that we can do with the group? There are questions. Again, I think the chart If y'all can look at it over the next week, I'll set up another meeting where we just kind of, everybody gets together after adding their notes and agree to certain things and see if we can take it from a draft to a candidate. And I think that's, let's see, was there anything else?
+
+27:48 - Catalin Tudose
+Just a question. On Tuesday, April 29th, how many people were connected?
+
+27:55 - Glenn Renfro
+It's 10. I'm thinking that we have officially about 71 people that have jumped in. Effectively, on Tuesday, how many?
+
+28:09 - Catalin Tudose
+Effectively, it was 10.
+
+28:12 - Glenn Renfro
+So what I'm looking at is our effective group size is really about 15 people. That will be active contributors and want to participate in actually do the work. The others I think are either challenging it or they're like I can't commit that much time to it, but I'm you know I want to support it, but they can't put time to it. So that's kind of where we're at. On that and also I need to also find out if my communications are getting out there? Are they effective? Is there something I'm missing? So that, you know, we're actively, you know, people are being reached by us so that our members, so they know what stuff is happening.
+
+29:03 - Unidentified Speaker
+Okie dokie.
+
+29:04 - Glenn Renfro
+Well folks, I'm going to go ahead and give you back about 30 minutes of your time. And Please, I'll send out the email. You'll see again, just kind of close off right here real quick. If we go look at the recent groups conversations here. Again, you'll see that there's a charger proposal out there. Please take a look. I'm going to schedule some meeting to kind of go over that. You'll also, if you're interested, I also sent out yesterday the recording and the notes for that. It's here. And I will also do the same for this, and I will get that out on Saturday. OK? Folks, thank you all for coming. Thank you.
+
+30:03 - Catalin Tudose
+Well, thank you for organizing.
