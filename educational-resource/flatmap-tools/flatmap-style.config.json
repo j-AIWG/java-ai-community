@@ -1,0 +1,24 @@
+{
+  "repository_link": "https://github.com/YOUR_ORG/YOUR_REPO",
+  "base_folder": "educational-resource",
+  "flatmap_depth": 2,
+  "tags": {
+    "type:code": { "icon": "💻" },
+    "type:tutorial": { "icon": "🙌" },
+    "type:benchmark": { "icon": "📊" },
+    "type:api-doc": { "icon": "📚" },
+    "type:overview": { "icon": "🧭" },
+    "type:external": { "icon": "🔗" },
+    "level:beginner": { "border_color": "green", "border_width": "4px" },
+    "level:intermediate": { "border_color": "yellow", "border_width": "4px" },
+    "level:advanced": { "border_color": "orange", "border_width": "4px" },
+    "level:expert": { "border_color": "red", "border_width": "4px" },
+    "status:draft": { "background_color": "lightgrey" },
+    "status:review-needed": { "background_color": "lightgrey" },
+    "status:published": {},
+    "status:missing": { "background_color": "lightgrey" },
+    "visibility:internal": { "exclude": true },
+    "visibility:archived": { "exclude": true }
+  }
+}
+  
