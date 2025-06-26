@@ -144,6 +144,28 @@ n_50_domain_use_cases_50_education["Education"]
 n_50_domain_use_cases --> n_50_domain_use_cases_50_education
 n_50_domain_use_cases_50_education_placeholder_md["🧭 Placeholder"]
 n_50_domain_use_cases_50_education --> n_50_domain_use_cases_50_education_placeholder_md
+n_60_learning_paths["Learning Paths"]
+root --> n_60_learning_paths
+n_60_learning_paths_10_new_to_genai["New To Genai"]
+n_60_learning_paths --> n_60_learning_paths_10_new_to_genai
+n_60_learning_paths_10_new_to_genai_placeholder_md["🧭 Placeholder"]
+n_60_learning_paths_10_new_to_genai --> n_60_learning_paths_10_new_to_genai_placeholder_md
+n_60_learning_paths_20_new_to_java["New To Java"]
+n_60_learning_paths --> n_60_learning_paths_20_new_to_java
+n_60_learning_paths_20_new_to_java_placeholder_md["🧭 Placeholder"]
+n_60_learning_paths_20_new_to_java --> n_60_learning_paths_20_new_to_java_placeholder_md
+n_60_learning_paths_30_new_to_ml["New To Ml"]
+n_60_learning_paths --> n_60_learning_paths_30_new_to_ml
+n_60_learning_paths_30_new_to_ml_placeholder_md["🧭 Placeholder"]
+n_60_learning_paths_30_new_to_ml --> n_60_learning_paths_30_new_to_ml_placeholder_md
+n_60_learning_paths_40_new_to_langchain4j_springai["New To Langchain4J Springai"]
+n_60_learning_paths --> n_60_learning_paths_40_new_to_langchain4j_springai
+n_60_learning_paths_40_new_to_langchain4j_springai_placeholder_md["🧭 Placeholder"]
+n_60_learning_paths_40_new_to_langchain4j_springai --> n_60_learning_paths_40_new_to_langchain4j_springai_placeholder_md
+n_60_learning_paths_50_models_and_providers["Models And Providers"]
+n_60_learning_paths --> n_60_learning_paths_50_models_and_providers
+n_60_learning_paths_50_models_and_providers_placeholder_md["🧭 Placeholder"]
+n_60_learning_paths_50_models_and_providers --> n_60_learning_paths_50_models_and_providers_placeholder_md
 click full_sitemap_md "/docs/full-sitemap"
 click n_00_getting_started "/docs/getting-started"
 click n_00_getting_started_05_new_to_java "/docs/getting-started/new-to-java"
@@ -208,6 +230,17 @@ click n_50_domain_use_cases_40_scientific_research "/docs/domain-use-cases/scien
 click n_50_domain_use_cases_40_scientific_research_placeholder_md "/docs/domain-use-cases/scientific-research/placeholder"
 click n_50_domain_use_cases_50_education "/docs/domain-use-cases/education"
 click n_50_domain_use_cases_50_education_placeholder_md "/docs/domain-use-cases/education/placeholder"
+click n_60_learning_paths "/docs/learning-paths"
+click n_60_learning_paths_10_new_to_genai "/docs/learning-paths/new-to-genai"
+click n_60_learning_paths_10_new_to_genai_placeholder_md "/docs/learning-paths/new-to-genai/placeholder"
+click n_60_learning_paths_20_new_to_java "/docs/learning-paths/new-to-java"
+click n_60_learning_paths_20_new_to_java_placeholder_md "/docs/learning-paths/new-to-java/placeholder"
+click n_60_learning_paths_30_new_to_ml "/docs/learning-paths/new-to-ml"
+click n_60_learning_paths_30_new_to_ml_placeholder_md "/docs/learning-paths/new-to-ml/placeholder"
+click n_60_learning_paths_40_new_to_langchain4j_springai "/docs/learning-paths/new-to-langchain4j-springai"
+click n_60_learning_paths_40_new_to_langchain4j_springai_placeholder_md "/docs/learning-paths/new-to-langchain4j-springai/placeholder"
+click n_60_learning_paths_50_models_and_providers "/docs/learning-paths/models-and-providers"
+click n_60_learning_paths_50_models_and_providers_placeholder_md "/docs/learning-paths/models-and-providers/placeholder"
 classDef col0 fill:#b3d9ff,stroke:none;
 classDef col1 fill:#d5b3ff,stroke:none;
 classDef col2 fill:#ffcccc,stroke:none;
@@ -247,6 +280,12 @@ class n_50_domain_use_cases_30_accessibility col2;
 class n_50_domain_use_cases_40_scientific_research col2;
 class n_50_domain_use_cases_50_education col2;
 class n_50_domain_use_cases col1;
+class n_60_learning_paths_10_new_to_genai col2;
+class n_60_learning_paths_20_new_to_java col2;
+class n_60_learning_paths_30_new_to_ml col2;
+class n_60_learning_paths_40_new_to_langchain4j_springai col2;
+class n_60_learning_paths_50_models_and_providers col2;
+class n_60_learning_paths col1;
 class root col0;
 classDef custom0 fill:#d5b3ff;
 class full_sitemap_md custom0;
@@ -324,6 +363,16 @@ classDef custom36 fill:lightgrey,stroke:green,stroke-width:4px,stroke-dasharray:
 class n_50_domain_use_cases_40_scientific_research_placeholder_md custom36;
 classDef custom37 fill:lightgrey,stroke:green,stroke-width:4px,stroke-dasharray:0;
 class n_50_domain_use_cases_50_education_placeholder_md custom37;
+classDef custom38 fill:lightgrey,stroke:green,stroke-width:4px,stroke-dasharray:0;
+class n_60_learning_paths_10_new_to_genai_placeholder_md custom38;
+classDef custom39 fill:lightgrey,stroke:green,stroke-width:4px,stroke-dasharray:0;
+class n_60_learning_paths_20_new_to_java_placeholder_md custom39;
+classDef custom40 fill:lightgrey,stroke:green,stroke-width:4px,stroke-dasharray:0;
+class n_60_learning_paths_30_new_to_ml_placeholder_md custom40;
+classDef custom41 fill:lightgrey,stroke:green,stroke-width:4px,stroke-dasharray:0;
+class n_60_learning_paths_40_new_to_langchain4j_springai_placeholder_md custom41;
+classDef custom42 fill:lightgrey,stroke:green,stroke-width:4px,stroke-dasharray:0;
+class n_60_learning_paths_50_models_and_providers_placeholder_md custom42;
 linkStyle default interpolate basis
 ```
 

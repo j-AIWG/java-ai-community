@@ -4,7 +4,7 @@
  * work well for content-centric websites.
  */
 
-/* You can override the default Infima variables here. */
+/* === Infima Root === */
 :root {
   --ifm-color-primary: #2e8555;
   --ifm-color-primary-dark: #29784c;
@@ -17,7 +17,6 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
   --ifm-color-primary: #25c2a0;
   --ifm-color-primary-dark: #21af90;
@@ -34,7 +33,7 @@
   margin-top: -0.5rem;
 }
 
-/* === HOMEPAGE CARD GRID STYLING === */
+/* === HOMEPAGE CARD GRID === */
 
 .homepage {
   background-color: #f9fafb;
@@ -73,27 +72,27 @@
   text-decoration: none;
   color: #222;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
-  transition: transform 0.2s ease, box-shadow 0.2s
+  transition: transform 0.2s ease, box-shadow 0.2s;
 }
 
 .card-bg-green {
   background-color: #e6f4ea;
-  border: 4px solid #b4dfc5; /* darker mint */
+  border: 4px solid #b4dfc5;
 }
 
 .card-bg-blue {
   background-color: #e7f0fd;
-  border: 4px solid #b6c8f3; /* steel blue */
+  border: 4px solid #b6c8f3;
 }
 
 .card-bg-purple {
   background-color: #f3e8fd;
-  border: 4px solid #dabef3; /* medium lavender */
+  border: 4px solid #dabef3;
 }
 
 .card-bg-yellow {
   background-color: #fff9db;
-  border: 4px solid #f4e99c; /* warm yellow */
+  border: 4px solid #f4e99c;
 }
 
 .card-title {
@@ -119,136 +118,87 @@
   line-height: 1.5;
 }
 
+/* === HOT TOPICS: WORD CLOUD === */
+
 .hot-topics {
   padding: 3rem 1rem;
   background-color: #fdfdfd;
 }
 
 .hot-topics__container {
-  max-width: 960px;
+  max-width: 1100px;
   margin: 0 auto;
   text-align: center;
 }
 
-.hot-topics__title {
-  font-size: 2.5rem;
-  font-weight: 700;
+.wordcloud-header {
+  text-align: center;
+  margin-bottom: 2rem;
+  padding: 2rem;
+  background: #f5f7fa;
+  border-radius: 12px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.wordcloud-header h1 {
+  font-size: 2.3rem;
   margin-bottom: 0.5rem;
 }
 
-.hot-topics__subtitle {
-  font-size: 1.2rem;
+.wordcloud-header p {
+  font-size: 1.1rem;
   color: #666;
-  margin-bottom: 2rem;
 }
 
 .wordcloud {
-  padding: 3rem 2rem;
-  max-width: 1200px;
-  margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 1.5rem;
+  gap: 1.2rem;
+  padding: 2rem 1rem;
 }
 
 .word {
   display: inline-block;
   text-decoration: none;
   font-weight: 600;
-  transition: transform 0.2s ease, color 0.2s ease;
   white-space: nowrap;
+  transition: transform 0.2s ease, color 0.2s ease;
+}
+
+.word:hover {
+  transform: scale(1.08);
+  text-decoration: underline;
 }
 
 /* Font sizes */
 .word--xl { font-size: 3rem; }
 .word--lg { font-size: 2rem; }
-.word--md { font-size: 1.3rem; }
+.word--md { font-size: 1.4rem; }
 
-/* Optional: rotate a few for natural look */
-.word:nth-child(3n) { transform: rotate(-4deg); }
-.word:nth-child(5n) { transform: rotate(3deg); }
-
-/* Color styles by type */
+/* Category colors */
 .word--concept { color: #1a7f37; }
 .word--tool { color: #1e40af; }
 .word--protocol { color: #7e22ce; }
 .word--use { color: #b45309; }
 .word--concern { color: #b91c1c; }
 
-
-.wordcloud__item {
-  text-decoration: none;
-  transition: all 0.2s ease;
-  font-weight: 500;
-  color: #2e8555;
-}
-
-.wordcloud__item:hover {
-  color: #157347;
-  transform: scale(1.08);
-}
-
-.wordcloud__item--xl {
-  font-size: 2rem;
-}
-
-.wordcloud__item--lg {
-  font-size: 1.6rem;
-}
-
-.wordcloud__item--md {
-  font-size: 1.2rem;
-}
-
-.wordcloud__item--sm {
-  font-size: 1rem;
-  color: #888;
-}
+/* Fake randomness */
+.rotate-left { transform: rotate(-4deg); }
+.rotate-right { transform: rotate(3deg); }
+.float-up { position: relative; top: -4px; }
+.float-down { position: relative; top: 4px; }
 
 .wordcloud {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
   padding: 2rem;
-  text-align: center;
-  max-width: 1000px;
-  margin: 0 auto;
+  align-items: center;
 }
 
-.word {
-  display: inline-block;
-  margin: 1rem 1.2rem;
-  text-decoration: none;
-  font-weight: 600;
-  transition: transform 0.2s ease, color 0.2s ease;
-  white-space: nowrap;
+/* Ensure line structure is allowed */
+.wordcloud__row {
+  flex-wrap: wrap;
 }
-
-.word:hover {
-  transform: scale(1.1);
-}
-
-/* Font sizes */
-.word--xl { font-size: 2.8rem; }
-.word--lg { font-size: 2.1rem; }
-.word--md { font-size: 1.5rem; }
-
-/* Rotations for visual cloudness */
-.rotate-left { transform: rotate(-5deg); }
-.rotate-right { transform: rotate(4deg); }
-
-/* Category-based colors */
-.word--concept { color: #1a7f37; }
-.word--tool { color: #1e40af; }
-.word--protocol { color: #7e22ce; }
-.word--use { color: #b45309; }
-.word--concern { color: #b91c1c; }
-
-.wordCloudHeader {
-  text-align: center;
-  margin-bottom: 2rem;
-  padding: 1rem;
-  background: #f5f7fa;
-  border-radius: 12px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-}
-
 
