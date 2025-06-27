@@ -15,7 +15,7 @@ const config = {
   baseUrl: '/java-ai-community/',
 
   organizationName: 'j-AIWG',
-  projectName: 'java-ai-community'
+  projectName: 'java-ai-community',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

@@ -46,7 +46,7 @@ export default function Home() {
       <div className="homepage">
         <main>
           <div className="homepage__container">
-            <h1 className="homepage__title">Java + AI: One Unified Map</h1>
+            <h1 className="homepage__title">Find Everything Java + AI</h1>
             <p className="homepage__subtitle">
               Explore, learn, and build across the AI landscape with Java.
             </p>

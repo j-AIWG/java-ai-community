@@ -3,11 +3,12 @@
   "base_folder": "educational-resource",
   "flatmap_depth": 2,
   "tags": {
+    "status:placeholder": { "icon": "🚧" },
     "type:code": { "icon": "💻" },
     "type:tutorial": { "icon": "🙌" },
     "type:benchmark": { "icon": "📊" },
     "type:api-doc": { "icon": "📚" },
-    "type:overview": { "icon": "🧭" },
+    "type:overview": { "icon": "🌐" },
     "type:external": { "icon": "🔗" },
     "level:beginner": { "border_color": "green", "border_width": "4px" },
     "level:intermediate": { "border_color": "yellow", "border_width": "4px" },

@@ -93,13 +93,35 @@ def apply_styling_to_node(tags, style_config):
         'clickable': True,
         'exclude': False
     }
+    
+    # First pass: apply all styles except icons
     for tag in tags:
         if tag in style_config.get('tags', {}):
             tag_style = style_config['tags'][tag]
             for style_key, style_value in tag_style.items():
-                if style_key in styles:
+                if style_key in styles and style_key != 'icon':
                     if styles[style_key] is None:
                         styles[style_key] = style_value
+    
+    # Second pass: handle icons with priority for status:placeholder
+    placeholder_icon = None
+    other_icons = []
+    
+    for tag in tags:
+        if tag in style_config.get('tags', {}):
+            tag_style = style_config['tags'][tag]
+            if 'icon' in tag_style:
+                if tag == 'status:placeholder':
+                    placeholder_icon = tag_style['icon']
+                else:
+                    other_icons.append(tag_style['icon'])
+    
+    # Use placeholder icon if available, otherwise use the first other icon
+    if placeholder_icon:
+        styles['icon'] = placeholder_icon
+    elif other_icons:
+        styles['icon'] = other_icons[0]
+    
     return styles
 
 def create_mermaid_node_style(styles, default_fill=None):
@@ -131,7 +153,8 @@ def create_node_label(title, styles, is_external=False, external_url=None):
     return label
 
 def strip_order_prefix(name):
-    return re.sub(r"^\d{2,}-", "", name)
+    # Remove numeric prefixes with either underscore or dash separator
+    return re.sub(r"^\d{2,}[_-]", "", name)
 
 def normalize_id(path):
     id_raw = path.replace("/", "_").replace("-", "_").replace(".", "_")
@@ -170,6 +193,28 @@ def get_folder_sidebar_position(folder_path):
         return pos
     return float('inf')
 
+def get_folder_title(folder_path):
+    """Get the title from a folder's index.md file, or fall back to folder name."""
+    index_md_path = os.path.join(folder_path, "index.md")
+    if os.path.isfile(index_md_path):
+        try:
+            with open(index_md_path, "r", encoding="utf-8") as f:
+                content = f.read()
+            # Try to get title from frontmatter
+            if content.startswith("---"):
+                match = re.match(r'^---\n(.*?)\n---', content, re.DOTALL)
+                if match:
+                    frontmatter_text = match.group(1)
+                    for line in frontmatter_text.split('\n'):
+                        if line.strip().startswith("title:"):
+                            title = line.split(":", 1)[1].strip().strip('"').strip("'")
+                            if title:
+                                return title
+        except:
+            pass
+    # Fallback to folder name
+    return strip_order_prefix(os.path.basename(folder_path)).replace("-", " ").title() or "Home"
+
 def build_mermaid(folder_path, rel_path, depth, parent_id=None, max_depth_override=None, style_config=None):
     if style_config is None:
         style_config = load_style_config()
@@ -177,14 +222,36 @@ def build_mermaid(folder_path, rel_path, depth, parent_id=None, max_depth_overri
     clicks = []
     classes = {}
     style_classes = {}
+    palette = ["#b3d9ff", "#d5b3ff", "#ffcccc", "#ffd699", "#d0f0c0"]
+    
     current_id = normalize_id(rel_path or "root")
-    label = strip_order_prefix(os.path.basename(folder_path)).replace("-", " ").title() or "Home"
-    lines.append(f'{current_id}["{label}"]')
+    label = get_folder_title(folder_path)
+    
+    # Apply styling to folder node based on its index.md frontmatter
+    folder_styles = {'icon': None, 'border_color': None, 'background_color': None, 'text_color': None, 'border_style': None, 'border_width': None, 'clickable': True, 'exclude': False}
+    index_md_path = os.path.join(folder_path, "index.md")
+    if os.path.isfile(index_md_path):
+        frontmatter = parse_frontmatter(index_md_path)
+        tags = extract_tags_from_frontmatter(frontmatter)
+        folder_styles = apply_styling_to_node(tags, style_config)
+    
+    # Create folder label with styling
+    folder_label = create_node_label(label, folder_styles)
+    lines.append(f'{current_id}["{folder_label}"]')
+    
     if rel_path:
+        # Create URL with stripped folder names, base path, and trailing slash
         clean_rel_path = "/".join(strip_order_prefix(p) for p in rel_path.split(os.sep))
-        clicks.append(f'click {current_id} "/docs/{clean_rel_path}"')
+        clicks.append(f'click {current_id} "/java-ai-community/docs/{clean_rel_path}/"')
     if parent_id:
         lines.append(f"{parent_id} --> {current_id}")
+    
+    # Apply folder styling to style_classes with depth-based color
+    color_for_depth = palette[depth % len(palette)]
+    mermaid_style = create_mermaid_node_style(folder_styles, default_fill=color_for_depth)
+    if mermaid_style:
+        style_classes[current_id] = mermaid_style
+    
     effective_max_depth = max_depth_override if max_depth_override is not None else get_max_depth()
     if depth >= effective_max_depth:
         return lines, clicks, {current_id: depth}, style_classes
@@ -207,7 +274,6 @@ def build_mermaid(folder_path, rel_path, depth, parent_id=None, max_depth_overri
             combined.append((e, False, pos))
     # Sort by sidebar_position, then name
     combined.sort(key=lambda x: (x[2], x[0]))
-    palette = ["#b3d9ff", "#d5b3ff", "#ffcccc", "#ffd699", "#d0f0c0"]
     for name, is_dir, _ in combined:
         if is_dir:
             full_path = os.path.join(folder_path, name)
@@ -233,7 +299,19 @@ def build_mermaid(folder_path, rel_path, depth, parent_id=None, max_depth_overri
                 node_label = create_node_label(title, styles, is_external, external_url)
                 lines.append(f'{node_id}["{node_label}"]')
                 if styles['clickable'] and not is_external:
-                    clean_entry_path = "/docs/" + "/".join(strip_order_prefix(p) for p in entry_rel_path.replace(".md", "").split(os.sep))
+                    # For files, create URL based on parent folder + stripped file name
+                    if rel_path:
+                        # Parent folder path (stripped) - need to strip prefixes from each part of the path
+                        path_parts = rel_path.split(os.sep)
+                        stripped_path_parts = [strip_order_prefix(part) for part in path_parts]
+                        parent_path = "/".join(stripped_path_parts)
+                        # Stripped file name
+                        stripped_filename = strip_order_prefix(name.replace(".md", ""))
+                        clean_entry_path = f"/java-ai-community/docs/{parent_path}/{stripped_filename}/"
+                    else:
+                        # Root level file
+                        stripped_filename = strip_order_prefix(name.replace(".md", ""))
+                        clean_entry_path = f"/java-ai-community/docs/{stripped_filename}/"
                     clicks.append(f'click {node_id} "{clean_entry_path}"')
                 lines.append(f"{current_id} --> {node_id}")
                 color_for_depth = palette[(depth + 1) % len(palette)]
