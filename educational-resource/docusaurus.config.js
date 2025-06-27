@@ -11,14 +11,16 @@ const config = {
     v4: true,
   },
 
-  url: 'https://your-docusaurus-site.example.com',
-  baseUrl: '/',
+  url: 'https://j-AIWG.github.io',
+  baseUrl: '/java-ai-community/',
 
-  organizationName: 'facebook',
-  projectName: 'docusaurus',
+  organizationName: 'j-AIWG',
+  projectName: 'java-ai-community'
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+
+  trailingSlash: true,
 
   i18n: {
     defaultLocale: 'en',
