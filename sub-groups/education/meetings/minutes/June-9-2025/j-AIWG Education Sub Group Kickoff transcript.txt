@@ -1,0 +1,509 @@
+j-AIWG Education Sub Group Kickoff
+Mon, Jun 9, 2025
+
+0:00 - Glenn Renfro
+I was.
+
+0:00 - Glenn Renfro
+This morning they had a bot that they had set up. They said. You know your password is due to expire. Would you like to change it? We recommend using the one the one that bought the chat session to do it. OK, well. And I've discovered that just because you can use MCP doesn't mean that you should Good. About halfway through, it had a problem and they had no way to roll it back. Oops. Yeah. So, or the system had no concept of how to roll it back. I went, somebody push this out really fast to impress somebody and did not test it. So I wound up having to go through traditional means and reset up the password. Sort of remaining systems. And it was like, okay, I wrote it back, I wrote back to him, I was like, look, y'all need to make sure that you make this thing where it has a good exit point or notifies you of what you should do if it fails. Because I know you can't roll back on some of these systems. This is not a something that you can just put in a transaction. And, you know, this was like, oof, just because you can, don't don't so you have to it was clearly their first crack at mcp hello all we're just going to give everybody the professor five minutes to jump on board then we'll get started I don't know what universities it's like some was like you stay the whole class some was like 20 minutes and So I'm like, how long do you wait?
+
+1:51 - Unidentified Speaker
+Yeah, I think it's changed over time.
+
+1:55 - Paul Webber
+Oh, it probably has.
+
+1:57 - Glenn Renfro
+I found out my university that it was like, it doesn't matter if it's a teaching assistant or when I was going to university many, many moons ago. And it was like, it doesn't matter. You wait the whole class. I was like, OK.
+
+2:18 - Paul Webber
+You paid for it, right? Yeah, exactly.
+
+2:23 - Unidentified Speaker
+All right.
+
+2:24 - Glenn Renfro
+So today, just kind of have a prequel, and for the people recording, we're kind of coming at this as a blank sheet of paper. I'm facilitating it, and also I'm of the group, but I have what was taken down initially, what the premise and concepts of the group would be. And so we're here to build it from scratch. Like I said, we can certainly take what was provided before. We can change it. We're really going to be doing a lot of work on just saying, how often do we want to meet? Do we want to do this? Do we want to do that? Is there something that's missing? And we'll cover that in a few minutes. But like I said, this is really just a kickoff. I have only but a few slides. What I will do is make sure that I send out the link to the chat update, the notes in it, or to the, I should say, the recording. I'll make sure I send that out to the, I'm going to still continue using the whole group because it doesn't look like too many people, are on Discord yet. So I'm still going to be sending it out to the entire Java AI workgroup for just a little while until the Discord kind of builds a head of steam to it. I still will make sure I use Discord first and then emails second. But, you know, just kind of get, like I said, just kind of get the kickoff on this thing. And y'all are going to be providing most of the chatter.
+
+4:26 - Unidentified Speaker
+So you'll be like, finally, Glenn gets to shut up.
+
+4:33 - Unidentified Speaker
+Yes.
+
+4:33 - Glenn Renfro
+OK. All right. Well, welcome, everybody, to the education group kickoff. By the way, the name is up to whatever we want it to be, just so long as it's more than four characters and does not contain the contents of any kind of swear word. Does she just feel like it needs to be there? With that being said, let's talk about it a little bit. One of the things that we probably want to do is just to perfunctory create a charter. I can certainly create one, but that really comes from what we want to do with a second point. Of course, we'll all vote on the charter once I render that beautiful document. Y'all will look at it, go, this is like the Magna Carta of the universe right here, what Glenn wrote. But probably not. With that being said, what were the original set of goals? This was provided, was kind of earmarked out at the Arc of AI conference back a few months ago. And it was kind of presented as a way to not only create the articles and videos for the Java community on the topic of AI, best uses of AI, best practices practices, how it interfaces with Java, how Java can be used to do model generation, I mean the whole gambit. But it was also to say that there are already probably very good articles already out there that we could collate and utilize so we don't have to reinvent the wheel. So that was kind of the foundations of the original set or ideas of this group. So we are of the people that will, well, technically, from the original statement, we are the people that will collate it. We are the people that will aggregate it. And we are the ones that will also create content where we see it needs to be content. The other thing is to facilitate the collaborations of the generation of this material or videos. It doesn't mean you have to do it in isolation. It means that you can also share and find a coworker or a So say a cohort in this group that can actually work, we can work together to be able to write the material. Certainly the group come in and edit it once you have provided it. You've written it or you've recorded it. The rest of us can certainly review it. I'm going to go one slide ahead and I'm going to come right back to here. The de facto location of where it was discussed as a, location to push out the material is off of Fuji. And if you hit Fuji site, there have a wonderful tutorial on how to become a person who can submit articles to it and also join its Slack channel, which is how we, it does most of its communication. But this is something that we, this is kind of the, again, we want to go somewhere else we can, This was just kind of de facto starting point, which is actually pretty good in my opinion. Let's go back up to here. With that knowledge. Boy, did I do that? Are these goals correct? Do we want to amend them, remove them, accept them? What would we like to do? And that's where I'm going to get mute and listen. And by the way, take a lot of notes so that you know watching. So, first person, oh, go get Carol Gove. Thank you, Glenn.
+
+8:39 - Catalin Tudose
+So goals are fine, because we've discussed them all, I would add something here, what I will do, and maybe I will inspire other people. Probably, as you remember, during our previous session, I was saying that I'm teaching some Java classes for master's degree. Yes. And I have a course for Java advanced and another course of Java with Spring and Hibernate and what I will plan to do next year or in two years when we have more mature product I would like to introduce some modules about Spring AI. Perfect. So I'm probably I will have to change a little the structure of my course I cannot introduce a new course now but I will see what I can do together with what are discussing about articles, videos, teaching Spring AI in university in a course dedicated to Spring, I think it's very appropriate. And maybe we can add it as a goal. It may inspire some other people that probably, I know some other people are also teaching universities. Ken, I think, yes? Yes. That's what I wanted to add.
+
+9:54 - Glenn Renfro
+Yeah, now we have at least three universities. That's huge. Barry, Ken, I think we may even have others. So we do have three people that are active in that community that we would love to have contributors to, not only for educational materials for what they do, but certainly provide it back. What do people think about, well, if I don't, you keep talking. Okay, we have Lize. Is it Lize or Lize? These are completely wrong on my side. OK, I can do this.
+
+10:29 - Lize Raes
+Yeah, hi. Hi, I'm not a Java champion, but I was invited to this AI Java champions group nonetheless.
+
+10:36 - Kenneth Kousen
+Welcome aboard. Come on in. You're not a Java champion yet.
+
+10:40 - Lize Raes
+You will be. I will not be because I joined Oracle in like two months. Oh, well, delay, delay, just delay.
+
+10:48 - Glenn Renfro
+That's all.
+
+10:49 - Lize Raes
+OK, I just wanted to quickly say I will be on the Java DevRel team at Oracle, specifically for Java and AI, to bring the narrative, help the ecosystem, and get the word out. So that's also why I'm definitely in this group. So it's super, super nice that you're doing this already. We have learned of Java, I think, already. So I guess I will be pushing to get also AI materials on there. And then I was asked to create a LinkedIn course. Which I will also do when I start, I think.
+
+11:25 - Unidentified Speaker
+Also again, Java and AI.
+
+11:27 - Catalin Tudose
+Okay. Where do you live, Germany? Switzerland. I hear some German accent anyway.
+
+11:33 - Lize Raes
+No, I'm Belgian and that would be a Flemish accent.
+
+11:38 - Catalin Tudose
+Flemish.
+
+11:39 - Lize Raes
+Okay. Or I'm very well integrated and I took over the German accent.
+
+11:45 - Unidentified Speaker
+Awesome.
+
+11:45 - Glenn Renfro
+Well, Lize, thank you for joining. And again, there was a discussion that if we use Fuji, how will Oracle feel about us using that versus Oracle? You know, where do we put the articles? Again, we're not trying to rule anybody out. You know, we just, it was the first open source place to put them. So that's maybe one of the discussions that we will have coming up. Yeah. Yeah.
+
+12:10 - Lize Raes
+My first guess, I didn't start yet. Right. But my first guess is Fuji is great because it's kind independent, right? And then I could curate a set to publish on Oracle's website too, and then like, yeah, talk to you about, yeah.
+
+12:28 - Glenn Renfro
+That's, that's fine. Excellent. Neha, welcome. Hello, I'm sorry for crashing the Java champions party.
+
+12:35 - Neha Sardana
+Let me, let me, let me do one thing.
+
+12:40 - Glenn Renfro
+I'm going to show you all this really quick. If I have the, yep. So the J means Java. We dropped the JC aspect to it. We started off as JC and as Java champion only thing. And then we realized it was like, we've got this big, beautiful community. Why are we restricting it to us Yahoos, right? So we said, let's bring in everybody that has a knowledge or a desire to really again. So it's Java. Thank you. But you should be a JC anyway, but we're going to not say that right now. Please ask. Please go ahead.
+
+13:22 - Neha Sardana
+So one thing I wanted to mention, because one of the reasons I wanted to join this group is also because my company Morgan Stanley officially is getting into AI big time. They are developing apps. You can see the public releases as well. It's not a secret anymore. And it's a finance industry dwelling deeper and deeper. And I have not seen a lot of Java work being handled in AI. Like everything is Python based and I understand it's easy and faster to get it into broad. But to me, it's very personal and deep that we should be able to provide some knowledge with the Java apps being able to go into AI as well. So one thing that I wanted to like, get started as the group discussion started, I may be further ahead. But we should settle on, I know we settled on a place where we should post the blogs. But we should also have like a one starting point, like, where do actually people begin with? Because there's so much confusion around AI, like writing applications? Oh, or should you learn NLP first? Oh, you should learn machine learning? Or you should learn AI or where do we actually get the developers one first single starting point? Like, Oh, this is like spring.io, right? You, where you begin your search with, uh, the first article, to be, to be honest, that's what I'm, I'm thinking about.
+
+14:59 - Unidentified Speaker
+That's that's actually a good point.
+
+15:02 - Unidentified Speaker
+Yeah.
+
+15:02 - Unidentified Speaker
+I may try.
+
+15:06 - Catalin Tudose
+Go for it.
+
+15:07 - Catalin Tudose
+Because indeed, as Neha was saying, there are many places to start, where to start from But I would start from the code generation with the help of AI. We discussed about this. Last time I dropped here a link to an article. And I'm still saying that if I will be allowed, and I know I'm allowed to invite my colleague Vladimir Sunkin, we can make some demonstration here. This is, in my opinion, where Java and AI meet at best, when you use AI to speed up your code production.
+
+15:46 - Glenn Renfro
+There's a kind of dovetailing on that. I did a survey to the Atlanta Java users group and one of the most common requests when I did it was like, basically I said, and butter. What beginning talks do y'all would like to have where it's not just for the junior coders, but also for, you know, I'm a developer, I'm a mature developer, but there's things that have been out there for a while that I just haven't got to, but I know that I must get to. And that was one of them. To your point, Catalin, is that literally they were sitting there going, yeah, this is what we need. So this may be, I think you've got a great point of this is a great entry. Like, let's use to use AI to create our first AI app?
+
+16:34 - NYJavaSIG
+Actually, I tend to differ. So I think this meeting is more like a meta meeting rather than a discussion of the actual points. So I mean, I don't think we should dive into the aspect of this particular concept, but I think we need to define different on-rems for different types of developers. If you're a beginner, total beginner, maybe don't even know Java yet, and you want to go in that direction, there's that goal. You're an intermediate, there's that direction. If you're a senior person, there's that direction. So there's many on-ramps. And we can't, among us, not pick one, because there's different learners out there. You have to pick, like, well, I'm an experienced, I'm going to go over here, because I understand basic non-determinism. So I'm going to go over here.
+
+17:22 - Glenn Renfro
+So we have to define different on-ramps.
+
+17:25 - Unidentified Speaker
+Understood.
+
+17:25 - Glenn Renfro
+Agreed. All right. One step back, let's go back to the goals. Are we in agreement that this group could be a group where we could, first off, collate, create articles and videos? Do we all agree on that? Is there any disagreement? Please raise your hand if you have a disagreement.
+
+17:45 - Unidentified Speaker
+All right, let's go.
+
+17:47 - NYJavaSIG
+Who's the customer?
+
+17:48 - Glenn Renfro
+Well, gosh, you're going back to the charter, damn it. All right, great question. Lize, go ahead.
+
+17:57 - Lize Raes
+Yeah, if we publish on Fuji, do we still have the right to publish on our own channels too? I guess it's a yes.
+
+18:06 - Glenn Renfro
+Absolutely, it's open source. This is OSS. Okay, that's another point we have to put in there is everything is OSS here, folks. I guess we could put this in a charter as well. Is the customer. This is one, this is two. And every, you know, this is Apache-based project, if you will. Everything's free. If anybody wants to republish, they can, absolutely.
+
+18:37 - Unidentified Speaker
+Okay.
+
+18:37 - Unidentified Speaker
+Great question.
+
+18:38 - Glenn Renfro
+Folks, thank you. This is what I want. I want everybody in. The next thing. We all agree on that. Are we missing any goals here that you can see?
+
+18:55 - Unidentified Speaker
+Opening the floor.
+
+18:57 - Barry Burd
+I guess my question is, how do we distinguish our subgroup from the other subgroups? What's our defining goals as opposed to the general charter's goals?
+
+19:11 - Glenn Renfro
+The general charter is, in this case right now, was to aggregate subgroups. And each subgroup has its own specific target. We have three groups as of right now. The education group, which we're attending now, there is a conference group. And the conference group is the closest to us, but its primary goal is to facilitate getting more Java-based speakers or rooted speakers into AI conferences to help them once they're in there, help them with only the abstracts of their talks. But it also started spawning off into another direction. With the current political situation in the United States, it was deemed that it was possible that what we would do is share talks across the border where we may, a person in Europe creates a talk, but then shares it with someone in the U.S. And they give the talk in the U.S. So that the cross-pollination isn't terminated because of political boundaries. The third group, and by the way, I'm trying to also form up the conference group, I'm still trying to spin it up. The other group was, I'm trying to remember who started that, I've got it in my notes, is a group that is focused on creating the best practices and creating for Java tooling for AI. Their charter is a little bit more ambiguous, but they are looking more at the tools and the best practices around it. Now, again, that group is still pretty nebulous and has to for and I'm still trying to find, I think I know who the lead would be. So I'm looking at that, but those are the only three groups that we have. The primary whole group is again, just to kick off and monitor the subgroups, if you want to say monitor, just see where they're at, then what will happen once every three months, the subgroups kind of just give a presentation of what they've been doing over the last three months. And it's a great starting point where people are coming in. It's like, I want to be a part of this Java AI mission. Where do I go? Well, go to this group. We'll give you a great intro, a charter, all our documents. And oh, by the way, here's the subgroups that we support. OK. All right.
+
+21:58 - Unidentified Speaker
+So are we missing any goals here?
+
+22:01 - NYJavaSIG
+Is our materials that we're going to create or code late, is that targeted for students or is that targeted for educators?
+
+22:11 - Glenn Renfro
+This is what the group has to decide.
+
+22:16 - NYJavaSIG
+Or does it matter?
+
+22:18 - Catalin Tudose
+I don't think it matters. I would go with a higher level with the engineers because Frank said a little earlier that we should define our target Yes, because we may target even someone that doesn't know Java. But this should be a different approach. If you will ask me my opinion, and you may agree or disagree, I wouldn't use AI to generate code if somebody doesn't master Java. Because I experimented, it produces code and you have to judge about it. You have to decide. Maybe to change it. If you do vibe coding and you don't master things, you may be wrong. I followed the course by Frank on LinkedIn. It's a great introduction.
+
+23:16 - Unidentified Speaker
+Yes.
+
+23:16 - Catalin Tudose
+We discussed about this, you know, but I think we should, we should target engineers here.
+
+23:24 - Glenn Renfro
+So my opinion. Okay. You've heard your hand up. Oh, you're muted.
+
+23:30 - Unidentified Speaker
+You're on mute. OK.
+
+23:32 - Unidentified Speaker
+Sorry.
+
+23:32 - Lize Raes
+Just to summarize, because I hear people talking in a lot of different directions here, what we could cover is machine learning. So that would be predictive AI, generative AI, the whole neural, the language processing and everything, and code generation. Those are three very different things. We can all use Java for it. My suggestion would be cover them all. And then the target audience for on-boarders, maybe even people that are not into Java but want to go into AI and we get them into Java, there are the Java programmers, engineers, and then there's the teachers. And I would, again, actually target them all and just make sure that we have a landing page that is very clear in what are you looking for, who are you, and you know where to go. You listed. Good point.
+
+24:25 - Unidentified Speaker
+I agree.
+
+24:26 - Neha Sardana
+We should cover them all because the most vulnerable I've seen is the group who are inexperienced and they don't know AI and they want to experiment stuff. It's like social media for teenagers, right? So we have to give them some directions where they should be leading.
+
+24:50 - Glenn Renfro
+At the same time, we have the three, but they are all, in the grand scheme of things, they are all the same.
+
+24:57 - ags
+Because the teachers at the university who will end up using Java, if they leave the people with not hating Java, then we've won. But the people who are using Java and have to do something with AI, if we give them something, then hey, they use the language rather than the snake, which is sometimes what they need to. And then I basically agree with Lize in so many words.
+
+25:21 - Unidentified Speaker
+Agreed.
+
+25:22 - Unidentified Speaker
+Barry, you're next.
+
+25:23 - Barry Burd
+I agree with Lize and Neha and everybody else who said that we ought to target. I think we should target anyone we think of targeting. Just spread the word. We need to get the word out about Java. Because it hasn't made enough motion in the AI world. Also, there are a lot of things students can do wrong. First of all, new and upcoming students, they're sort of the seed. They get going, they get excited. It carries on for years and years and years if they become developers. Also, they can definitely do things wrong. And what they need to do is understand the right way to use and the wrong ways to use AI. So we want to catch them while they're still pliable.
+
+26:19 - Unidentified Speaker
+Understood.
+
+26:19 - Unidentified Speaker
+Paul?
+
+26:19 - Paul Webber
+Yeah, I guess going on to the bandwagon, but a little bit more pointed, is that since we are Java focused, then co-create articles and videos on how to use Java with AI should be very specific to Java. And when you go into the elements of, well, what is a large language model? Are the different types of AI out there. You know, a quick link to somewhere else, maybe, but we shouldn't put a lot of effort into it unless that link is something to, like, the Java language add-ons that people, I've seen a couple of links to go by that, you know, try to build a large language model in the Java language and then their me documents explain a little bit about it but I think in the training aspect when we talk about the engineers and spring AI came up yeah how do you use spring AI how do we use the Java stuff that is out there is probably very relevant to the current workforce for those that are learning and educational systems then it may be more along the theory or how do you you quickly get something done, and what is the complexity of that? It's probably not complex. I haven't been to university for quite a few years, so I don't know. They're still building compilers, I hear, but OK.
+
+27:50 - Unidentified Speaker
+I did that.
+
+27:51 - Glenn Renfro
+Did you save your hand up, or did you have another point that I missed to cut you off to?
+
+27:59 - ags
+No, I failed that zoom interface.
+
+28:02 - Glenn Renfro
+Okay.
+
+28:03 - Glenn Renfro
+There we go. All right. Sweet.
+
+28:05 - Unidentified Speaker
+Okay.
+
+28:05 - Glenn Renfro
+So, um, all right, Lize, go for it. Sorry to interrupt once more.
+
+28:10 - Lize Raes
+I just think that if the, to the original goals, we might want to add, um, smoothing the on-ramp for new people. I mean, it's kind of implied, but maybe we should make it explicit if we want to do that.
+
+28:25 - Unidentified Speaker
+Absolutely.
+
+28:25 - Unidentified Speaker
+Thanks.
+
+28:26 - Glenn Renfro
+It's a great call.
+
+28:29 - NYJavaSIG
+That's the group that I worry about the most, the beginners.
+
+28:34 - Lize Raes
+Although, I mean, I speak at conferences a lot and there's really very little people that have hands-on experience with, for me, Lanchain4j or Spring AI. I don't know what Frank sees with the whole ML part. It's surprisingly little adopted even with experienced engineers.
+
+28:53 - NYJavaSIG
+Yeah, it is surprising. Even my intro to Lanchain4j, it's like, wow. It's like hardly anyone has seen this before. It's shocking. It is shocking.
+
+29:02 - Paul Webber
+On that note, and this is something I don't know, Frank, if you've thought about this, is do we have a prediction ourselves for the landscape in four years? If I'm talking to a guy that's coming out of high school and going into college, very challenging to recommend a course of action because I don't know in four years time where the system is going to be. Unfortunately, that's not a good statement for a working group, because there's no, ah, we should do this. I don't have that. And that's part of my issue.
+
+29:40 - NYJavaSIG
+I know the number of times that a student has said, should I go into software development, be a programmer? It doesn't look like it's a good future. It's disheartening when I hear that. There's a lot of YouTube videos that are telling you that the end of the world is coming. That's what they watch, right? So maybe some, yeah, how do we twist that?
+
+30:09 - Paul Webber
+How do we inspire the young minds to go down this course? I mean, when we talk about where do I even start? Why do I even start? By San and Sydney.
+
+30:24 - Unidentified Speaker
+Go for it, Barry.
+
+30:26 - Barry Burd
+So I guess my question is, how are we planning on organizing ourselves in terms of workload? Is it everybody working on the same thing at once or everybody, people working on their own things and contributing and coming back to the group in order to describe what it is that they've done and maybe ask for assistance or whatever. My original conception was that we'd be casting as wide a net as we could for different audiences, because we want to get the word out and spread it as far as we can. Advanced developers, juniors, people who don't know Java, everybody in the middle. That, I think, is more a model where we're all going on our own things and coming back and saying, here's what I've done for the last week or month or whatever. Is that what we're all thinking of Or are we thinking of we've got one big project and we do it and put it in a few Fuji and then come back with another project maybe a month later?
+
+31:42 - Glenn Renfro
+I go ahead. Lize, go.
+
+31:44 - Lize Raes
+Yeah, I would have a suggestion for an answer here. Part of my job at Oracle is going to be make an overview of the ecosystem and what works and what doesn't work and what is the language evolving to. So I just think I could, if you want, for this overview in how we would ideally want this Fuji resource to look like covering kind of everything. And then people can take it from there and say like, oh yeah, this is my cup of tea. I can write this. Introductory article and then we can just see which things we're still lacking in the middle and take it up like that. Another idea is like, yes, if we want to cast as wide a net as possible, as you say, I noticed that publishing content with the right search terms does a great job. Like if you want to target people that don't know AI, then call your article something like AI for beginners and under five minutes, no need to be a programmer or whatever. And people are going to get there. And then we can all like, you know, redirect them to this Fuji resource or a sub part of it that's tailored to them. My two cents.
+
+32:50 - Glenn Renfro
+So can I, Lize, let's dig on that. So you said that you were thinking about creating an article like, you know, where do I start? Are you also saying that create like a entry point site or like page that says, Hey, this is where to start. You know, this is our best guess. Is that what you're thinking about?
+
+33:08 - Unidentified Speaker
+Yeah.
+
+33:08 - Lize Raes
+Let's see when I joined the team, right. What place I have to publish there, but get at least an overview of everything that is covered and not yet covered in Java. Also to steer the internal teams. I mean, they're on a good track, right? They don't need steering, but to have it just clear where the Java ecosystem is at, which I think translate one-on-one with the step-by-step course into it, starting from any level, basically. So I'm happy translating this into what article or what resources would we want to see so people of all levels can get to do everything they want?
+
+33:46 - Glenn Renfro
+OK, so I'm hearing that. So I think what we may want to do is, first off, anybody who wants to start writing an article for the group, I have no, you know, me as a member, I'm like, go for it. But I think we also may want to have, like what you're saying, that intro article, where to start, are, where to look, these are things that you want to kick off at. So that's two. But the third is also we want to have a site that they can hit, like on Fuji or wherever, that says, OK, welcome to Java and AI, right? Here's a great getting started article. Here's an article on, here's what we, first off, this is what we're going to talk about here. These are your launch points. Here's a great article if you don't know what your launch points are written by Lize Raes. You know, here is the Uh, you know, here are some foundational articles kind of going back to what Paul said. You know whether we write them or we curate them here with some of the foundations kind of going to that deeper dive. And then here's like Barry Burd broke the following article on agentic services, right? Boom, there we go. It and you just kind of And then we build it from there. Groundswell. So those are like three things we all can start right now on top of the fourth thing of, okay, let Glenn do the political stuff of creating the charter that we all agree this is what we're going to do. Does that sound like what we're trying to go?
+
+35:24 - Paul Webber
+I want to swing back to Barry's question about how we all are going to work on our own things or not. And I think the web page, and I have only cursory looked at Fuji, if it's like a wiki, if it's like confluence, then we can all go in there and post things and we can all reorganize as we do it. And the first thing that come to mind, yeah, the Kickstarter aspect, you know, Ken has got some stuff already up on YouTube, Catalin, Barry, I don't know if you guys got some stuff. Let's throw those initial articles out there. We don't have to publish it to the world or pontificate it just yet, but let's throw it out there and organize it in real time as opposed to trying to figure out how the structure is going to look, let it kind of evolve itself.
+
+36:17 - Glenn Renfro
+Would we like for one of the Fuji folks to pop on and see if they can give us just a walkthrough of what they have and the tutorial and all that?
+
+36:26 - Kenneth Kousen
+Would that be helpful to folks or would just For what it's worth, just to mention the Fuji site looks to me like it's basically another WordPress site. And that's fine, there's a lot of WordPress experience. My problem with it is a minor one that I already have a WordPress blog and therefore I don't necessarily know how to have multiple logins the way they're talking about logging into their site and getting permissions and everything. When I go to WordPress, I already have one, I already have an account. But if you want to have somebody come in and talk about the Fuji process, I mean, I'm sure that would be probably helpful.
+
+37:06 - Glenn Renfro
+That's what I'm thinking of What's the process? And we may need to talk to critique a little bit more here is like, does the AI have its own process?
+
+37:16 - Kenneth Kousen
+You know, it was Buzz Rockman, I think is the guy who had his name all over that site. And it's probably the person person in charge of most of that.
+
+37:27 - Glenn Renfro
+Okay, thank you for catching that.
+
+37:29 - Kenneth Kousen
+Yeah, his email address is in there somewhere as well. But I'm sure he'd be very, very helpful on all that. But as for my stuff, the videos that were mentioned in my Tales from the Jarside channel and my blog as well, yeah, you're welcome to anything in any of that if that's of any assistance. I'd be happy to write or transfer any of to Oracle as well.
+
+37:55 - Glenn Renfro
+OK. Excellent. OK, so what I'm going to do is I'm going to be evil. And I'm really good at it. So let's go here. Let's go to Todos because we have a lot of Todos here. So let me make sure I get this right. AGS, did you have a question? Yes. Go for it.
+
+38:25 - ags
+For each of the groups that we've identified, when do you think we will be able to say we've done a good job? So I don't want to say success criteria, but success criteria.
+
+38:41 - Glenn Renfro
+Oh, don't do this to me. What's the definition of success? Folks, talk it out. What is definition of success?
+
+38:51 - Paul Webber
+Is anyone using the site? I mean, that's the minimum. Does anybody go and hit these pages? If nobody hits the stuff that we've collated and created, then it's kind of like, OK.
+
+39:06 - ags
+OK, I'll pull on. Who would go there and what for? What kind of info are they after?
+
+39:14 - ags
+I like that train of thought.
+
+39:17 - Paul Webber
+Who was going back to those goals that we talked about, the engineers or the teachers? Why? Yeah, that was the pregnant pause to facilitate more discussion. If anybody knew why you would go there. I'm taking notes.
+
+39:55 - Lize Raes
+I'm just an idea, but it's a bit of work of course, but to have an AI chatbot with Rag on our own articles there and it would teach us something about the people that visit us and then also be like dog feeding of our own technology.
+
+40:17 - Glenn Renfro
+One thing that we can do, do we want to have like editors on our side to make sure before somebody pushes an article out, that it's kind of like the commit rule. One person has reviewed it before we merge it kind of thing. Yes. And not only from the Fuji side, but from our side as well. Because Fuji may have their, it's like, look, it's got to be formatted this way so it's consistent. So you may have like something like that, but when we have it first.
+
+40:48 - Lize Raes
+I think absolutely yes, because if we want people to really use our resource, then the articles have to be a bit independent and, and good.
+
+41:03 - Unidentified Speaker
+Right.
+
+41:03 - Unidentified Speaker
+Yeah, I agree.
+
+41:05 - NYJavaSIG
+And having another person helps with readability.
+
+41:09 - ags
+We all come from different geographies. We all speak with us. Whatever comes from there. If this becomes a global thing, it helps.
+
+41:23 - Unidentified Speaker
+Agreed.
+
+41:24 - Lize Raes
+Side question to that, would we want to translate certain resources in at least the bigger languages? That's a good question.
+
+41:36 - Glenn Renfro
+I know that we have some folks that focus on like Spanish is one of the primary languages, especially for South and Central America.
+
+41:50 - Lize Raes
+Yeah, I guess Spanish and French. Oh yeah, French, very good. And then Mandarin, if anybody knows it. Not me. We can always throw it in an LLM and see what comments come from Mandarin-speaking people. That could get us in some trouble.
+
+42:19 - Unidentified Speaker
+We'll need editors for that.
+
+42:24 - Glenn Renfro
+I will ask Ascari.
+
+42:27 - ags
+question with regards to Mandarin, how are the US to China relationships given Oracle and other corporations?
+
+42:37 - NYJavaSIG
+We're close buddies.
+
+42:39 - Glenn Renfro
+Yeah, I mean, this is this is one of those cases where I can't speak to that either. All right, so let's do this. Here is kind of to do's. I'll go ahead and take a first crack at the charter. I think I'm going to I think I heard Lize say that she would like to take a first crack at like the first article. How do I even get started? Where do I get started? Whatever she wants to call it? Right. But yeah, one question. When you want this?
+
+43:19 - Lize Raes
+Can I have my summer holiday first? Or do you want it like that?
+
+43:24 - Glenn Renfro
+I'll put it this way. At this point, that's a question for the group. It's early June. When do we want to have a launch point? It's all going to take us, even if people are doing independence, it's going to take them a little while to write their first article. What about a landing page?
+
+43:46 - NYJavaSIG
+I mean, the landing page, we could point to existing articles that point to Ken's videos and, you know, code generation stuff from Catalina. Well, you know, that's pretty straightforward though, right? Absolutely.
+
+43:58 - Glenn Renfro
+Do we have a person who wants to lead that? I can assist, but someone can lead that? Is that going to be at Fuji or is that going to be somewhere else?
+
+44:08 - Kenneth Kousen
+Fuji for now. So we need to talk to the Fuji person just to- Okay, let's do that.
+
+44:13 - Glenn Renfro
+Yeah, let me talk to it. So the first thing on the landing page is talk to Buzz.
+
+44:19 - Paul Webber
+Yeah, I did a quick look around and it looks like the Fuji has its own committee for publishing. So, and it is WordPress under the covers. So, I mean just getting a page there and then being able to publish and that goes back to how do we peer review our own stuff before going out the door. I'm not sure if that's possible given the way they do their commits.
+
+44:47 - Kenneth Kousen
+That was my impression as well I was I was kind of confused by the process and I'm not sure how independent it is from the FUJE system.
+
+44:57 - Glenn Renfro
+Right and it could be again this may go back to FUJE is not our goal target it may be somewhere else but for now we're just using it as a de facto. If it looks like it's too restrictive or whatever we deem it's not favorable we can look somewhere out.
+
+45:14 - NYJavaSIG
+We just do a github thing and just put stuff in there.
+
+45:18 - Glenn Renfro
+Yeah, that's something I already have to do for just a group is I'm supposed to have already like created like at least a foundation to say here's how we came up with all this and have that and then have like subgroups to it so like create an org and then based on the org here's like the java.ai org and then have like subgroups projects underneath it.
+
+45:40 - Barry Burd
+So I guess that's good. I would advocate for not only having a wide net in terms of the audience, but also a wide net in terms of the places where we put articles and information, advocacy. Not everybody in the world looks at Fuji. As great a place as it is for Java people, it's not going to be someplace that everybody looks to. So anywhere that we can pepper information, get them started would be great.
+
+46:15 - Unidentified Speaker
+OK.
+
+46:15 - Paul Webber
+I've got to say, that sounds almost like the funnel project, where you've got teasers out there, and you funnel it to wherever the main site is.
+
+46:28 - Unidentified Speaker
+Right.
+
+46:28 - Paul Webber
+And then it will spread out if you've got YouTube or anything else.
+
+46:34 - Lize Raes
+Go ahead.
+
+46:35 - Paul Webber
+We do some A-B testing with titles and stuff. I'd just be happy to have a smart chat bot that does the rag of all the stuff that we throw together because that I think very specific rags are really good when you get to chat gtp or other llms or co-pilots that people they're very broad strokes but if we feed it ken's materials it's going to have ken's humor in there oh yeah well we we could do course too and then we got a real problem.
+
+47:16 - Glenn Renfro
+All right so all right we got about 12 minutes left I do have a hard stop at the top of the hour. All right so one question so I'm going to go ahead and these are kind of to do's. I will share this document with the group but if you have an idea for or an article, go ahead and start. I think the peer review aspect of it, I just really, right now I'm going to hold it pretty loosely that we're all members of the organization. Therefore, we all have the ability to do an approval. But I'll go ahead and put that in the charter as well. But you just have to have that one approval. And even in GitHub, I could set that to saying, okay, if I want to do a commit, you have to have acceptance from another member. So we can go ahead and do it. Lize, go for it.
+
+48:17 - Lize Raes
+I'm wondering if somewhere, somehow we can make, if I make a layout of everything we want to cover, or this first article, I mean, it hangs together with the structure, right? Would there be a way for us to say, oh, there's this article, it fits here, and this article fits here. So we start collecting them, but in a in an ordered way and not in a huge list as a preparation. Does anybody think that makes sense to start with?
+
+48:43 - Paul Webber
+Yeah, it sounds like GitHub folders. Just put it on GitHub, put it into a directory, check it in, and we can categorize it that way. And then when we get more finesse, we can make it a pull-down list, and you don't have to do that anymore. Tags, many ways to do it. But yeah, I think I'm leaning towards more GitHub, Glenn, as a place where we can organize this stuff.
+
+49:06 - Glenn Renfro
+I will disagree with that. And we do it there first before we go anywhere else, right? Before we even touch the Fuji folks, we get our own act together, right?
+
+49:16 - Unidentified Speaker
+Yeah.
+
+49:16 - Lize Raes
+I would want to say that one thing I'm happy creating the folder structure or like at least starting. So you have a starting point. Absolutely.
+
+49:24 - Glenn Renfro
+Go for it. Yeah. Yeah. Go ahead and start and then document it. I can, I mean, if, you know, if somebody else wants to start the GitHub, They can I mean I can kick it off a bit, but it won't be till this weekend before I can work on it. So. But we can start a GitHub repo pretty quick. I'll try to create one for, but we do need to create it under the JAI workgroup. Org. And then create our subgroup underneath it so I could probably do that this weekend. OK, Lize, do you have another question?
+
+50:03 - Glenn Renfro
+OK, we're good.
+
+50:05 - Glenn Renfro
+All right. So the next question is, when do we want to meet again? So we can do it. I mean, we may have. Right now, I'm kind of leaving it to the group as to how they want to organize it. We're kicking off, but we're also, as Lize brought up earlier, we're hitting our summer holidays for many. We could still do it. Like, do we want to reconvene bi-weekly, like every other week to start, and then make it monthly? Or is that too fast, too slow?
+
+50:40 - Paul Webber
+I think in two weeks would be good, if not sooner. Well, if we use the Slack or whatever the channel is, not the Slack channel. If you use another channel, then we can at least see. You got the GitHub page up there, or the group is up there by next week, that's great. Then we can start tweaking on it. But just communicate that. But I would say, yeah, let's try to meet up in two weeks just to make sure that we have a good understanding of how we're going to proceed.
+
+51:17 - Glenn Renfro
+And my goals are to have GitHub started this weekend.
+
+51:24 - Paul Webber
+Yeah, and I think, you know, the first go-round, going back to what Barry had indicated, you know, I am not a content creator at this time, so it's like I look at Ken's stuff, it's awesome, I look at Frank's stuff, it's good, LinkedIn, others are out there. So, yeah, I'm not worried about if I post something, well, you know, if I put something there are kins, and kin put something up there are kins. After I put it up, no biggie.
+
+51:59 - Kenneth Kousen
+That's fine. I just wanted to comment, Frank, that he said your stuff was good, but my stuff was awesome.
+
+52:08 - Paul Webber
+I just wanted you to notice that.
+
+52:11 - Kenneth Kousen
+It's in the recording, right?
+
+52:13 - Glenn Renfro
+I'm sorry. I couldn't resist. We have no recording. We have transcripts.
+
+52:18 - Kenneth Kousen
+Never mind. Yeah. Yeah, I definitely want to help. When we get started with the actual site, I tend to put like exercise, things like that, and markdown. I mean, we can worry about all these. I mean, that renders nicely on GitHub right away, for example. And there's lots of engines that will transform markdown into slides and things like that as well.
+
+52:43 - Glenn Renfro
+All right, you've just chosen our format No.
+
+52:47 - Unidentified Speaker
+Yeah, yeah.
+
+52:47 - Glenn Renfro
+Because I'm not going to say here's the thing. I'm not going to get into religious wars between ASCII doc and markdown. I'm not going to do that. We're just going to go with which is the default one that GitHub starts you with it as a dot MD. We start from there.
+
+53:06 - Unidentified Speaker
+Right.
+
+53:06 - Glenn Renfro
+It's like, which which editor do you have on Unix before you get, you know, when you first started VI? Okay. That's all we're saying. But I mean, I'm not going to get into that fight, OK? But all right. All right. OK. So folks, I will set up a meeting for two weeks. Expect by Sunday to have some rudimentary site up on GitHub. They'll communicate through Discord. I will also send it out to our group so everybody gets to see it. I'm going to make the people that are on this call admins. Sorry. And everybody else? Contributors unless they ask and they will pop them in. Then what we will also have is, I will also work on this week and try to have it also on Sunday is a charter for review. A lot of what we talked about today will be in the charter as far as like editors, what were goals are, who's our goal audience, all that. And then we can use that as our foundation saying this is our roots. This is what we're shooting for. And then we edit the crap out of it from there. So. All right, folks, I want to thank you all for meeting today, and I'll set up some meeting up for two weeks. Just make sure if you haven't had a chance and you have not been popped on Discord, hop on in. All right. That's good.
+
+54:35 - Glenn Renfro
+Thanks a lot, Glenn.
+
+54:37 - Glenn Renfro
+Thank you, folks. Take care.
