@@ -1,0 +1,545 @@
+0:28 - Glenn Renfro
+Hello, everyone.
+
+0:31 - Glenn Renfro
+Video works, maybe.
+
+0:35 - Unidentified Speaker
+Yes.
+
+0:37 - mirowengner
+Hello.
+
+0:38 - Glenn Renfro
+Just waiting for everybody to jump on board.
+
+0:55 - Glenn Renfro
+Okay, everybody just jump in.
+
+0:58 - Unidentified Speaker
+Hi, I'm a newcomer.
+
+1:02 - mirowengner
+Welcome, welcome all around. Hi, I'm happy to be able to join finally. Well, this is a group of troublemakers, I'm just...
+
+1:19 - Glenn Renfro
+Supposed to be solution makers.
+
+1:22 - mirowengner
+Well, yeah, everything comes with troubles.
+
+1:31 - mirowengner
+The solution is trouble.
+
+1:36 - mirowengner
+I'll be right back, folks.
+
+1:43 - Henri Tremblay
+You hear me?
+
+1:47 - Unidentified Speaker
+Yes.
+
+1:49 - mirowengner
+In Germany.
+
+2:27 - Glenn Renfro
+And here we are. He's giving everybody about one or two more minutes. I did see Prateek jumped in. He will be hosting a part of this conversation today. Again, this is for everybody to have fun and talk. So don't worry about being shy. I'm not. Let's see here.
+
+2:58 - Unidentified Speaker
+Just go with that.
+
+3:01 - Glenn Renfro
+We have our three main topics today. The first two will be pretty quick. And so let me make sure. Waiting room shouldn't be. Yeah, we should be good shape. All right, let's do a kickoff here. And here we go. If I get on the right page, here we go. So real quick, today we're just going to kind of just do, so basically I went ahead and put the repo together on GitHub. And we're going to cover that really quick. I'm just going to point you to the charter and I have put this out into the Discord channel for us to go ahead and walk through and review. It looks very similar to the other, but just looking for people to throw their comments on it. This charter is specific to this group, which is the education group. And then we're going to have Pratik show us how to post stuff up to And then there's going to be a follow-up question I got offline from one of our other attendees. And I don't have a solution. I just said, you know, let's, we would probably discuss it today, but I want to do that after all this. And then we can schedule that conversation maybe for the next meeting if we don't, if we run out of time today. Real quick, let's go ahead and go to here. You're going to see that we have our Java AI work group community. Right now, if you want to be a contributing member, as far as like a collaborator, or sorry, a committer, just either mail me or send me something on Discord and I will add you as a committer. What you're going to see is that we have the charter that we had before as a This is the one that we agreed to for the whole group, nothing really major there. But I think what could be interesting from a lot of people is the previous meetings. And you'll see that I've got all the previous meetings posted, everything from the transcripts that we had during the meeting, as well as the notes that I took during our meeting as far as action items were concerned. So all those are available not only for the just the whole group but you're going to see where we have an education subgroup and it's going to be in the same kind of format where we got our minutes and from that last time we met here's the PDF of the last meeting that we had right here including the to-dos as well as again the transcript. With that what we do also have is here and I've shared I like I will I'll add, this is also part of it. You should have access to this, and this is the draft copy. And we already saw where Mary's actually started asking questions. And go ahead and review this, yell at it, change it, ask me to change it, I don't care. This is our doc, this is what we're gonna have fun with as a charter for this group. With all that being said, and done within and I think Pateek's going to be kind of impressed. I did that all in three minutes because he made sure I take 30. But with that, I'm going to let him take control and make sure that multiple. Okay, there we go.
+
+6:56 - Glenn Renfro
+You can share and take it away, Pateek.
+
+6:59 - prpatel
+Thanks. So what I want to do quickly is show you how to to publish stuff up onto the Fuji AI portal. This is something that has been put together. We're looking for feedback on what elements to add to it. So I'm just bringing it up now. Okay, so you can see my screen hopefully. So this is the fuji.io website. And if you go to slash AI, this is essentially our Fuji AI portal where we can publish stuff Anything that has a machine learning or AI tag will show up on this page. But we can add a social media feed, for example, from Blue Sky for the folks in the JCAI working group. Anything else we want actually along here. But you can see that we've already seeded it with content that has been put together by actually some of the folks here possibly. So this is an initial version of the Fuji AI portal where we can publish stuff. And the question is then how do you publish things into here? There is this specific URL, which I'm gonna share on the mail list, but I'll pump it into here also. Hopefully that goes to everybody. Okay, yeah. So you go to this page. This is a bit of a long page, but to be honest with you, It's actually not that complicated. So Fuji itself runs on WordPress. If you've ever used WordPress before, then you know what you're getting yourself into. If you have not, it's extremely easy. You basically go to this website and it has a few steps. Basically, it's join the community, Fuji community Slack. This is not entirely necessary, but it can be helpful if you have questions about getting your article up there and whatnot. Then you log into the WordPress here. If you don't already have an account, you can email Yerchian, who manages Fuji, I've pasted his email into the meeting chat, or you can go into Fuji community Slack, and he is always on there. You can find him pretty easily in the Fuji Slack. So hit him up there. And then once you've done that, basically you write a post, right? So here's a screenshot of writing a post. And it is fairly straightforward to do. There are ways to bring in posts from other sites, or if you're using Markdown or whatever you're for a personal blog, you can see the Enable Markdown is here. And you can also, if you use AsciiDoc, you can just paste in AsciiDoc if you like, And one important thing here is that this is not something that we are looking for. Sorry, if Fuji is not necessarily looking for exclusive content, So that means that you are able to write content on your own blog, put it onto here also, and then set the canonical to point back to your own blog or your company's website or wherever. We don't really care. That's basically it. The rest of it is how do you work with code blocks and some other tips and tricks. If you're having some issues with it, it's helpful to read through this again. It's not very long, it's mostly screenshots. And then what happens is once you have your article in here, you alert your child to say, hey, I'll finish my article. He'll have a look and proofread your article for you. Typically that's an extremely light process, and then it will be put onto the queue for publication. And when your article does get published, it'll show up again here in the BlueJ AI portal page. He'll double check that you've tagged it appropriately with machine learning AI or whatever, various different tags. You can see there's a length chain for JTAG here. But the primary ones we're going to be looking for are AI and machine learning. And then it will also show up on the main page here with the other articles. And at this point, you might be wondering, well, what's the benefit of me using this or putting stuff that I publish onto my personal blog? Or maybe I post it on LinkedIn. Why should I bother putting it onto Fuji? Number one, it's a place where we can aggregate all of our JCAI working group content, number one. And the other thing is that Fuji gets about 15,000 unique visitors a month. And it also gets somewhere around 120,000 unique page views, basically article views every month also. So it's a great way for you to get extra eyeballs on your content. And all you have to do is basically copy your article up there. And again, we don't mind if you publish it on LinkedIn and then also publish it here. You can publish it on your blog and set the canonical to point back to your blog, et cetera, et cetera. So that's the quick three and a half minute rundown of what you need to do to get stuff up here. Again, I've pasted the link. Into here. I will also post this to the JCAI working group email list so that there's a permanent record of what to do to publish stuff onto the AI portal here. And then of course if you have any questions you're welcome to reach out to me or to Yerchon either by email or in the Fuji slack or I know this is getting complicated in terms of different communication mechanisms but of course also the the JCAI Working Group Discord server that we have set up. Any quick questions here before I hand it back over to Glenn?
+
+12:55 - Unidentified Speaker
+I have a question.
+
+12:57 - Kenneth Kousen
+Yeah, shoot.
+
+12:58 - Kenneth Kousen
+I already have a WordPress account. My blog is a front end on a WordPress.com account. Do I use the same WordPress login for Fuji is there or do I do a different login?
+
+13:12 - prpatel
+Yeah, Ken, you're going to need to create a different login. This isn't using... How's the best way to describe it? This isn't using like a WordPress-hosted site. This is WordPress, but it's hosted on our own servers, is the easiest way to put it. So it's not using like the WordPress single sign-on, whatever. Basically, it's a self-hosted WordPress, not part of the WordPress cloud offering. So that's probably the best way to answer that. So your answer is...
+
+13:41 - Kenneth Kousen
+you'll have to create your own account.
+
+13:44 - prpatel
+So where do you create the account? Yeah. So the account creation will be, basically, you go to the community Slack, and then you hit this admin panel. And Yertan will create a stub account for you, which will allow you to then log in. So we don't have a, yeah.
+
+14:04 - Kenneth Kousen
+You're saying you contact Yertan first?
+
+14:07 - prpatel
+Yes. Yes. I'm sorry. Yeah. Contact Yeerchan first, and he will verify that you're a real human and not an AI bot. And then we'll go and use your email address and create a initial account for you or basically set up your account for you. Yes. Correct.
+
+14:22 - Kenneth Kousen
+So you don't contact him on Slack, not via the email or whatever?
+
+14:26 - prpatel
+You can do either. Slack or email is good. Yeah. Obviously, if you hit him up on the Fuji Slack, he will probably respond faster than email, but either mechanism is good.
+
+14:37 - Kenneth Kousen
+That's all I need to know.
+
+14:39 - prpatel
+Thank you. All right. Thanks, Ken. Tales from the Jarside, coming soon to the JCAI portal.
+
+14:45 - Kenneth Kousen
+That's a newsletter, though.
+
+14:47 - prpatel
+My blog has it, but I do have that. Oh, yeah, yeah. Newsletters. There's a lot of newsletters out there.
+
+14:55 - prpatel
+So I read it religiously.
+
+14:57 - Kenneth Kousen
+Oh, you're the one.
+
+14:58 - Unidentified Speaker
+Sure.
+
+14:59 - mirowengner
+I just confirmed Gertian is very responsive and just really bright, Ken, and he will manage everything for you, you just get a call. And that's it. And same when you write the article, just push him. And they do it weekly management, like arrangement agenda, they put it to which kind of blogs are available. It goes also through the review just quickly. Yeah, what you have written, he's sometimes correcting stuff. So yeah, and right now the future is really nice. They really pay developers, like, you know, you're just writing articles. Your shit is awesome.
+
+15:32 - Kenneth Kousen
+Any reason to contact is a good one.
+
+15:35 - prpatel
+Yeah, he's quite responsive on things. So if you're an email or text him now, you'll have your account set up probably within the hour. Yes. Except for Central European time, 12 a.m. To 7 a.m. So I think he does sleep occasionally. Maybe he's a bot.
+
+15:51 - Unidentified Speaker
+No, just kidding.
+
+15:52 - Unidentified Speaker
+That's right.
+
+15:53 - mirowengner
+It's true. Could be an AI bot.
+
+15:55 - prpatel
+Or maybe he wrote an AI bot to do his work.
+
+15:59 - Glenn Renfro
+Smart man. Okay, I need you to do this. This and this, make sure you're not just a bot that you're actually responsive to cues.
+
+16:10 - prpatel
+Or do the Tower of Hanoi puzzle, right? See if you can solve that. You guys heard about this, right? The latest report from Apple pooh-poohing all over AI and how all the AI models failed the Tower of Hanoi thing.
+
+16:29 - prpatel
+So it's quite interesting.
+
+16:31 - Kenneth Kousen
+I haven't heard it.
+
+16:32 - mirowengner
+I was lately really busy by projects. I had no time for anything.
+
+16:37 - prpatel
+Yeah, I think it's worth reading Apple's AI report. It's interesting reading. I don't know if I buy all the premises and assumptions they make. Is there an article, something I can search?
+
+16:50 - mirowengner
+Yeah, I'll find it for you. Thank you, because this is interesting.
+
+16:54 - Glenn Renfro
+So let me ask this question, kind of going back to the So one of the goals of the group is not only to produce articles, but it's also to curate, say, okay, this is an article people need to read. Is there a place that we can post just saying, here, here's a link to an article? That's good. Yeah, actually, you know what, that's a really good point.
+
+17:17 - prpatel
+One of the things that I can ask you, Sean, to do is on, well, I'm not sharing it anymore, but you were looking at the AI portal. We can have like a curated, list on the right side there, just get rid of the RSS feed button, for example, and say, interesting news from the AI universe. Let me talk to him about that. I'm sure he can come up with something where we can easily submit something like through the Fuji Slack or email or something where it's like, here's an interesting, almost like a X-post or a blue sky post with a one or two line sentence thing. I think that's It's a great idea, actually.
+
+17:58 - mirowengner
+The newspapers, right? Yeah, I mean, it's like this.
+
+18:01 - Glenn Renfro
+How many, you know, I go to Ken, I do read your articles. There is another person out there who reads your stuff. But it's like, I'll go check his stuff because once a week he has something really nice. I go to InfoQ. I go, gosh, I'm trying to think where else I hit. You know, just, you know, somebody posts a tweet or. Yes.
+
+18:24 - mirowengner
+something and you say yeah oh that's good and then you share it with somebody and it's like it'd be great for just one place for or like hey yeah this for you know like one or two of us notice this is a good article you might want to read agree disagree glenn I will confirm I think we should create the newspapers I actually been thinking to mention it right now and every I don't know whether period every week I read 14 days is good enough which kind of period it is and then collect it onto this namespace, what we have on the Fuji, because lately I observing there are so many articles posted on whatever AI topic, basically LLM and rocks. And some of those are useful, some of them not, but it would be nice to collect all of them because even those that are not useful, they are carrying the information of what to not to do. And at least you have a references.
+
+19:20 - prpatel
+Right. So hang on, I think this is a great idea, but you know I was coming in with a but, right? There's loads of these kind of AI news aggregator sites out there and email newsletters already. Like, for example, I subscribe to the TLDR1, and then there's like AI News and a few others, right? You guys have probably heard of these, right?
+
+19:45 - Unidentified Speaker
+Yes.
+
+19:46 - prpatel
+Why would we do one when there's all these other ones already available, right? Again, I think it's a good idea, but I'm just trying to understand what our motivation would be doing this.
+
+19:58 - Glenn Renfro
+What is the focus? Which one of those is a focus for Java? Do we have? Exactly. So let's talk about this. There is a cross section of Java with AI. Is there enough material for us to be able to display and look like it's alive? Because one of the things that we a group have to come up with is saying, who's going to write something? Who needs help writing something? And so the thing is, is first off, we have first-time writers, writers that just need somebody to review their stuff, people who are like, I would love to write, I just don't know what to write about. And so one of the things that we've had problems with the AI group is everybody's like, yes, I want to do something. What do I do? And I'm going, that's a good question. I've got two talks that I will be doing. It's one talk in September and one in December on AI topic. And I would love to write about that, but that's four months from now. But does anybody have something you want to start earlier?
+
+21:12 - Unidentified Speaker
+I'm sorry, Glenn.
+
+21:13 - prpatel
+Back up just a second. You said something about four months? Oh, yeah.
+
+21:17 - Glenn Renfro
+I mean, I'm going to be doing a talk. It's like right after Dev2Next, I'm going to be doing an AI talk with Nate. And that's a great one. We could go in and just spew out an article for just saying, hey, this is what we talked about, blah. But that's, you know, but some of us are on that kind of cadence. Some people are ready to go now. They just don't know what to talk about. Some people need reviewers. Do we need to set up a meeting to start that? And also there's another issue. I was talking with someone, you know, they were ready to produce articles and they were like, I'm ready to go. And they started the new company and their company said, no, you can't. You know, you have to say things gotta be on our site. Can't be anywhere else. It's gotta be on our site. And so we have to, you know, it's like, what's our, limitations there too.
+
+22:07 - mirowengner
+In this manner, Glenn, just posting the links and collecting the links like in newspapers, it wouldn't just interact or interfere with the company interest, right? Because they are public on the web anyway.
+
+22:26 - Unidentified Speaker
+Right.
+
+22:27 - mirowengner
+Instead of, and what is our common, our main focus is Java, right?
+
+22:34 - Glenn Renfro
+Right there should be that intersection of Java and AI is our goal. We don't want to. One of the things that we talked about earlier. And by the way, folks, you can tell it's okay for TL to say Glenn. Talk to him. The thing that we wanted to make sure is that there is, I think it was, I think it was Frank. It said, look, when we look at AI, AI is not It's not just AI, it's a spectrum of technology. And so what we want to do is in that spectrum of technologies, where does Java interface with it? But we also want to have articles that we produce that are just AI-centric that we say, hey, in a real world of Java enterprise and the use of AI, we've discovered this. But this was going to be a cross-discipline, language-neutral article. And we can produce those.
+
+23:31 - Glenn Renfro
+So yeah.
+
+23:32 - prpatel
+You know what?
+
+23:33 - prpatel
+I have a question for Frank. Frank, do you already publish a newsletter like this? Or does anybody here on the call publish a newsletter that's kind of aimed around Java, AI stuff?
+
+23:48 - Unidentified Speaker
+Good question.
+
+23:49 - NYJavaSIG
+Maybe I'm just confusing. I don't know anything specific. OK.
+
+23:53 - prpatel
+Maybe I'm just confusing your LinkedIn posts with all the other stuff that's around.
+
+24:00 - NYJavaSIG
+Well, I do post frequently, so it's sort of like a project.
+
+24:04 - prpatel
+Yes. Maybe that's what I'm thinking. I like it. It may just be that I'm getting confused with the fact that I just follow you on LinkedIn. I see your stuff frequently, so.
+
+24:15 - mirowengner
+Okay. Patrick, do you see the value right now if we do the newsletters like this about the posting? Just focus on the Java, nothing else. There will be intersections. Of course, with other languages. Yeah, I do. But I haven't found this yet. I also found mostly just articles about AI. But just call it it.
+
+24:39 - Unidentified Speaker
+Miro, I do.
+
+24:40 - prpatel
+I think a good first step towards working towards that would be to start putting stuff onto our AI portal page. So then we're starting to already collect the content and write content and then have like a little, you know, I'll ask your child to put like a little widget in where we can like drop links with like one line and say, here's this great article about AI research from Apple. Here's a link, right? Something like that. And then that's a good start to building a newsletter, I think. And see the thing that, you know, collecting the links and all that kind of stuff. And, you know, I'd spend quite a bit of time doing research as part of my job, for just all things Java, right? Part of that is, of course, AI. But I think the challenging part here is setting up a newsletter and then making sure there's GDPR compliance and getting opt-in and all that kind of stuff. I know it's not that hard. I mean, if Ken can do it with tails from the jar side, I mean, anybody can do it, right? Yeah, yeah, sure.
+
+25:44 - mirowengner
+I see, for example, right now, I've been talking, I mean, a lot of us have been talking to Sven Peters from Atlassian, He's right now, like his part of the job is being evangelist and Atlassian has a lot of infrastructure based on java that they can share. Yeah, so that could be also because they have also APIs how to connect these services. They are basically running on java. So yeah, but it's very hard to find something basically what is meaningful. For you, like we are in Java space and it would be great. And I think we get the traction now. I think it is an easy goal how we get the interest from public and actually the Fuji also. And just as a simple tool, Fuji how to emit the information. Yeah. Yeah.
+
+26:36 - prpatel
+Well, all I was going to say is, well, why don't we, why don't we think about this a little bit and at our next meeting, maybe we can dive in a bit deeper. And, you know, I don't think there's much to dive into, but maybe just give us a chance to think about it, at least for me, and see how like, how that would work.
+
+26:58 - Glenn Renfro
+But Glenn, what would our next meeting be like a week or two weeks, three weeks from now, whenever we want? Right, we discussed a two week cadence. Okay, that's fine. And then the next thing I thought we would do is looking at time now. Okay, we're doing good. So the thing that we have is to talk about and let me go ahead and share this again. I'm kind of just taking a copious couple of notes here. We always have the to do's. So the first off was, of course, thank you for submitting that and contact for the food day. Let's get that. Let's put these on a separate row for some reason.
+
+27:36 - mirowengner
+And I think that a lot of maybe some of us already his account and so on. So that'd been at the beginning of the Fuji. Yeah, I've been contributing stuff.
+
+27:48 - prpatel
+Yeah, I actually, I actually added you Miro to I created a new AI channel up on Fuji, just just in case we need it and added your turn to it. Yes. So so I just added you to that into the Fuji slack AI channel to be very specific.
+
+28:06 - mirowengner
+I know, I know, I accept it. That's good. Thank you for doing that, because as I said, I've been lately really super busy by doing it. I had no time to do anything, plus then the vacation, holidays with Emily and so on. So thank you for doing this. Absolutely. What I'm asking myself, if we started doing the newspaper, would it be good to have, we already have some documents, right, on Google where everyone can basically post the links and then And we can aggregate it continually, like someone looks at it, at some comments, and so on, make some notes that we are starting to work. Because this we can do all the time. Yeah, actually, you know what?
+
+28:51 - prpatel
+Actually, one thing that we could do, I just thought of this, is I have like an automation instance running up on the cloud called n8n. And it's super easy to say, take something from this Google Sheet, and then take the contents of it and do some whatever parsing or whatever, and then maybe push it onto WordPress. It's that last step I don't know how to do. But I can look into that. I'll take a note. Anything that is just like a low-code automation environment like Zapier or if this then that IFFT. Anyways, I'll look into that to see if there's a way that we can So basically, you just open a Google Sheet, you put it in a line, and then at the end of the day or 7 p.m. Every day, it'll look at that, and any new stuff, it'll push onto the Fuji AI portal.
+
+29:49 - mirowengner
+So that's something that I think is easily doable. Okay, that's cool. Sounds great. So my other side, where we work together, we are just multiple persons, right? So we need some place where we can store materials which probably may not be published or could be published, right? Just collect the links, like just the documents. Okay, Frank, add this or Ken or me, you know, just continually adding some stuff or we can just go there into document and read what someone already added to create the opinion, right? Because in that way, we all get of sync on this level, what kind of information and then our brains will be on the same frequency. Because we most probably all read these documents. Yeah, that's a good idea.
+
+30:43 - prpatel
+Maybe we could put this in. Glenn, what do you think about like creating just a Google Drive folder or something like that?
+
+30:52 - mirowengner
+Yeah, there will be just main document like we have always read me empty.
+
+30:58 - Unidentified Speaker
+Yeah. But we could post it.
+
+31:01 - mirowengner
+So you know what?
+
+31:03 - prpatel
+I wonder if our JCAI mail list thing has... It's a Google group, right? Hold on. I'm just looking this up. Yeah, yeah.
+
+31:14 - prpatel
+But I'm not administrator of this.
+
+31:16 - mirowengner
+No time. It's fine.
+
+31:18 - prpatel
+We can make you an admin.
+
+31:21 - prpatel
+That's not a problem.
+
+31:23 - prpatel
+I wonder...
+
+31:24 - prpatel
+Does anybody know Google groups?
+
+31:27 - Glenn Renfro
+You could do new conversations. It's really for communication. What I did do is I have a folder.
+
+31:34 - Unidentified Speaker
+But you get always informed, updated, right?
+
+31:37 - mirowengner
+If we all together work on one documents, you get updated all the time when someone other adds the link.
+
+31:45 - prpatel
+Yeah, it was just it doesn't look like Google Groups has like groups.com has a facility where you can store store files in this and that, but like Google Groups, we could probably just link it to a Google Drive folder or something, right?
+
+32:04 - Glenn Renfro
+So I have a JCAI group that's shared with everybody. I can just create a new folder here. I'll pop up the link here, too. OK. And we'll just call it, is this curated articles?
+
+32:18 - mirowengner
+What do we want to call it?
+
+32:21 - mirowengner
+Articles.
+
+32:22 - prpatel
+OK. Or information. Or maybe just put content. Content, yeah. Yeah, something generally.
+
+32:27 - mirowengner
+And then what we'll do is...
+
+32:29 - Glenn Renfro
+Oh, that's right.
+
+32:30 - prpatel
+I forgot we had this Google Drive already with the meeting notes.
+
+32:34 - prpatel
+Yeah, that makes sense.
+
+32:36 - Glenn Renfro
+And then what I will do is go back to...
+
+32:39 - mirowengner
+Because what I see the challenge here is how really, how we each are, like, how we as a group keep ourselves informed. Like how we share the information, like continually, between because someone has time here, someone has time there. And I mean, the meeting every 14 weeks doesn't serve a purpose. Because we could, we need to use this time we have allocated for kind of thoughtful work or brainstorming based on something, right? Be aware about content when we need to work on yeah but it will help if frank has some idea or can or paul or who else what would be the most effective way how to keep communication going because this is the killer for most of the group yeah for one thing I think we need I'm getting confused where to find information.
+
+33:46 - NYJavaSIG
+There's like now there's, there's now six different ways. So I think we need to take a step back and just have one place where we, all of us as JC's or friends of JC's can get the information. That's the first thing. Cause I think we're just, we're going crazy. We're like, it's impossible to do anything. You're just spreading out. So pick one spot, pick one spot. That old-fashioned portal. And just like, that's a place. Here's where you post this. Here's what do that. And then keep it simple. Because at the minute you start adding Discord and emails and groups and folders and this and that, forget it. The project's over. I suggest not doing that.
+
+34:31 - Unidentified Speaker
+You need to focus.
+
+34:32 - mirowengner
+You get the point. Yes, spot the words I've been searching.
+
+34:37 - Unidentified Speaker
+Yeah, that's good.
+
+34:38 - mirowengner
+Agreed.
+
+34:40 - Paul Webber
+So of all the things that you've talked about as far as where to put information, the one that seems to be the most robust and everybody knows about is GitHub. And it's got version control. I mean, and we got a GitHub thingy out there. So Google Drive is wonderful, throw shit in there. But GitHub, you can actually organize shit. And we're already there.
+
+35:03 - Glenn Renfro
+I'm all for that, too. I mean, to me, this site is bare bones. For us to fill in the way we want to fill it in. It's like we want to have a document architecture here. Even like this subgroup, here's our education subgroup. It just has a meetings folder. We could create a folder here and say this is our content. Now, mind you, it's right now the Java AI community, I have it as, let me do this. I went ahead and put an Apache 2 license on it. I'm like, people have fun.
+
+35:40 - mirowengner
+But Paul, we need to work on something, right? Let's just have some spot, as Frank did mention, where we just post the links and do just collaboration. And for that, I see the Google.
+
+35:56 - Paul Webber
+Well, the Google one allows you to work collaboratively at the same time. And that's that's some benefit but yeah you can work collaboratively at the same time on github too if you open up a zoom meeting and yeah there are ways around it it's just a matter of what what's going to be the most common denominator that allows us to focus as as frank was saying uh and then you know patrick's talking about automation google argue github has automation that's uh we're and all this other stuff you can do all kinds of stuff on github in that place so um yeah it's not going to be the ideal and i've talked to many people about this is you have one application it's going to do eighty percent of what you want but man that twenty percent is really what you need but you got to get to the other twenty percent in another application now you lose the other stuff oh I really did depend on that other stuff too you're never going to have the best of all world jet it's coming five years I think is the ticket right now um so yeah google drive and collaborative on that one cohort uh alassian was mentioned earlier I I use alassian a lot in my personal life it's really nice and you can collaborate on that now too so it's like yeah but github seems to be ubiquitous everybody kind of knows their way around. So I'm just pushing for GitHub.
+
+37:30 - Glenn Renfro
+So let's pause for a moment. I'm going to put my pause on top, I think, of Frank's pause. So we're going to do a double pause here. So let's think about this. So all right, we have, it seems like, OK, like Paul said, we have GitHub. It's free. It's here. Can just send me your name and I'll make you an admin. Before we start writing stuff, I know it's like yet another couple of weeks here, but do we want to have an architecture up here of how we want to put content? Where we literally say, this is where we put our content when we're trying to collaborate with each other. And then once we say, yeah, it's good, let's post it to Fuji. It's not required, but if you want to collaborate with people, you collaborate here. I'm asking, I think, now more than stating. Does that make sense?
+
+38:51 - Paul Webber
+Yeah. And I say to go along with that, Glenn, is that a lot of this is just going to be organic. And that's the, here again, GitHub and anywhere else, you grow the structure. If it works, it works. If it doesn't, you trim it.
+
+39:06 - Glenn Renfro
+Do we, so let's, let's, okay, let's take it from, even before we say how we want to put this stuff together, what do we come to an agreement on what we want to put together? Right. And then we can let a group, a couple of people go off and figure out how to do it and put it and then bring it back to us to say, here is something we want to do. Here's a common place, which we're going to assume now is GitHub that we can share this initiative. Like for example, you know, we were talking about the newspaper having that, you know, where we go out and we grab material and share it. And then we have. The others like, hey folks, I'm going to be writing some article here. I will share my content here via ASCII doc or whatever we decide. This is where I'm going to be sharing my stuff here. Even before we go that far, what is our goals here? Do we want to go ahead and start having a team just look at how we can just post articles that, you know, we read out there, that collation of material. I know I'm rambling a bit. No, no, I may see it very simple.
+
+40:28 - mirowengner
+I have posted right now to chat just proposal, like how we can do this. I mean, we have mentioned like 40 days iteration during the, we started a section. I would use very simple, I think most simply spot. Yeah, you start a section, you edit the date. Okay, this is today is 30, 36, 25. And we started posting links there. And then we have opportunity to review them, right? Just get are familiar with those articles, what someone else is doing. And after 14 days, we just close and create a new section. I mean, if you be posted in one document, do you think it's, it's very simple, like no rocket science, right? And then we create just a new tab, which is a new subtitle. And this starts with the date, when the stars the new iteration, and we see how it goes.
+
+41:25 - Paul Webber
+And well, to having on GitHub, I have a lot of question to ask, like how it looks like you need to do the comments, of course, you did, but you you get to some history, you know, but this is really interesting for us to story who posted what there at the link there if we know each other it doesn't matter actually so are you you're talking basically a publishing workflow uh and a collaborative workflow where here's a topic and dot dot I think glenn were you more in the line of like that but there's more for example when we see an article on linkedin do we repost the link to and have it go published in Fuji, is Fuji where we're talking about publishing all this stuff?
+
+42:14 - Glenn Renfro
+Well, first off, okay, well, that's the thing is like, so first off, the question was, can we, do we want to go ahead and when we collate material from out the rest of the world, that was one of our initial stated goals. It's like, okay, we want to have people have one place they can go and say, this is where Java and AI mix, and this is articles we think you'd be interested in. So we don't have to write everything. Because somebody writes it, does a really good job on it, why not just use that? So that was one question, but then it was like, okay, we said, yes, we want to do that. All right, then it became into, how do we do it? We're all kind of trying to figure out how to do it. Do we just need a couple of people just to get together and figure out how to do it? You know, how to get Fujii on board to do it? Can we automate it? Who can submit to it and put it in a place where people can see it before we publish it, you know? Yeah, I agree with that article. Let's push that out there. Is there a couple people who just want to own the creation of that process and getting it to Fuji? Does that make sense? I'm looking for volunteers. I'm looking for the for this.
+
+43:34 - NYJavaSIG
+I'd like to take another step back. I think I don't want to make this whole thing complicated. We're building a site that provides resources for fellow Java developers, right? And it's basically articles which get posted to Fuji and there's resources.
+
+43:58 - Unidentified Speaker
+What else is there?
+
+44:00 - Unidentified Speaker
+Videos.
+
+44:01 - Glenn Renfro
+That's a resource.
+
+44:03 - Glenn Renfro
+OK, I got your resource.
+
+44:06 - prpatel
+I think the only other thing from this discussion so far that comes to mind, Frank, is basically links to articles. Those are resources.
+
+44:19 - mirowengner
+Right, those are resources, but it's not an article.
+
+44:24 - prpatel
+It's like a news feed almost kind of thing.
+
+44:30 - NYJavaSIG
+So do we want to provide the feed or we just want to provide a link to the feed? I want to basically not boil the ocean.
+
+44:38 - prpatel
+Let's come up with something. I understand what you're saying. But that's the proposal on the table is, hey, let's have a place where we, oh, here's a really cool article from Apple about the limitations from the research and whatever. Right. The link that I just posted. Yeah. Right. And so I think that's the proposal on the table is should we have like a news feed for links to stuff off of the portal page, right?
+
+45:02 - prpatel
+No doubt.
+
+45:03 - NYJavaSIG
+I think that's a valuable resource, but it is a resource. So just listen to the resource, maybe with a little bit of commentary from us saying like, this is cool. It shows a downside to reasoning models, blah, blah, blah. And then just post a link to that. But that's a resource. OK. I don't want to speak. My manager's hat on is something. What's dual, right? Yeah, right. You know, Axel, you make a good point.
+
+45:27 - prpatel
+Good point. There's no reason why that list of recent articles in the AI space, enterprise Java AI space, there's no reason why that couldn't just be another article. Yeah, okay. Right? Yeah, sure. It could just be an article that comes out every week or every two weeks or whenever whoever's curating it decides that it's ready to be published. Right.
+
+45:49 - NYJavaSIG
+And that's a resource that's under the category of like enterprise AI. And then we have this list there. Update that and then, I don't know, maybe we have notifications when that's updated, but that's like a further down the road type of thing.
+
+46:03 - prpatel
+Yeah, I got you.
+
+46:04 - prpatel
+I get your point that let's try to not boil the ocean.
+
+46:08 - NYJavaSIG
+Let's simplify things and not boil the ocean.
+
+46:11 - mirowengner
+Yeah, for example, Frank, when I would write the articles, yeah, just example, I would love to put the references to the other articles. For example, one of the articles you posted onto LinkedIn is the degradation of the brain after using AI agent and so on it's a very nice article but it's actually the bullet it has been researched already many times on different kind of perspective this technology has a but this particular using the AI agent has really great impact I observe it in my teams it has really it works like this it's really degraded the completely the brain of the developers right but that's another resource mirror that's another resource right we have to know the detail to that that's just another resource we could we could point like Here's references that either agree with that or refute that.
+
+46:56 - NYJavaSIG
+Yeah, yeah. And that's just a resource. So I want to categorize that, not to go into detail on that. It's a resource.
+
+47:03 - mirowengner
+Yeah, but it would be great to have all these resources available for us when you're writing the article, because I would definitely reference to this MIT research. Yeah, sure.
+
+47:13 - NYJavaSIG
+When you're writing an article, if you don't have references, I don't trust you.
+
+47:17 - mirowengner
+Yeah, that's very problematic. So you know, this is like it. Get any chances, right? Or any article that we publish all at Tripoli without the references what it is. Right. This will be great to have this kind of collection because it makes our life easier than to to writing some valid articles to have references to the authors. They already explored these possibilities. Right.
+
+47:41 - NYJavaSIG
+So we have a we have a place where we put a lot of stuff and then we have to decide what is the curation process? Right. What is, what exactly is, we're supposed to be curating, so what are we supposed to be doing as a group?
+
+47:59 - Paul Webber
+Well, frankly, when you talked about, you know, the articles reposting and whatnot, not actually creating the articles, not a novel article, but here again, a repost of stuff. That's almost like it, we get the account to Fuji, we throw it out to the admin there, and it passes in a week and gets published. I mean, is there any process beyond that?
+
+48:22 - Glenn Renfro
+Do we want to have people where somebody says, like, the thing I was thinking about, like when somebody comes in, they say, hey, I've got this great article. Do we want another person to at least, you know, it's kind of like a commit, right? You know, OK, I will review your stuff. Yep. You submit a PR. I like your PR. Let's commit it. Yep. That's going to show up. Right.
+
+48:45 - Paul Webber
+But is this a novel article, or is this a, hey, I read this article about how LLMs are degrading the brain. Somebody else published it. It's a medical science article, and I think it's good for everybody, so I throw it over to Fujii. Does anyone else besides the Fujii admin need to actually look at it?
+
+49:06 - NYJavaSIG
+Is that a Fujii type of article, Paul? I mean, correct me if I'm wrong, I thought Fujii articles are full articles. They're not just like, hey, this is cool. Go over there and read that.
+
+49:19 - prpatel
+Yeah, that's correct.
+
+49:20 - NYJavaSIG
+Thank you. OK. Yes. So then with your samples, that would be one of our resources.
+
+49:25 - mirowengner
+Like, here's this article. It's a resource, yes. Yeah.
+
+49:29 - NYJavaSIG
+And you put your commentary there, right?
+
+49:31 - Paul Webber
+Yeah. Yeah. And that's just it. Going back to the simplest thing is let's repost something that's already out there. Ken's got a blog that's out there. Others have got things going. On uh what's on LinkedIn from Frank okay great let's just if we that process to put it onto Fuji we're consolidating a feed the human nature of all of us throw stuff into Fuji as a resource little comment we've got something going then when we go into the novel article creation then we go to do we have a reviewer I mean uh Miro or Maurice Naftalin. You've got a process. It's awesome. Use that process. And when you've got an article ready to go and it's been peer reviewed, does somebody on this committee need to peer review? Or we just say, yeah, you've already got your process. Awesome. Just publish the article on Fuji. Done deal.
+
+50:34 - mirowengner
+And then I use the webpage we call it or whatever spot we decided to have as a collection, I put the references because I like to publish something without the references to the work of others. Yeah, it's not good.
+
+50:50 - Paul Webber
+And Ken's got a blog going or he's got his, you know, tells from the JAR site. Do we need to thumbs up that before it gets on the Fuji? Probably not. Just post the thing. Glenn, what curation, where do we get the novel curation? Going on now is when somebody strange like me says, hey, I want to publish an article you guys never seen or heard from me. Yeah, we probably ought to curate that.
+
+51:21 - Glenn Renfro
+Well, I think it's like this is, I would say this is that we have trusted sources. Ken is a trusted source. He's a member of High Standing. He wants to post an article, you know, it's like this, what we're saying is that do we just let any member push an article up that was curated? That's one. If I'm a first-time writer, and I'm a member, can I just push? And I'm going to say, it's like, I think that if we agree that, like, Tales from the Jar site is a quality publication site, we say, OK, that's just auto we put that in there, we don't have to challenge it. But for anything else, do we want to have like a review policy? One member suggests it, another member agrees to it. Yes, this belongs here. They offer that challenge. Do we want to do that?
+
+52:26 - Unidentified Speaker
+Yeah, sounds good.
+
+52:28 - Paul Webber
+Go ahead.
+
+52:28 - mirowengner
+No, you said what I want to say. Go ahead.
+
+52:33 - Paul Webber
+One is the trusted source. Yeah, just here's somebody who's been in a trusted source. So Ken's a trusted source. Awesome. Checkbox. Everybody knows that. That's published someplace. New person, you got to get to a trusted source. Otherwise, you got to go through peer review. That's our policy. And then what is the peer review? Two people. At this article is any good.
+
+53:01 - Glenn Renfro
+So what I have is we have a peer, so we have a trusted sources and then we have for, but we have a peer review for, you know, everyone else, I guess. It could be two JC's. Yeah, it could be right. Go ahead.
+
+53:28 - mirowengner
+The challenges, like everyone of us has a reputation, right? You don't want to lose.
+
+53:34 - Glenn Renfro
+Oh, my bad.
+
+53:35 - mirowengner
+Oh, it doesn't matter. But you have it still. My bad, too. But you still have it, right? So I mean, this is good. So if you review something, so you're already adding your reputation into this, because probably the name could be there. So I see that. That it helps to filter or improve or kind of at the suggestion of the way. And some of us- It's also to prevent duplicate.
+
+54:04 - Glenn Renfro
+Like it could be that there's two articles that are very similar, like, no, one month ago we produced something very similar to it. This is- Exactly. Just the same thing. No.
+
+54:14 - mirowengner
+You know, could be that. Agreed. But we can spot it as a team. Yes.
+
+54:19 - Kenneth Kousen
+Quick comment that we've only got five minutes left. Yes, sir. Is there anything else we wanted to talk about?
+
+54:26 - Glenn Renfro
+Or as I said, I just want to make sure we don't forget something and run out of time. OK, so let's go back and let's do this. Alright, I think what we need is I need a volunteer. That volunteer can work with me. I will help. My time is a little limited, but I can help. What is our curation process? Propose one. Right and so if you are interested reach out to me on either discord or email and say I would love to do the the process for curation as a proposal okay does that make sense to folks no matter the resource what is What is the curation process for us? Okay, that was one. Two is, let's go back to our notes real quick. And there we go. Let's go back to our notes. So what I have on our to-dos is we shared how to do Fouje. We're gonna hold off on that for right now. Is the curation process. We need volunteers. And then after that, we can talk about how to automate the resources to Fuji. And this kind of fits under this. And we're going to hold off on the content drive as the how. We don't care about the how. The how comes as, how do we do this? So we'll put a pause on this. Delete this. This is a question. What is our curation process?
+
+56:52 - mirowengner
+I put my proposal like how we do, but it's about just how we produce the sources, how we aggregated the resources that we can work on. That's my proposal. This 14 days iteration as it's aligned to our meeting and with the date it starts, the end is very clear because then starts a new cycle and we aggregate the resources.
+
+57:41 - Glenn Renfro
+So I just need somebody to think about. I'm going to stop sharing from there because we're kind of out of time. Let's go ahead and do this. If you're interested in figuring out or working on the curation process, reach out to me via Discord or via email, and I will We'll see what we can get together this week and put something together. Our next... I'm reading y'all's comments. Okay, focus, focus. I got to get these people back to work. So what I'm going to do is I'm going to set up a meeting for today is the 30th. Would y'all like to meet in two weeks? That would put us about the 14th or do you want to meet earlier of July?
+
+58:38 - prpatel
+I think 14th is probably good.
+
+58:41 - prpatel
+All right.
+
+58:41 - Glenn Renfro
+So if you're interested in curating creative process, reach out to me.
+
+58:46 - Unidentified Speaker
+Are you also on Fuji, Glenn?
+
+58:49 - Glenn Renfro
+Yes, but I have not pushed up anything in a million years, but I can. I think he's asking about the Slack. You're on the Fuji Slack. Yes, that's it. I've got to reactivate it, but it's there. Yeah. OK.
+
+59:10 - prpatel
+We also have the Discord server thing. I think the Fuji Slack, and specifically the Fuji AI Slack, is probably more geared towards basically like publishing articles and other stuff for the portal itself and not for like group communication right so we should probably keep our group columns either on the mail list or on the discord server okay let's do that then and and not and not fragmented too much so okay yeah okay and I will uh real quick I'll make sure I publish these notes out in the next two days um if you have any questions feel free to reach out to me and I will get our notes and the meeting recording out there for us, okay?
+
+1:00:08 - Glenn Renfro
+Thank you, I appreciate you.
