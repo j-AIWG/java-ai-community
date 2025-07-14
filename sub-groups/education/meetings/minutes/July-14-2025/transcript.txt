@@ -1,0 +1,539 @@
+0:26 - Catalin Tudose
+Hello, everybody.
+
+0:28 - Glenn Renfro
+Hello, everybody. And those are going to turn off the waiting room by default.
+
+0:37 - Glenn Renfro
+Come on in.
+
+0:39 - Unidentified Speaker
+Ah, there it is.
+
+0:41 - Glenn Renfro
+Hello there. Is everything coming in OK for me? Can y'all hear me fine?
+
+0:50 - Unidentified Speaker
+Yep.
+
+0:51 - Glenn Renfro
+Okey dokey. Let me give us our itinerary here. And these two itineraries are actually really exciting items. It's something that Miro and I talked about as well as Lize, Eliza and I talked about as well.
+
+1:12 - mirowengner
+So I'm getting like a feedback here.
+
+1:16 - Unidentified Speaker
+Let's see what's going on.
+
+1:20 - Unidentified Speaker
+There we go.
+
+1:22 - Unidentified Speaker
+All right.
+
+1:23 - Glenn Renfro
+And give everybody the professional couple more minutes get in here and get ready to party with us.
+
+1:46 - Barry Burd
+Um, so that's what time four, four, four 30, four o'clock on Wednesday. And what's the address.
+
+1:58 - prpatel
+Do you want to mute Barry? 64th street.
+
+2:06 - Unidentified Speaker
+Yeah.
+
+2:07 - Barry Burd
+Okay. Yeah.
+
+2:09 - Barry Burd
+I just don't know.
+
+2:11 - Barry Burd
+Don't know. Don't have his office memorized. Okay, very good, we'll see you then.
+
+2:19 - Unidentified Speaker
+Okay, thank you.
+
+2:21 - Barry Burd
+So yeah, so just in preparation, this is gonna be an exam of some sort, right?
+
+2:28 - Glenn Renfro
+Barry, you're not on mute. Barry, you're not on mute. Can you not mute him as the host of the room? I just muted him. Okay, thank you. I didn't want to share any personal details of whatever he's doing, so.
+
+2:50 - mirowengner
+Yeah, or a password, right?
+
+2:53 - Glenn Renfro
+His favorite account, like a credit card. Put the number. How do you know it's a credit card? So that's fine.
+
+3:06 - mirowengner
+Insurance covers. Exactly. Let's do this.
+
+3:10 - Glenn Renfro
+Let's go ahead and bring it back to share screen. Here we go. Sharing is caring. All right. OK, so let's put this right here. Sorry, I just get my stuff here. So hello, everybody. Welcome to the 14th July meeting. We are excited to have a few. We're getting some stuff to start moving. Don't please don't forget to jump on Discord and just kind of keep up with, you know, just kind of pop in there. See if I left anybody left any notes. If you have anything else, say the group just pop in there and give it great way for us to communicate interim. So please take advantage of that. Before we go on to subtopics really quick, we have a couple of things I want to discuss. One is we still have the charter up there. I posted in the Discord channel a link to it. Please feel free to comment and amend that, because in two weeks I'll call for a vote on that. So everybody agrees to the charter there and just up in the Discord. And if you don't have it, just reach out to me and I'll send you a link to the document. The other thing is of administrative note, is I have to stand down as a coordinator for the Java AI group for at least three months. We are firing up this thing that they call, what's that thing we have in March? What's it called again? Oh, DevNexus, I think it's called. DevNexus, yeah, yeah, yeah. So I'm on the board of directors with that. So we're about to get started on our preparations for it in August through October. And also, this is the time where They go in and I recruit junior coders to give their first, well, even senior coders, does that matter, their first lightning talks in front of the jug. And then we also take a couple, one or two of those, actually make them speakers at DevNexus. So I have to cut back my, I've tried, and also I got four talks I gotta finish on top of my regular workload before September 30. So I'm kind of booked. I'm not saying that I'm going to, like I'm leaving, I just have, I can't do the administrative stuff that I've been doing. So if somebody wants to jump in there, I'll still coordinate our meetings if you want me to. And if the person doesn't want to do that, I can still coordinate our meetings every two weeks and just have a space for us to meet and we can talk and chat. But I have to take a break on some, like the, you know, setting stuff up for at least that three month period. So if you're interested, And jumping in that, let us know. It is about a five-hour commitment a month, plus a little five plus hours a month commitment. And it's really just making sure that we capture people's ideas, document them, put them in place, communications, making sure when somebody says they have an idea, giving them an area to propose that to the group, and helping them kind of know where to put stuff. But if you're interested in doing that, I hate to do this to us, but it was like, if I don't, I'm just going to let this, something's going to drop and I can't let something drop, at least not officially. So if you're interested, please, please let me know. Again, this is a go forward project. I'm all in it. It's just, I have to take that break.
+
+6:44 - Unidentified Speaker
+Glenn?
+
+6:45 - Glenn Renfro
+Go ahead. Yes, ma'am.
+
+6:46 - Lize Raes
+I might be willing to take it over.
+
+6:49 - Lize Raes
+I would just need to know what exactly it entails, but let's talk after.
+
+6:53 - mirowengner
+OK.
+
+6:53 - mirowengner
+Why is this?
+
+6:54 - Glenn Renfro
+That will be awesome. I can set up for both you and Miro maybe early next week. And we can just chat about it. Again, I've done a lot of the setup, so setting up the groups. But there's still more work to be done. So that would be awesome. And the best thing would be is if the three of us could do it together. That way, no one owns it all. That would be really good. All right, so Amir and I had a talk this week. And we were talking like all sorts of trash. We were talking about football. We were talking about hiking. But somehow, we started talking about something along these lines right here. Let me get there.
+
+7:43 - mirowengner
+I hope I updated the correct document.
+
+7:45 - mirowengner
+You did beautifully.
+
+7:46 - Glenn Renfro
+I just forgot I have to exit. And I will bring it up here.
+
+7:51 - Unidentified Speaker
+So football, you mean football or soccer?
+
+7:54 - Glenn Renfro
+I mean, football, the legitimate football, which is soccer. OK, so just letting you know, I don't play. I'm sorry for taking out. I don't do American football well because they say there's a there's what they call on the field something called an LST. And when I was in high school, I was the LST on the field. That's called a a large stationary target, didn't appreciate it at all. So with that being said in bad humor, so let's talk about this. So Mir and I got together and he really knocked this out of the park. He produced this document. I just, I'm gonna let him, if he doesn't mind, I would like for him to give the presentation here. If he's ready, if not, I can do it. Just talk about what we've talked about here as far as how do we want to capture that first set of, to capture the curation of materials from the internet that apply to this group, and then be able to push this to a common location, like on our GitHub account, and then have it published to Fuji. And when it's in this position of this common place, it can be also, people can just come in and grab it at will. I'll let him talk it out.
+
+9:15 - Unidentified Speaker
+Yeah.
+
+9:16 - Unidentified Speaker
+OK, so should I talk?
+
+9:18 - mirowengner
+Yeah, either way.
+
+9:19 - mirowengner
+I could do it or you could do it, but you can do it.
+
+9:24 - mirowengner
+No. OK, so the idea is very simple. Because I think, I mean, we are investigating or picking the articles or reading, trying to Read something that makes sense. And lately, since we started this, AI group, JC, so I've started reading more intensively the scientific article and actually that what is published on the internet and I turned up that I would to catalogue for myself the sources in order to being able to produce some some new valuable article or even to create something. So and I thought when we started to talk about doing this to kick this AI group about some kind of newspapers that could be available for everyone. Basically, all of us are getting over some nice, nice blog posts. And I propose I propose these things like in a 13 days currency, we we publish something on on few J as a source in It's, of course, the sources. It has a title, short description, and source from where it has been collected. It would be the link. Yeah, and that's it. And how we do this? I know there was a proposal to doing this over the GitHub, but you can imagine the number of pull requests to be merged. It would be because even when you would love to do slightly change in the description. So in the description text, it will be also, I mean, it's from my point of view, and also we'll be even discussing with Ken, it's not maintainable. So I, I think we could stay with the Google Drive, because there everyone can collaborate, really work on this document and add whatever nice, nice article he with shortest description, source, and title. And that's it. And that's basically how we generate the content. It seems like maybe, I hope I did, I put some text how it would look like, Yeah. Okay. Wow. It's a right document. So actually some of those I have been reading that they are worth to code. I put already here. I think maybe I have a nice one more. But I think it helps us also to identify current emerging patterns, what is happening on this LLM basically world. And I see I have Read a lot of articles on it. And basically all of them are, okay, LLM is kind of nice tool, but we are significant challenges. When we go to where we would love to use it. And these challenges are then described, although the articles are optimistic, at the beginning cut at the end, it seems is more like this, this kind of project will never do is the production due to the limits. But I, I don't want to go to details, I simply want to go collect the articles that we can publish. Yeah. And that's, that's basically the idea.
+
+13:01 - Unidentified Speaker
+Yeah.
+
+13:02 - Glenn Renfro
+And I think what it was, it's one of the things is, is that by, uh, if we go back to the top of the doc here, and I may, I may put this as notes, as special notes in our, in this particular talk so that I can, you don't have to Read the document. You can, but I'm just going to put like the TLDR and the, uh, and the for this meeting. But the things I want us to focus on is anybody can come to this location. They should have access to this folder. If you don't, let me know. And find this document. Right now it is going to be, I forgot what the, you know, what we can do is I think the first one will be is 2025.07.21 be our first kind of release date is what we kind of put together. And then you can, once you see us putting articles in there, and I might go ahead and put these, if you don't mind. I'll go ahead and put them into that document. And I'll actually share a link in the Discord so people know, here it is. Go at it. But if you have a question or something about it, let's say maybe you have an issue with this one, come in and add your comments, right? Comment to it, right? So don't be shy to ask. A question, like, OK, I don't think this fits in our group, or it may fit in our group really well. Whatever it is, please, please contribute back to that document. And I will make sure I will put this afternoon, go ahead and push these contents into the document and put it on Discord. And let's all go ahead and start adding a comment to it. Mira, are you going to be the one posting it? To Pooja. OK, so Mira will be the one doing the posting. And we want to do this on a two-week cadence, just somewhere we can collect, comment, post.
+
+14:56 - mirowengner
+Yeah. And I have not added right now some Java how to connect the LLM to the program or something, not yet. Because, yeah. Are a couple of things I think missing. I've been completely reading in some documents. I put more that I have found that are published on the scientific. But yeah, so feel free to add anything you find interesting. And we've been discussing with Glenn something about licenses, about the content that we can publish. I don't know where I may feel that we can publish these links, because they are already public in these newspapers. I don't know whether...
+
+15:51 - Glenn Renfro
+I think what we did have an issue was that some folks cannot, because of their employer, may not be able to publish their stuff directly to Fuji, just because the company won't let them. They can, and I think this is going to be on a different topic, but they can certainly post them on our GitHub site, right? So if they want to publish an article. But links, I think, are free of charge, right? So I may have mentioned that. Yeah, so free of charge. Drop a link in. No one can stop us from linking it out. They put it out there. So that makes sense to me.
+
+16:36 - mirowengner
+Yeah, me too.
+
+16:37 - Glenn Renfro
+Though, folks, are there questions out there. The sky is blue is a valid question, just not for this forum. Why do we have two weeks?
+
+16:47 - Neha Sardana
+Like, can we do it monthly? Or are we thinking because it's fast changing, and we have a lot of like, everything is there's a lot of stuff coming out. And yes, it could be just me. I'm just thinking like, if we post too much, it will be a lot of content for people. Like, do we have a limit of how many contents, like five articles?
+
+17:12 - Glenn Renfro
+I don't know.
+
+17:14 - Neha Sardana
+That's a very good question.
+
+17:16 - mirowengner
+Yes, I think you're right, because there is a lot of stuff coming out. I mean, with the AI help, so everyone is generating everything and trying to get the publicity, right? So you have definitely duplicates. So that's the idea of doing the newspapers for us that we already went through the article. We already Read it, right? And we can just identify on the comment and collaborative comment, okay, oh, this is the duplication of this one, or it is very similar, that one. So we can kind of filter or decide. And of course, as there is getting out a lot of content. I mean, it could be that the newspapers could be big, right? One in a 14 days currency. So we all Read a lot of articles. So we will publish like 20. But I think in Fuji, yeah, everyone can Read it. I don't see any disadvantages. So it will be simply collection. And we will have it in the text form. And maybe in the future, we can do some reasoning or aggregation. Yeah. Or this. So we will see how it goes.
+
+18:44 - mirowengner
+I agree.
+
+18:45 - Glenn Renfro
+I mean, I could tell you an article I Read six months ago is now considered almost out of date. Yeah. Because it is. I mean, it has adapted that much. It'd be people the thing what we're looking at is like um what I'm thinking about is mcp was it's like okay it came out like november last year and you know then there was this uh then this ground just this huge ground swell of activity went wrapped around it and now that people are starting to hit the the security stuff so from introduction until now people are trying to push it out to the real world so with that you get a gathering of all these other articles and what people discoveries people have had while doing working with it that it's literally is once every two weeks there's a new announcement about it or you know oh by the way we got a new competitor we got a to a year or and you just start to and it kind of spins into this cycle so two weeks is I think a good cadence to start with and as things slow down uh as the height curve maybe goes down we'll go to once a month But right now, we're still in the middle of a height curve, pretty high.
+
+19:59 - Neha Sardana
+Yeah.
+
+20:00 - Unidentified Speaker
+Yeah.
+
+20:00 - mirowengner
+OK. I may, we may, if you, yeah, sorry.
+
+20:02 - Neha Sardana
+No, no, sorry. Just one more thing I wanted to ask. Like, do we have like a number of articles, like we select top five or top 10 in two weeks, or we don't have any number? We just go with whatever we want?
+
+20:22 - mirowengner
+I would do so. So because it is for us, if we do the selections, right? So that will be applying the filtering. Right now, the articles for us will be kind of raw data, raw input. And we don't know where it goes. And in order to identify some emerging patterns or some opportunities or some do some, I don't know, some reading or apply some metrics on it, we need to have a raw data, any kind of filtering, we already do filtering, because I'm not publishing all of them. You know, you will do the filtering if you are interested in, for example, how to connect the LLM agents with the Java. So you will start that actually, the base, you will identify a couple of that collection of article where all the rest are simply childs. Of those or sub-child of child in some way. You know what I mean? So that would be the hierarchy. So we can identify this also because when I'm reading some scientific articles, it looks to me like they inspire themselves. Or they use the same model to generate them. I'm not just, sorry, it's just the hypothesis. Yeah. Sorry, one last question that I'm done.
+
+21:54 - Neha Sardana
+So, I really like the newsletter idea. Are we also thinking like, we kind of summarize the articles that we are publishing at the end or at the top like anything like that also is in your mind? Like, we don't just want to post a bunch of articles articles and then just okay, that be it. Maybe we can summarize or what's in this newsletter. What's it's like a summary of it.
+
+22:27 - mirowengner
+Yeah, there's a description or quote or whatever you could add. So you will write it by I think this is this is this is what the format of the of the record says it's a title link and description, which is written by the reader, or readers or is a collaborative effort. Yeah, so that will be published like not like a short text, like I don't know, three words, maybe even two sentences that actually you can distinguish what it's about.
+
+23:02 - Neha Sardana
+I also meant like, each individual article has a description that's good.
+
+23:08 - Andrzej Grzesik
+But also the newsletter overall, when we publish will that have also have a description like ah okay what is the topic yeah okay I get it yeah we can think like yeah okay my guess is that it's going to be a very heterogeneous collection of articles yes what we could do is maybe group them and bigger together but I suppose that um a summary is going to be hard because it's like just news from all over the place yeah but if it's if it's coming from us as the I want to say AI experts, but people who care about AI, because that's fair for everybody to say, then if we say why we are excited about something, why we believe that the readers of the newsletter would like to Read it, and it's specifically not an LLM summary of the linked content, but why that's that, then yeah, there is value in it.
+
+24:06 - mirowengner
+Okay, so we didn't apply a grouping yet, right? Because applying a grouping will require actually identify those groups. And to identify those groups, you need to have some valuable set or collection of the data. We are at the beginning. So we can apply that, but the grouping will be changed. So maybe it will be increasing the effort. Right now, we can come up with one of these next iteration. Then we have more data. See where it goes. I do agree with you, Andrzej, or Lize or everyone, if we apply the grouping that has a significant value, and then you can write some basic description, okay, what is this newsletter are about? But I may think that we are still like blind, based on the community or just contribution, what is happening right now on this I just wanted to add.
+
+25:08 - Kito Mann
+So I get a couple of these.
+
+25:11 - Kito Mann
+Well, first of all, is this going to be sent via email or is it just going to be in Fuji?
+
+25:19 - Glenn Renfro
+Right now it was just Fuji for now. I don't know whether you're geared up for email yet, but for now.
+
+25:27 - Kito Mann
+Yeah, I recommend truing email as well because there are some people like me that actually consume stuff better that way. I get a couple of AI newsletters. Rundown AI is really good. And I also get a couple of Java ones, like JVM Weekly and stuff. And you can go to the website and Read them as well. Sometimes I do. But getting them in my inbox basically says, hey, there's a new issue out. The other thing is that for the summaries, I think an overall summary would be hard. But what I do like about some of the newsletters that I get is that they have like, you know, just more than like a description, like a one-sentence description. They have like maybe a paragraph or two. And they sort of give you like a general summary, sort of a TLDR. And then if you want, you can go Read the real article. And I kind of like that because I can get like an overview. I can get more information out of it without actually going to the article. And I do still go to the article of it if it's something I'm really interested in. But I think that might actually make the newsletter itself more valuable. It might make it seem like more than just some links.
+
+26:45 - mirowengner
+It's description. Yeah, I do.
+
+26:47 - Kito Mann
+I do understand.
+
+26:48 - Kito Mann
+Yeah. Yeah. But if the description just said this article is about X, it's different than saying, you know, saying some details about like what exactly X is. You know, what are some of the conclusions, you know?
+
+27:03 - mirowengner
+Yeah, yeah, yeah, I agree. I'm definitely for it. Yeah, so this is not against, yeah, but only just the way how we how we can start do it since the very beginning.
+
+27:18 - Unidentified Speaker
+So we can, of course, do some looping right now.
+
+27:23 - mirowengner
+This is what you would asking for GitHub, right? Just to do the initial grouping.
+
+27:32 - Kito Mann
+No, not the grouping.
+
+27:34 - Kito Mann
+I'm just saying the... TLDR. Yes, TLDR.
+
+27:38 - Lize Raes
+Should we add a tag TLDR?
+
+27:41 - Kito Mann
+Tags, yes.
+
+27:42 - Lize Raes
+Yes.
+
+27:42 - Lize Raes
+So maybe we can, right?
+
+27:45 - mirowengner
+But okay, so we can do this. It is easy to go, but... You can make it optional, right? Yeah, that could be just... We put but there will be you know or llm and then um like say prompting or I don't know vibe coding and by for example I wouldn't there is a this expert to generalize what I recently Read and this is like a llm vibe coding and then actually general architecture and I don't know how to express which kind of tech I would use that is actually highlight the requirements that people are still able to quote.
+
+28:27 - Lize Raes
+I actually meant like tag in the sense of title, link, description, quote, and TLDR, like where people can optionally write a summary of it. Yeah.
+
+28:37 - Lize Raes
+Because I do think there's a lot of value in it.
+
+28:42 - Unidentified Speaker
+Another property essentially for each listing.
+
+28:45 - Lize Raes
+Yeah. Yeah.
+
+28:45 - mirowengner
+Let's try it and just modify the document. How you think about it. And I think when we have it visual, we can come up with something.
+
+28:56 - Unidentified Speaker
+OK, cool.
+
+28:56 - Glenn Renfro
+So the little example I've heard from here is that what we can do is to go ahead and take the samples that we have here that were provided by Miro. And if other people want to throw them in, please do so. And what we may be adding is additional tags to this, where it's just not Title, link, description, but maybe group or even a TLDR. That may be just a modified description here, right? Yes. So and then if let's get this, the first goal is just get the food chain. Let's just get it there first. Let's create the process of doing that. Then secondarily, we're going to say, how can we email this out, right? We create an email list for this? And it could be something that Fujii can help us with that. It's like, hey, if you're interested, sign up here on Fujii, and we'll poop it out there.
+
+29:58 - mirowengner
+Who knows? Exactly. I may think that Fujii has extended the interface that they are able to generate such kind of emails. And here, I think we could explore it, because then it for free exactly I like free yeah well that's our budget yes but yeah it will it will I may think it will require some some notation and which could be similar to the actually grouping or tagging yeah that we are right now discussing right yeah so that we need to ask Yetian. I may think that they have it, something like that.
+
+30:44 - Glenn Renfro
+They do send out a newsletter, I do believe. Yes. No, Fuji doesn't have a newsletter currently. Oh, it doesn't? They don't? Don't they send out emails? No, not really, no. Short answer, no. Okay, not really. I have gotten emails from them in the past, I think. It was like a long time ago. We can look into that though. Okay. Okay. All right. Thank you. Thank you. Thank you. And folks, if you want to jump in with Miro, after like the next two weeks, me and him would kind of be working on that or mostly, you know, but I'll be working with him on this. But if you want to jump in on this effort, just reach out to me or Miro or just go out into Discord and say, I'd like to help because help is good. All right, so now I'm going to yield my screen. And we're going to give it to Lize. She had something she wanted to propose to us I thought was really good. I wanted her to introduce it to the group. And then the goal being is that she can explain how we want to format the docs and then even have a UI that can allow people to navigate the docs that we have on GitHub. And it looks really good, and I does it compete with the Fuji? And I was like, no, it just gives people a place to go look, find, save, put stuff. But then we use Fuji as like almost like our advertising peers and stuff, right? And use the Fuji brand. But we still could have our own local way in which people can navigate and find stuff directly on our GitHub site. And with that, I turn it over to Lize.
+
+32:27 - Lize Raes
+Hey, thank you.
+
+32:28 - Unidentified Speaker
+Can you all hear me well? Yep, beautifully.
+
+32:32 - Lize Raes
+Yeah, so I made this kind of folder structure that represents the chapters. It's inspired by Docusaurus. I don't know if you guys use it already. So this is on my repo, but I will merge it probably soon in our common one. So in the docs folder, that's where you basically find the different main chapters with a little so the folders stay in order, and then in there you go on. And what it looks like if you just use DocuSource to render this is this. So this folder structure you saw translates in the sidebar. So we had Jani.ai and then Jani.ai basics would be an article, which isn't there yet. Or you have subfolders that can also have their own text in there, and then sub-articles more subfolders in there. So what I did is I've set up a very basic overview of what I think is going to go in there. So the main categories would be GenAI, which contains LLMs, machine learning, which is the whole training, fine-tuning, agentic AI, which I took out of GenAI because it's getting so big on its own, I think. But so all open for discussion. And then AI how to use AI to help your code and domain use cases. I thought I was, yeah, I thought it might be interesting for people to jump directly into whatever is in their domain. Then I have learning paths, which I still have to set up, but it would be basically the same articles that are already present, but then ordered in a way that you can learn, or if you are new to Java, or if you are new to AI, or if you are new to Spring AI or Language4G or something, that's kind of a tutorial of 10 articles that are just linked from other places in our resource. So you can just run through it and learn it fast. I think that like ethics and AI might be another category I will need to add. So one thing I'm going to say up front is I think we were looking for one or two extra people who want to maintain this with me. What is their extra to this is that I also have some mermaid generator that basically shows the whole folder structure but like exploded so you can go much faster where you want and you see things like the eyes which would mean needs review or this work in progress thing so as there's a little legend here again I've used tags for every single article in there like missing or published or needs review or whatever. And then we can visualize them here however we want. So this is mainly a document to help us find where new resources should go, what new folders we need, and they're clickable. So they bring you directly to the things. And also something I am thinking about, we're going to have a lot of external contents. More external than specifically written for this resource. So for now, this works like this. If you click here, you go straight there. I would wish the same to happen when you click in the sidebar. I still have to set that up too. Or like people can help me set it up because there's a couple of things to do. So that's basically it. Folder structure that are chapters. People can add new, can shift this folder structure around not happy with it or if they want to add new folders. What's more to it is that every file in there should follow a template. The template at the moment is pretty extensive so I would say like yeah sidebar position is where does it come in the folder, the title obviously, but then I had some required tags in mind like the level, the type, like is it a tutorial, benchmark, documentation, the status of it and then visibility if we have it public or not yet, and topics. Again like whoever joins me in the effort like we should discuss this so it contains everything we will want in the future because it would be a pity if we want to need to go back trace all the articles and re-tag them. And then there's other optional tags that are kind of meant to track things like you want to collaborate on this or you want claim the article to make it in the coming two weeks. Does it need review and why? Like this would be the review reason. Why these tags? Because I've also made an auto-generated dashboards. Let me go to this one. So this one is auto-generated and says like okay articles that are missing and marked as high priority they come here. Just that are missing they come here. Behind it if people wanted to collaborate on things it's just where you will for example see the description that was in the text like why do we want to collaborate or why do we want to review on this article extra and I was also thinking like published in the last 14 days to keep track of those which by the way would be interesting with the newsletter maybe we want to copy stuff over on top of that to make contributing really easy when you click on these articles you actually are brought to an auto-generated contribution page saying okay your article is here but there's also already this in the same chapter or folder and if it's a folder in the folder we already have these things and this is their status and you can click through to everything. There's a quick like if it's an external resource do it like this and if you write your own article yeah go clone it stuff like that. So to make it like really effortless to contribute. It can be optimized a bit. We were thinking with Glenn, maybe instead of manually filling out all the text, we can have some UI generator. It's something I would like to talk about if we get some more people together, how we set it up for easy working on it. So the idea was that this lives on GitHub and like a vendor neutral repository, the one that's already there. And that anybody who wants to publish from it or who wants to publish the entire resource is allowed to. So probably it's going to go to Fuji, but like I will start at Oracle and I know they also want a version of it. Like maybe not like a curated one or something, but like they're, we're also going to publish part of the resource for sure. So that's the idea. Nobody will be prevented by their employer to work on the vendor neutral thing. And then everybody can reuse. If you guys are okay with that. Yeah, that's about it. I was just thinking, before we start with this, like, is somebody interested in joining me on the effort of setting this up properly before we go live?
+
+39:46 - Glenn Renfro
+I'm funny.
+
+39:47 - mirowengner
+Okay. There's a time question, do you know? I cannot.
+
+39:52 - Lize Raes
+Okay, maybe I would like to have one meeting with two other people to just go over these tags and decide, like, because now I made them up and I would feel comfortable if some other people had to look at it and also are okay with them. Apart from that, it can actually go live. I'm still also would like to talk about how we avoid PR hell in this. If everybody all of a sudden opens 50 PRs, something else, apart from those things, there are other are optimizations that I'm happy to get help with, but I'm also happy to do it alone. Also, I'm allowed to work on this on my working time, so.
+
+40:34 - mirowengner
+Oh, that's good. That's good. Good point. I have a question. Go ahead. Yeah. Yeah. Okay. If I take a look at one of your sources, the approach that you've chosen, what is the difference to Bealdung or anyone who, right now there are just these a good publisher, they just measure on the market, and they are also having a sections about this. And it seems to me the very similar approach. Or what is the difference between also the J wants to have some specific as AI articles, LM how to the what is the specific compared to the concurrency that is on the market?
+
+41:27 - Lize Raes
+My guess is that the contribution threshold is much lower for all of us. If we want to have it in there, we just push it and we need one person at least to review and that's it. We can blow it up as big as we want. It's not really a problem as long as we keep the structure correct. And we can, so I think we're less bound by constraints than Baodung, for example. And then there's also simply that Maya, like, okay, I jumped on board of this because I'm super interested, but then I got the people from Oracle, like, what are you doing? And they said, like, we wanted you to do exactly this actually for us. That's also why we hired you. And I was like, okay, so now I just try to make it in a way that I'm allowed to do it. That everybody's profiting from it. In that sense, they would let me write some articles on Baldum. But if we have this, at least I can contribute much, much more.
+
+42:28 - mirowengner
+We will have this.
+
+42:30 - Lize Raes
+Also, the experimental features from Oracle are going to be covered in here. I was also hired to make this narrative AI and Java, that's not 100% there yet. So yeah, that's I see the interest from the Oracle.
+
+42:47 - mirowengner
+So and also, so also that this is very nice, you know, so and that's why we it's it is effort I need to just to be honest, it's a lot of effort to make it right. It's just very nice beginning, very nice start and very big growth. To go somewhere, still I see. So this is why we came up with the idea with the newspapers, which are simply to maintain and tags can yet could be published. Maybe that could be somehow connected. Yeah, I would definitely add them in here if they somehow fit in.
+
+43:28 - Lize Raes
+But then you need to go through the effort to see actually in which folder, which subfolder does it.
+
+43:36 - mirowengner
+Yes. Yeah, that's the point is the structure that is required to do what I find really bad. Why it is not written in Java? Why we use a Python? Oh, just a side joke.
+
+43:51 - Lize Raes
+This is a side joke. Yeah.
+
+43:54 - mirowengner
+But now, aside of it, I'm not sure whether I I'm trying to figure out how I may contribute to this, because this will require some specific time allocation and resources. But there are other questions. OK, I'll tell you what.
+
+44:12 - Glenn Renfro
+We have two questions. First, it's going to be Katelyn, and then it's going to be Maddie.
+
+44:18 - Lize Raes
+Can I quickly answer this one? Yeah, OK.
+
+44:21 - Glenn Renfro
+Yeah, so I was going to say, before people say, I don't have time, which first off, thank you for your honesty. Gosh, we need the honesty. What if I were to set up a meeting next week where it's just we take the next dig in instead of us just doing a 10-minute walkthrough, we have just people not committing to any time other than that meeting to actually come in and look at it deeper and maybe see if there's a section, you know, that, you know, help to slide along but maybe by learning more about it they'll feel more comfortable committing some time to it. But that's just another Kaelin, you're next. Thank you, Glenn.
+
+45:01 - Catalin Tudose
+So because you mentioned Beldung, yes, I'm wondering why we don't have Beldung here or we don't invite Beldung. Do you know who Beldung is?
+
+45:13 - Glenn Renfro
+Did we make him a Java champion?
+
+45:17 - Catalin Tudose
+He is already a Java champion. His name is Eugene Paraskiev. Yes, he's a Java champion for a few years and we can contact him to to involve. Yes. At least we can contact him, because you mentioned, yes? Sure. Intentionally. That's a good idea.
+
+45:35 - Unidentified Speaker
+Yes.
+
+45:36 - Catalin Tudose
+Because he is very well known under this name of Beldung, and probably not many people, not so many people know that he's Eugen Paraskev. Would you think that he would be somebody we will reach out to and have a meeting, just talk about what we want?
+
+45:53 - Glenn Renfro
+Because he may already have an initiative on getting that AI space, and maybe this would be a good inception point for him. So you're saying that… Maybe.
+
+46:04 - Unidentified Speaker
+I don't know.
+
+46:06 - Glenn Renfro
+That's where we have to talk to him. I like where you're going with it. I think it's a great idea just to chat with him.
+
+46:16 - Unidentified Speaker
+Yeah.
+
+46:16 - Glenn Renfro
+We can try this. Yeah. And another thing… Who has a contact with him?
+
+46:21 - Unidentified Speaker
+Yeah.
+
+46:22 - Catalin Tudose
+So interesting thing is that He's from Romania, but he's the only Romanian Java champion that I don't know personally. I know all the other ones. I know personally we have met, but he's very well known online with his website. But I can try to write to him. And the second thing is that we discussed with Ben and whenever possible. This year, after the vacation, I suggested to run, to invite my colleague that I'm working with on a Java AI generator code, a large project, yes, to make some presentation, yes, some technical presentation. It would be great if we can gather more people because this would be a really interesting and not only only for this subgroup. Think about this if we talked about that first article that you discussed so much, including vibe coding. We have an emerging project that I think it would deserve attention. Yes, at least for a presentation of one hour, something like this. This is my second thing. Okay, that's all from my side, thanks.
+
+47:48 - Glenn Renfro
+A quick point, then we're going to go right to Mary. But you said, this goes back to Catalin, Barry asked who nominated him?
+
+47:58 - Unidentified Speaker
+Who nominated who?
+
+48:00 - Glenn Renfro
+Yeah, so that might be our direct contact to him. It's like, who nominated him? Is this one of us?
+
+48:07 - Unidentified Speaker
+I don't know.
+
+48:08 - mirowengner
+He's a judge already. Yes, but my colleague is not.
+
+48:12 - Catalin Tudose
+If you're talking about my colleague that I will make a presentation with, he's not yet.
+
+48:17 - Unidentified Speaker
+Oh, yeah.
+
+48:18 - mirowengner
+OK. But we need to just email and invite and arrange this call. And we post on our group, to our champion group, whoever wants to join. And I think we get some interest.
+
+48:29 - Unidentified Speaker
+OK.
+
+48:30 - Unidentified Speaker
+OK.
+
+48:30 - Glenn Renfro
+All right.
+
+48:31 - Unidentified Speaker
+Mary, I'm sorry.
+
+48:32 - Unidentified Speaker
+You've been patient.
+
+48:33 - Glenn Renfro
+Oh, no, no, no.
+
+48:34 - Glenn Renfro
+That's fine.
+
+48:35 - Chicago Java Users Group
+Sorry. First of all, I've been very, very busy. But anyway, I'm glad you're here. I think I'm a little tired. Anyway, Lize, I thought that this is very good. I really like your idea, just to put some things in concrete together. I really like it and I want to help out, but the problem with me is I'm like a little bit over-committing myself, just doing too many things. I also have the AI collective stuff, by the way. So anyway, I like to help, but I don't know if I can consistently say I work five hours every week, that type of stuff.
+
+49:10 - Glenn Renfro
+No, no, no, this is five hours a month. Max is what we're looking at. The week was dropped.
+
+49:17 - Glenn Renfro
+So yeah, I'd like to help.
+
+49:19 - Chicago Java Users Group
+And then I wanted to ask, so the goal is really being able to have this collection of tutorials. I'm assuming it will be content plus tutorial. People can try things out rather than just reading, right? And then just try it out.
+
+49:33 - Chicago Java Users Group
+It's going to be everything, really.
+
+49:35 - Lize Raes
+Right, yeah. Yeah. And the tags are there for you to filter if you want to only see tutorials maybe we can make a exploded map version that only shows tutorials or something like yes just some extra functionality we can make if we want it yeah okay yeah so I I think I'll I'll find time and and let's meet if if you call a meeting okay that's cool I can just help yeah if if nobody really has time I do not mind working alone because I'm just faster I don't have to wait for anybody it's just like I would like an sanity check with then Mary and maybe some other people who want to join just one hour meeting for a sanity check and then we can discuss.
+
+50:15 - Neha Sardana
+If Mary can help, I'll also help. Oh good.
+
+50:18 - Neha Sardana
+Oh my gosh, look at this.
+
+50:20 - Chicago Java Users Group
+Not exactly this proposal.
+
+50:21 - Chicago Java Users Group
+Because I know how busy Mary is. So yeah, I can help too.
+
+50:24 - Neha Sardana
+Yeah, okay.
+
+50:24 - Lize Raes
+Well, let's start with the one hour meeting, see if we can launch it. And then I think while, when it's launched, I will see what actually caused me a lot of time or not. But I did make this with maintainability in my head, like with HPR, all this stuff is regenerated. So ideally, I don't have to do anything. Okay. And then to answer Miro's question about like, it's a lot of work. So I don't think so. My idea was we have here like, in my head, like a puzzle. And there's hardly any pieces on the board at the moment. But like, we're here together articles, which are basically puzzle pieces. And if we put them in the right spot here, this puzzle is going to build itself, I think. And sometimes there's going to be like, Oh, we're really missing a piece here that everybody wants to Read and it's not there. And then we can just tag it and say, um, then it comes in this contribute list, basically saying we would really like to see this article and then people can take it up. There's no pressure for this thing to be complete. We can just start and see how fast it grows. Yeah.
+
+51:33 - Chicago Java Users Group
+OK. OK. Yeah.
+
+51:34 - Unidentified Speaker
+Folks, go ahead.
+
+51:36 - mirowengner
+Just to be sure, so we are, Glenn and everyone, so we are not deviating from our plan, right? So we publish the easy newspapers. That's the one plan. And then we see how this fits, because it could help Lize to fulfill the content. I agree.
+
+51:53 - Glenn Renfro
+And right now, the oil, I I wanted to bring both of them up because both were, we had a Monday meeting with you, Lero, and then Lize meeting on Friday. And I was like, I want to put both out here for the audience to see. I want people to talk about it. I want people to really think about it and see who's interested. Because I think it's going to take a little bit longer for Lize to get this in her group to get going. We can go ahead and get started with the other. Go ahead and get it going now. And then when it reaches a point where it's like, OK, let's these in together, then we can pull them in together. So it's going to be two efforts for now, but then it might merge into one, where basically we use her infrastructure she created to post these out. And the goal is that we want to utilize Fuji as much as possible because of its breadth, but we also want to be sensitive to other organizations who may not want just that, only that avenue there. So we're kind of walking out a little bit of a tight line. But I'm really excited by what I'm seeing, folks. This is really good stuff. And I'm back.
+
+53:10 - Chicago Java Users Group
+Go ahead.
+
+53:10 - Unidentified Speaker
+No, I agree.
+
+53:11 - mirowengner
+I'm sorry for interrupting. I agree. That's nice. That's exactly, I'm thinking exactly in the same way. Just this, this is way difficult for me than the newspapers. Thought and newspapers and this project at Fuji we can push up the project because what we see on the what I made this my opinion yeah what I see on the on the on the internet right now is that they're popping up so many articles so many stuff um many of those are derivation of derivation of derivation and there is actual real content it's very few articles like a limited version who are actually the parents, where it comes from So it, I mean, these activities may help us to filter this information space and narrow it down to get some valuable content. And yeah, I would, I will still propose the start, we start with newspapers, Fuji and go here. Or we see how the newspapers go on Fuji and maybe Fuji can also very nicely profit out of it. And as you said, we don't want to limit any organization. So there is Oracle, who may have a Microsoft interest, it could be Azul.
+
+54:33 - mirowengner
+Yeah, Azul.
+
+54:34 - mirowengner
+Yeah, whoever wants it. Yeah, who Spring. Yeah.
+
+54:39 - Glenn Renfro
+All right.
+
+54:40 - mirowengner
+So we have time for Barry here.
+
+54:43 - Glenn Renfro
+Barry had one question. Question. You're muted. All right, here we go.
+
+54:49 - Barry Burd
+I'm not sure that my question about Bail Dunn got answered. He's a JC. Who nominated that person and whoever nominated him, does that person know him and able to get in touch with him? Well, we're going to try to utilize...
+
+55:08 - Glenn Renfro
+Catalin said that he's going to try to utilize... He's going to first and I think if he cannot reach him through that, through his contact, then we might go and hit the JC contact.
+
+55:20 - Barry Burd
+Okay. Yeah.
+
+55:20 - Unidentified Speaker
+And then do it that way.
+
+55:22 - mirowengner
+All right. Yeah, we can. It's a documented all nomination should be documented. Well, from certain year, I think not a very old one. Right. Very. Yeah.
+
+55:32 - Unidentified Speaker
+So these are dismissed.
+
+55:34 - mirowengner
+But I think from certain year that should be already written and stored.
+
+55:39 - Neha Sardana
+Wouldn't it be there on your Slack channels? The Java champions have a Slack channel also, right? Yeah, we can find it.
+
+55:48 - Glenn Renfro
+Yeah, that's the way that I could ask, yeah. A lot of people would listen, though.
+
+55:54 - mirowengner
+Yeah, there are just sources, ways.
+
+55:57 - Barry Burd
+Groups.io, and it should be there.
+
+55:59 - Unidentified Speaker
+Yeah. Should not be hard to find. Yes, sure.
+
+56:02 - Glenn Renfro
+The web page is already there.
+
+56:03 - Glenn Renfro
+All right, folks, I'm going to go ahead and say we are the team. The hour. So here's what I'm going to do. So I will be posting the meeting on July 28. And what we're going to do from that point is I'm going to just then, like I said, I will still be attending. I just can't do the stuff stuff for at least three months. But I will be attending and I will reach out to Lize and to Miro next week and just talk about what I do. We're just reaching out what the good news is, is that one thing is people are starting to what we see here is take ownership on some of the themes and getting started. And I think as we continue that and people come up with new ideas, we propose it and other people take it, get interested in it, again, those will grow. It's just, you know, really we're just coming down to that last bit of bits of, you know, what, you know, what needs to be done to just keep the group in motion, communications going, and making sure people all know the good stuff that's happening. So I'm going to schedule for July 28th, which is another Monday. And I look forward to seeing you all then. And I will be reaching out to Vera. You and I will probably touch base later this week on certainly on the articles, OK?
+
+57:21 - mirowengner
+Yes. And feel free for everyone to add any new articles. I think you have more of those. Just please update the document, put there everything that we can collect, that we have a content. Because I think what we do is essentially kind of very good. It can really contribute to the filtration of the content to kind of really narrow how the ALLM or agents are used. Maybe it could have an impact to management decisions.
+
+57:55 - Unidentified Speaker
+Yeah.
+
+57:55 - Glenn Renfro
+Well, folks. Week. We'll talk to y'all soon.
+
+57:59 - Chicago Java Users Group
+One note, Lize, I love Discord because I like to make sure that Lize and I, and Neha too, we start to meet.
+
+58:08 - Lize Raes
+Yeah, I will reach out on Discord, make a meeting at Fitz for us, and then I will post it for everybody who wants to attend too.
+
+58:19 - mirowengner
+That is wonderful. Thank you so much, folks.
+
+58:22 - Chicago Java Users Group
+Thank you. Thank you. Great job. Bye-bye.
