@@ -1,0 +1,410 @@
+j-AIWG Education SubGroup Meetup
+Mon, Jul 28, 2025
+
+0:28 - Unidentified Speaker
+Hello all.
+
+0:30 - Unidentified Speaker
+Hello everyone.
+
+0:32 - Glenn Renfro
+How goes it this fine day for everyone?
+
+0:41 - Unidentified Speaker
+Yep.
+
+0:43 - Unidentified Speaker
+Hello.
+
+0:44 - Glenn Renfro
+Read by the right notes.
+
+0:49 - NYJavaSIG
+Howdy.
+
+0:51 - Glenn Renfro
+Howdy. Here we go. Kind of today's is really just a one little kind of the charter agreement. And then lastly, the kind of just kind of let folks tell us what they're doing. And then see if there's any other opt stuff that folks want to get involved with, or maybe start up or suggest.
+
+1:19 - Catalin Tudose
+Yes, just and everyone. Hello. I'll tell you, after we discuss our regular stuff, We have an invite in my colleague and friend Vladimir and we'll talk after this, please.
+
+1:32 - Glenn Renfro
+Hello, okay this out Discussed about this and you said that everyone agreed that we can invite him and Well, you know, there is the club fee involved No, no fees Erica I There we go. All right, we'll give everybody about two or three more minutes to jump in. Neha, would you be able to spend just a couple of minutes talking about what you worked with? Let's see. Let me get my notes straight here. I know I did have it. There we go. I'll talk about that a little bit.
+
+2:28 - Glenn Renfro
+Where was I?
+
+2:29 - Neha Sardana
+You want to talk about the...
+
+2:32 - Glenn Renfro
+Oh, yes. What you and Lisa and Mary worked on? Yeah.
+
+2:37 - Neha Sardana
+Oh, they're not here? Okay.
+
+2:40 - Glenn Renfro
+No, Lisa sent me an email. Reason she couldn't make it today is well, she's on she's on holiday. But for some reason, in the zone that she's in, the internet's pretty much gone.
+
+2:54 - Neha Sardana
+So, yeah, I, she she did most of the work, we were just reviewing her work, but I can describe what we were doing. Yeah, perfect, perfect.
+
+3:03 - Glenn Renfro
+And if she did all the work, to be honest. Well, you know, just talk about what you reviewed in just a just a couple of minutes, just what to kind of keep that on the forward burner for people to look at and share. So it's just kind of see what's what's available there. That'd be awesome. Thank you so much for helping out there. And I was just going to have Miro talk a little bit about this wonderful newsletter that's out there. And I was going to do the charter stuff. And then we were going to think we'll let Vladimir speak for a few minutes. So or at least say hello but he's more than welcome to join. All right, I'm going to go ahead and just kick this off. Let's have a party. Well, everybody, I just want to welcome you back to the Java AI workgroup. This is the education subgroup. It is July 28th. With that being said, don't forget, we have our wonderful Discord channel available here. Just pop on in. For using it and what best part is, is you don't have to be on it all the time. You'll get a little notification saying, hey, somebody sent something in. So you can check in at your leisure and then be able to communicate through that asynchronously. On our itinerary today, like I said, we're going to have our repo, where it's going to be the Java AI Community Charter. We just want to kind of take a peek at that. Actually, the repo, we don't have to worry about. That's old, sorry. Bad copy-paste. But the charter is what I want to sort of kind of just just walk through, see if we have any issues remaining on that. We were going to have Mira just spend a couple minutes, tell us about what he did on the Fuji stuff and maybe show you what it looks like, And then Neha has wonderfully just said she wanted to kind of discuss, just give us a brief mention of what we're doing on the full site map, and then we'll see what else comes after that. All right, so for every wonderful organization, we do want to have a charter. I did open it up for a draft. Folks to take a review at. Do we need a little more time for reviewing, or would we like to go ahead and vote on it as is? And I'll leave about 30 seconds for people to say yay or nay.
+
+5:18 - Pratik Patel
+I think we should vote on it.
+
+5:20 - Unidentified Speaker
+All right.
+
+5:21 - Glenn Renfro
+I'll tell you what, I'll save time. For those folks, I don't know of a good way to vote. Is anybody who doesn't agree with where it's at right now, that would be just I'll give you 20 seconds to pop in and say, nope. A nice wall in front of me. It's really bland, ivory colored. All right, I'm hearing nothing.
+
+5:44 - Unidentified Speaker
+So we're going to drop the draft.
+
+5:47 - Glenn Renfro
+It is now accepted. Thank you, folks, for reviewing it. All right, Miro, do you want to spend just a couple of minutes about the wonderful work you did here?
+
+6:03 - mirowengner
+Yes. You can open a page. I think the first edition, what we did, I think it's pretty successful. Well, my opinion, I have modified it. I have updated the document we posted. And also, you can see here, I have modified a little bit of the content when we publish it. Shit in initial proposal. We I saw here. Yeah, that for example, there are there is such kind of duplication in the title where you can stop here, you can stop here. Yeah, you can you can see there was the numbering of article, but actually, there could be the title and link directly to the article. There was also on our chat, not only on our chat, I had a chat with our people that would be nice to have for authors when they are available and actually also the release date or the date where the article has been published and short description. I received mostly nice and positive feedback. It's a very basically sound up from people outside that it's easy to Read and they have some overview of what is inside of article, whether they should Read it or not. So that's it. And we can see that we had 9,500 people already Read it, like unique accesses. So yeah, after a few days, actually that is published. After first day, it was like a 4,000, after first 24 hours, yeah? So that means it's, I think it's worth the effort to do this. I have already prepared, I have a lot of articles already Read for the next iteration. And I have also, what I wanted to mention, figure out that a lot of people, for example, drunk. They publish also the articles, right? But when they are on the LinkedIn, and I don't know whether you do have, for example, outside of LinkedIn space, the articles. Yeah, we can add it here. Also, just not for, I would, maybe just 20% of these articles we publish would also come the people they are involved in our group. Because they are publishing also the stuff related to AI. And it would be nice to have it here. Yep. Agreed.
+
+8:59 - Glenn Renfro
+I think one of the articles we may have is what they worked on, what we're going to talk about next, just to talk about what's available to the group as far as the documentation that we're going to have. Yes. Maybe one of the articles that somebody generates and puts here. Also, it's not mirrored that it's the only person that can contribute that. We all can. So if you ever come across an article in the AI zone, especially the AI Java zone, and you're like, yeah, this is a good one, add it to the doc. Exactly. And that's beautiful. That's the beautiful part about this. I think I added one to this. Last time and now I got like two more I want to add to this one because you Read it you go oh that's a good idea or oh I hadn't thought about that so these are really great places to share what you've Read with other people.
+
+10:01 - mirowengner
+Yeah I do great Glenn. I get also this feedback from just unknown people from Fuji on the Fuji channel. They propose some article to Read and they send me Yeah, that would be really nice. And I don't think yes, maybe you Hello, princess and my doctor is my daughter is here. I'm in a meeting. Yeah, she wants to say hi. Okay, yeah. Oh, what I what I think what we expected everyone who is involved in AI. So right now it is popping up a lot of articles. And actually, I have a requests for for how to AI actually LLM are used in production. Basically, so so many, so many requests also from companies. And also I lately last week, I had been basically three days on discussion with different managers on different level position, they have really no clue how to use the data are just allocated a lot of budgets for but they have actually no clue what to do with this and how to. So, I mean, but I wanted to point out that these are just what we do with the newsletters can have a nice impact also for those people to Read, to get informed and to actually be aware of what is happening. I Read, I will be publishing some articles from open AI, some people that they are have a concerns about current AI. But it's neutral, right? It's just newspapers. So and I think we could just spread the information and awareness with the community around us, which is right now more required than ever. That's awesome. Yeah, that's my two cents.
+
+12:06 - Unidentified Speaker
+Well, cool.
+
+12:06 - Glenn Renfro
+Thank you so much. Yeah, this looks really good, man. Good work. Yeah. Did you get the numbers?
+
+12:14 - Unidentified Speaker
+It's all of us.
+
+12:16 - Glenn Renfro
+Or Tick, did you hear what the numbers were on that? Yeah, I've been tracking it on our internal Fuji stats. So I saw that it's approaching 10,000 already. So yeah. Yeah. That's fantastic. Miro did all this work. I think me and him kicked around some ideas at the beginning and he took it and ran it with it. So everybody just send him a big, big old thank you. So he did great. Now, so this is those times I go in and I say, you know, we need a speaker. And I grabbed somebody at the beginning of the meeting right out the gate. And she said, yeah, I will talk about it. So Neha, can you talk a little bit? And Mary, if you want to chime in on what the, What came out from the demonstration that we got from Lisa about two weeks ago? Can you share a little bit about that?
+
+13:11 - Neha Sardana
+Yeah, Mary is here.
+
+13:13 - Neha Sardana
+We both were there.
+
+13:15 - Mary Grygleski
+Mary, do you want to go ahead?
+
+13:19 - Neha Sardana
+I can pitch in or whatever.
+
+13:21 - Mary Grygleski
+You go ahead. I think I meant to start contributing. I haven't got time yet.
+
+13:29 - Glenn Renfro
+You have. Tell you what, let's do it this way. It is available, folks, for you to take a look at and do exactly what Mary said. Dig around, look around in it, play with it a little bit, right? They basically help Lisa kind of go through, review it, and take a look at it, and maybe offer advice. But she did the majority of work, but these folks, both Mary and Eha really helped her to kind of get a feel for things that may be able to help it. I will add this to certainly to our notes at the end of the presentation, but I will also make sure I pop it into our Discord and make sure it's there.
+
+14:11 - Glenn Renfro
+The thing that we were doing, I think Lisa did all the work already.
+
+14:18 - Neha Sardana
+We were just helping her figure out some of the missing pieces, if there were, or adding some block to the full sitemap, as you can see. And not all the articles are already there yet. So we do have to add some articles to the blogs that are mentioned. But we were kind of thinking about the categories that needed to be there. I think that's what we were helping Lizzie with. And that's what we come up with so far. But if you have any more suggestions, it's available for you. Everyone to add it. Yeah, that's right.
+
+14:57 - Mary Grygleski
+Yeah. So yeah, so that's a very nice kind of skeletal, although some of the things she has already filled in and I do want to point out the, I took a quick look this morning because I knew because of this meeting, but there's a, the AI assisted coding, that one actually he's, she's done a really good job of gathering all of the assisted coding I looked through the list is very comprehensive. So if you want to take a look at, say the coding assistant, things like that, you can go to the AI-assisted coding. Yeah, that's a very nicely put together page with some of the links to all of the tooling, like Cursor, for example, or WinServe, or Copilot, all these things. She listed them out too and categorized it really nicely. But I guess if you want to click on that AI-assisted coding and then go into that coding, Where is it? Oh, the visit, that one at the here, there's a link AI tool.
+
+15:57 - Neha Sardana
+Yeah, it's above, in the middle of the page. Yeah, I think.
+
+16:02 - Mary Grygleski
+Oh, got it, this one? Yeah, that one. I thought it was nicely, really nicely done. Yeah, like listed all the toolings and links and description. Yeah, so really very comprehensive. So yeah, so if anybody wants to start looking into all the tools, So, yeah, so it's real nice.
+
+16:23 - Unidentified Speaker
+Yeah.
+
+16:24 - mirowengner
+Do we have, I have a question.
+
+16:26 - mirowengner
+Do we have already some article about this? What do you, what Lisa and you have done? Not yet.
+
+16:33 - Neha Sardana
+There, but no, there are a lot of like placeholders that we created and we need to fill them up. So you'll see somebody who's already there. If you want to replace them with something better, that's also possible with that said, want to point out that there's a contribution link on the right side if you go back to the original page so she placeholders on instructions basically on how to contribute if it's on the left side bottom so that's right yeah thank you Neha I forgot about that piece too that she talked about so that's right so yeah so again I think it's a great start and and she put in a little kind of seats in every places we can.
+
+17:19 - Glenn Renfro
+I think what we could do with this is to have, we call this like an alpha. And then we work on it internally for about another two to four weeks. And then we do a big blitz and say, here it is folks. And then launch it on Fuji and whoever else wants to say, Hey, take a look.
+
+17:39 - Unidentified Speaker
+Yeah.
+
+17:39 - Mary Grygleski
+Yeah.
+
+17:39 - Mary Grygleski
+I think so.
+
+17:40 - Mary Grygleski
+That's fine.
+
+17:41 - mirowengner
+That's a great idea. Plant is also a little bit prepared. Posts like this is like the alpha version or beta version where we can really do just a release or something like that. The article could be present and then it will be included in the news and that will have a better form or actually major form like then to right now. Yeah, that would be nice step also for the marketing and promotion of this site.
+
+18:11 - Mary Grygleski
+That sounds good. Yeah, it's really good.
+
+18:14 - NYJavaSIG
+This also includes links, right? Like for example, some of the stuff that I've written on LinkedIn. So do you want me to repurpose it on Fuji or just put a link?
+
+18:27 - Mary Grygleski
+Actually, you can do links here too. Yes, totally.
+
+18:31 - NYJavaSIG
+Okay. Okay.
+
+18:32 - mirowengner
+Frank, can you also add the links if you would love to, to the new slides? Document. I will create a new one today. Okay. Yeah, that would be awesome. I have also, so probably this time will be the collection way bigger.
+
+18:52 - NYJavaSIG
+Is there a template, Miro?
+
+18:54 - mirowengner
+Yeah, yeah.
+
+18:55 - mirowengner
+I will post it again. Yeah. Okay.
+
+18:59 - Glenn Renfro
+Okay. Thanks. Perfect. Oh, cool beans, folks. I think what we can do is the next step is, in this case, for those who are interested, go ahead and contribute. Are we just doing it through PRs or are we just, we're members of the group, we just put the links in directly ourselves? Is that what we're doing?
+
+19:27 - Mary Grygleski
+Yeah, my understanding is, yeah, we can do PRs. Okay. So yeah, if we're already in the group, group we should be able to, yeah. Right.
+
+19:38 - Glenn Renfro
+If you're not already a contributor to, let's go ahead and go over here real quick. Let's see, it's GitHub.
+
+19:50 - Unidentified Speaker
+Yeah.
+
+19:50 - Glenn Renfro
+If you're not already a member of the Java AI community and you want to be, pop a message into As I have, I think I have you, I have a few owners, but I can also add some contributors to it as well. So just if you want to be a contributor to this organization, just let me know. I'll go ahead and pop it over here into Discord.
+
+20:19 - Neha Sardana
+I think we will have a lot of PRs coming in for articles here. So we may need to have a bigger number of people so that they can approve and and push it earlier.
+
+20:31 - Glenn Renfro
+Could you do me a favor? Who wants to be a person who reviews papers or be able to merge PRs is one question. So we need a group of people who could do that. And I could add y'all as owners to or give you commit privileges here. So here's what I'm going to say is in here in Discord, education group. I'm going to pop this in here and say, let me. And just give me your handle. And that way, you should have privileges to do that. And so that's awesome.
+
+21:27 - Glenn Renfro
+This is really good stuff.
+
+21:29 - Glenn Renfro
+Before we go on to the next thing, I need to let y'all know I am starting my break next week. I will still schedule the meetings and host the meetings, because that's all I do is I just host. And then I go off for the next day, and I make sure that I upload all the notes and whatnot to this site as well. But as far as like, the group's going to have to, you know, and during these meetings, we can set up the subgroups, the sub-subgroups that work on like these types of initiatives. But I can't be in those right now. But as soon as my DevNexus time kind of winds down, I'll be able to kind of pop back in and be a part of those as well. But I will still continue hosting the meetings unless somebody else wants to do them. But I don't mind doing this. All right. And we had, so we did have one other item that was wanting to be discussed. I know, was it Vladimir? Was there something you wanted to say, you wanted to share with the group? Or not?
+
+22:42 - mirowengner
+Didn't get it, or it was for me?
+
+22:47 - Glenn Renfro
+I thought that we were going to have Vladimir was going to say something, but I think he's just monitoring.
+
+22:59 - mirowengner
+I'm searching, Glenn. Can you post to the Google Drive? I am in a Google Drive. And I think the news is a content. I have it.
+
+23:15 - Glenn Renfro
+Newsletter proposal.
+
+23:16 - mirowengner
+Yeah.
+
+23:17 - mirowengner
+We have, okay, we have to make sure I'm in the wrong, I gotta be on the right place here, sorry.
+
+23:29 - mirowengner
+We get more content, this newsletter proposal.
+
+23:33 - Glenn Renfro
+I don't know which one is good one.
+
+23:37 - Glenn Renfro
+Drive, JCI group, content.
+
+23:40 - mirowengner
+Ah, okay.
+
+23:41 - mirowengner
+Ah, yes. Okay. I see. Yes. Okay, cool. That's okay. Perfect.
+
+23:48 - Unidentified Speaker
+OK. Yes.
+
+23:50 - Glenn Renfro
+I have it.
+
+23:52 - Glenn Renfro
+OK, sweet. All right, no worries. And just start the next one, and people just start adding to it.
+
+24:01 - mirowengner
+I will pop this in here.
+
+24:03 - Glenn Renfro
+And make a copy.
+
+24:05 - Unidentified Speaker
+I'm doing a copy for the next one.
+
+24:09 - Unidentified Speaker
+OK.
+
+24:10 - Unidentified Speaker
+Yeah.
+
+24:10 - mirowengner
+That's perfect.
+
+24:30 - Glenn Renfro
+There we go, just in case people have access.
+
+24:34 - Unidentified Speaker
+Yeah.
+
+24:35 - mirowengner
+And there we go.
+
+24:37 - Unidentified Speaker
+Excellent questions.
+
+24:38 - Glenn Renfro
+All right, folks. So these are two initiatives right now. If you want to suggest a third, pop it into the Discord channel. If you want to volunteer for what we've already started, certainly let folks know who have on these different topics that you want to be more involved. If you need access to the group, just say, Glenn, here's my GitHub channel. Please add me to the group. And as the week goes on, I'll be popping in, checking in, and adding those in as contributors or committers to that group.
+
+25:18 - Unidentified Speaker
+All right.
+
+25:19 - Glenn Renfro
+Well, folks, we'll call it an early meeting then. I wish to thank you for all the people who have contributed You guys, you folks have knocked it out of the park. I do appreciate it. And I want you all to have a wonderful week.
+
+25:36 - Catalin Tudose
+Sure, go ahead, Kevin. Yeah, go ahead. Yeah, so I just wanted to add, because we discussed during the previous weeks, and I dropped you this link to the article that was co-authored by Vladimir that I invited today. By the way, I'm working together with Vladimir for more than 10 years. Okay. So one thing is that Miro, maybe he can take this over on Fuji. And yes, about our contributions, because we have just showed us something, including some comparison of AI tools. Vladimir started some original tool for now is called JAG. Then I joined his efforts. We are trying now to acquire some horizon in a project sponsored by the European Union.
+
+26:27 - Glenn Renfro
+What's the name of the project again?
+
+26:31 - Catalin Tudose
+I'm writing here, J-A-I-G. Thank you, sir. It's not there, but we would like to tell you something more maybe when we can organize the next meeting maybe you want after the summer. And it comes with something new that is at least what we call orchestration. Would you like to have, is there a time which you would like to present to the group, like the next meeting?
+
+27:00 - Glenn Renfro
+That would be ideal, Vladimir, I think he will agree. Vladimir, do you think you can present our next meeting, which should be, let's see here, today's the 28th, two weeks.
+
+27:16 - Catalin Tudose
+End of August, maybe. Because I think many, many people are in vacation in the beginning of...
+
+27:24 - Glenn Renfro
+All right. Here's what we'll do, because in the United States, we have Monday, the first office of September. What we could do is maybe Monday the 8th.
+
+27:35 - Catalin Tudose
+Would that be September the 8th?
+
+27:38 - Unidentified Speaker
+September 8th. Yep.
+
+27:39 - Vladimir Sonkin
+Does that sound good? For me, it's totally fine. Thank you.
+
+27:44 - Glenn Renfro
+And that's after the August holidays for your folks? And it's after Labor Day for the US based folks. So that is beautiful. And OK, and let me take your last name down here.
+
+27:58 - Catalin Tudose
+Vladimir, please show yourself to be more than
+
+28:02 - Glenn Renfro
+Hello everyone. Alright, you have one minute. Tell me about yourself Vladimir.
+
+28:08 - Vladimir Sonkin
+So I'm working as Java developer for 25 years and I also graduated as AI specialist many, many long, long time ago when it was not so popular. And I worked on as diploma on neural networks, very old generation. And now with all this hype, for sure, I'm interested in these technologies. So I'm working on a tool named JIG. We have created the first version and first version is ready to use. But, you know, I felt that it cannot compete really with contemporary agents, yes, like cursor agents. And that's why we come up with the concepts of new generation of these kind of tools based on another ideas, based on the idea of creating pipelines Yes, not just a single prompt, but the pipeline of the prompts, the sequence of the prompts, and also to make every prompt reliable by using validations of every prompt. This is the core idea. For sure, I need to tell you much more about it to explain how it differs from other solutions. We are now in the process of investigation and implementation of this idea. As far as we know, there is some unique architecture and we hope to conquer the world. I don't know. And at least to demonstrate you and to share our ideas and maybe get some feedback from you and some more ideas in this direction because it's relatively unique. Their chaotic interaction with the current agents. Usually, yes, we're doing this, then that. This is quite chaotic, how we interact with them. With more ordered, more strict approach based on pipelines, based on some methodology of interaction. So that's it. In two words.
+
+30:37 - Unidentified Speaker
+Sweet.
+
+30:37 - Glenn Renfro
+Thank you for sharing. I look forward to hearing your presentation. Again, welcome to the group. Thank you. We're all having a lot of fun here. So anybody else have any comments or anything they want to raise?
+
+30:56 - NYJavaSIG
+Just an administrative thing. So normally we were having end of the month meetings on Mondays. There was a pattern. I guess we're breaking that with the September meeting.
+
+31:09 - Glenn Renfro
+Yeah, we were doing the meetings once every two weeks. And the thing I'm looking at is that August is kind of a quiet month for some of our folks that are based in Europe. And we have the first Monday in September is is consumed for us, so I, and I will not, oh, actually, you're good.
+
+31:35 - NYJavaSIG
+No, no, no, actually, Glenn, the reason why I'm asking is that it just, I have a meeting that coincides with this meeting that last Monday of every month, so that's why I was like, Oh, would y'all like to move it to like the first or second? It's just a personal thing.
+
+31:52 - Glenn Renfro
+I don't want to screw up anybody's calendar, but that's just my. Yeah, I'm going back here. It's September. Let's go ahead and raise this. So we've had about a two-week cadence with this group, which usually ties up to the end of the month and then sometimes in the middle of the month. What would work with folks? Is two weeks too much, or is it good?
+
+32:20 - mirowengner
+No, it's good.
+
+32:22 - Glenn Renfro
+It's good? OK, so people like the two-week cadence.
+
+32:26 - Unidentified Speaker
+one.
+
+32:27 - Glenn Renfro
+It's just okay. Does anybody object to the two week cadence? Let's make it easier. Okay. So we'll go ahead. Based on the how AI changes and agents are changing the world.
+
+32:45 - mirowengner
+I think even we should have every hour, maybe even a few seconds and you But this will be deterministic. They are changing the world in a very undeterministic way.
+
+33:02 - mirowengner
+Hey, I'm a deterministic coder.
+
+33:05 - Glenn Renfro
+I was just going to say. So let's do this. How many people, if you could put it in chat, have a problem? Is there a way we can re-sequence it so that like we skip a one and then we like you know we still is there is there I know that Frank said he can't make the one in the month because he's got a meeting and we all are going to have that issue but we still have the one in the middle of the month and we still are making recordings so all recordings are available we're also putting out transcripts but can I have a raise of hands on the one that's in the middle of the month or the one end of the month and just Let's say for right now, how many are raising hands? The middle of month one is kind of tough to make it. And you can put it on, you could just put it in the chat. I want us to be, I want to make it as available as possible for folks.
+
+34:07 - Unidentified Speaker
+Okay.
+
+34:07 - Unidentified Speaker
+All right.
+
+34:08 - Glenn Renfro
+And we know Frank has issue. And how many of you, including Frank, have an issue with end of the month meeting with like, conflict or whatever.
+
+34:17 - NYJavaSIG
+It's just that time slot, Glenn, that's the only...
+
+34:23 - Glenn Renfro
+Do we need to make the time slot earlier for folks by an hour? Or later.
+
+34:32 - Unidentified Speaker
+Or later.
+
+34:34 - mirowengner
+Here's what we're going to do.
+
+34:37 - Glenn Renfro
+Is there a way which we can... Go ahead. I was just going to say, 11 Eastern may work better for the folks in Europe. 11? OK. Yeah. Because right now, it's probably 6.30 PM for Miro, isn't it? Yeah. So the reason I set it for 6 o'clock CET was because it's 9 o'clock EST. But I think we have a heavier CET. Yeah, I think we have a heavier CET presence than PST. At this time. So why don't we just go ahead and make it for 11 o'clock Eastern Standard, which is five o'clock CET. And it's not too bad at eight o'clock for PST. Why don't we do it that way? Is that okay with everybody? Okay, let's do it. All right. I'll go ahead and set that up for our next meeting. Our next meeting is scheduled. For, so today's the 20, sorry, today is the, oh, wow, I went, that was in August, there we go. Today's the 28th, so it will be the 11th at 11 a.m.?
+
+35:52 - Unidentified Speaker
+Oh.
+
+35:52 - Mary Grygleski
+That'll be okay, but for me, I'm just coming home from Crete, so yeah, but I, yeah, I'll be- Wait, wait, wait, your, Jay, Crete's more important than this.
+
+36:06 - Unidentified Speaker
+Yeah.
+
+36:06 - Mary Grygleski
+How do you bother me for five years? No, I shouldn't say bother, but I finally get to go this year.
+
+36:13 - Glenn Renfro
+I'm not going to say, I love this group, but all right, that sounds wonderful. The recording will still be available because we can't make all the meetings, right?
+
+36:25 - Mary Grygleski
+That's right. Go ahead, please. Awesome.
+
+36:27 - Glenn Renfro
+So that will be the 11th. And then there is one more administrative thing here. That'd be the 18th. I cannot host the one that's in the end of August. I'll bring it back again after our 11th meeting, but I cannot be the one for the 25th. I'm out of pocket that week. So I will ask for a volunteer next week to see who can run the one for the 25th, okay? Okay. All right? Okay. Any other Anything else, folks? Going once, going twice. Folks, I want to say again to all the people who have jumped in, all the people who have left comments, all the people who have done the work, all the people who have just been here and just jumping in on this, I want to say thank you. I do appreciate it so much, and I cannot, cannot wait to see what comes out of this group. I look forward to seeing y'all on the 11th. Take care, folks. Yeah. Thanks, Glenn.
+
+37:36 - Unidentified Speaker
+Thank you.
