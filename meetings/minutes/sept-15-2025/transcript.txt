@@ -1,0 +1,680 @@
+0:03 - Glenn Renfro
+Hello. Hello, everyone. All right. I was the one that came up with the meeting notes for today.
+
+0:14 - Conference Room (prpatel) - Speaker 1
+So if they're bad, blame me. Hola. Hey, Glenn. I have some guests in the room here. We're at Jalapeno Unconference.
+
+0:27 - Glenn Renfro
+Hello, everyone.
+
+0:28 - Catalin Tudose
+Hello.
+
+0:30 - Unidentified Speaker
+I'm getting, Erin is giving me shit here, so give me a second.
+
+0:37 - Glenn Renfro
+Did you deserve it?
+
+0:39 - Conference Room (prpatel) - Speaker 2
+That's amazing.
+
+0:40 - Glenn Renfro
+I do have some slides I put together for today, but really today is just, today is really just discussion, but I do have some slides to put up. Just some stuff I kind of tussed around with. I'll share page here.
+
+1:02 - Conference Room (prpatel) - Speaker 2
+That is not looking good in the slides. I can't blow up pieces.
+
+1:09 - Unidentified Speaker
+Oh, OK.
+
+1:10 - Glenn Renfro
+That's it. Wrong slide deck, I think. Yeah, that's it. What do I do with it? There we go.
+
+1:21 - Unidentified Speaker
+Yay.
+
+1:21 - Unidentified Speaker
+There we go.
+
+1:23 - Unidentified Speaker
+Hey, go ahead.
+
+1:25 - Conference Room (prpatel) - Speaker 1
+Can you hear me?
+
+1:28 - Glenn Renfro
+Yes, I can. Wow. You got peoples.
+
+1:32 - Unidentified Speaker
+Yeah.
+
+1:33 - Conference Room (prpatel) - Speaker 2
+And we all know you.
+
+1:36 - Glenn Renfro
+I know some of these folks. I'm actually going to stop share so I can see. I know these people.
+
+1:48 - Conference Room (prpatel) - Speaker 2
+Y'all don't know me. It's a good thing.
+
+1:52 - Conference Room (prpatel) - Speaker 3
+Aaron, you have a payload.
+
+1:55 - Glenn Renfro
+Yeah. Everybody about five minutes just to kind of show up.
+
+2:07 - Conference Room (prpatel) - Speaker 2
+So how's the conference going?
+
+2:14 - Conference Room (prpatel) - Speaker 1
+Well, today's the next day, so.
+
+2:23 - Conference Room (prpatel) - Speaker 2
+I don't know. It's strange because we were talking.
+
+2:31 - Unidentified Speaker
+Yeah, I see a screen.
+
+2:35 - Conference Room (prpatel) - Speaker 1
+Oh, yeah.
+
+2:37 - Unidentified Speaker
+Nice t-shirt, Frank.
+
+2:40 - Glenn Renfro
+I think we've seen that somewhere. Before I'm trying to think where some guy in atlanta was selling on street corner I don't know this person oh he's got his he's a professional I went And we'll give everybody about two more minutes and then we'll get started.
+
+3:24 - Unidentified Speaker
+So, so far I'm the only person that I know got a presentation together.
+
+3:37 - Glenn Renfro
+Like I said, It's really going to be driven by our group discussion. I think the only thing that this really does is I have three parts. And it's really, I think the first part we're going to have a hard time getting past, trying to get past this one because I feel it's the most important one. And it really is representation of LLMs. And then I found a couple of things that I put into just, you know, if we have time we could talk about them. Some of it driven by a discussion we had last week in the education group. But I've also heard rumblings elsewhere about it. And so we'll cover those if we have time. Make sure we're good on that. We're good. I'll go ahead and kick us off. Let me go ahead and just go full screen.
+
+4:32 - Conference Room (prpatel) - Speaker 1
+Glenn, I'm going to share something with you that that you can put up whenever we are ready. Sir, what is it? It basically is some of the notes that I sent you previously. OK. On this, I'm just fixing it up so that it looks a little bit better formatted. Sounds good.
+
+4:50 - Glenn Renfro
+We can actually hit those after, because the intro slides, once I get past just the basic intro slides, which is about 10 or 15 slides, ask some questions, and we can roll yours right in.
+
+5:02 - Conference Room (prpatel) - Speaker 1
+How's that sound? Yep, no problem. It to you right now via Google Docs. And of course, I'll share it with the rest of the group at some point. But since I'm sitting down with our little posse here, it's probably easier for you to share. OK.
+
+5:20 - Glenn Renfro
+OK.
+
+5:21 - Unidentified Speaker
+Sounds good.
+
+5:21 - Glenn Renfro
+It's essential. Yeah. Sorry.
+
+5:23 - Conference Room (prpatel) - Speaker 1
+Go ahead.
+
+5:24 - Unidentified Speaker
+Go ahead.
+
+5:25 - Conference Room (prpatel) - Speaker 1
+No, go ahead. No, I was going to say it's essentially the notes that I shared with you over just like a couple of weeks ago.
+
+5:34 - Glenn Renfro
+I think those are very appropriate. All this fits in, and I think it's what you're going to see is that we may be, it's kind of like we have six different ways to ask the same question. And then there's variants off of this question of, how is job represented in our LLM? So I basically went in and said, OK, how's job represented in LLM? Don't specify a language. Let me move this up here. Let me just get this out of the way somehow.
+
+6:07 - Unidentified Speaker
+OK, there we go.
+
+6:09 - Glenn Renfro
+And so we'll ask the model that are out there, plus I have some additional thoughts on that. One of the questions that popped up is, do we need frameworks anymore? Can we generate basically from scratch using AI? The last one is benchmarking the model. Models for code Java code generation. This one is particularly interesting in that some of the benchmarking that is out there is very Python specific and kind of lowers like gives a artificially low. Rating to Java. So if we have time, we'll hit that. This could be a talk that goes like I said, this talk probably several meetings, but we'll figure out that as we go. I did was.
+
+6:57 - NYJavaSIG
+One second, could we could we back up first and the very first slide was Java and LLMs. Could we explain? Explain that.
+
+7:08 - Glenn Renfro
+So in this case, the question that we have is in this actually comes in later. So some of the questions I have if if most of the Java code exists behind firewalls, representation in these models. So one of the things that we're seeing is like, OK, if you ask a model a question, for example, let's go to this. Let's ask, I came up with three questions. What program language would you recommend to write an application? Then I would ask the model, what programming language would you recommend to write an enterprise application? Then lastly, when writing a RESTful app that retrieves its own data from Postgres, what language would you use for authentication authorization?
+
+7:56 - NYJavaSIG
+So then, so I'm getting the impression that it's not, if you go back to the very first slide. Sure. This one up here? Yeah. So it sounds like to me, this is like, where does Java fit in with generative AI? Not so much Java representation LLMs, but where does Java fit with gen AI? Am I correct?
+
+8:20 - Glenn Renfro
+I think you're absolutely right. And I said LLM, but you're right, it's generative AI. It's more than LLM. Absolutely, yeah. Yes, thank you. This is great. Again, this is discussion, right?
+
+8:35 - NYJavaSIG
+And it's specifically generative AI, not the other type of AI. Yes, exactly.
+
+8:42 - Michael Minella
+Yeah, this question came out of the question around generative AI. The reason I brought this up to Glenn was. When we think about, you know, writing applications, you know, five years from now when you know if you believe that the hype everybody will be writing their apps with cursor or whatnot within LLM, at least looking over your shoulder, if not doing some of the heavy lifting. How do we make sure Java is well represented in the training? Java applications are well represented in the training sets that essentially lead to to what those models will will generate. Or if we if we can't solve that problem, how do we address it in other ways? Whether it be MCP tooling or prompt engine, like there's a number of different ways, but Right now, while my experience of using LLMs for generating code seems to be that it understands what is popular or is good, results are questionable in the Java space. And given that, as Glenn was starting to allude to in one of his slides, a large part of the corpus of well-written, complex Java applications are behind corporate firewalls and not part of training datasets, we are at a bit of a disadvantage, from my perspective, in that space. And so, One of the reasons I wanted to bring this up is, number one, just to validate that everybody sees this in a similar way. And number two, to discuss what we can do about it.
+
+10:27 - NYJavaSIG
+Sorry, I hijacked it. OK. But it's still under the umbrella of Java's representation generative AI.
+
+10:34 - Unidentified Speaker
+Yes.
+
+10:35 - NYJavaSIG
+I just want to set the direction. It seemed like the first slide was a little confusing, at least to me.
+
+10:43 - Glenn Renfro
+It was. It was. And again, my apologies. Putting together this slide, I was like, I want to have something for us to kick off the conversation with. And the first one was a correctional need title slide, which I think is fantastic. OK. Thanks. Thanks, Mike.
+
+11:00 - NYJavaSIG
+No, this is good.
+
+11:02 - NYJavaSIG
+No, no, no worries.
+
+11:03 - Glenn Renfro
+This is, again, this is great. Because one of the questions I asked, I said, I went to Claude and also did the opening, and I said, what programming language would you use to write an application? And it was JavaScript, Python, and Go. And it was like mobile apps, which we're slightly kind of interested in, maybe Flutter, React, and Swift. And then it was like desktop apps.
+
+11:27 - NYJavaSIG
+Let me stop you right there, Glenn. So that question that you asked, the language model, would you ask the web app, what programming language would you recommend to write an application, is not really good question to ask an LLM. There's no context.
+
+11:45 - NYJavaSIG
+I won't disagree.
+
+11:46 - Glenn Renfro
+I'm also asking as if I'm- So you're using it more like a search engine.
+
+11:52 - NYJavaSIG
+That's not how you use an LLM.
+
+11:57 - Michael Minella
+However, in Glenn's defense though, this is also the way that senior leadership and key decision makers also use it. Right.
+
+12:05 - NYJavaSIG
+And I've written about this many, many times. You're totally correct. I've written about this many times. People are using, especially older people, use chatbots like search engines. And it's really the younger the people are using actually more correctly. I won't disagree.
+
+12:21 - Glenn Renfro
+And that was part of the things that I do is part of what you do when you're asking these questions is this evolution of, OK, what am I asking? And you go through, you create a context, you create examples. This is what I would like to see, this is how I would like it answered. Look at this, this is how I would like to see it. In this case, I'm like, if I'm an executive or I'm an architect that has not played with it, and I just say, bam, what do I get? And you're right, it's not a search engine. And it's like, you can even see, we'll go to this slide. And I said, what if I ask it this way? Then do a mild evolution up, then it changes it to Java and C sharp. And these are the exact, you know, parentheses that put in right here. And so then we go to, let me go ahead and take it from there. And then I said, writing a restful app service, and it retrieves data from Postgres. What language would you use for authentication authorization? And what we get is, uh, Then we go to OpenAI, what programming language will you use? TypeScript, API backends, Java, Kotlin, Python, Rust, mobile. We go to, you know, it says, hey, if you're unsure, safe defaults are TypeScript, Python, Kotlin, or Java for large maintainable backends, right? Enterprise, it says, Kotlin or Java on Spring Boot, right? And then authorization authentication. Go ahead. Yeah, go ahead.
+
+14:04 - Conference Room (prpatel) - Speaker 1
+I'm suggesting Kotlin for all these things also.
+
+14:10 - Conference Room (prpatel) - Speaker 3
+That's very biased. Yeah.
+
+14:13 - Conference Room (prpatel) - Speaker 1
+Because if you think about the Kotlin to Java projects, Kotlin is probably what, maybe 5% at most?
+
+14:23 - Conference Room (prpatel) - Speaker 2
+But it handles mobile, Android.
+
+14:25 - Conference Room (prpatel) - Speaker 2
+OK, that's true.
+
+14:26 - Conference Room (prpatel) - Speaker 1
+Yeah, Aaron made the comment. Maybe it's capturing all the Android projects which are written in Kotlin.
+
+14:34 - Glenn Renfro
+Right. And I think this goes back to, so again, this was one of those thought-provoking questions. Like, if I'm an executive or if I'm brand new to this, what would I do, right? And when I go talk to a lot of senior folks, I'm like, their ability to write good prompt it's like you can see that it's like it's not quite there and even then I'm a Neanderthal but I said I'm going to come in from that point of view so these were just the thought-provoking questions to lead us to this this slide right here is if all we're getting is representation from like you know a stack overflow, or from GitHub, are we really being represented enough? Or even articles written? And how are those articles written in such a way that we get pushed into this corner? And this is the first question. And I like what Frank had been right on, Frank and Michael both. It's like, first off, these are poorly written prompts, but at the same time, It's what we have. And what next? What do y'all think? And please, let's talk.
+
+16:01 - Conference Room (prpatel) - Speaker 2
+Well, I have experienced in the past, like somebody asked their different tools, even if it's Claude or Gemini, a specific prompt, and they will get different answers than mine. I have seen that it actually is I have, in a way, trained my models to answer some specific questions or some specific answers, so it's biased. Right now, I input the question, as you put it, in my own Cloud Source on it, and my Gemini 2.5 Pro, and they answer totally different things than the ones that you posted. So, this is This question for me wouldn't be even the discussion that we have, because for Cloud for me, Cloud for SONET is telling me Node.js, Python with FastAPI, Python with Jambook. To be clear, this is not the one that I use for coding. So this is like a totally agnostic query right now. And if I ask Gemini, it's actually answering. Go and even gives me code. Gemini actually answers Node.js, Java with SpringBoot and Go with GNU. So that was my only comment.
+
+17:27 - NYJavaSIG
+So when you're watching a weather channel and they said there's a European model and then there's the American model and there's like 10-12 different models and one says the hurricane is going that way once there's hurricanes going that way, once there's hurricanes going that way, what do you, how do you respond to that?
+
+17:53 - Glenn Renfro
+Well, there is a general consistency in those models. When we look at like the spaghetti models. Now there's sometimes you'll have an outlier that will send it off this way. There's usually a consistency.
+
+18:06 - Michael Minella
+There's the adult in the room on the weather channel. There is the weather channel there is somebody interpreting the data for you. That is not the case when we talk about these LLMs. It's not the adultery room that distills it all down for you.
+
+18:21 - NYJavaSIG
+Well, they say that it could be this, it could be that, it could be this. It's a model. And we're dealing with the same thing here. We're dealing with a model. A model is a probabilistic entity. It is not deterministic like the stuff we've been doing for 60 plus years. It's stochastic. So for the same prompt, you can get different results. You will get different results. That's the way LLMs work. They are models, like financial models, like weather models, like baseball statistical models. They are models. And if you'd expect to get the same answer, you don't understand what a language model is. I don't think that's what we're...
+
+19:01 - Michael Minella
+Well, that's kind of simple, right?
+
+19:03 - Catalin Tudose
+I think that even if we reduce the temperature up to zero, cannot be sure that we get a deterministic answer. That is correct. That is very correct. We have a higher probability, but not full.
+
+19:18 - Unidentified Speaker
+Right.
+
+19:19 - Glenn Renfro
+I mean, again, it goes back to their non-deterministic. That's one thing we do know. But I think let's go past. Well, I don't know. Let's stay on it. But the thing is that each model derives it's data from somewhere, right? Do we have, in the models out there, a full view of Java? Is that the question that we can ask?
+
+19:47 - Conference Room (prpatel) - Speaker 3
+I don't think we can properly answer that, Glenn, as mentioned.
+
+19:52 - Unidentified Speaker
+Please.
+
+19:52 - Conference Room (prpatel) - Speaker 3
+So if we would like to have more Java content available to these models for training purposes, right now, they should be unable to reach into private data. If they are, that is a big breach. And so what we can surmise is that these companies are scraping everything from Stack Overflow, GitHub, GitLab, any other public places where they can grab it from, right? So we know that there's a larger set of Java projects and applications and enterprises that are unreachable just because of privacy concerns. How are we able to tell the LLMs there is a bigger set of projects that are unreachable? I don't think we can solve it. And even if we could, that of course is going to increase the percentages of a few other languages as well.
+
+20:54 - Glenn Renfro
+In that case, is it because our educators to groups are primarily using Python. And so there's more samples coming from the education side. Is that, again, I'm just driving the conversation. Is that why we see a larger percentage and there's more articles written about the cross section of AI and Python?
+
+21:15 - Conference Room (prpatel) - Speaker 3
+It is well known that at least in the US, universities have shifted to teach using other languages rather than Java, as it used to be more than 10 years ago where Java still dominated.
+
+21:32 - Michael Minella
+But colleges have never been only about what's the most popular language. It's the one that's got the most buzz right now, right? Like Python is a buzz language. People are writing enterprise applications in Python. There hasn't been a major shift from that perspective, at least that I'm aware of, from where the jobs are. It's that the buzz, the news, they need to follow marketing trends just like everybody else.
+
+22:01 - NYJavaSIG
+what's language easiest for the teachers to teach? Being a professor, that's more the latter than the former. I don't know that I agree with that.
+
+22:11 - Michael Minella
+Then again, I went to a mainframe college, which is about as big. I've taught for university for many years, believe me.
+
+22:19 - NYJavaSIG
+I taught as well.
+
+22:21 - NYJavaSIG
+It's hard.
+
+22:21 - Michael Minella
+There's a lot of stuff teachers have to do nowadays.
+
+22:25 - NYJavaSIG
+And now with AI, it makes it even harder. So whatever is easiest to teach and does the job, teachers will use. Don't underestimate how hard it is for a teacher to learn something before they teach.
+
+22:39 - Michael Minella
+Oh no, that I agree with.
+
+22:44 - mirowengner
+May I have a question?
+
+22:46 - mirowengner
+Please. Okay, so in relation to non-deterministic, I may think that the LLMM, the way how it is implemented, it also provides non-deterministic answer. Whatever you type in, even when you have a set level, like a temperature to zero, I think based on the implementation, it will always provide non-deterministic answer. And I may have questioned the word model here, because you have a layered page There's deep neural networks there. And this is, by the nature, non-deterministic, how it gets evaluated. But correct me if I'm wrong, Frank.
+
+23:38 - NYJavaSIG
+If you set the temperature to zero, it's still non-deterministic? That's the definition of a model? A model is stochastic?
+
+23:47 - mirowengner
+Yes. It is stochastic. Any interaction with the end responses are basically stochastic processes. Right.
+
+23:55 - NYJavaSIG
+And if you set the temperature to zero, something in your brain should trigger that, like, why am I using AI?
+
+24:05 - Unidentified Speaker
+Yeah.
+
+24:05 - Glenn Renfro
+That's the question.
+
+24:06 - mirowengner
+But the weights could be still, as you interact with the session, right, with the agent, they will be already modified by your interaction. That's true. That's true.
+
+24:17 - NYJavaSIG
+But again, if your temperature is zero and you want to get deterministic, don't use AI. There's so many other things that you have to worry about.
+
+24:29 - Michael Minella
+The deterministic aspect of models isn't what we came to talk about. It feels like it's off topic.
+
+24:35 - Glenn Renfro
+I agree. I'm not sure if it's off topic.
+
+24:38 - NYJavaSIG
+It seems like it's a gross misunderstanding of a lot of people.
+
+24:43 - Catalin Tudose
+From my knowledge, you can correct me if you know something else. Even if I set the temperature to zero, it is non-deterministic because of a few factors. There are parallel processes, and we know that parallelism is non-deterministic. We depend on the hardware. This is what I know. Maybe you have something to extend my ideas. But we are still non-deterministic.
+
+25:07 - NYJavaSIG
+Yeah, I think you're conflating a few things here. But if you just talk about models and language models, let's talk about stochastic from that point of view. Stochastic from thread and asynchronous stuff, that's another thing. But you're right in general, but I think you're conflating both of those.
+
+25:26 - Glenn Renfro
+Well, let me ask this question to kind of see if I can swing this around a little bit. When we look at, is Java's view, I mean, let's put it this way. When we are utilizing the tooling out there for Java, we have people, like if you're using or whatever, it's not going to be, it's not like it's pro or negative Java. It's just giving you the information as it calculates, right? Here's what I found, and it's the representation of data that is out there. So the question would be is, there's two questions. One is when you ask general questions of it, How does it represent Java? The second would be is how good are the tools out there that are the generative AI world? How does it render good Java or not? Is there enough data out there for it to render good Java code?
+
+26:40 - mirowengner
+I mean, is that out of line or is that question making Since I would like to say that as I've been right now preparing the basic AI news, I found actually by preparation one article, just one of the first one, or maybe not the first one that is highlighting the power of Java actually types compared to Python interaction. And yeah, it compares the both. Why is actually Python not that good? And where is Java valuable for this? Even for asking an agent and maintain the context. But this is happening right now. That people are basically valuating the power of Java and type safety plus basically the effectiveness.
+
+27:47 - Conference Room (prpatel) - Speaker 2
+Yeah, as an aside, I was going to mention earlier but one of the reasons I think people are looking at Kotlin is because it has the type safety of Java but it has some Python behaviors. So like Rob Johnson I know is writing all of the invaders in Kotlin and it's because does Kotlin break some of the Python thingies that he misses?
+
+28:13 - mirowengner
+Yes, I'm referring exactly to Rod Jason.
+
+28:17 - Conference Room (prpatel) - Speaker 2
+Okay, Rod is just a little opinionated about type safety. Just a little.
+
+28:23 - Conference Room (prpatel) - Speaker 3
+So I think, Glenn, the second question you asked, I think goes back to the amount of data that is available for these models to be ingested. So from right, I will be very happy if these models will have access to more examples, content, and snippets so that they can prove that Java has a wider reach and that how certain particular problems could be solved using certain libraries and whatnot from both the other side. As someone that used to block a lot, I wouldn't like my content to be used as is without any sort of attribution. Right. And then we get back into the problem of, okay, how are these models able to get that data? Is it legal? Is it not? What are the repercussions of just copying without any other attribution? All these things, other discussion that happened on the side.
+
+29:31 - NYJavaSIG
+I don't think the big AI companies want you to know where they got where they got their information.
+
+29:45 - Conference Room (prpatel) - Speaker 1
+Most of it is illegal. Model at this point, right?
+
+29:52 - NYJavaSIG
+So, yeah, unfortunately, yeah, unfortunately, now, now, it's payoff time now, right? Anthropa gets gets sued. And then big investors pay off their penalties, and they continue to continue to break the law.
+
+30:05 - Unidentified Speaker
+So it's this is organized crime.
+
+30:07 - Conference Room (prpatel) - Speaker 1
+Well, yeah, what degree is that, like, with all these good models coming out of China now? It's like, they don't care about copy right there. So, you know, that's what I mean by the genie's out of the bottle with with the newer models coming out of like Kim and Kimmy and Quinn, Quinn three, like it's out there.
+
+30:30 - NYJavaSIG
+So that is a huge problem. It's way bigger than talking about Java AI.
+
+30:36 - NYJavaSIG
+It's a humongous problem.
+
+30:37 - Conference Room (prpatel) - Speaker 1
+I think we should pass on this topic, Glenn and move on. In seeing us, we have 30 minutes. I don't. There he is.
+
+30:45 - Glenn Renfro
+Yeah, I had a I was like, I was getting the problem disconnected. I realized I left my phone in the other room and I'm tethered. So I apologize. That's the reason I didn't step out.
+
+30:56 - Mary Grygleski
+Go ahead, Mary. Oh, sorry. OK. Thank you. I actually need to go to my other meeting, too, because I'm with my AI collective. But I just want to quickly kind of comment. I know there are models in generative AI. But I feel like Java's strength ought to be paying. We need to pay more attention to the inferencing side, right, to leverage on all the models. Models, there's nothing we can do. It's like so non-deterministic, right, so to speak. But I think Java has a lot of strength in helping to do inferencing. I think that probably can be another big topic area to see how Java can be leveraged to build applications and interacting with LLMs, all of the agents, and things like that as well. So I just want to kind of wanting to bring out this too.
+
+31:43 - Conference Room (prpatel) - Speaker 1
+Yeah, well, actually, Mary, my is that Java has strength along the entire architecture or pipeline or whatever you want to call it. Yeah. Except for the middle part, which is training a model, right? Yeah, that's right. Yeah.
+
+31:59 - Mary Grygleski
+All the big data stuff is built on Java.
+
+32:02 - Conference Room (prpatel) - Speaker 1
+The consumption or the inferencing will be done mostly in Java by enterprises, et cetera, et cetera. So I think it's a bit broader than that. Yeah.
+
+32:12 - Mary Grygleski
+OK, I'd love to continue, but I'm sorry I need to go to another meeting.
+
+32:17 - Glenn Renfro
+But thank you.
+
+32:18 - Unidentified Speaker
+Thank you for coming.
+
+32:19 - Conference Room (prpatel) - Speaker 1
+We'll assign you all the tasks, Mary, since you're leaving.
+
+32:23 - Mary Grygleski
+OK, all right. Thank you. Have a good day, everyone. Thank you. Thank you, Mary.
+
+32:27 - Mary Grygleski
+So I mean, it's like the chicken and egg problem, do we?
+
+32:30 - Glenn Renfro
+You know, it's like we have material out there, but we can't really access it. But then again, we generate material, we feed the beasts, we give them the models that they want, or we feed the models, make models better at our expense. But then again, by making the models, giving more material to the models, does, you know, how do we produce that much? You know, how do we give it that level of information? So that people can benefit from it when they do use the models, whether it's for code generation, code editing, Java docs, whatever it is. So yeah, Yeah, go ahead.
+
+33:07 - Conference Room (prpatel) - Speaker 1
+No, I was just going to say that it's kind of like the topic that I wanted to bring up and get some feedback on. Here you go.
+
+33:17 - Glenn Renfro
+Which is this.
+
+33:19 - Conference Room (prpatel) - Speaker 1
+Is it OK to segue to this now?
+
+33:23 - Glenn Renfro
+Right now, before we go to this, is there other people have questions? Because one of the things that I want to walk away with, let's go ahead and talk about this too, but are there action items for us here? Or is this something we have to discuss further and say, what action items do we see? First off, there's like, well, even the scope of that, is there a problem? Do people think there's a problem with Java representation and generative AI?
+
+33:51 - NYJavaSIG
+That's the question. I mean, quantitatively, not qualitatively.
+
+33:55 - Glenn Renfro
+Right. Do we have it? And go ahead.
+
+33:59 - Catalin Tudose
+If we have this benchmark, we're talking about Java code, it would be interesting to compare this with some other languages, for example, with Python, which we say that has more connections with AI. Yes.
+
+34:16 - Catalin Tudose
+If we talk about benchmarking.
+
+34:18 - Catalin Tudose
+Yeah.
+
+34:19 - Conference Room (prpatel) - Speaker 1
+So, so, so I put this proposal together, Kathleen, because when you look at the various benchmarks, which are out there that all the LLMs basically say, Oh, this is how good we do. With this SWE or whatever the other benchmarks are. They typically are like Python or JavaScript based, right? Yes. So this is why I thought that if we're able to put forward a benchmark, and Michelle actually had a good point that if we put it on, what was the website? Human Eval. Human Eval, then that can also be consumed by the more popular benchmarks so that it essentially becomes a measurement for how well a LLM model works with Java because currently it feels like it is heavily focused around Python and JavaScript and not so much Java.
+
+35:19 - Catalin Tudose
+I will tell you that I have generated Java code with the help of LLM and from my experience, okay, maybe it's not absolute like the The only important problem I was having was about the versioning because frameworks evolve constantly. And if you ask some code generation, you get a lot of things, but sometimes not with the current versions or sometimes it is a version mismatch and you have to guide about picking up the dependencies. I think this is because of the knowledge cutoff my supposition. Otherwise, I cannot complain. Yeah, I've seen a lot worse.
+
+36:05 - Michael Minella
+I've seen hallucinations are rampant on complex applications. If you ask it to generate function X that does Y, yeah, it can do pretty well. But if you actually start trying to iterate on an application with it, I've had it hallucinate that it will generate APIs with rate limiting built in.
+
+36:24 - Unidentified Speaker
+Great.
+
+36:25 - Michael Minella
+Then all of a sudden, when I try running it, I get rate limiting errors. Like, wait a minute. You said you solved this for me, even though I didn't ask for it for the record. And then I look at the code, and it will have code in there. But there's even a comment saying, if this were real, it would do x. The code doesn't do x. So it knew that it wasn't real. It knew that it wasn't doing it. But it still dropped that code in my code base. I've seen rampant examples of that in anything more than a, like, I'm looking for this for loop, give it to me kind of thing. Scenario.
+
+37:00 - Unidentified Speaker
+Yep. So two points.
+
+37:02 - NYJavaSIG
+It's a non-deterministic entity. So don't expect exact answers. And also, your prompt, as Katelyn points out, you are guiding the language model. And with chatbots, remember, they're web apps.
+
+37:18 - Michael Minella
+You should act as a supervisor or architect. This was using extensive iteration with cloud code going back and forth, generating plans, implementation plans. There was not a simple, give me X and I got Y.
+
+37:34 - Glenn Renfro
+That's this article right here, the Fowler Exploring Glenn AI. I believe this was it. No, no, no, no. Where was it? I'll send it out, but it was basically their experimentation on having a GentX servers generate like code going round and round, and what they found was good and bad about it. It was actually pretty good, right?
+
+38:01 - NYJavaSIG
+I'll find that and send it to the group. It's a non-deterministic entity. That's the first thing you have to understand about this.
+
+38:11 - Michael Minella
+It is non-deterministic. I don't understand what that has to do concretely with generating code, though, because that's That's a fundamental attribute.
+
+38:21 - NYJavaSIG
+Let me finish.
+
+38:22 - Michael Minella
+Generating code is a fundamentally non-deterministic practice in general. If I asked everyone on this call to generate an application that does X, Y, and Z, every one of us is going to give you a different solution. Yes, and
+
+38:41 - Michael Minella
+So why do we keep using non-deterministic as a crutch for whether The tool that you're using is non-deterministic to expect exact answers.
+
+38:55 - Michael Minella
+When I say- I'm not expecting exact answers. That's my point.
+
+38:59 - NYJavaSIG
+So correct answers, like more reliable answers, maybe I used the wrong word there, more reliable. You can't expect an LLM to give you that back. It's not 100%.
+
+39:12 - Michael Minella
+I would argue it's a whole lot further off than 100%.
+
+39:18 - NYJavaSIG
+We're not talking 90%. Reasoning models hallucinate 30% of the time.
+
+39:24 - Unidentified Speaker
+In some studies.
+
+39:25 - NYJavaSIG
+In some studies, yes. Let's hit Miro real quick. Miro, you've been patient.
+
+39:32 - Glenn Renfro
+You got a point. No, OK.
+
+39:35 - mirowengner
+So I'm just, according to Java code benchmarking, I mean, for me, it would be a reasonable way how you can do the benchmarking. The Go level from simple design patterns, then connect them into the more complex patterns. And in that way, you can get some measurable data to be able to do some statistical repairs out of it using the agents interact. There's a collection of tasks and with the level of difficulties, which is the level of complexity of the task where they can solve it and they can compare it with any other language and you can do the various benchmark on these languages if you do want to do the Java benchmark coding. This is basically what the BERT score does and all the other scores when they are evaluating the text and the complexity of the text and also the size of- Is that the Stanford study? No. What do you mean?
+
+40:48 - mirowengner
+Is that study originally from Stanford?
+
+40:51 - NYJavaSIG
+Because Stanford did a similar study. And of course, complexity is a variable and it's not just code. There's all these parameters that you have to rank a benchmark for an LLM.
+
+41:04 - Conference Room (prpatel) - Speaker 2
+I would suggest- Yeah.
+
+41:04 - mirowengner
+But I'm proposing a little bit of the approach how to do the benchmark java coding is to what we would love to benchmark is a code quality right or actually accuracy and in that case we should create the scenario based on the level of complexity how the because in a coding you use the multiple design patterns right the build the creational design patterns structural design behind patterns and and behavior design patterns and in that If you then use the combination of them, then you get some data and you can evaluate it. That was my proposal, if we would love to do the coding benchmarking.
+
+41:52 - Conference Room (prpatel) - Speaker 1
+OK. So Miro, can you drop that thought into the Discord room? Because I didn't have a chance to write all that down.
+
+42:03 - Unidentified Speaker
+OK, thanks.
+
+42:04 - Glenn Renfro
+And Katelyn is next, but just real quick, it sounds like what we're saying is we need to be able to, the first thing is we're, if we have something to walk away from this meeting is we need to be able to benchmark.
+
+42:22 - Catalin Tudose
+I would like to point out a few things that I have in mind. One idea that I would say, I would suggest to use the term AI-driven development. Already encountered it and I think it's a very good one and it matches the test-driven, behavior-driven, whatever. It's very much in the spirit of what you're doing. Another thing is that I considered that, okay, Miro was talking about benchmarking and about the complexity of tasks. I made my own tests and I would say that we should know that AI, LLMs can behave like a very talented junior developer, but they need guidance. Exactly what Frank was telling earlier. Yes, we should go at the higher level and to act as a technical team lead or architect or something of this kind. And now about the complexity of the task, I made some tests. Okay, they are I think that for any programming language that has enough spread, LLM is able to generate a good standard, very good standard solutions because it has seen enough and it had enough material to learn. But I tried when Miro was talking about complexity, I tried to ask for the solution of of a problem that was involving some backtracking, something more creative. And it failed, and it failed even if I tried to guide it. And I think that it would be the same for other programming languages like Python or whichever, because the problem is not in the solution that it has, but is in some creativity that LLMs do not have with their approach of patterns. I wanted to point out this. Thanks.
+
+44:26 - Glenn Renfro
+No, no, thank you. This is a great point. I'm trying to look at time now. So we got 15 minutes. Prateek, did you want to advance your idea on the benchmark based on what we've said? Or is there something else you want to add to that?
+
+44:44 - Conference Room (prpatel) - Speaker 1
+No, I just more than anything, I just want to get some feedback on the specific concept. And again, part of the goal here is that the Current benchmarks for software engineering which are out there that all these closed and open source whatever models I use they're heavily skewed towards Python and JavaScript As you guys are aware So the idea is that we basically put something together And get some contributions from not just this working group, but also from other Java champions for stuff that they want to contribute to essentially I would say anybody's a subject matter expert, because Java champions may not be the best subject matter expert on this yet.
+
+45:28 - Glenn Renfro
+They're still learning.
+
+45:29 - Conference Room (prpatel) - Speaker 1
+Does that make sense? Right. But basically, I'm going to put together a template and seed it with some basic tests. OK. I may gratuitously copy some of the other ones that are out there for not all of it, but parts of it, and specifically towards Java. So it's coming up. With like the test and the sample code. And I think some folks already mentioned like varying levels of complexity around the specific tests to see if, you know, the Glenn AI models are able to solve those problems. But essentially the five evaluation metrics are here at the bottom. So, you know, I won't go into detail on all of them because they should be self-explanatory. Self-explanatory, correctness, efficiency, readability, completeness, and robustness, right? So that's kind of the metrics that I would use when I'm using an LLM. Is it giving me these five different things when it generates code for me or helps me debug a problem or helps me answer a question or whatever around some Java code?
+
+46:43 - NYJavaSIG
+So let me add a counter thing. Using language models for a long time, and I've been using AI for a longer, way longer time, I have no issue in a language model generating Java code. Absolutely none. And I'm creating content. I've created three courses on Java with AI, and I have had zero problems. It's all in the prompt, and it's all in how you use the chatbot, which frontends the language model. If you don't give it the proper prompt, you're not going to get a good answer.
+
+47:15 - Glenn Renfro
+Is this a community thing? Do you think it's more training the developer than it is the actual generative app models?
+
+47:23 - NYJavaSIG
+It's a fundamental misunderstanding of what a language model is. And I'm seeing it in other areas, not just with Java developers. I'm seeing it with a lot of other very, very smart people. They just don't understand what a model is and how to guide a language model.
+
+47:40 - Michael Minella
+I'd love to see some examples because the work I was describing, it was literally me going back and forth with the model, developing the prompt itself with the model, basically asking you how to do it, which my understanding is one of the best practices to do is ask models how to meet them where they're at, ask them how to do this.
+
+48:05 - NYJavaSIG
+Well, I'm not sure I'd agree with that statement, but yeah, I understand what you're saying. And maybe you and I should have a conversation, and I'll show you how I'm using it.
+
+48:20 - Glenn Renfro
+So let's start putting about 10 till. So what I want to do is let's go ahead and capture a couple of things here. Let's take and say, OK, what do we do next? What would we do next? Let's have a discussion on XYZ, right? The education of people, the gathering of benchmarks. You know, what is it that we want to bring out of this meeting today, right? Is, I think, the question I want to kind of, like, let's do a new slide. So, like, what's next? Is it, are we talking about, I mean, we talked about having...
+
+49:11 - Conference Room (prpatel) - Speaker 1
+Go for it. Frank, what you just mentioned about, oh, if you want to see how I do this, do you have that as part of your LinkedIn course or somewhere else currently?
+
+49:26 - NYJavaSIG
+That's what my courses are doing, exactly. Okay, is here right here's let's understand what's happening under the under the hood. And if once you understand that, then you know how to create a prompt. And then then you know how to use a chatbot. So it's, it's, I'm trying to teach it to be especially to beginners.
+
+49:45 - Conference Room (prpatel) - Speaker 1
+No, no, I understand. But it does, does your course cover the second half of what you just said, not like the fundamentals of what LLM is and how it behaves and blah, blah, but how do you actually use it properly? That's, that's what I'm asking.
+
+50:02 - NYJavaSIG
+Yeah, those courses cover that, sure.
+
+50:05 - Conference Room (prpatel) - Speaker 1
+OK. Hey, Miro?
+
+50:07 - Unidentified Speaker
+OK.
+
+50:07 - mirowengner
+It came up to my mind the other question with these benchmarks. When you have to code and implementing the design patterns, let's say, there are also the question about the implementation of the design pattern itself, which means, for example, well-known autoboxing and so on, which can play the crucial role in some kind of application. And it can lead to various scenarios. So we should also, in such kind of benchmark, consider the Java platform itself. How are you initiating the values? How will you handle these values? What is the garbage collection doing there? There are some scenarios. Areas of design patterns implementation can be, I would say devastating for the application. And I already seen it with the white coding on in the real scenario, how to how to like consume money grow. Yeah.
+
+51:18 - Conference Room (prpatel) - Speaker 2
+So I love because it is high, we have really amazing features in Java that are there because they are solving the specific problems. So, creating the specific problem cases that highlights and we can explain why this is the best solution, why it's the best way to go, I think it's going to be very useful. My only contribution to this conversation should be, and it is, whatever is created, bring it back to where the forums of people that do not understand, like the well-known forums that they use, for example, Human Eval, because there are a lot of papers out there trying to compare this. And they are using specific examples of places and et cetera, et cetera, that have become now kind of the standard for benchmarking. If we can come back with our examples into all these repositories, then we will have this conversation reaching the audience that we want to reach, which is the one that is asking the questions. Is this good? Is this bad?
+
+52:35 - Unidentified Speaker
+What should I use?
+
+52:38 - mirowengner
+Yeah, that's true. So this is, for example, what happened to me, what I've been experiencing is that the developers in my team, they just use different kind of generics. And then it actually led to the increase of garbage collections and garbage collector became very unstable and which projected into causing the delays. In the application, instead of using the primitive types. Also, which kind of resizing of the collection. I mean, this is a very, very interesting topic. And I think our benchmark should kind of consider these factors because the JVM and I experienced it in Scala and I experienced it also in JVM and Kotlin I think I have not done to measurement but yes there too.
+
+53:58 - Glenn Renfro
+Okay so one of the so I did what's next and I put in just these things it's like additional education on prompt engineering right is this you know we'll talk about more Is this more we're talking about courses to recommend, like what Frank has? Are we talking about provide more material? I mean, out there? Do we actually generate some of that? Do we reference more of that, like with what Amirah does by producing articles once every couple of weeks and say, here's some things to Read. The other is, do we want to talk about, you know, let's dig in on benchmarking, the benchmarking would, you know, be a major part of saying how good is the job being represented? Go ahead.
+
+54:58 - mirowengner
+Yeah, I think that would be nice. Because, like, right now, it's very intensive on the on the on the field of benchmarking is on medicine. And they are a I mean, there are these articles, the scientific researchers, they are reporting some, some suboptimal results, or, I mean, or just in a specific area, very good, good result, but they, they oscillate with a big plus minus. Yeah, and I think that's the benchmarking of the of the LLM models will be will be right now, in a focus side of discussion about where they, how they train day, but most because they are here, I agree with Frank, but it's a separate discussion.
+
+55:51 - Glenn Renfro
+All right, so with five minutes left, do we want to have another meeting on this on? Well, on this topic, but are we talking about maybe having maybe a course of meetings on like the the benchmarking and maybe another on prompt engineering is that something that we're talking about doing here when we say about prompt engineering like not just educate but do we want to create material for it right uh I know it feels like it feels like we want to have uh the next meetings about benchmarking and digging into that is everybody in agreement on that there's a lot of content on prompt engineering I'll I think just having references to that would probably be sufficient for our audience. Okay. All right.
+
+56:39 - mirowengner
+That's in my opinion.
+
+56:41 - mirowengner
+Okay.
+
+56:42 - Glenn Renfro
+That sounds good to me.
+
+56:44 - mirowengner
+I have a question. Wouldn't it actually prompt engineering in the future, just in a close correlation with the benchmarking, with the level of accuracy that you actually retrieve responses?
+
+57:03 - Glenn Renfro
+Okay.
+
+57:04 - mirowengner
+And I mean, I see the very close connection between the benchmarking and the prompt engineering. I will disagree.
+
+57:14 - Glenn Renfro
+I think that's what Michael was saying is like, let's say I am well practiced at prompt engineering. It's this debate. It's like Frank said, yeah, there's plenty out there if you engineer it The question is, you know, are we sure?
+
+57:32 - Michael Minella
+And can we measure, is it measurable? Go ahead. I think there's a complexity threshold that prompt engineering by itself will not overcome. That's fundamentally my point. And that's where this question came from, is this isn't just a, how do I ask the model the right question? I believe it's more than that.
+
+57:54 - Glenn Renfro
+Agreed. I think it goes back to what Pratik was bringing up here on slide 15. Can we measure it? Can we provide solid prompting with some magentic flows? Can this be something that we can get and determine correctness, efficiency, readability, completeness, robustness? And is Java representative? What does it do? Can we measure it? Is that our next meeting?
+
+58:30 - Conference Room (prpatel) - Speaker 1
+I mean, again, I'm not 100% sold on this idea that this is actually worth doing, but it feels like having some kind of at least basic benchmark. And Frank, I understand that you feel like it's more geared about the prompts, giving proper prompts and whatnot.
+
+58:51 - NYJavaSIG
+It's a whole collection of things, not just a prompts critique.
+
+58:56 - Conference Room (prpatel) - Speaker 1
+OK, fair enough. Um so I don't know maybe we could maybe we should discuss it a bit more and see see where we go from there would y'all like to have a meeting on this two weeks to dig into this a bit more is that too close I think that should be okay at least for me okay it's not well scheduled september 29th yes uh september 29th uh may be.
+
+59:27 - Unidentified Speaker
+Let me check.
+
+59:29 - Glenn Renfro
+I because we have depth to next for will be a team and Frank. So I'll see. I'll tell you what, what I'll do is since they are the they are the three cents of this group right now. I'll go ahead and check to see if we have availability at that time. On the 29th and see if we can all just sit in a room and maybe have everybody join in on that.
+
+59:59 - Conference Room (prpatel) - Speaker 1
+Actually, Glenn, we may just want to punt until the following Monday.
+
+1:00:03 - Catalin Tudose
+Okay, I'll go ahead and I'll plan for that then. And don't please, Glenn, don't forget that for October 13th.
+
+1:00:10 - Glenn Renfro
+So yes, I need to set that up for Victor.
+
+1:00:14 - Catalin Tudose
+Yes, Vlad. Not to have overlapping. Yes, yes, yes. So I'll go ahead and plan for that.
+
+1:00:20 - Glenn Renfro
+I think we're, I think we're I think we're good. I think I'll be like, I'll tell you what, I'll go ahead and plan for that because I want his presentation. Because in a lot of ways, what he's presenting on really does cover what Frank is talking about. Because if we look at the tool that he's presenting on, it's the whole practice of having the good prompts but matching those good prompts with requirements and being able to create an app that is consistently, well, as close as you can, solves a problem with success criteria based on those requirements. So I think if y'all can, I'm going to be sending out to the group, it's going to be for October 13th. And Vlad has been talking about a tool, and he kind of presented last week on this very topic of being able to have improved developer experience by matching your prompt with a good set of requirements. And I'm not sure who was here last week.
+
+1:01:24 - Catalin Tudose
+Yeah.
+
+1:01:24 - Glenn Renfro
+But I think if we, but I would highly recommend catching it on the 13th if you were not there.
+
+1:01:31 - mirowengner
+Yeah. Me not.
+
+1:01:32 - Conference Room (prpatel) - Speaker 1
+Looking forward.
+
+1:01:33 - Conference Room (prpatel) - Speaker 1
+On the day. Glenn, real quick. Yes, sir. I was discussing this working group with the folks here at jalapeno. Yeah. And there was this very good which is they weren't aware that we're putting out a weekly newsletter. Pinging that into the main Java champions group, like, hey, here's this week's newsletter and link to it would be helpful for the broader Java champion group and give us something to talk about aside from nominations. So there you go. Okay, hold on.
+
+1:02:07 - Glenn Renfro
+I'm going to, okay. By the way, everybody give me a round of applause he's one of the symbols all that every week. So, so around. Thank you. I'm surprised.
+
+1:02:22 - mirowengner
+I have just short report on it. So we getting so many in unique views. Maybe Patrick already know that. Yeah, there are just really thousands readers. So so surprised. I get I think It's gross already, 20,000 Unix. Wow. Yeah, nice.
+
+1:02:45 - Conference Room (prpatel) - Speaker 1
+Fuji gets organic traffic and we also have every article that goes up there, so it helps. But yeah, I think maybe what we can do is for the next newsletter, Miro, when it goes up, post it into the JC list and also ask everybody to reshare it on LinkedIn or Twitter or whatever so that we build a little bit more momentum in the community for the newsletter.
+
+1:03:12 - Unidentified Speaker
+Okay.
+
+1:03:12 - Conference Room (prpatel) - Speaker 1
+Yeah, I will do it.
+
+1:03:15 - mirowengner
+We chat. We can chat about it. So they are just already started contributing to people from Java champions from outside. Thank you, side of Frank, and also to learn LaForge and other. So that's a very nice everyone started contributing. Catalin also. So I think it's a workflow. So yeah, let's chat on it, how we share it with other Java champions. I think they are all aware. I have tried to ask, but maybe I was not successful enough. But maybe right now, when it's getting really traffic, I will be more successful.
+
+1:04:01 - Conference Room (prpatel) - Speaker 2
+Cool. Awesome.
+
+1:04:01 - Glenn Renfro
+Well, folks, thank you all so much for being here. Thank you all for your patience with a lousy moderator. So I appreciate that. I will be sending out notes today slash tomorrow and also schedule a meeting either before or after. Sounds like it's going to be after the 13th. I will also be sending out that letter for the education group for Vlad's talk. I'll also put in just a quick summary of what he discussing so that folks know what they're getting into. And again, folks, thank you for your time. I do appreciate it, and the community does appreciate it. Thank you. We're going to go ahead. Thank you.
+
+1:04:42 - Unidentified Speaker
+We thank you. Take care, folks. Bye-bye. Bye-bye.
