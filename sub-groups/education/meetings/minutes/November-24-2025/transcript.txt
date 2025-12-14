@@ -1,0 +1,326 @@
+0:16 - Unidentified Speaker
+Hello.
+
+0:18 - Vlad
+Hello, everybody. How y'all doing? Hello.
+
+0:20 - Catalin Tudose
+Fine, thank you.
+
+0:21 - Glenn Renfro
+I was like, it is so overdue that we have a chat. Sir? Hello. How goes it? I was like, it's so long since we've had a chat. And I was like, well, I don't know. It was like we didn't have a topic. And I said, well, maybe we need to create a topic. So that's what this is all about. So. Gosh, and in the last month, how many changes have occurred in the market? And I'm going... Everybody, just a few minutes to jump in.
+
+1:00 - Catalin Tudose
+Do we expect more people or what?
+
+1:03 - Glenn Renfro
+Probably about five minutes. I think we'll get about six or seven. Um I know that we had let's see hello Mary hello hello Glenn kathleen and we have flat hello yeah liza can't make it she is in recovery she has injured her back Who? Who? Lisa.
+
+1:41 - Mary Grygleski
+Oh, Liz Ray?
+
+1:43 - Glenn Renfro
+Yeah. Oh, my. Oh, yeah. She's she's she wanted to come. I said we will definitely record it and send it out. So she'll watch it when she's feeling better.
+
+1:56 - Unidentified Speaker
+Gotcha.
+
+2:00 - Glenn Renfro
+But, yeah, I was thinking about, like, what would be the best way for us to see with the Education and with Java and how it relates in the market. It's like, I'm just gonna basically put up a board where we can just start putting up cards and discussing the cards in a typical unconference format. And just see where people are thinking about, because again, I'm literally, I'm hitting several sites you know during the week and like reading new articles everything from you know the new models are out the new uh agents capabilities the the agent hiccups the code development you know tooling hiccups the um you know even uh what was his name um oh gosh my brain just fried out that's the reason why you never code before you come in the meeting. Gosh, my brain just turned off. What it? Let me go get the quote. It'll be here. And I actually had a Discussion. Let's see, where's it at? If I could find the talk. Here it is. Yeah, it was Martin Fowler basically said this is so foundational to to, let's see, what did he say? I'm trying to get the exact quote. If I can find it.
+
+3:40 - NYJavaSIG
+Was it a positive or a negative?
+
+3:41 - Glenn Renfro
+Positive. Well, it was something that was, Nate and I had a talk about it. Basically, he said this is like a foundational change to the level of like what, you know, it from assembly to C.
+
+4:03 - Vlad
+Is it from the podcast with Gerge Oros? Yes, yes, that is it. Yeah, I can I can give you a link if you want. I remember. Yes. Yeah.
+
+4:13 - Glenn Renfro
+Go ahead. That's awesome. I mean, and so yeah, it says how AI has changed software development. Martin Fowler says AI is the biggest shift in the field since high level languages appeared one like Fortran or C offering a new abstraction level at a code, to code at versus assembly.
+
+4:35 - Vlad
+And so again, that's one of those things. Oh, thank you.
+
+4:40 - Glenn Renfro
+Perfect. And so to me, that's like, okay, that's just another affirmation to say that, you know, how can we help our Java developers out there? And So what I'm going to do is go ahead, and we'll see how well this works in a minute. Let's see. I think.
+
+5:05 - NYJavaSIG
+Did you Read this? Tim O'Reilly had a similar one, but that is probably going back at the beginning of the year, about the end of programming as we know it.
+
+5:17 - Glenn Renfro
+I'm going to say, I think it has access to this. So basically, we're going to start dropping cards. But there was like someone had a Discussion that some developers said, well, I can't code anymore. I've run past my token budget. And so it's that classic blend of we're reaching a point where it's a traditional coding model plus AI. Like literally right now, I mean, this is a very simple case. Have an agent right now. We had a project that was old and had not had CheckStyle on it. So I just sent the agent to go over and run CheckStyle. I added the CheckStyle configuration to my Gradle and just said, go to town, build and fix all the CheckStyle problems. And while I was working on something else. Again, it was a very simple case, but I didn't even think twice about it. I'm like, why would I? Ever do that level of work. I will have it do the work for me, and then I'll review it and make sure it doesn't introduce anything. But the risk level is pretty low on that. But we're just kind of getting used to, I don't know, it's not getting used to, it's just, it's the new norm. So what I was thinking about today is literally we can come over here and we can grab a card, pick your color, grab a card, drop it down, And the thing is, where do we want this group to go? This is the Education group. So we're kind of talking about how can we help Java developers out there? What are resources that we can give them? Now, we already have the articles that are being produced by Catalin and a curator for that. We have the work that Lisa did. We have you know, is there something else that we can do? Or is there a directional change that we want to have in the group? And either to increase or decrease focus? I'm letting y'all kind of guide us through this. I mean, I can throw in a two cents, but what do y'all think? Go for it.
+
+7:40 - Catalin Tudose
+Thanks, Glenn. So what I can say is what I did and what I plan Do just to talk by myself and maybe I can Also encourage you to join a few things. So you talked about articles. I was involved about in Publishing some articles and I want to continue this I Developed a spring AI course and I have already run it twice inside our company locks off Yes. Also, I invited some of you here to speak in our Java talks on AI topics or something else. It's your choice. I see here, Mary, Vlad and Glenn will be in December and I'm also ready to host you on an AI topic or or something else. And I'll continue the work on the framework that my colleague and friend Vlad has presented here. This is my involvement and I'm happy if we can find common things here or if you can join in different things.
+
+9:03 - Unidentified Speaker
+Is your course for people who already know Spring? Yes.
+
+9:09 - Catalin Tudose
+At least some basic understanding of Spring is necessary. At least Spring core dependency, injection, Spring boot, the basic things. When we start to talk about Spring AI, we presume that we already know the basics or I can quickly remind them. For people that don't know Spring, we have separate courses. We have 30 hours introduction to framework course that covers the basics, including here Spring Core, Spring Boot, Spring Aspect-Oriented Programming.
+
+9:46 - NYJavaSIG
+Right, because I've seen this pattern of there's a lot of younger students who want to learn about AI and they've heard about Spring AI, but they don't know Spring.
+
+9:56 - Unidentified Speaker
+You have to have some background. Of course, of course.
+
+10:00 - NYJavaSIG
+But just what recommendations would you have for those students?
+
+10:05 - Glenn Renfro
+You know, there was, just to give you a heads up, at AJUG this past week, we had lightning talks. And what I've done there is I have gotten like new coders, but new coders, existing coders to give lightning talks. And we do a whole training session on them. And one of them was done by a junior in a local university where she did a lightning talk on comparison comparing and contrasting link chain for J and spring AI. And, you know, and it goes to that Discussion is like, I think that we, if that type of Discussion or even like a primer on spring, if you know spring or, but if you don't know spring and you're more Jakarta or they may not even know they're Jakarta, link chain for J and then let, you know, have, do we want to have, discussions on that with the community that we facilitate to teach them about that. Not a course, but just like this is, again, kind of like, you know, what's the difference between that and a video, right, that they could watch? Or do we want to have like an expert panel that people could come in and ask questions, right? Is there something that we want to offer in that zone? Or is that helpful? Because I guarantee you, every time we have an AI talk at the Atlanta JAG, we pick up at least 80 people to show up.
+
+11:37 - Unidentified Speaker
+That's the hot topic, right?
+
+11:39 - Glenn Renfro
+Yeah, it is. I mean, well, we, you know, the lightning talk still picked up 45. But yeah, you know, that's the thing is that a 45 60 is okay, but you can expect another 20-30% anytime you say something AI. Now, if you say RAG, you get like 20 people like, I know RAG, and I'm like, you don't know RAG.
+
+11:59 - NYJavaSIG
+That's the problem. That's the problem. A lot of people, they think they know this stuff. And I know about Spring AI. I know about Quarkus and AI. I know about link chain. And then you ask them about basic machine learning, and they have no idea. It's like, you have to know the basics before you even talk about the frameworks.
+
+12:17 - Glenn Renfro
+Right. That's a good question. I mean, it's that panel. Yeah. But I don't know. I'm just putting up cards out there. Again, like I said, I tell folks, I am a Neanderthal at it. Let's see, Discussion. I'm just throwing stuff up there based on what I'm hearing from you. At all. So what do you think is the best way to reach folks? Do you think is it just like, is it like blue sky skeets? Do a video, short video hits, like a minute video lightning talks on some topic Do you think that that's something that would be useful? Do we want to host a live panel with a moderator that a lot of people ask questions?
+
+13:33 - Vlad
+I noticed that lately, YouTube is working quite nicely. And I had a Discussion with Adam Bean when he was in Cluj for DevTalks. And he said that he does some YouTube shorts on a daily basis, just one, two, three minutes. It's just to engage with the community and gather questions. So from his point of view, and I think he's right. I think that YouTube and YouTube shorts are working nicely and people are interacting with those. The good old blogging is kind of dead. Few people get to Read because most of the people who want to search for something, they go to AI and they bypass your blogs or technical articles. But I think that YouTube still works, and that could be a solution.
+
+14:24 - Glenn Renfro
+OK. I'm putting another card up for whatever. That's a great idea. By the way, this is not a commitment. This is actually gathering ideas, and then we can figure out, you know, dig into them a little bit and see which ones we want to really kind to look into to see which is good. Again, it goes back to the shorts, right? It's really inviting for me just to grab a short and listen to it for a few minutes, even a series of shorts kind of stuff.
+
+15:05 - NYJavaSIG
+I'm sure Gemini, Google is just training their Gemini, et cetera, with the short transcriptions. Oh, God. It's only a matter of time, right? It's only a matter of time.
+
+15:18 - Vlad
+At the moment, there is an option to basically to tell Google not to use your material to train based on the material that you have on your channel. But I'm not sure. The problem is that sometimes they change those settings and you're not aware of them. All of a sudden, it's been like five years and they've been training on it.
+
+15:41 - Glenn Renfro
+Yes. I can't believe that Google's gonna take an undertaking like that seriously.
+
+15:48 - Glenn Renfro
+There's like, I think it's two spots you have to shut it off now for mail because of the, they don't make it easy. You know, it's not hard, but it's like, if you shut it down here, yeah, but you gotta go over here too. And I've got, someone sent me an article on how to shut it off. And I'm like, oh gosh, I gotta do that.
+
+16:05 - NYJavaSIG
+The same thing with LinkedIn too. LinkedIn did it just like a few weeks ago. Oh, they did. Yeah. Oh, my God. All your posts by default are being used to train LLMs.
+
+16:18 - Vlad
+Yeah, but those are not really. I think that for the vast majority of the posts on LinkedIn, that's not a good idea for the LLM to be trained on. It's so much fluff on it.
+
+16:39 - Glenn Renfro
+So we're kind of covering like different ways that we can reach the community, even to a degree of topic. And they're centered around our two major contributions, which is LineChain4J, Spring AI. Do we see those as a focal point for what we wanna help people with, is there, do we wanna have a development, like we were talking about at the beginning, how to use it to do code gen, or document gen, or code reviews?
+
+17:17 - NYJavaSIG
+Do we wanna have- Yeah, I think specific use cases, Glenn, I think that's the way to go. It's certainly not general things about like Jamf 4J, or Quarkus, or Spring AI, you know, how to do that stuff. There's so many, so much content about that, and we certainly can, you know, our bullet news bulletin already points to those things, but specific use cases, like, you know, generating code or specific Java spins for it, right?
+
+17:48 - Vlad
+I'm going to publish tomorrow a video on YouTube about, it's a new tool from Lightron called Debug Zero. And although it's not about Spring AI or Quarkus or Longchain4j, it's going to be tested on a Java project and the tool can figure out why a given test case, it didn't crash, but it didn't do what I was expecting it to do. And then it goes and investigates and does the troubleshooting. And actually it was quite nice. So I think that even that can be useful because it shows to developers how they can use AI on their day-to-day tasks that they need to solve. Even if it's not about a framework, a Java-based framework, it's still how you're going to use AI to improve the development on your Java-based projects, like generic problems that you previously, like you said, previously using Cloud to fix the, syntax or I don't know what was the code, the code syntax, Glenn. Something like that. So I think even if it's generic, I don't think that it's, it's not a bad idea. I think it's going to be useful for them. I think that we have a lot of people, we have some people who are like power users with AI, they use AI a lot, and they know how to use it. But for the vast majority of people, I still thing that they don't really know exactly how to take the best out of it it's still everyone does some prompting but that's pretty much it I've seen in one company I was for for a while and apart from the fact that some of them didn't even want to try to use AI the ones who were using it I didn't see anything out of the ordinary or spectacular where most of the thing was really basic.
+
+20:00 - NYJavaSIG
+Well, it's also the non, I mean, we all know about code generation, but we all know we do other things than write code. So where do we use AI in our other aspects of the SDLC?
+
+20:14 - Glenn Renfro
+Excellent point. I mean, that's what I'm kind of like, yeah. Again, I'm putting these as green cards, Like, I can't tell you the last time I wrote a commit message incomplete. I'm serious. I've got a template or a template. I've got a spec that generates, you know, I'm like basically create commit message. And it goes, looks at the change I made based on like the rules I specified, generates my commit messages, commits. I don't do that. Because it's doing it to a standard, exactly what I did, references my PR, all that stuff, done. I don't think about it. So I mean, that's part of my life right now.
+
+21:09 - Mary Grygleski
+Yeah, that's the drudgery. You want the AI to take away the drudgery.
+
+21:18 - Glenn Renfro
+Right. It goes back to what Venkat would say, if you do something once, okay, you do it twice, you script it. And in this case, instead of scripting it, oh, go for it, Mary.
+
+21:30 - Mary Grygleski
+Oh, me? I feel like, yes, I know we're kind of about language platform, but the way I'm seeing is that I don't know if it's possible, right? It's basically Java, we have our strength of solving certain kinds of problems. So we have to kind of understand the kind of problem first, and then figure out some solutions for it, and then where Java can fit in. I think if we think like that, it may be kind of, it can open up like new ways of solving problem. You know what I mean? Like it's, we're too much about, okay, from bottom up, we're doing this, this, but what is it for, right? So it's kind of more like, you know, we need to understand that the problems we're trying to solve first, and then come from that other direction. It's what I'm thinking, but I don't know. Right now, I don't know how, you know, if we're going to go for Education, how do we get people to start thinking on solution inside and then applying Java the best way we can, right? To really use our strength and concurrency and scalability, things like that, right? Then we can talk about the language from that direction. It's what I'm thinking. So, yeah.
+
+22:43 - Unidentified Speaker
+Maybe if I, Hey, hi, I'm sorry.
+
+22:46 - Unidentified Speaker
+Yeah.
+
+22:48 - mirowengner
+So I may have a comment. Um, Oh, I think Frank did mention it nicely to examples. They matters. So what I, what I'm, what I'm observing by, by reading all articles, according to benchmarking agenting system and all the other stuff, what is happening behind the scene of use is that they struggle, basically, in generic approaches. Yeah, just forget it. When they try to create some generic solution using any kind of trained language model, even the agenting ones, they're approaching better, of course, accuracy. But the accuracy, broaching is less than 80% yeah even in code generation. So if you multiply actually one project and for example modules that you have you are reducing success incrementally yeah without the with with using of code generation or without using LLMs and this is the similar what I what is when you're using AI in, for example, as an agent to guide you. I mean, to go through the context. Yeah, it is still, it's incredibly which is not reported, or actually it's sold out to the community, to the community, to people, basically with not having proper awareness about what is actually AI is or LLM is. Yeah, we have these data that basically the best success, I think, reminds in general, still around 60% that it can help. So right now, the question is, when they I Read multiple papers about to try to use the two agent MMPC right to help to generate the code and giving you some additional advices I think commit message generator is great when when they use it as a as a tool in big enterprise projects yeah they incredibly fail so there is a high percentage that the price that they need to fix according there was a job platform I think in that one paper was actually the Java platform used. So on the level of concurrency, there is a language structure that he has, the Java, but there is a platform behind the scene. So it really matters where you use generics, where you use primitives, and where you use other tasks. And Java, the LLM, is not actually able to train it because the LLM is, for me, in my opinion, very good, I'm using it for spot the bugs in the grammatics.
+
+26:08 - Unidentified Speaker
+Yeah, I mean, that's it.
+
+26:11 - mirowengner
+It's a level one, there is no level two, level three, when I Read the articles about multiple levels, like abstraction, when you need to go, it's incredibly failing.
+
+26:27 - Glenn Renfro
+So Let me ask you this question. I know you're coming at this as both a user, and this kind of comes from what Mira was talking about. You're both a user of it to do both development. You also use it in the real world to create solution, but you're also using it as a teaching tool, or as a way to, you're also teaching it to students.
+
+26:48 - Unidentified Speaker
+And as a teaching tool.
+
+26:50 - Glenn Renfro
+And as a teaching tool. I mean, so the question that, and this may, it's to you, but it could go to the general audience, when we are looking at this, have we found that, I'm trying to word this properly. See, I'm a tool pusher. So as a tool pusher, the amount of context that I have for the tooling that I'm writing is pretty thin. So my cases are kind of that narrow, kind But when you're dealing with like it's just a real world problem. And you've got a code base that you can draw from that's got context and what is. Go ahead, are you seeing? Are you seeing that that it is successfully rendering solutions? In the real world, go for it, please correct wording?
+
+27:51 - Glenn Renfro
+Yeah, yeah.
+
+27:52 - mirowengner
+I mean, I mean, the question, but multiple researchers are asking, or what I also saw from Anthropic and all these big companies. And from my perspective, I maybe Frank, Frank can give some more insight on any other, you know, it's, it's looks to me, the way how it is done, it's incredibly able to absorb the first level of abstraction and you can ask it as a doctor or as a patient to doctor in this level. Immediately when it goes across the multiple levels of abstraction, the current implementation of LLMs, even with the help of Rags or Graph Rags or whatever is used right now, even the small context. It starts to hallucinate. But the hallucination is, it's the part of the math how the weights are calculated in the transformers that they are used. So, and I don't think, yeah, although there are many papers on like questioning the hallucinations, Are there many blog posts? There is a so much so much content on the internet generated by AI that I think the true or the problem will vanish or Normal person is not able to Kind of digest the level and distinguish Between what is real and what is not real?
+
+29:33 - Unidentified Speaker
+Yeah as a code or as in content?
+
+29:36 - mirowengner
+Yeah the content And I mean, the code too, it's related, right? If you are not able to distinguish whether the content is valuable for you and whether it's bringing you forward, so you are not able to distinguish whether a code is properly done or not. And I mean, a lot of LLMs that I have tried, the multiple providers, they are used basically on demos. And demos, from my perspective, as I've been working on the JVM performance topics on the JDK itself. So the demos are simply demos. So they have a lot of mistakes and even the authors of the demos, sometimes they are not aware of it. Yes, so the content that it's trained and then serve to general public, it's very questionable.
+
+30:33 - Glenn Renfro
+Yes, even the demos. To the context building, we go out and hit the web, and if I'm working on Spring integration, right? Spring integration, most of its documentation is based purely off of Spring and kind of old. And so if you say, go generate me a code sample, or go generate me a sample using it, a lot of times it will use modern Spring Boot, modern this, and then all this other stuff is like Spring-free. Age and the tests it writes are from five years ago. And it's because that's where all the content is. And so it's like, wow, this is useless. It works, but it's useless, right?
+
+31:22 - NYJavaSIG
+That's because you're using it as a search engine and you should not think of it as a search engine. If you think of it as a search engine, you're going to get burned. So don't think of it as a search engine. Think of it as a product.
+
+31:33 - Glenn Renfro
+a pattern matching engine that can use a search engine. Right. I'm just saying, in this case, what I would have to do is I have to point it to the documentation. And so here's your context. Here is the latest docs. I want you to use these docs. And I want specifically, and you have to be very careful, specifically these portions of the documentation. Right?
+
+31:55 - NYJavaSIG
+Right. It's all in the prompt. It's all in your prompt, right? Absolutely. Right? I've had JCs complaining to me that these LLMs don't understand the latest version of Java. They don't understand this. And how can we get them to understand the latest version of Java? I said, you know, I have had no problem with that. It's all in your prompt. Don't think of it as a search engine, because it's not. It's not a search engine.
+
+32:23 - Glenn Renfro
+It isn't. And see, that's the reason. It's like, how do you create a good spec? Sorry, let me go back. How do you create a good prompt that will create good code. First thing is you don't give it a prompt straight out. You create a spec, you review and update the spec, and the spec will be your, you know, and then you run it and you're like, no, this is wrong. What's wrong? Well, go back to your spec, update your spec, right? Focus the context, focus the code, tell it what not to do, have it, have you asked questions. So I'm going back to both you, Miro, and Is this something we need to teach people? Like where it works, where it doesn't work, what is a good prompt for coding, right?
+
+33:05 - mirowengner
+I mean, for example, if I may, I have created my small agent system. I use some model, Gwen, I think eight billion tokens, and I just feed it by my books. About programming languages. And I received way better matches than the Claude could give me. And also the proposals. So it's not inherently, it's not implied. Actually confirms that the small models are better. But the thing is that the Claude and Aldi to create this illusion of the AGI, the General Artificial Intelligence, which is not possible to create. Because you cannot maintain such much tokens in the memory. And you would need to create tokens basically for everything. The length of the token would be so incredible. That will actually consider all the knowledge of the world in all or everything. Then you may get, when you're posting the single request, the proper answer. This is what Frank said, it's a pattern matching, the same pattern in multi-space. We have to train our Java developers.
+
+34:36 - Glenn Renfro
+Yeah, this is not possible, yes.
+
+34:39 - mirowengner
+What we need to train also the Java developers is to find these examples. There's a question right now, what you would love to discover. I observed that since the three months or six months maybe, there is basically no content, the valuable content on the internet. Maybe it's my feeling only. Yeah, everyone wants to use the LLMs for generating the contents and some kind of demos and this demo, this kind of article is basically about, basically something that has been already described somewhere. Yeah, just bringing no new values. I mean, there is a lot of content. That's true. But without the real value, from my perspective, yeah, that the value has been reduced. And even even some some explanation has been kind of form in directions that I'm not sure whether it's helpful for the community. Yeah, so because, you know, I may, I may I may be right searching for new challenges yeah I may be losing a job for now yeah I'm sorry yeah but it's not yeah it's because of the industry is going through the changes yeah yes so the management's and whoever allocates the money somewhere is also confused about this stuff Yeah, because, I mean, the people are not understanding how probability works and how the statistic works. Yeah. And I mean, this is the major problems, why it's causing the issues right now. Because, I mean, if you go to the conferences and someone is from high level explaining it to you, how long chain for J works. Yeah. It's a very basic scenario with how to deep knowledge about it. Basically, it's about please plug this, plug this, plug this. But is it something what is really necessary to serve the community right now? You know what I mean? I express myself. It's knowledge that could be replaced. It will be replaced by this first level abstraction of LLM. Yeah? Right. I am not, for example, if I take a look on the content of the conferences, well, I couldn't say I'm, I would attend some, some talks. Yeah. Because they bringing zero information values there. I'm not, don't want to be harsh. Yeah. It's very hard to create good show. Yeah. Uh, no, just give it talk, but you see, I wanted touch what kind of changes are happening also here in the industry. And I have a doubt that the conferences, the conference content requires to change.
+
+37:54 - NYJavaSIG
+I totally agree with you. I think in conferences and also a lot of YouTube training and online training, it's just that. Training, it's not Education, right? It's so people, a lot of companies look for training, they don't look for Education, they look for training. So the problem with AI is that you have to have Education, not just training. So that's the problem. And so there's a big rush, like, oh, we have these courses, there's training, training, they said, but you don't understand the fundamentals, you need an Education on how this works. But that's not how things are sold these days, unfortunately.
+
+38:37 - mirowengner
+No, that's true. This is interesting. No, but really, actually, this is, I already mentioned it, I've been working on, I mean, on the software that is sold to airports. There are lives relying on it.
+
+38:52 - Unidentified Speaker
+Yeah.
+
+38:55 - mirowengner
+And the airports crash and so on, like, and in these teams I have, so They simply, by using, they degrade completely the knowledge. They didn't even, most of the members of the team didn't even try to get this knowledge. The Education you mentioning right now is required. And what's worse is, this is why I wrote the article about stochastic agility, yeah? Because this propagate, the LLM, it's easy to use, it's easy to approach, and this propagates through the whole industry all levels of the companies. And you have zero possibilities to improve. And you cannot even argue against it.
+
+39:40 - NYJavaSIG
+Well, in many regulatory industries, AI cannot be used. Yeah. It just can't. Because it's just, there's a non-determinism. And you can't have non-determinism for medical, for a lot of medical purposes, right? Yes.
+
+39:55 - mirowengner
+Yes. And this is what puzzles me, yeah. Where I'm reading medical articles also. So I'm also about the research of the drugs and also about the diagnostic of diseases. So in these articles are the matchings, again, like they don't achieve better match than 80%. So what is less than 80% of the diagnosis, yeah? What it is, what is the value? And they use so big models, so trained all data and this is exactly saying the token they cannot simply train the data in the unlimited token that will match the pattern date it's required because what they try to do is to to create the knowledge actually the vector that has that acquires all the knowledge in a linear manner I mean you know on the a horizontal scale that they can ask, and this does not work.
+
+40:57 - NYJavaSIG
+So this is the non-determinism that is- Right, but there's certainly plenty of use cases for where it can be applied successfully, right? But for a lot of the LLM, for a lot of many things that we use it for as a Java developer and as an average user, cannot be used in medical. But for a lot of things like image recognition, I mean, that's huge, right? That's huge.
+
+41:18 - NYJavaSIG
+Agree, agree.
+
+41:20 - mirowengner
+Because image, if you take a look on the image, it's already non-deterministic what we see even in our eyes, right? So, we don't know what we see, but in image recognition and modeling of the world and the vector, it's so amazing. I mean, it creates the reality you can dream of But in data, I'm not sure.
+
+41:47 - NYJavaSIG
+Yeah, well, there's a paper OpenAI published a paper how people use their chatbot. It was very interesting. Most people use it for getting advice, which is really, really interesting. That's a very interesting paper. I mean, there's some people using it for search, but I think there was another paper saying that people that use it for search are typically over 40 years old. Yeah. Which I thought that was also interesting. Yeah. They think it's another Google, right?
+
+42:24 - Glenn Renfro
+It's going to be as accurate as Google or as non-opinionated as Google, right? Yeah. What I did was I kind of broke down, as we've been talking, I threw some cards down and what I heard was the word fundamentals a lot. And I marked those as blue cards. And there was this kind of a cycle through them where, I can even move this one like that for like right now, where it's like, what I'm hearing is there was a positive method of communication Discussion on using like YouTube Shorts. But then it was like these fundamentals, like we kept going back to people don't understand how to blend or how to think. I mean, Mary was, how do Java developers understand that, oh, no, no, which one's hers, was, we need to understand the problems before we can apply a solution. Where does Java apply? That was one of hers. It's like, we gotta go, you know, kind of go back to that, but then I heard, do we even know, you know, and I think this one came from Miro, it was like, do they even even know what AI is, right? That the whole platform, then, you know, Frank said, well, where else do I use AI? Do you always have to write code? Well, now it can fit in your SDLC in various places. Why do you always think it has to be a code? It could be in other places. And then finally, I was like, help Java understand that, I think this is from both Frank and Miro, is how, it's pattern matching, not a Google search. Are these topics that we think. Yeah, so is this something that we would like to to create content for? Or do we want to go to the left side? Again, I was just trying to break stuff up into groups.
+
+44:19 - mirowengner
+There is a difference. What is coming to my mind is where this content is not already on the internet. The other thing is, what people don't understand is what is the difference between forward propagation and back propagation algorithms. And this is, I go to fundamentals that are required and why it is even used. Yeah. And I, again, statistic probability. Yeah. There is a, what I have on my team, like there, there, there were very few people at even in companies. Yeah. What I have been dealing on there just very limp 1% of the people I'm meeting across the different kind of maybe are fit enough in the statistics and probability that could understand. So that means basically they could evaluate the pattern recognition. They basically do how the LLM should be used. So I don't know whether you have different experience, Frank. I mean, depends, of course, on which kind of people you have in the team. But in generic public, I would say that is a less than 20% of the humankind that uses LLMs are even aware of it.
+
+45:51 - NYJavaSIG
+Well, I guess we have to take a look at I mean, how many people are aware of how a computer actually works, right? So it's the same thing, right? So when So for our audience who are Java developers, we just have to, like, okay, here's how you learn it, right? And there's a framework, which is cool, but notice this is a different thing. This is not a structural framework like Spring or Quarkus. We're used to structural frameworks. This is not a structural framework. So we have to hammer that home, that you have to understand how this works. It's statistics and probability, right? It looks really cool, and it's very effective, It's a great tool, but you have to understand where its limits are, right?
+
+46:28 - Unidentified Speaker
+Exactly.
+
+46:30 - NYJavaSIG
+And you need to take a look and understand the distribution, and there are different ones.
+
+46:33 - NYJavaSIG
+Right. And what are the differences? I mean, a lot of people don't even know the difference between a chatbot and an LLM. I mean, it's like, it just boggles the mind, right?
+
+46:42 - mirowengner
+Yeah.
+
+46:44 - mirowengner
+I mean, this is the industry. I think this may be, this is something that is responsive for, I don't know whether there is a bubble. Bubble or something is going to happen yeah that needs to be like correction in way one way or the other it cannot continues we don't have the planet earth doesn't have enough resources to burn so there will be something but I mean people are really really weak the majority of the people on this and I mean in even the Java developers because they use it as a better Google also my experience is they use it as a better Google all the time and just it's not even better Google no it's not because it's not it's trained on the old data it's there is a zero updates on this and it's not possible to update in a way how you would require it. It's not even Google, yeah.
+
+47:58 - Glenn Renfro
+So I guess the question would be is I think what we've got is I'm going to go ahead and go to, we're going to, I took somebody's icon and used it. So, but I'm thinking it's like right here. These are our core areas of Discussion. And I think it really, I think the summary is this. Orient this to JavaScript. Developers right I love that word I and I think it was I think it might have been frank he said it's like it is not a framework it is where does ai fit and for what and I should say where does you know I should say in this case what and argue with me ai fits where yeah and I think it's a very nice question to ask and many research papers already asking it.
+
+48:55 - mirowengner
+Where AI actually fits? Where does it help, really? What is this place? Does it really help?
+
+49:04 - Glenn Renfro
+Yeah, so there are many researches. Do we have the expertise here to actually start something, to have this Discussion, to help Java developers?
+
+49:14 - Unidentified Speaker
+Yeah.
+
+49:15 - Glenn Renfro
+I think so.
+
+49:18 - mirowengner
+I mean, in the Java developers, definitely, but you need to think about the levels of what is the Java platform is itself. So again, from my perspective is that we try to use the AI, actually the capabilities of this pattern matching or AI to evaluate the performance issue, basically the event the JVM generates on its own, and we try to find some patterns on the occurrences of these events. There are way more events right now with the JDK 25. So it's one way. It's a platform itself. And then there is a Java syntax, which is something fundamentally different. The Java syntax, how it is used. And this is what what I observe in my experience and my team so this is often mixed and not understood even this difference yeah so that I go just no just there is no understood like okay this is just a concurrency okay well this is unconnectation yes but you initiate multiple other threats by just having this one and it comes with a price so we've got about uh 10 minutes left.
+
+50:46 - Glenn Renfro
+So, are there, first off, I'm not saying we discard these cards, but I'm thinking we really are focusing in at least the last 20 to 30 minutes on the fundamentals. And the communication card here is the most important here. I would even say, I will hold off even putting this, not saying it's a primary, it's certainly, I think it's a spot on great idea. I think this is one of our, maybe our primary, but I think this is what I'm looking at is how do we orient our developers? How do we help them? How do we orient these four principles to Java developers is what I'm hearing. Is that, am I off base? Am I missing something or should I subtract?
+
+51:32 - NYJavaSIG
+No, I think you hit it right in the nose. It's how do we help Java developers? Understand and use AI.
+
+51:40 - Glenn Renfro
+Yeah. So could we take and in next, well, I don't know what y'all schedules are. It could be next week or the week after to go back and let's build out these cards a little bit more. What is, when we say we need to understand the problems like Mary brought up, what are the problems that we can solve with it? And then it's, again, Again, this goes back to here, this SDLC. It can, even if you can't legally, maybe you can't create code whether the code is bad, you still can use it to offset what you have to do in your life cycle that it's really good at, somewhat provides a good prompt, right? Even that, you know, again, but it may even start here. It's like, do you even know what, you know, what it does, right? And not calling people idiots. It's just like, look, this is what it does and give them root principles behind it. And then, but you know, it's like either one of these two, it's like that found a two foundation pieces. What is really AI?
+
+52:53 - mirowengner
+I have a one topic, but I found out also on some articles that are searched. So there is a I think that we've been always thought like a seniority level, beginner's level and so on. I think the beginner level on the age of AI has a completely different meaning as 10 years ago or five years ago.
+
+53:18 - Unidentified Speaker
+Oh, absolutely. It's called generative AI. That's what people think AI is.
+
+53:24 - mirowengner
+I would call it, if you have a human being and call him the beginner, maybe it's a human being on kind of super Superpower uncontrolled superpower and deterministic superpower caused by It's it's like it's like a Bullet, yeah going through the multiple walls where you have cannot control the direction. Yeah, this is the current name Definition of the beginner and I think that these people are very confused. Yeah, and I don't know how they approach the business and currently right now and I don't know how they may improve the knowledge because what is currently causing by also the psychological studies on the impact of the LM is it's a it's kind of denying improve the beginners level although they have the superpowers so they stuck like a usage of navigation systems yeah so they they, they brain rot anyway. Yeah. On the other thing is the middle senior levels, or even the seniors level, the level of degradation is also that fast. Yeah, especially those people, they never been touched with probability. And, and statistics, or never studied it. And they studied just ordinary computer science, probably at a economic faculties or something. Yeah, it's my it's my perception of the reality. Yeah, what is happening? They also very fast, the brain rot, because they don't use it anymore as a muscle. They use it as a consumer of the results delivered of the LM. So I mean, when we should address, we should not worry, address some critical questions to the community. Yeah, not even pretty not critical. I maybe I expressed myself, but we should not address for it about the address question in order to help those people. Maybe this will not even address the question, so but it needs to have some some kind of this impact because there are so many. And so many people are confused right now. I mean. It's maybe you have a different view on it. Frank or Catalin, you can enhance my thoughts. Yeah.
+
+56:04 - Vlad
+I think those are valid concerns, actually. But in a way, actually, at the moment, we don't really know exactly. It really depends on the level of expertise of each person. And as Frank told, or I don't know, it was Frank or Glenn, who said that people over 40 use AI and LLMs as a search engine in order to search, because that's how we've been trained ourselves to gather knowledge and then to judge it and then to apply it. And probably people who are less experienced, who are now in their 20s, now starting to gain more knowledge about the jobs that they are working, they are going to take a different approach. Now, whether that's going to be good or not, I have no idea. We'll have to wait and see. Eventually, they can always go and Read books and go to, I don't know, take a course and go into more advanced topic and try to study and then to be able to judge whether whatever an LLM gives you the response that that it gives you is correct or not. But at the moment, I'm not sure. And it's hard to even convince them about, if they see, I think that was, I've seen this for security. It was just like a security attack. And it was, the problem is that if you go to the LLM and 20 times it gives you something that looks correct, then you're going to trust it. You're going to trust LLM. And then you assume that everything that is going to give you is going be correct. And that's just a bias that we as humans have. And even if you tell someone, probably, I'm not sure if they will take that concern into consideration, because they will be like, I know better, I've seen it, it's correct.
+
+58:04 - mirowengner
+No, but this is, this is really nice thing, what you mentioned, Vlad. So basically, that's the research paper is the The bigger the model you have, the more biased information you get. So basically, it's a correlation, right? So the big model is trained, so the more biased information you get if you ask the model to analyze this. This is why it's interesting to buy it, because your information is actually bullshit most of the time, and you are not aware of it. Yeah? People trust it. What is the impact on this, on the whole society, is that it's completely downgrading. And this is what we may see across the politics and what is happening right now. It actually becomes to be way harder to address the real challenges on that. That's what you mentioned, even you, Vlad.
+
+59:02 - Glenn Renfro
+Okay, we're down to the last couple of minutes. Are y'all up to having a Discussion where we kind of dig in on each of these? Or is this something that, or filter these a little more out and then see which ones we really want to go. I have these marked as discussions.
+
+59:24 - NYJavaSIG
+Is there any way we can get feedback, Glink, is there any way we can get feedback from the people that are actually going to use this information, whether it's going to be valuable or not?
+
+59:31 - Glenn Renfro
+It's like, from whom, who do you think, who are you thinking of, like the general population or?
+
+59:37 - NYJavaSIG
+Well, our target audience is the Java community, right? So can we talk to some user groups that said, this is what we're working on. Is this something that people would be interested or not?
+
+59:50 - Glenn Renfro
+I could hit the jug, the Atlanta jug, and I could share this. I'll tell you what I was going to do is I'm going to export this, send it out as a PDF. Of course, we'll have the recordings for our internal group that people can rewatch. But then what I can do is add a little bit more text around these and then send them to y'all and you can go to your various jobs.
+
+1:00:12 - Unidentified Speaker
+And then I think that's I think that's our next step before we do any work.
+
+1:00:15 - Glenn Renfro
+Finally, I don't disagree. I think you're right. I love it. Yeah.
+
+1:00:20 - Vlad
+And also we can try like one one example from each category and then see how the community reacts. And the ones the ones which get more engagement, that's basically the answer. That's what people want to hear. I mean, and I believe that at the moment, I think it's like, I think that the basic things probably are going to get more engagement because I don't think that people are very experienced and they or they are using or they have enough knowledge at the moment for AI, although it's everywhere. People are bombarded with all these information but at the end I don't think a lot of people know how to use it properly and the more examples they have which are relevant for their day-to-day life I think that that's going to be okay but then we can try and then we will see which one works the best.
+
+1:01:19 - Glenn Renfro
+Okay I won't disagree I think that's a great idea but this does mean that we probably won't meet till after the first of the year because most of our jugs like the next jug I have is in on Tuesday the third Tuesday of December. So I don't think that's a bad thing. I think what we want to do is go back to our jokes and then raise it, see what feedback we get, record it, and then we share that like the... Share, exactly. And then you can... The second Monday of January.
+
+1:01:47 - Vlad
+Yeah, because multiple of us can then go and present to some conference or some Java user group, and then we can share our opinions. And then we can say, okay, so I did three topics, Among these three topics, topic A gathered the most engagement. I've seen that people were more interested in it compared. So we're going to do some A-B testing in the real world.
+
+1:02:13 - Glenn Renfro
+I love it.
+
+1:02:15 - Glenn Renfro
+Folks, I want to say something. This is from heart. Thank y'all for your feedback. Thank you for the discussions. Thank you for the advice. I will get this out there to y'all. Sometime early this week, I have a new bill from Northside Hospital. Great. I love how these messages are popping up. I've got to turn that off. But I'm going to get this out this week so that we can go ahead and get this communicated out to our jugs, user conferences, wherever you're going to be going. And let's get that feedback back in, and then we can start seeing what we've heard um and we will I will schedule us for the second monday of january 2026 and we will take it then does that sound good folks right sounds good Glenn thank you folks thank you so much have a wow day and wonderful holidays okay thank you very much
