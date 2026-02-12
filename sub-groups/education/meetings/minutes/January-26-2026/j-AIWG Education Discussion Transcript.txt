@@ -1,0 +1,410 @@
+j-AIWG Education Discussion
+Mon, Jan 26, 2026
+
+0:00 - Glenn Renfro
+Good news. Good news to hear. I'm so glad that you're back. I'm just going to see where we're at with folks. And go ahead and pull.
+
+0:12 - Lize Raes
+How have you guys been?
+
+0:12 - Glenn Renfro
+Well, the group, we're kind of taking a pause and kind of looking and saying, what is it that people want to hear? And that's what we're going to discuss today. I kind of went around and we'll probably repeat all this in a minute. But last couple of letters. I just kind of ask people, it's like, what would you be interested in reading about or learning about as far as Java and AI experience? And they really didn't know how to answer the question. But what I did, I mean, they really hadn't thought about it. And so what it did to me, do is facilitate another conversation of what they were doing. And so maybe that will capture some of those notes. And if anybody else caught notes on a similar vein, we can all discuss. But it's really it was kind of a fact finding mission to just say, what are y'all doing? What can we help you to help you with?
+
+1:15 - Lize Raes
+Yeah, that's cool.
+
+1:18 - Glenn Renfro
+Yeah, it's so that's what I was that's what I can share with y'all what I learned and you I have stuff you've learned by talking with the Java community in this space that pertains to how we can help educate them. That would be wonderful. But it's been kind of interesting. It was like I said, when I said, can we help you? What would you like to learn? They kind of went, oh, I haven't thought about that. Welcome all. Welcome all.
+
+1:53 - Lize Raes
+We already know everything, and if we Don't we just ask AI, right?
+
+1:58 - Glenn Renfro
+Yeah, always accurate. You know, I love the deterministic nature that it has. It's quite awesome.
+
+2:10 - Lize Raes
+Hello, everyone. Hello, Catalin.
+
+2:12 - Glenn Renfro
+How are you?
+
+2:14 - Catalin Tudose
+You mentioned deterministic nature. Anyone that joined Vladimir's and my talk today One hour ago, it ended less than one hour ago for the Java Champions Conference.
+
+2:31 - Glenn Renfro
+Oh, good. Oh, man, I missed it. I hope we recorded it.
+
+2:34 - Catalin Tudose
+It's exactly about deterministic generation.
+
+2:39 - Glenn Renfro
+Oh, good. That would actually be pretty awesome.
+
+2:42 - Catalin Tudose
+Yeah, it's on LinkedIn.
+
+2:44 - NYJavaSIG
+Let me please share deterministics of what? It's just a generation of what?
+
+2:52 - Catalin Tudose
+Of code, more
+
+2:56 - NYJavaSIG
+So it's it's just it's more deterministic.
+
+2:59 - Catalin Tudose
+Let's say in one brief thing that we would like to remove or reduce a lot the architectural drift and replace patching with regeneration in one phrase. I will share with you the YouTube link here whenever you would like to have a look.
+
+3:25 - Glenn Renfro
+Yeah, sure, go ahead, just pop it in the link or the chat.
+
+3:28 - Catalin Tudose
+Yeah, it's in the chat.
+
+3:34 - Glenn Renfro
+I'm going to pop it in my note.
+
+3:39 - Unidentified Speaker
+There we go.
+
+3:50 - Unidentified Speaker
+There we go.
+
+3:51 - Glenn Renfro
+We'll give everybody about two more minutes. Frank, thank y'all for doing the quick reviews on the Arc of AI conference. Thank y'all for going through all the papers.
+
+4:07 - NYJavaSIG
+Yeah, my pleasure. It was fun.
+
+4:11 - Glenn Renfro
+It's both fun and it gets exhausting, too, having to go through them and going, god.
+
+4:17 - prpatel
+So it's Frank, the one gave me all the negative feedback.
+
+4:26 - NYJavaSIG
+It's all constructive feedback. That's right.
+
+4:33 - Glenn Renfro
+All right. OK, I'm going to go ahead and kick us off. So we had a little bit of a homework assignment the last time out where we said, let's go out and talk to the community a little bit, and we basically said, hey, let's find out what is it you would like for, what information for you would you like us to produce as far as AI as in a Java community would be interested in. And Prateek was with me at the last AJUG, and it was kind of a crickets type of question or answers. They did not know how to answer that particular question. And so, it did do was facilitate the following. And if y'all have gone through, please share what y'all have experienced. I did miss the opportunity during the AJUG. I did talk to a couple of people just kind of walking around. In the January, we had like 120 attendees. And so I asked the same question and got the same kind of response, kind of like, you know, when just asking, I got crickets. But it started another conversation. The thing is, is that what we, so the profile that I'm going to give you for the people I chatted with is this is the United States Southeast. This is Atlanta region. Typically, these are enterprise customers that come to the Atlanta Java Users Group. To put it mildly, most of the Atlanta enterprise Java community is fairly conservative. They're a pick up new technology in general. But with AI, there is some pressure that they're getting to try to, and we'll talk about this in a second, was to get agents. I think what I'm trying to say here is these could be areas that we could focus on or try to find more materials for in that sense. Go ahead.
+
+6:39 - Unidentified Speaker
+And who did you get this feedback from
+
+6:42 - Glenn Renfro
+The Atlanta Java Users Group. OK, cool. Just kind of talking with, and this was not a scientific, it was more of right in front of the audience, I asked the question, and we got some feedback. And then when I just kind of talked to people in and around, before and after the meeting, this was kind what I was getting back. Nearly unanimous number of people are actively using some form of AI in their daily writing of code. I heard more than one story where they went and they all went headlong into it and started generating a lot of code. But what's happened is they're kind of right-sizing it back. They found in the areas, at least for their various companies, what worked and what did not work. So they found the things that helped speed them up with. They're starting to find the things that didn't, that either didn't work out for them, took too much time to refactor. Couldn't get too many details on that because of being very sensitive to being able to share that. But again, it just seemed like it was depending on what their goal was. We had several companies that were working you know, at least five initiatives that they were looking for having like an agentic or goal-based agents in what they were working on. MCP was a significant component to it, but really they did not have a real knowledge of A to A in what they were working on or, you know, to some degree didn't know what it was. That was kind of what I got from just communicating with the Atlanta Java community. I don't know if that, again, I captured this information just to say, I kind of tried to do our homework and try to see what I can learn from our community. And this is what I got. So I don't know if this will help or if y'all, did y'all have a chance to talk with the QR communities at all? Have you all seen anything different?
+
+9:02 - Unidentified Speaker
+Or...
+
+9:04 - Lize Raes
+I can take it away if you want.
+
+9:06 - Glenn Renfro
+Please, please, please.
+
+9:07 - Glenn Renfro
+Yeah, go for it.
+
+9:08 - Lize Raes
+Yeah, so, sorry guys, I was out for a very long time because I had bad health issues for a very long time. It's going to be fine. I didn't get the homework assignment, but I've been, of course, thinking about the same thing in my role as DevRel on Java and AI. So what we want to do now at Oracle at the moment, so what we hear from sales is that many companies are trying with Pox, but there's little people that have it really in production yet. Like people are really looking for guidance on how to actually solve real enterprise problems with non-deterministic AI. So we have a big plan or I have the big plan to get enough groups within Java platform group to contribute samples. So I made actually a kind of enterprise pattern list of examples that I would want to see implemented, which contains things like human in the loop, which contains audit trail, which contains advanced rag and rag that returns actual citations, like real citations instead of hallucinated answers, things like that, that I think enterprises will be happy to see. And my hope is that I get many people to contribute and maintain these samples so that we can use that as a stepping stone to start publishing about it widely, create content everywhere, get it on Reddit, get it on Stack Overflow, so that also LLMs pick it up, offer it to people asking anything about Java. Yeah, that's like, goal we have and the problem we currently see, that if these samples are currently out there, they're very much spread and non-findable. So it's a bit the same as already this big resource that I was proposing and that I also intend to continue or to actually kick off, but then very specifically for enterprise patterns for Java and AI.
+
+11:18 - Catalin Tudose
+Thank you. What I wanted to add exactly in the idea that came from Lise, she said that many companies are looking for guidance. And I'm also glad that Vladimir Sonkin is here because we tried together, we were discussing the homework and we wanted to do something. And we were discussing internally because we are driving some initiatives in our company Locksoft. And the we wanted to run some quiz, something, but we came to the conclusion that most people don't know what to require. And in this field, and they rather, they are rather expecting some initiatives from us from the specialists. If we run something like a quiz, or whatever, it will be very low involvement, very few answers, and they, they are something like this, they don't know what to say. So that's what I wanted to share. The initiative should rather come in our opinion after having discussed internally after comparing with what we know from our from the internals of our company, I would say that we should rather provide opinions so solutions, whatever.
+
+12:46 - Glenn Renfro
+Go ahead, Mira.
+
+12:49 - mirowengner
+Hey, hi. So OK, happy new year.
+
+12:53 - mirowengner
+I hope everyone is doing fine.
+
+12:55 - mirowengner
+So OK, I to this, I confirm what I heard. And I want to add basically what is what I'm when I'm reading so many articles and so on. It was expected that also benchmarking is misleading. I don't think that on the market or actually at the enterprise is the valid information to provide any realistic benchmarking. As the benchmarking in the papers, the scientific papers are created on very small area which are quite tweaked to confirm the scientific paper which not helpful for any public and then they are taken as a marketing like by big companies that they are fixing something, which is not true. What I Read, I think, like what is right now, so this J-POP, what they tried to right now, so look, I forgot his name from Facebook. So that they try to visualize and do the embeddings from the visual input, and then search which has more context, which is logical, and provide it with less computation power, a better result than just transforming the text. But still, there is very, like, non-deterministic stuff, you cannot do the proper benchmarking, it's always varies. So I mean, this, this is completely misleading. And I think the people, that's the reason why the people and companies are kind of stuck, but she should use the pattern matching AI, which is LMS is just definitely not only just a pattern matching train on the very big amount of data. But they don't know how to use it and what does it mean the pattern matching. So that's what I saw and I think that should be somehow discussed and make it clear too because I think otherwise companies are continue to failing which I haven't seen yet kind of good implementation or maybe I'm lacking something and maybe someone has a nice examples but I don't know I've been listening I think also I like watching the, also chatting with people and watching the AI engineers and something for those who are trying to really find something for this, what helps people to kind of go ahead. But I haven't found any. What will be actually helpful, including agentic system, including kind of agentic systems, of course, including graph racks so on. It's still built up on kind of abstraction that text, the next board prediction could lead into the expected result without context, which I think it's a not good approach. I think it's too limited. But I don't know how the company can and tackle it as it requires, as I mentioned in one of my articles, some statistical, mathematical background of people, they go to use it. It's not just for It's on my opinion. I don't want to offend anyone. So you can just hack around with the AI, like LLM. Coding and trying to do the code, which I, yeah, so I don't want to offend anyone, but I think they still are, there is not really explained what benchmarking is actually in the contents of LLM means and how to do this. I know we have F1 and multiple benchmarks and so on, but people, they don't know how to Read it because there It's not mentioned on which kind of data is done. But it's my opinion. I'm just thinking loudly on some topics.
+
+17:23 - Glenn Renfro
+No, no, this is, I mean, that's what we're trying to do is just talk this out. But maybe Frank can get some more into it. Look, look, Mary's got her hand up.
+
+17:32 - mirowengner
+Let's give her a chance. Oh, Mary, yes, perfect.
+
+17:35 - Mary Grygleski
+Hello, everybody. Sorry, I've been very, very busy.
+
+17:40 - Glenn Renfro
+All are welcome. Thank you for being here.
+
+17:42 - Mary Grygleski
+Thank you. Thank you all. I know the effort is going on. I wish I have more time. It's my thing. But, you know, because we're, it seems like I came a little bit late, but so we're talking about what the state of like AI development, all of these things are enterprise, especially Lize was talking about, and Miro, you brought up, yeah, agentic. In fact, I thought I share, now this is like not very official. I haven't seen the actual report, but I've been talking with a lot of investors too. Startup founders, and while some people are, you know, kind of nice to share stuff or kind of talk about something more substantial, but somebody did actually, on Friday, I was talking to this founder, and he's also a technical person too, which is nice. I feel, you know, ultimately it does require, you know, people to, if you're a business owner wanting to do AI, you need to understand, right? But right now, as it is, there are a lot of people, it's just like so confusing, so many people, people that aren't actually technical, they're using and vibe coding, and that's kind of the thing. And anyway, this person was quoting that I think at MIT, or one of the, I forgot exactly, but their report is showing all of the so-called agents, products or services that comes out is probably like 95% are failing. So something like that. So nothing is really actually working. It's just all these things that are, I think business is trying to improve their valuation to say, okay, doing this, and we get, you know, take all of the engineers away, we don't need them. It's really a kind of ugly, I think, in my opinion, to very ugly type of business thing to attract investments. So we all know. But anyway, so I thought I mentioned about this interesting kind of finding, like 95% of agents are not working. It's all failing.
+
+19:29 - Mary Grygleski
+So, yeah.
+
+19:32 - mirowengner
+Oh, yeah, that's, that's, if I made to add to Mary, I agree with you. Actually, this is very nice point. Like, it's not probably nice. I don't know how accurate data they do have. I Read this article also. But the truth is even like this, this was my real experience with the what is the best cloud model, they tried to propagate it. It's a sonnet or something. It's incredibly failing with the long context. Yeah, it's, it's really, really mess up with the great project, very nicely written the code, it completely discards all idea, make a total mess in the second, which is not revertible. It happens to me like multiple times, but yesterday really like I need to mention it. So, I mean, there is no solution for currently how they think. That they will hold in the memory, which is not available, the whole context to match the pattern, which does not exist.
+
+20:43 - Mary Grygleski
+So memory.
+
+20:46 - mirowengner
+That means it cannot work. It's a very simple, like a straightforward example. And that's this. It's not I'm not saying that's a bubble. It's just conclusion for from both my measurements. They should type. Try to measure how many tokens that you can mention. It's really a mess, really badly.
+
+21:07 - Mary Grygleski
+That's right.
+
+21:09 - Glenn Renfro
+Frank, Pratik, Vladimir, do y'all have any opinions?
+
+21:16 - NYJavaSIG
+Go ahead.
+
+21:18 - Glenn Renfro
+Go for it, Frank.
+
+21:21 - NYJavaSIG
+Well, certainly our context, our conversation here is primarily for Java developers, because we can talk about enterprise AI and all other stuff. I mean, even the publishing, nobody's interested in Java anymore. All the publishers, they just want AI. They couldn't care less about the latest version of Java. So we don't want any more courses on Java. It's AI. So it's like, okay, that's a little odd. So we're in a weird, honestly, we're in a weird time right now, all of us, the entire planet is, in terms of not just AI, but other stuff. Just answers confusion. You have experts saying, we're to have super intelligence, and I don't have to code anymore. This is from well-known people. Then you have other well-known people saying, that's BS, and this is all snake oil. So what does the average developer believe? It's really, really tough. It's really, really tough. And enterprises, I don't want to go off too much on Tangent, but I just was watching a to a podcast or a presentation by, what was it? Section AI. It's a newer AI consulting company. And they did a survey and they said like about 10% of companies are putting AI in production. And CEOs are telling everybody that they're all doing agents. All CEOs are saying, we're all doing agents because they know that their investors want to hear that they're cutting costs and they're cutting down on on employee expenses. So they have to tell their investors that. But when you talk to the actual workers, according to this company, that only one quarter of the companies say they are doing that. So most of the workers are like, no, we're not doing agents. It's just the CEO is saying that. And most of the workforce has no idea what AI is. The average person, I'm not just talking about Java developers, but actually probably even Java developers, because I teach them. And I can tell, they don't understand what AI is. There's a small percentage. Maybe what AI is, and everyone says, yeah, I perfectly understand what AI is. And no, you don't. So it's really, there's this big gap. And I think, Lize, what you're saying about use cases, I think that's really important. But there's also fundamental Education that people don't understand, don't even understand what context is. I mean, it's one of the most critical concepts you have to understand, and they don't understand what that is. Nobody understands the risks. Like they said, and according to this company, 90% don't know how to protect sensitive data. They don't understand that we're talking to one of these big hyperscaler companies, that you're actually sending your data to them, right? 90%. So this is pretty scary. And I guess with Java developers, you know, Even though they think coding is going to go away, they all love to code, right? Which is, it's another story. I mean, you're taking away things that people like to do, which is, I'm not sure how that's going to work out in the long-term, because I like to code. Yes, I need some help sometimes, and that's great. I could use help. We all could use help. But I like to code. I enjoy it. It's pleasurable. You're taking that away from me. So that's another long-term problem. But for the Java community, I think there still needs to be basic knowledge, even though the investment banks in New York say, oh, we want more advanced information. And then when you ask them the basic questions, you don't even know how the context works in an agent system. You have to understand that because it's risky. So I'm not sure what the answer is. It just seems like there's this this big gap, you know, and like, some of us are, you know, we can consider ourselves experts, but we're like, not even 1%, we're like, you know, 1 10th of 1% of the planet. So I think what Lize, what you're doing is really, really good, showing people like, here are the use cases, here's what you should do. I mean, that's what I did when I worked at Google for eight years is that we, every week we had, you know, AI and we had like 400 people on this massive, massive meet call. And we would tell people, okay, here's some use cases, here's some experts talking about that. Then we would have a report card, which group was doing what? And then we would say every week, who's doing what? And so we did this cool thing with like, you know, Sheets and AI. It's like, wow, that's really, really cool. So someone else, oh yeah, that's a good idea. I'm gonna use that. So we sort of like inspired, you know, innovation and evolution. So we need to do more of that. Like here's a use case. A simple, simple use case. And it's not like generating a crazy image, a Simpson image of your high school picture. It's beyond that. It's like, let's do these little things until somebody gets a big idea. I said, wow, I can do that. I can do that over here. I could probably do this. And understand the risks, which people don't understand.
+
+26:32 - prpatel
+So Frank, if you don't mind me interrupting you for a second, I completely agree with you, first of all. But let me couch what I'm about to ask with that. What's an example or two of something that you've seen, of course, you can make it not private or whatever, that actually you consider to be like a real usage of AI in a meaningful way, right? Not just the standard chatbot bullshit that everyone is fixated on or other things like that.
+
+27:07 - NYJavaSIG
+Well, some of the simple things. At Google, when we talk about things, was looking at data in a spreadsheet, and here's customer data, and then categorizing it, right? And then summarizing it, and then, I mean, this is something that's like many, many years old, but the average middle manager has no time to learn this. Matter of fact, when I first started doing that for Google, like middle manager says, I can't, I have no time to learn this stuff. There's absolutely no time. I barely have enough time breathe, right? And I want to see my kids at night. So you have to say, like, no, actually, this is going to help you. So just, you know, target somebody. And one of the simple ones was just on a spreadsheet. And just like, here's a spreadsheet of incoming data from from users. And we have to categorize this, you know, in terms of sentiment. And instead of doing this manually, or doing some, you know, crazy sheets formula for doing it, it was very easy to do. And then other managers start doing that. And they've also And all of a sudden everybody was doing that. So it's just something simple. And then, you know, having people understand, you know, the chatbots, chatbots are not AI, right? And try to tell people that, yes, it's an application of AI, but it's just one type of AI.
+
+28:21 - prpatel
+Yep, I got you.
+
+28:24 - Glenn Renfro
+Okay, Meira, next.
+
+28:25 - mirowengner
+Okay, so maybe I just definitely, I agree with all of what Frank said. There is one big something coming out of the usage of LLMs as current AI approaches. So if you imagine the Gaussian distribution of the process, where you have at the beginning, there is a zero, people, doesn't matter whether it's a Java developer or not, who are not talented and able to do this. On the other side, you have really kind of nice talented people, they have awareness about everything. What is happening right now across the entire communities, doesn't matter whether it's enterprise or not, it's simply everything getting narrow around the center, yeah, your usage of LLMs, including even the experienced developers, what I met and so on, they are reducing their knowledge by this. And I'm talking also about quality of academics papers and so on. It's kind of getting here, yeah? And what is happening is out there will be no junior developers. Like they don't have the way how to even start and why to start it, nor just the motivation. If they come to the job and people, they are here, agent, ask him everything, whatever it's rack or something or chatbot and so on. So he will not be able to find the information, how to ask it. He does not want to know that this is just bar matching. I think there is a coming little, little bit more than that. We lose the jobs because companies, managers try to replace the current jobs by the, by the AI, which doesn't work. Yeah, but I think there is a way more clicking behind the scene. And the big companies are driven by the And it's like a wave, like a tsunami that is coming to the land. And not just like this.
+
+30:45 - prpatel
+So I'd like to offer up an example, which I think might be useful for folks here. And I'll try to make this as short as possible you guys want more details. One of the things that I'm responsible for at my day job is the downloads of our free JVM called AzulZulu, which all of you should be running, by the way, except for Lize. Except for Lize. She's excused because of the way she works. But one of the things that I don't like doing, and I use those very intently is having to compile quarterly stats on how many downloads were done, what versions were downloaded, what did it look like the previous quarter, where are the IP addresses that it came from, because honestly, it just goes into a board deck and I rarely get asked about it, but it takes me a whole fucking day to do it every year, sorry, every quarter, okay? So I've started to build out the system. Thankfully, all that data is in Apache Iceberg and it's updated every week. So I've started to build out a system which is essentially AI native. So it starts on the opposite of, hey, let's build some AI or let's sprinkle some AI onto this existing thing that we have here. So if you're familiar with the concept of AI native, it's basically starting with AI first and then using what the AI is good for, automation, creativity, not necessarily focusing on determinism, but coming up or basically being able to be your assistant. The data comes in every week. What it does is it automatically evaluates that data. Then what I'm doing as part of that, I haven't completed yet, is that it will produce that quarterly report for me, weekly report. For example, it will also do some anomaly detection. If it detects that, wow, there's been a whole bunch of downloads of this version of the JVM, compared to last week or last month, it will send me an email to let me know that. And I know this sounds very trite and like, OK, well, it's not very exciting, but it's a specific business case that actually helps me to not have to do it and not have to think about it, i.e. Using the LLM or the AI brain to be able to do that stuff for me so I can do other things, even if it's just taking a nap. So there you go.
+
+33:12 - Glenn Renfro
+Well, the one thing I'm going to chime in then I need to give Lize a chance. I've been doing a lot of reading on the AI native and what I've seen so far is that there have been small companies, small teams to use it successfully. Like you said, you literally Read. You don't have. The traditional model what we have of product managers to developers to QA. One seamless process where exception handling is done by humans. And even Prateek said it here. He says, send me a report when there's an anomaly so that I could take action. But I have not seen any large scale adoption to it because it is, in some ways, a high risk type of event unless you do it right. But if you have your workflows set up properly, and I shared an image with Prateek, which was based basically an iceberg that the very tip it said, hey, we could do this wonderful AI stuff and then had underneath it, you know, your technical debt, your process for building, all the things that we always still have to do, that still has to be done to get to that level. But I agree with this is what Pratik said was really good and I have, like I said in my reading, I've seen small case success but not large scale Workflow success, but nothing large scale. Lize, go for it.
+
+34:43 - Lize Raes
+I wanted to quickly come back to what Frank said and basically also what Pratik said about serious use cases and then all the security aspects and using it responsibly. Is it okay if I share for a second, Glenn?
+
+34:55 - Glenn Renfro
+Oh, absolutely. And let me make sure you can do it.
+
+34:59 - Lize Raes
+Go for it. Try this again.
+
+35:04 - Lize Raes
+I just wanted to quickly share what I already wrote up for these reference implementations, because they actually contain the whole data governance thing, because companies that know or understand a bit, they do care, right? So zero retention strategies, encrypted pathways, all these things matter, or you stay local, right? I think I'm gonna have to add that here. So to actually make companies aware of all these things, it's very important. And I just wanted to scroll through this with you guys, like what we plan to implement and where help is definitely welcome, is to like, of course, show these basics for starters, but then we go to RegWit metadata, RegWit document level access control, super important for enterprise and you don't find these examples out there. Then, yeah, RegWit provenance and citations. Yeah, then re-ranking, query routing to multiple retrievers and even I mean, I'll add this at the end. Query routing based on data sensitivity and permissions, right? Things like that. Like, I would really like to have a whole bunch of examples. Auditability, observability, guardrails, testing. Yeah, so all these things that are actually important for enterprise. I already had this, yeah, model routing. So yeah, basically this is what I mean, like not only the easy examples and not only the fancy enterprise examples, but also these real things they need to have answers to be able to build something in a real big enterprise. That was just what I quickly wanted to share.
+
+36:44 - Unidentified Speaker
+Thank you, that was wonderful.
+
+36:47 - prpatel
+I got a question, what is it that you were just showing?
+
+36:51 - Lize Raes
+This was an idea of a set of reference implementations that we will try to get out there and ideally maintained so that we can and publish about them so that we can write about them, so that we can show them to people, show them to companies, so that they actually know that whatever hurdle they're facing, there's probably a solution.
+
+37:10 - prpatel
+OK, I got you. So this is something that the Oracle Java team is working on?
+
+37:14 - Lize Raes
+No, that is something that I will try to get them to do.
+
+37:18 - prpatel
+Ah, OK, OK. OK, got you.
+
+37:20 - Lize Raes
+Let's say there's some interest, and I'm really hoping to get many people from sales, from Helidon and stuff to do this. Ideally, I want to take it broader than Oracle and make this in a way that also other frameworks feel like they also want to contribute their reference implementations. That's like my big dream. I hope to just kick it off small and get started.
+
+37:42 - NYJavaSIG
+Let me add a suggestion, Lize. So with enterprises, enterprises rarely go from one technology to another technology. There's a migration period. So if you were to show how to migrate or just not only migrate, but how to integrate deterministic and non-deterministic, maybe even deterministic and generative AI and predictive AI into a holistic solution. I think enterprises would be more interested because the transition doesn't occur like, here's AI, let's move to AI, right?
+
+38:20 - Lize Raes
+People were also talking about a path to migrate from your Python agents Java agent one, you'd want to take it to production. I'm adding it. And this is not focusing on machine learning because I don't know enough about that. But ideally we also have that, right?
+
+38:38 - NYJavaSIG
+And also telling people like when to consider AI and when not to consider AI.
+
+38:49 - Lize Raes
+What would you mean concretely?
+
+38:50 - NYJavaSIG
+In terms of experience. In terms of ROI, in terms of privacy, in terms of security, in terms of pure cost. I mean, I can write a shell script to do exactly what you just said in an hour and you don't have to spend like a million dollars for that infrastructure. Something like that.
+
+39:10 - Catalin Tudose
+You were mentioning something about some benchmarks that companies are complaining that they don't have I think Vladimir remembers better now than me about a reference article that we use in Matter. Vladimir, do you remember better? There was an experiment...
+
+39:35 - Vladimir Sonkin
+There was half a year ago, there was published an article which tells that... I am not sure about if it could be really truth, but it tells that the real productivity of development is getting worse with AI. And they prove it with numbers. So they have collected, in the enterprise, I mean, they have collected the statistics, rather big statistics. I believe it may happen because of I don't know, maybe because of the methodology or more probably because of lack of knowledge in how AI could be used. Because, you know, we are using AI now mostly intuitively. Most developers are using it intuitively and there is still no something like a science, how to use it properly.
+
+40:48 - Catalin Tudose
+Like a culture, let's call it a culture, maybe. Science, culture, art.
+
+40:54 - Vladimir Sonkin
+Not just culture. I believe it should be a science. It should be some set of methods like computer science. Yes, it should be like AI science, which will codify the best practices, patterns, exactly what Lize is working on.
+
+41:15 - Catalin Tudose
+Did they provide any anything about the nature of the projects? I don't remember. So something about enterprise.
+
+41:29 - Vladimir Sonkin
+Yes, yes, they observed the enterprise projects, the enterprise application and the productivity of enterprise developers who are using AI and who get rid of it get rid even of attempts to use it and those who are using are demonstrating worse worse results but I cannot believe because in my experience using AI is extremely helpful and really raises the performance in, I don't know, in hundreds of times. And after all, I believe that there will not be soon, there will not be difference in the languages. So the programming language will be like assembly now. We don't think about what is assembly code for, I don't know, I don't know, Apple Silicon or Intel or anything else, yes. So it is just the matter of compiler. And the same will happen with programming languages.
+
+42:46 - Glenn Renfro
+So, I mean, what we're hearing is that people are successful at it. And we know, but the majority are not. It's like, how can we isolate what makes the minority so successful? Is the question I'm kind of deriving from this conversation.
+
+43:11 - Vladimir Sonkin
+We, with Catalin, we are working on the scientific article, and I hope we'll publish it this year, about architectural drift. So architectural drift is a well-known problem when we are coding manually, because if we are trying to resolve the local problem and forget about the architectural approaches, concepts, constraints. It's very easy to shift, to make these changes harmful, I would say, yes. And the same happens with LLMs. When coding agents are changes in the code they are solving the local problem and there is no usually in most projects there is no oversight which would preserve the architectural principles so there are many ways how these principles could be preserved the overall architecture yes and in this scientific article which we are working on we are measuring we have created the benchmark which measures not the one stage result the one the initial result of LLM generation yes usually most LLM benchmarks are measuring the result of straightforward task in task solution. But what we are trying to do is to see what happens with the code over time, not on the day one, but during the longer period of maintenance. Yes, when we need to introduce more and more and more changes using LLMs and it leads to degradation, degradation of the architecture.
+
+45:33 - Catalin Tudose
+You can have a look. Whoever is having time or is willing is also some summary in the presentation today at the J champions conference. I dropped you the link, but the article is much more extended and it still needs experiments and work. But some summary, if you have time and you are interested, you can follow in the YouTube link that I dropped to you.
+
+45:59 - Vladimir Sonkin
+So what I wanted to say that the biggest problem is not that LLM is doing errors, but using LLM agents leads to eventual degradation of the system. And it's really difficult over time. It's really difficult to handle it because all the code is generated by llm and no human already understand it and when the problems are raising and they are right raising not in the beginning they are raising over time it's really difficult to find the real reasons and to debug this code which could which is generated by llm and which could be understood only by llm and our approach, our idea is that instead of pitching the code, we need to use regeneration. And so we are going to prove, we already have proved it with numbers, with our experiments, that if we are, instead of pitching the code, which is usually done by current agent generation, generation of agents, if we are regenerating the architectural drift is much much smaller and almost almost it can be completely removed especially if we regenerate and validate all together yes and so but for sure regenerating the big project is impossible so we need to split the big project into very, very small loosely coupled models, and then regenerate only these very, very small models. And this small model will perfectly fit LLM memory. And the main responsibility of, I wouldn't name them developers, maybe more like architects, is to to make this split possible, yes? And to preserve the loose coupling between these models, yes? So this is necessary for human development, but this is even more critical for AI-generated So to summarize, it's like replacing development with architecture.
+
+48:51 - NYJavaSIG
+Right, but to summarize that, Vladimir, you're saying that developers have to understand there's an issue, right, with using it for large scale.
+
+49:01 - Vladimir Sonkin
+They do not need to understand the initial issue, because most issues are related to problems which are raised during the process of code generation. So what we propose that instead of changing, patching some small bugs in the code, we need to update the whole process code generation.
+
+49:36 - NYJavaSIG
+Right, so developers have to understand there's issues with code generation by LLMs, to summarize what you're saying.
+
+49:44 - Vladimir Sonkin
+Somehow, yes, somehow, with the help of LLM again.
+
+49:47 - NYJavaSIG
+Right, I mean, maybe, yeah, I just wanted, for our purposes, Glenn, just for note-taking, I mean, I think that's the bottom line.
+
+49:55 - Glenn Renfro
+What I'm getting is like, heard was like replace development architecture in the architecture is the primary goal. Meaning we. We the LLM is basically what they're doing is they have one LLM that says OK, let's generate the code, but then another LLM is going back in and about as an architect looking at going. Nope, that's not it. And rework it, but you don't do that. That was is that is that what I'm understanding here? Maybe I missed it completely. That's possibly true. So let me share my notes. Hold on. Let me share this again.
+
+50:36 - NYJavaSIG
+Didn't Neil talk about this under the age of recently?
+
+50:41 - Unidentified Speaker
+He did.
+
+50:42 - Vladimir Sonkin
+Split large project in small components. Components or models.
+
+50:50 - Glenn Renfro
+There's coupling.
+
+50:51 - Vladimir Sonkin
+These small models are able to fit in context. Also, you know, LLM has limited attention. If its attention is focused on a small component, on a small model, it is much more powerful and the probability of errors is much, much smaller. And I don't see that you mentioned the regeneration. Regeneration instead of patching. This is the core idea, actually. So this small component or model has to be regenerated.
+
+51:35 - Glenn Renfro
+Regenerate instead of what?
+
+51:38 - Vladimir Sonkin
+Instead of paging.
+
+51:45 - NYJavaSIG
+Oh, gotcha.
+
+51:47 - Vladimir Sonkin
+Sorry for my pronunciation.
+
+51:48 - Glenn Renfro
+No, no. You're fine. And again, so, I mean, the thing that I'm looking at is I've taken a lot of notes, we're down to eight minutes and I'm trying to, so basically what I did is I'll share the notes that I took as I kind of went through and listen to y'all. Of course, we have our regular bot that's capturing it and I'll post those too. Is this something that we need to think about and come back and say, what can we do? I think like Lize has like a first pass of like saying, this is a solid destination we all kind of agreed to. But I'm also hearing like, that there's almost like articles that are not out there that, well, they're out there now because Catalin and Vladimir have been working on those and producing them. Maybe Miro can look at producing those for, the Fuji as well. We're not producing it, but you know, sharing that on the Fuji channel that we have. What are we trying to take away from this? I mean, I'm hearing a lot of good information. What do we do with it? Is the question.
+
+53:06 - NYJavaSIG
+So what question are we answering?
+
+53:08 - Glenn Renfro
+So that's, I mean, these, I mean, these are all These are all fantastic, right? I mean, we go back to what Frank said. First thing, it was like, people still don't understand what AI is. That's one problem. Second, Lize's problem. These are no particular order or level. It's just as a heading. People are asking questions. Where do I start? And so she's working on that. Then we have the co-generation side that Vladimir and Catalin are working on that said, yeah, we're where people are not using it properly, this is the best way to do it. Let's apply a science to it. Miro is saying, you know, because a lot of companies don't move forward because they don't understand what benchmarks are, which Catalin and Bod's article may help. So, and Pratik is saying, well, I'm going AI native to do this one problem, which is a perfect example of a small problem. That he is simplifying going back to what Frank said. So are these are, these are all each one of these major items are fantastic. What do we do with them?
+
+54:22 - NYJavaSIG
+Given limited resources, we just have to point people to certain articles or videos, things like that, or conferences.
+
+54:31 - Glenn Renfro
+And maybe that's what we do is like, you know, I think with everybody having day jobs or side gigs.
+
+54:39 - Glenn Renfro
+It's really convenient. As you can tell, this is not my home office right here. I would say, let's start off right at the top. I mean, do you think, I know you're starting it, but when you are underway and you think ready I mean we could certainly review it would you like us to review what you started before your release or I know that Miro could certainly do and post when you're ready post it out to the well he can't do it through j darn um but we could certainly retweet or re um post it out to the world but so um just to sketch what I'm planning um I'm trying to kick this off inside Oracle and get people to contribute.
+
+55:37 - Lize Raes
+And I'm pushing for this meeting to happen fast because it's overdue, I find. But I don't promise anything. I'm two weeks in Sweden next It's a month before I have anything that even looks like something. But if I find the time, I do want to work on this resource that I already, I don't know if I've ever shared it to you, like with the mermaid. I can maybe share it next week again. I'm planning to recover all the articles I've seen pass in the group here and in the newsletters and already give them a place inside. And once there's something there, maybe people feel like, oh, that makes a lot of sense. I'm going to help throwing in everything I come across in a structured way. And then we can trace learning paths through those resources. That was the idea then in a second step. So yeah, I'll kick these off. I don't promise that it will be done within two weeks. It looks motivating enough I will share this with you guys again if somebody wants to jump on the wagon.
+
+56:35 - Glenn Renfro
+Sounds good. I'm going to say we need to find articles and group them by like and go tell folks what is AI. I mean you know going back to contexts you know for example.
+
+56:47 - NYJavaSIG
+You can also tell young developers not to get swayed by YouTube videos that are just trying to grab your attention. There's a lot of them are like concerned We have to make YouTube videos that grab their attention.
+
+57:02 - Unidentified Speaker
+Well, that's true. That's definitely true.
+
+57:04 - NYJavaSIG
+Well, when you talk to a developer and they say, look, we're doing coding isn't going to go away. And all these companies are going to have super intelligence. I said, you know, that's all bullshit. They're all trying to go IPO. So you just have to understand that.
+
+57:17 - Glenn Renfro
+One of the things that we're doing at this upcoming Dev Nexus is I've got a small set of, I've got like four high school teachers coming in, uh, one college goal, five high school teachers coming in one college professor. Um, we've got, uh, Barry coming in. Are you coming to DevNexus? Um, Frank, I don't know.
+
+57:42 - NYJavaSIG
+Oh yeah.
+
+57:42 - Glenn Renfro
+I don't know if you were or not. I, um, I, I don't check that stuff. I tried to, but what we're doing is, um, we're going to have just, how can we team up with the it's like one meeting at six o'clock on like Thursday. How can we help the educators? And to promote just Java development to the junior coders out there, the new potential coders. I've got, I taught two college sophomore, one college sophomore, one college junior, how to do lightning talks, they presented. At the jug, trying to keep that vessel alive. And that's what I'm saying. There's like, what can a community do, right? I don't know. I just felt like saying that. Lize, go for it.
+
+58:45 - Lize Raes
+Yeah, I just still wanted to quickly add, I would be super interested in what we actually did today. Feedback from the community, from developers, from enterprises, like what is it they need, what blocks them, what makes them choose something else than Java. I was thinking maybe we should just start a page on our GitHub repo where people can post anything they learn, or you just send it to me and I put it in there. That's one. And then I thought maybe we should just start another page for people that come across interesting tutorials, interesting articles. So I know we already have the newsletter, but it's not so much about tutorials. So anything that doesn't go in a newsletter, throw it at me or throw it on that page. And I think that as a basis to start structuring the resource. What do you think about that, Glenn? I know you're typing and listening to this at the same time.
+
+59:33 - Glenn Renfro
+Yeah, I mean, to me, it's just it goes back to the classic time, right? Who can put together the page to capture the data?
+
+59:42 - Lize Raes
+I'm happy doing that, yeah. OK, that would be wonderful. I will do that for next week. And then we'll tell everybody where it is. Or you just throw it at me and I throw it in there.
+
+59:50 - Glenn Renfro
+Yeah, I mean, absolutely. If you could do that, that's great. Pratik and I are, you know, we're having fun doing this thing. What's that little side project we do?
+
+59:59 - prpatel
+Yeah, it's Pratik England's taco truck.
+
+1:00:07 - Glenn Renfro
+That nexus is right around the corner. So it's like, as I said, if we've got time, but if you could do it, that'd be wonderful.
+
+1:00:12 - Lize Raes
+Yeah, I'll take care of that.
+
+1:00:16 - NYJavaSIG
+What's the non-technical track at DevNexus? Is that the more original? Is that the leadership? It's leadership. I'm sure there's going to be a lot of things there.
+
+1:00:28 - Glenn Renfro
+That's actually a good point, because we, it was a suggestion, well, let's keep going. I can go off on a tangent there, why we created it. But yeah, it could be. Let's see. Okay, Capture Day of Community. So we had that and I know that also we've discussed, that's something we could probably put also like along with a paper, like the newsletter, but also have interesting tutorials that we find and have that as a section of our newsletter too. Basically, what we could do is we need to find a way in which we can, you know, let's, I think this is, the first thing is, is Lize doing the, she's working on that on the side. She said she can also work on the YouTube, not the YouTube paper, but the capturing data from the community. I think what we can do is also kind of put out to the group, I'll send an email to the group, it's like, can we find foundational document, articles, even if we've already push them out, like, what is AI? What is this? And maybe we can aggregate that and have that as a part of a special newsletter we could put out through through Jay or something. Because, like you said, we're still battling that, right? Last year, it was all rag. This year, it's all agents. And we're not sure people understand what that is. Five-minute tutorials. Is there anything else we want to try to put together? And then the next question is, when would you like to meet again?
+
+1:03:21 - Catalin Tudose
+One month.
+
+1:03:23 - Glenn Renfro
+One month, OK. I will set up a meeting for late next month, make sure that happens. And then people just, I'll send this out. To make sure the group saying, hey, who would like to jump in on any of these items here? I'll try to flush these out. And I'll have this out later this week.
+
+1:03:44 - prpatel
+Hey, Glenn, do you want to cover the things I put in the chat next time?
+
+1:03:49 - Glenn Renfro
+Or do you want to toss it out? Oh, let me see. Let's see. I'm sorry. It's all right. Let's see here. I'll go back to Zoom.
+
+1:03:58 - prpatel
+I was letting the important people do the talking and put in my requests in chat.
+
+1:04:04 - Glenn Renfro
+Oh, let's see here. OK, U2 link for deterministic code generation.
+
+1:04:15 - prpatel
+I love it. I think it's better than what I wrote. Sorry, you may need to scroll a bit further up.
+
+1:04:30 - Glenn Renfro
+I haven't even heard that before. I haven't even heard that.
+
+1:04:39 - prpatel
+Yeah, it's something a little new. It's all the rage right now, but I'm just interested if anyone's done any Java integration or just using it for something interesting.
+
+1:04:48 - Glenn Renfro
+OK, well, let me put that on. Next time. Let's go to here. Thank y'all for hanging on with me just a little bit longer. And I'll just make sure that me. And the other thing I want to do is I'm actually a proper place. Go back to the chat real quick. And you had some great notes here. I will actually do that. Come on, be nice. Being nice to me. Okay, actually, that was done by the otter stuff. I love it. It did better than I did. I might use steel otter work there. I'll see which is better. It's a new slide. Here we go. All right, folks. Well, I'll tell you what. First off, thank y'all for attending. Thank y'all for participating, adding a lot of material today. It just, we've got a long way to go, but I think, I think we've got a lot of good stuff we can share with the community. And I appreciate y'all jumping in and helping out. All right, thanks. Thanks, folks. Thank you.
