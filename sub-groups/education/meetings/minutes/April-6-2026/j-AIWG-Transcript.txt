@@ -1,0 +1,692 @@
+ood. Hello. Good. I don't know. We have people from Europe here? Sounds like we do. Apologies for that.
+
+0:58 - Glenn Renfro
+Sorry, it's my fault for not checking the calendar. Sorry. We had a day off in Europe?
+
+1:07 - Lize Raes
+Europe? Yeah, but I guess the US also?
+
+1:10 - Glenn Renfro
+No.
+
+1:11 - Lize Raes
+Oh, yeah. They don't get that luxury.
+
+1:15 - Eyal#+#Tom Cools (Belgian Java User Group)
+What's in Europe?
+
+1:20 - Eyal
+It's Easter Monday, man.
+
+1:22 - Lize Raes
+It's Easter Monday.
+
+1:23 - Catalin Tudose#+#Eyal
+It's Monday afternoon.
+
+1:26 - Eyal
+I know it was Easter Sunday yesterday, but I didn't know there is a thing that like it's Easter Monday. We have an art of expanding these free public holidays. I'm Jewish, so it's Passover. It's exactly Pass0:00 - Glenn Renfro
+It's Monday too, which is Easter Monday. So we're probably going to have a very light crowd again. So my apologies for that. Again, I should look at the calendar and make sure I don't cross dates there.
+
+0:17 - Lize Raes
+Same happened to me.
+
+0:18 - Glenn Renfro
+Yeah, I literally did not know.
+
+0:22 - Eyal#+#Glenn Renfro
+It was like Easter came crept up on me this year. It was like they said, you've got Friday off. And I went, why do I have all Oh, yes, yes, yes.
+
+0:30 - Lize Raes
+Hey, Glenn, how are you doing?
+
+0:34 - Glenn Renfro
+Hello. Hello. Fine. Thank you. How are you?
+
+0:37 - Catalin Tudose
+Doing fantastic.
+
+0:41 - Catalin Tudose
+How is everyone? Doing good.
+
+0:44 - Glenn Renfro
+Hey, y'all.
+
+0:48 - Eyal
+Hello. Good morning. Gover now, but the holiday part, the part that you usually take off would be the beginning and the end, and now it's sort of in the middle, so you can still walk.
+
+1:46 - Catalin Tudose
+And in Romania we have Eastern next Sunday.
+
+1:51 - Lize Raes
+We are on the orthodox.
+
+1:53 - Glenn Renfro
+That's true. That's right. So what I'll do in coming up is I'll make sure there's no collisions on I will make sure when I put the calendar has got it marked on a special day, I'll make sure it's not again, I just kind of grabbed this date out of the air and I didn't check for the holidays.
+
+2:13 - Glenn Renfro
+Like I said, this one even crept up on me when it popped up on the calendar, my boss says, okay, you know, you got Friday off. And I was like, I do.
+
+2:20 - Lize Raes
+Oh, yes, yes, yes.
+
+2:24 - Glenn Renfro
+Well, hello, Dan. Good to see you.
+
+2:29 - Unidentified Speaker
+Or, or presence there.
+
+2:31 - Glenn Renfro
+I'll tell you what, we're gonna give everybody the regular three minutes extra to make sure they show up and have a chance to pop in. We do have a couple of updates that we're going to have. I want to kind of cover. We have something that James Ward had started. So we're going to talk about that and how that kind of intersects with what we're doing as far as article collection and aggregation. Let me go ahead and pop that in here. Let's go ahead and that's IntelliJ. That's not what we wanted right there. We wanted this. So we'll cover all this good stuff and let folks kind of roll on in. So we have that, we have educators and Dev Nexus. We'll see where Eliza is with the stuff that she was working on. And then we'll figure out where everybody else wants to go from there. So, oh, goodness.
+
+3:33 - Eyal
+I will probably have to leave before the end. Okay.
+
+3:37 - Glenn Renfro
+Well, you're going to be one of the people on one of the slides because you were at the educators at DevNexus. So you're on the hook to explain what happened there. Hey, Dan. Hey, how's it going, everyone?
+
+3:54 - Lize Raes
+I might drop out a bit earlier, too. I was like caught by surprise by the meeting. I had put my... Yeah, so since we have a day off, I was making pancakes for my kids. I was like, sorry, kids.
+
+4:04 - Glenn Renfro#+#Lize Raes
+You have to wait an hour.
+
+4:06 - Glenn Renfro
+I'll tell you what, let's go ahead and get started so we can let folks go. Again, thank you all for attending. What we're going to do is let me go ahead and put this on a, let's make it a little larger here. Well, first off, I need to share the screen. That would be good. Let's do a share. There we go. And we'll just do a Google Chrome there. Share that. And we'll bump up the size on that. Really quick.
+
+4:37 - Glenn Renfro
+Okay, there we go.
+
+4:42 - Glenn Renfro
+Okay, can y'all read that? Okay, don't need to bump up the size on this at all. Okay, so basically, what we're covering today, you know, let me show the whole network. We'll do it this way. Let me do this. Share, just share the whole screen. There we go. There we go. There we share the whole screen, get to see our beautiful background. There we go. So. What we wanted to kind of cover is Eliza talked about doing a talk about she was looking at enterprise AI patterns. We just want to get a catch up on that. We're going to also cover educators at DevNexus. What happened there, kind of It was an inception meeting. We'll cover a little bit about that. Also, we are, there was a, James Ward has started a site called AIJVM.com, which is a kind of a aggregate, Java aggregate, Java AI aggregate site, kind of like what we have with Fuji slash AI. We'll see how we can have maybe a discussion with him see how we want to pair those two together so we don't have duplicate effort happening. So we'll probably want to cover a little bit about that.
+
+6:05 - Glenn Renfro
+We did have a discussion that we can pick up a little bit later, talk about YouTube for junior developers, create foundational videos, help them get started, and bread and butter topics on Java and AI.
+
+6:20 - Glenn Renfro
+We did have a, the last time we did have it, I think it's more like that last time at the time before last we had the discussion on what is AI. One of the common problems that we do have in the AI space is somebody says AI and the question is what do you mean? Do you mean AI in development? Do you mean AI creation of models, usage of models, usage of LLM? And so we were kind of kind of brainstorming on that. We never really got to it, but we probably want to have a discussion on that.
+
+6:50 - Glenn Renfro
+So unless content that they would like to cover. We can start off with Lize and just have you had a chance to play with the AI pattern document that you discussed?
+
+7:05 - Glenn Renfro#+#Lize Raes
+Yeah, so I've implemented a first example pattern.
+
+7:10 - Lize Raes
+I've have it. I have it in my personal GitHub account now, so the thing is I'm doing this for Oracle internal at the moment with the hope that we can take it well, make it public from Oracle. And then make it public public, maybe join it with the James site in the end.
+
+7:27 - Lize Raes
+So because it was so shitty with this Oracle Java GitHub users, I managed to get it in my own repository, which is nice because I have more control. I will advocate to already make this public earlier, just not stamped like Oracle approved to just have it public so that people can actually at least already look at it. I have quite some buy-in within Oracle. From people that want to contribute. I already have a whole list of repositories that I just need to review if we want to link to them. And there was Java one, two, three weeks ago where I presented with Ana Maria Mihalcianu.
+
+8:06 - Catalin Tudose
+Ana Maria Mihalcianu, let me pronounce correctly, Romanian, if you don't mind.
+
+8:14 - Lize Raes
+So we made a repository made from multiple microservices that are bursting with enterprise AI patterns. So all I need to do is kind of restructure that a bit and edit. So we'll have like at least 10 patterns covered already. And then, yeah, I'll talk to my boss. My bosses are fired, but I'll talk to whoever else. Whoever else. You're talking about Sharat? Yeah, and Chad.
+
+8:46 - Glenn Renfro
+And Chad, yeah. Yeah.
+
+8:50 - Lize Raes
+I now have Donald Smith above me. I'll talk to him if we can just make this public, at least already that, and then if we can integrate it with all the rest we're doing. Chad's gone, too?
+
+9:03 - Dan Vega#+#Glenn Renfro
+Yeah. Yeah.
+
+9:06 - Lize Raes
+Jesus, man. And Jim Grisantio, too.
+
+9:10 - Dan Vega
+I just talked to Jim this morning. Yeah, I heard.
+
+9:14 - Lize Raes
+This is crappy, man.
+
+9:18 - Lize Raes
+And honestly, we're just bracing for the Europe part of the layoffs, because we didn't see any yet. I suppose it will come.
+
+9:27 - Lize Raes
+Hence, it's also good that I have it in my personal repository.
+
+9:35 - Glenn Renfro
+Well, thank you for the work that you've done there. And when you feel comfortable, if you want to share, with the group or, or just, you know, you can. Yeah, well, I need to have this talk. And then, um, so the other thing is I give birth in a small two months from now.
+
+9:57 - Lize Raes
+And I actually hope another reason to make this public and give this into other people's hands so that when I'm out for a while, people can take this over. And I seriously would be very nice to with what James is doing. So the thing is with Fuji, I think we in Oracle would not have the right to contribute directly there. And then if we put it at Oracle, it's going to be that other way around with the Azul people. So I think James project might be a good one to just. To pop it there.
+
+10:26 - Glenn Renfro
+Yeah. And that's the question that we want to do. What's the difference between Fuji and AI from JVM and just understand where it could be that, you know, we keep both or we migrate from one to the other. I don't know yet.
+
+10:42 - Tom Cools
+Maybe just as a note for the Fuji part, so Giertan Willinga was pulling most of the Fuji things, who also got fired from Azul.
+
+10:51 - Glenn Renfro#+#Tom Cools
+Who also got fired from Azul?
+
+10:55 - Tom Cools
+Giertan Willinga. I'm trying to pronounce it. Giertan is gone too. Yeah, Pratik is gone. Pratik is gone.
+
+11:05 - Tom Cools
+So, Fuji is currently on, as far as I talked to him, Frank Del Porte's place. So, Mr. Pi guy, but he was like, I have no idea what's going to happen now. Fuji will probably continue to exist, but who's going to maintain it is, last I heard a bit up in the air. So, just another motivation to maybe take it away from both of those organizations. Yeah.
+
+11:29 - Lize Raes
+Like there's multiple reasons to go vendor neutral. That we can all collaborate. And second, that when these companies start firing us, we actually still have our work.
+
+11:38 - Glenn Renfro#+#Kito Mann
+I just wanted to just add to this.
+
+11:42 - Kito Mann
+I've noticed between Bruno and James, they're all doing stuff, which is awesome. But one of the things about even James's site, which I think is great, it's still the main purpose is to promote their book.
+
+12:02 - Kito Mann
+So it's like, I kind of feel like really we should, I mean, I love James and everything, but I kind of feel like we should not have anything that's promoting anything, you know?
+
+12:13 - Lize Raes
+Yeah.
+
+12:14 - Kito Mann
+Like that's not, because eventually when they come out to the book, it's going to, you know, that's going to be the site destination for their book. At least the currently, if that's the case. Hey, should we, should we all agree?
+
+12:26 - Lize Raes
+I think we kind of all agreed already in the past that we would make this vendor neutral. We have the GitHub repository and that when we that we will at some point publish a site and that it's also just really neutral and organized by us where nobody like I mean people can promote things as a sub-article in it like it may be on the website but the website's goal should not be to promote any of us it's basically to promote AI and Java and I think it would be comfortable for everybody and their employers if we have this written out.
+
+13:00 - Unidentified Speaker
+And then we don't need to rediscuss it all the time. And then if James wants to join the vendor neutral website, that's great.
+
+13:08 - Lize Raes
+If some material from Fuji can go live there, that's also great.
+
+13:13 - Unidentified Speaker
+Same for stuff from Oracle that I would bring.
+
+13:16 - Kito Mann
+Yeah. I'm sorry for the stupid question, but who is James?
+
+13:19 - Eyal
+James what? James.
+
+13:21 - Kito Mann
+He's he's actually now at Amazon, I think, but yes, been around the community for a couple decades. World W A R D.
+
+13:34 - Glenn Renfro
+Right here.
+
+13:35 - Kito Mann
+And the book he's doing is with Josh Long.
+
+13:45 - Lize Raes
+He's been running this parallel AI for Java initiative, which by the way, I mean, I was hoping he would be here, he tries to influence Reddit with some people.
+
+13:58 - Lize Raes
+It's interesting because then they post good articles and then they just throw it in this discord and hope that other people just like it and upvote it. I knew this, I've been in that for a long time and I just thought there was a reason he wasn't here but then there was none. So that's why he's added to this group now and I guess he will join at some point.
+
+14:20 - Eyal
+This is a good time or place, but maybe I'll just say in a couple of sentences. I have a website called AI for Java. I started it years ago before AI was, before LLMs. And the idea was to promote AI. At that point, it was more machine learning, et cetera, among Java people, because I thought they would want to add some kind of AI to their applications. And it didn't, I mean, I think there is a bunch of people who used it but it didn't become a like most Java developers weren't interested much in AI it felt like until LLMs came around and this website is still around it is mostly non LLM stuff and I was trying at some point to harness other people when LLM comes around came around and AI became a prominent to add things to it and because also I don't really do Java anymore myself I become a Python guy even though I run the Java user group, I teach AI, et cetera, but writing programs in Java is not something I do anymore. And that website has a lot of code in it. Every piece of it had sample programs. So I've encountered pretty much everybody I asked to contribute was busy doing their own stuff. And Frank Frank Greco let me use some of his stuff in there. That's the only LLM stuff related. So I'd like to Some advice if I should shut it down. What is it literally? It's AI, the digit four, and Java.com.
+
+15:56 - Lize Raes
+Just a question. I will not tell anything to Oracle. Is it legal to use Java in link names because this whole Java is patented nonsense?
+
+16:07 - Eyal
+I never thought of it.
+
+16:09 - Lize Raes
+Yeah, I understand.
+
+16:11 - Eyal
+I think the way that when a long chain for Java came out, I'm pretty sure that the person who wrote it was trying to get this domain name for this project for Java and he couldn't because the domain name was taken, so he changed it to long chain, which is probably a better name in this case. Anyways, I don't want to take too much time, but I'd like you to come back to me maybe and give me suggestions.
+
+16:31 - Lize Raes
+Should I just let it die? Can we do something with it?
+
+16:35 - Eyal
+Can we make it part of something else?
+
+16:37 - Lize Raes
+Yeah, I think we'll definitely keep the content, because honestly, what I was, what I'm capable of covering is the whole LLM and agent side, but less the machine learning side. So it would be like, perfect match to cover the whole thing. The name is super interesting to have. What do you guys?
+
+16:55 - Eyal
+Obviously, at the time, nobody wanted that name.
+
+17:01 - Lize Raes
+Yeah. I mean, it be the perfect name actually for having our website on, is my first thought, if there's no legal issues with Oracle.
+
+17:14 - Kito Mann
+I suspect there will be legal issues with Oracle.
+
+17:19 - Dan Vega
+Every time I put a Java logo in a YouTube video, I get pinged.
+
+17:25 - Lize Raes
+I got slapped on my fingers because I tilted the Java logo.
+
+17:30 - Dan Vega#+#Lize Raes
+Not tilted.
+
+17:33 - Glenn Renfro
+Yeah, I mean, the thing that I look at is I know That was the reason why, like, if you look at our site, I think it's AI4J or Java, sorry, Java AI group, not the Java AI group, because it was like the first thing out the gate was like, you can't say the word Java.
+
+17:46 - Lize Raes
+So it's so horrible. So it has to be J something.
+
+17:50 - Glenn Renfro
+Can I just come back to the AI4J VM real quick?
+
+17:55 - Dan Vega
+I knew, I know James is writing a book with Josh, but I don't, I've talked to James about the site a lot. I get no, um, you know, feedback from him that this is about promoting his book.
+
+18:07 - Unidentified Speaker
+I don't even see it on the site anywhere.
+
+18:09 - Kito Mann
+So I'm not quite sure where that came from He mentioned it in one of the Java Champions emails.
+
+18:14 - Dan Vega
+So he mentioned his book or the he said this.
+
+18:18 - Kito Mann
+He said it was supposed to be the book, the site for his book.
+
+18:23 - Dan Vega
+Maybe it was originally, but I think he really wanted to, like, turn this into more of a community thing. And I don't see anything on there about his book.
+
+18:30 - Kito Mann
+So, yeah, maybe we should just verify. With him because I'm just imagining like we get all this cool content there and then like the book is like in the middle of all the content or something.
+
+18:42 - Dan Vega
+Also though, if there are books on it, like I know Craig Walls wrote one on Spring AI, like that would be a resource to put on there. And if James' and Josh's book is like another resource, that's cool too. But I agree, it shouldn't be like a focal point.
+
+18:55 - Kito Mann
+Yeah, yeah.
+
+18:57 - Lize Raes
+Glenn, can you make the note that we reviewed ID to use EOS machine learning content and integrate it with whatever we're building. OK.
+
+19:15 - Kito Mann
+Hey, just a quick question, Dan. How is the Airbook different from Craig's?
+
+19:23 - Dan Vega
+I guess it's newer, obviously. I don't have a ton of information on it.
+
+19:28 - Kito Mann
+So I don't know that.
+
+19:31 - Dan Vega
+I think the idea there was that they were going to self-publish so that they can quickly iterate on it and keep up to date with everything that's changing.
+
+19:40 - Kito Mann
+You know, when you print a physical book, it's really hard to keep up and AI is changing every day.
+
+19:45 - Dan Vega
+So as good as Craig's book is, you know, in six months, I don't know how out of date it's going to be, right?
+
+19:51 - Kito Mann
+Right, right. Okay.
+
+19:59 - Lize Raes
+But I think everybody's kind of on the same page that ideally we aggregate everything.
+
+20:03 - Unidentified Speaker
+Yeah.
+
+20:05 - Kito Mann
+And James too, by the way.
+
+20:07 - Lize Raes
+from what I talked to him a bit.
+
+20:13 - Kito Mann
+And I noticed, I mean, he's got a pretty open process for adding stuff, too, which is great.
+
+20:22 - Dan Vega
+Yeah, sweet.
+
+20:23 - Glenn Renfro
+Yeah, I mean, to me, it's the reason we brought this up was I did not know about Gryptogen, but I did know that we had two sites that are doing basically the same thing. And I just want to make sure. I can reach out to James and ask him, you know, just, you know, like, we already have some material here. We are doing, we already have a person that's working on aggregating articles. And could we, you know, would it be okay for, yes, okay, let's do that too. I think it is but sponsored, I guess. And so I can reach out to him. And then if he says, you know, and just say, we have some people already working on that. But I don't know how to reach at Yeah, basically, before we stop the work on Fuji, since it's already got a following. You know, do we cross post to both for a short period of time? Because I don't know who to reach out at Azul anymore to find it out.
+
+21:42 - Kito Mann
+I think they're going to go forward. Because I was talking to Gertrude and I know I probably butcher his name.
+
+21:48 - Glenn Renfro
+But um, yeah, him as well.
+
+21:50 - Dan Vega#+#Tom Cools
+And he said, talk to Frank about Fuji stuff, Frank, who Delport is one of my co-organizers of the Belgian job user group.
+
+21:57 - Kito Mann
+Yeah. And he's still, he's still in his old, I think. Who's Frank.
+
+22:01 - Tom Cools
+I'm typing it in chat just for your sanity.
+
+22:07 - Unidentified Speaker
+Yes.
+
+22:08 - Lize Raes
+Bless you. Thank you.
+
+22:09 - Unidentified Speaker
+Okay.
+
+22:16 - Glenn Renfro
+The thing is, is I don't, you know, if we already have a following there and before, you know, if they're going to keep it great, if they're not going to keep it then we can, you know, after we talk with James, and, you know, see if we want to go ahead and move stuff over. I don't think this is something we're going to do necessarily this month. But it may be we just ask questions, find out where stuff is that report back next month, and then see which direction we want to go. Right now, let's just let me get let's gather the information first. And then we can act on that. Does that does everybody agree with that? Yeah, so I'll go ahead the information, have it ready for next month. Go ahead.
+
+22:56 - Lize Raes
+While you're talking to him, can you ask him about, it's called AI Necromancers, his Discord influencer initiative. I think it covers more than Discord.
+
+23:07 - Lize Raes
+Because it's super interesting, I think we should just totally join the effort.
+
+23:11 - Glenn Renfro
+What's that, AI Necromancers? Yes.
+
+23:13 - Unidentified Speaker
+Okay.
+
+23:14 - Glenn Renfro#+#Lize Raes
+So what is it?
+
+23:18 - Lize Raes
+So we basically post in a Discord whatever is interesting to post on Reddit or LinkedIn or X and whatever is posted there so the other people can like it, upvote it, give comments. Basically give Java a presence on Reddit and on social media.
+
+23:38 - Lize Raes
+Because if now you have any questions about agents or whatever, there's only Python things to find and for anybody Let me go with that.
+
+23:49 - Glenn Renfro
+Java does exist in this space. Yes, we do. It's all a rumor. It's all fake. I know it doesn't exist there. I know, I know. Okay, cool. So we have that. Okay, so let's... Okay, so real quick. So the next thing.
+
+24:09 - Glenn Renfro
+We did educators at DevNexus. Basically, it was me and Eyal were there. Along with five secondary school or what we call high school teachers as well as one college professor as well. And basically it was just a time where we were trying to find out what they needed and what the community could offer. And what we quickly determined in this process was we didn't have a common vocabulary. Between the educators and the community, especially at the secondary level. And so we started working on creating a vocabulary and discussion.
+
+24:56 - Glenn Renfro
+It was actually really good.
+
+25:00 - Glenn Renfro
+And so we're having our first post educators and DevNexus, our community meet up together. This is in lieu. Of also working with the Georgia State Computer Science Committee. And so we are working with them as well. The main goal is to see how the community can help our educators and what they need and what they're lacking and what resources we have that can assist them in this process. Like I said, when I first this, I kept thinking that we were like a 5k distance apart in what we could offer and what they needed. And what I as we went through this discussion, I found quickly that it wasn't just a 5k distance between us, but was rather a marathon distance of what their materials were, what their differences were, and what we had and what we could provide. So the first thing we were trying to do is drop that distance between us. And then And then it was quickly determined that what the universities need and what the secondary schools need are completely different as well, where high schoolers are, they're prepping them for whatever career they're going to go forward with in the Java space, AI space, as well as, but when you're looking at the universities, they're trying to get their students into internships into their first jobs. And so their goals are different. And so it's like this could be something where we bifurcate this effort into secondary schools and into universities. It was felt that was very important to reach the secondary schools because if you're pushing Java and AI at that level, it helps persuade the universities to to not forget Java when they're actually working with AI. Especially if students are coming in already have worked with Java and AI at the same time. So that's reason why we included secondary schools as well in this effort. As we go through this, I'll give reports on what we've learned, what we can do, and then as we get further along, I can, we will try to identify um these things that this this group can help with that effort as well if they if you so choose to volunteer um y'all did you get anything else out of that group he was there with us so thank you for attending uh I know I mostly remember I don't think it's really um directly related to to what we want to talk about but I I think educator and educate educators and ai together that there is a always the subject that will come up is how do you
+
+28:03 - Eyal
+still teach when the students have access to AI and they can use it in all kinds of ways that are problematic to us or what is the best way to reconcile it it's not java specific or anything but they took some conversation some of the time though.
+
+28:19 - Glenn Renfro
+Yeah there was uh Barry Bird was also involved and that was one of the big discussions was how do you students can use the AI to generate the examples oh get Yeah, so what I was saying, can they use AI to generate the example?
+
+28:37 - Catalin Tudose
+So I think this we are living in a real world. And if the industry allows this and promotes this, at least with some, with some regulations, we cannot require students not to use it. But what I'm requiring, especially for the case of Java, I'll give you some example. I'm conducting a course Java development with Spring and Hibernate.
+
+29:07 - Catalin Tudose
+I don't have time to approach Spring Data because I'm limited by the time. At the end of the semester, many people come with some project using Spring Data.
+
+29:20 - Glenn Renfro
+I'm asking, what is this doing?
+
+29:24 - Catalin Tudose
+You have here an end Where are the methods declared? And about three quarters of the people that are using Spring Data don't know to tell me that you create a proxy. Spring is creating a proxy and injects. And this is a sign that most likely they have used AI and they don't have an understanding. So I have nothing against using AI, but you have to understand a few things. If you understand it once, you know it once, you cannot use it 1000 times. But first, let's So that's my approach.
+
+30:10 - Unidentified Speaker
+Exactly.
+
+30:10 - Glenn Renfro
+I mean, you don't... Oh, go ahead, Tom.
+
+30:14 - Tom Cools
+No, I just have a question when it comes to the educators. So I speak a lot to the universities in Belgium because I'm one of the leaders of the Belgian Java User Group, and I consider that part of my Java activities as the user group to talk to universities. And most of the universities are telling me that their sign-up rates are sort of collapsing as in almost nobody signing up, like it is halved last year and this year it halved again. So it's one fourth of what it was. And I was just wanting to ask that question. Is that like a global thing? Do you see that as well or not at all where you are at?
+
+30:49 - Glenn Renfro
+What I talked to from the, both from the university side and even to the secondary, students were asking why want to get into this field? If AI is just going to be there to generate the code, why don't get into it in the first place?
+
+31:08 - Glenn Renfro
+And the you know, when I was talking to the teachers, I said, well, in this particular case, it's too early to tell what will be, you know, what a future developer work look like, But I said, it's my anticipation that you a notion student will be leaving university without being a prompt specialist, but understand what they're creating, kind of what Catalin was talking about, where you're going to have to do both at the same time now. Because the days of writing straight up code purely is starting to dissipate.
+
+31:57 - Glenn Renfro
+Three months ago, I didn't know of any company that was doing spec-driven development at all. That was like a zero, didn't exist. I now know three. And I asked each of them, I said, do you still have human in the loop outside the spectrum? And they said, absolutely. The developers are still active. It's just that they are starting with specifications for And all reviews are done by human as well as the AI.
+
+32:32 - Glenn Renfro
+So to your go back to the original question, the teachers are already seeing that even at the secondary school level that students don't see the need in learning comp sci because they just don't see a future in it.
+
+32:48 - Tom Cools
+So the massive opportunity that I see in Belgium is Most of these universities are really bad at explaining what it's going to be like in three years or are so lost in academia that they have no idea what the business world is doing. So I see massive opportunity, maybe it's different in your universities, but at least in Belgium, I see some opportunity to basically help them and say, look, this is how development might look in three years. We're of course not sure because the future is pretty uncertain, but something like spec driven development to help them teach that and to get them in touch with those new structures can actually be massively beneficial both for them and for the students that actually do sign up. And it might give the students a bit more comfort to say, yes, I still want to sign up for such a course.
+
+33:35 - Dan Vega#+#Frank Greco
+Can I add something?
+
+33:37 - Frank Greco
+So at Java 1 we had a discussion with university educators, more comp sci professors. And it was quite depressing. Yeah. As people have already mentioned in this call that the amount of students signing up for computer science is like way, way, way down. Students have absolutely no interest. And of course, universities haven't done a good job at handling all this because they're too busy to follow the trends, right? I mean, it's hard for us to follow the trends. So it's difficult, right? But it was quite depressing that they said the students are just not interested. There's absolutely no interest in computer science. And because of, you know, you can create, you can vibe code an application, right? And like we're saying, focus on spec driven. What student wants to focus on specs?
+
+34:30 - Glenn Renfro
+Who in their right mind would do that?
+
+34:32 - Frank Greco
+That the most enjoyable part is the coding part.
+
+34:36 - Frank Greco#+#Glenn Renfro
+We're taking that away, right? We're taking that away.
+
+34:38 - Frank Greco
+He said, no, you're going to focus on meetings and specifications. I said, I'm changing my major. Right? And I'm not sure what the solution is, but there is a serious problem coming up.
+
+34:51 - Dan Vega#+#Glenn Renfro
+I think a big part of the problem is the fear mongering that's coming from everyone. You know, most notably the tool makers who want us to just give up, you know, writing code.
+
+35:02 - Dan Vega
+And so everybody's kind of put it out there that coding is just dead. And I know a lot of people on this call don't see it that way, right? Like there, yes, the physical act of typing is dead.
+
+35:13 - Frank Greco
+Typing is dead. Is dead. Yeah.
+
+35:15 - Dan Vega#+#Glenn Renfro
+Code is cheap. Software is not. It takes a lot to build enterprise software.
+
+35:20 - Dan Vega
+And even in the enterprise, like enterprises move at a molasses pace. They aren't going anywhere for 10, 15 years. So yeah, part of it sucks because there's narrative out there that just like, yeah, coders are dead and everybody can vibe code apps. I talk to a lot of people who vibe code apps. Like, yes, they can create screens, but like they are not pushing enterprise software out there. So there is a narrative out there.
+
+35:48 - Frank Greco
+Well, the app stores are getting inundated with apps and vibe coding, right?
+
+35:52 - Kito Mann
+Oh, yeah. I can imagine. Wow. Yeah. I mean, yeah, like that, that vibe coding actually, I think it can work for some simple, like a lot of simple mobile apps.
+
+36:02 - Frank Greco
+Like there's really no, everybody should know how to do vibe coding. I mean, it's clear. I mean, just your prototype.
+
+36:07 - Glenn Renfro
+I mean, well, that's a great tool. This is, this is awesome. Um, but it, it, it is now, like I said, if Atlanta is doing it, it does make a mention that. Some people are going, going toward it. Now, the thing is, is that I don't know the success rates yet, but I think that's something I'm trying to, yeah, I, I, but they're doing it.
+
+36:31 - Kito Mann
+Oh, there was someone I I'll try and find it. There's, there's an amendment. I'm on with them old, no folks, just deaf speakers and someone had said their company had done a lot, but they actually built an internal harness. It took them six, nine months.
+
+36:46 - Glenn Renfro
+Now they're doing a whole bunch of stuff.
+
+36:49 - Kito Mann
+And they still review everything. Go ahead.
+
+36:55 - Dan Vega
+Somebody had mentioned it earlier, but I think part of the education part that we all play in is making sure people understand, yes, if you've done this a thousand times, you can automate that process. Cause there's no learning experience here. It's something I've done a hundred times. Yeah. I'm not writing that by hand because there's no joy in it for me. There's no fun. There's no learning experience. But if I'm tackling a new problem, I just started working with another framework last week. I've never done this before. Like I'm going to handwrite this code to learn this process. And so yeah, part of this is like, you know, when we're, when we're teaching wherever that is, when we're talking at conferences, when we're creating videos or whatever, trying to express that, like, yeah, this will automate some things, but you still have to learn how to do this stuff, even if it's by hand at first.
+
+37:47 - Kito Mann
+Well, there's also, this is something I don't think people talk about enough, but the process of getting that tooling to work is actually engineering. Just getting cloud code to do the stuff you want to do in a predictable manner, especially when you talk about skills in larger environments and things like that, there's a lot of engineering involved in just getting things to work. There is a bug on one of my internal projects I had I needed to fix. And I was like, you know, I'm not going to fix this. I'll just get Claude to do it. But I had to do all this setup stuff to make sure it could access all the right things it needed to.
+
+38:28 - Tom Cools
+It's that and the harness you mentioned before. So one of the that at our company we've been doing is setting up a harness to code time pulse-like tooling, which I, of course, work at. Well, we integrated ArchUnit, because ArchUnit... Sorry, ambulance passed by. So, we integrated ArchUnit, because ArchUnit are very readable tests, and we just told to the LLM, like, hey, here's an ArchUnit test, read it so you know what we expect structure-wise, and run the test. And if you mess up, then Oh, it's a very deterministic way to force the LLM to code exactly the way we want to.
+
+39:06 - Eyal
+And there's a few more things in eHarness that we're looking into.
+
+39:09 - Tom Cools
+Now we're going from linting tools to what else do we have? There's like a bunch of stuff that we're working. Sorry, semi-deterministic.
+
+39:17 - Eyal
+I'm missing the term that you use.
+
+39:20 - Tom Cools
+Arch unit. It's a way to, or arc unit, sorry. Arc unit.
+
+39:28 - Tom Cools
+of the Dutch-English-Dunglish.
+
+39:32 - Eyal
+It's great, I know what you're talking about.
+
+39:34 - Tom Cools
+Yeah, but those sort of tools, like these deterministic tools that we've used for ages, they are very complementary to making the LLM at least semi-obeyed rules if it deems itself worthy to run the tests when I ask it to. But it helps, at least. And there's a bunch of other unit test style things that we can do, probably database migrations with Liquibase or something to test certain things, don't break backwards compatibility API tests. The engineering part is really there. It just shifts to maybe a bit more testing focused than before to guide it in the right direction. But that's just the general feeling I have right now.
+
+40:15 - Frank Greco
+Actually, what I was saying about Java the educators, I forgot to mention that the conclusion after talking to everybody, I mean, we talked about how, in the past, industry would work with education, with the educational institutions, and work together. Like, OK, this is what we're working on. We want students to do that. And the students are, OK, we're moving in that direction. It was a mutual thing that helped other. But now that industry is laying off people and saying, we don't need enough developers and all those BS from all the talking heads. So the conclusion was that industry has let down the education, the educators. That was the conclusion of the day. So I was kind of depressing, but it's very true. Industry has let down the educational institutions.
+
+41:04 - Frank Greco
+We don't need you anymore.
+
+41:07 - Kito Mann
+Frank, was Heather involved in that meeting? Because I know they were doing some stuff more at the...
+
+41:14 - Frank Greco
+Which Heather are you talking about?
+
+41:15 - Kito Mann
+Ventura?
+
+41:18 - Frank Greco
+No, she was not. The other Heather was. Heather Stevens, yeah.
+
+41:22 - Dan Vega
+Yes, Heather Stevens. Okay. But that's the same person, right?
+
+41:26 - Frank Greco
+No. She just changed her name? No. No, no. Two different people.
+
+41:30 - Dan Vega
+Oh, I thought that was Heather.
+
+41:31 - Dan Vega#+#Frank Greco
+No, no.
+
+41:32 - Frank Greco
+is a JCP executive, right? Yeah. Yeah.
+
+41:40 - Dan Vega
+Part of this is, you know, the other thing is, again, the doom and gloom is out there because all these companies are laying off people and blaming AI, and we all know it's not related to AI.
+
+41:50 - Kito Mann
+So people hear that and they go, oh, well, AI is taking all these jobs. It is related to AI because they're basically taking all the money from these jobs and it for data. And products that don't make any money.
+
+42:10 - Tom Cools
+I think I heard like two years ago when this AI wave, I'm specifying this AI wave came up. I heard someone say, I don't know who it was, but they said the immediate danger, there's two, oversaturation, which we have like basically everywhere, blog content, apps, whatever, it's too much. And the second thing they said was the immediate danger is not what AI can do, it's what managers will think that AI can do.
+
+42:34 - Dan Vega#+#Glenn Renfro
+The layoffs that we've been seeing.
+
+42:38 - Tom Cools
+Looks quite a gamble. Let's see if they're right.
+
+42:41 - Glenn Renfro
+I was listening to an article or a discussion that Nate had, and one of the things that Nate and I had talked about in the past is that we have vibe coders out there, but we also have developers that are saturated with work. They've been they've been hit by layoffs. And so what's happened is is you have this where they're using AI to kind of, you know, bridge that gap. But then what's happened is, is the quality of code is creating a slop layer. And it's because you have developers that are trying to get everything done. And effectively, what they're doing is even when they're doing the reviews, it's like, what was it? He called it this the bird that you know, the little toy bird that goes in and goes It pops its head down, looks like it's taking food, and just every two seconds pops down. And he said, in this case, it's just pressing OK, OK, where they're just accepting what they're doing, basically a YOLO on whatever the AI is doing. So we are creating a slop layer inadvertently because of the layoffs.
+
+43:54 - Glenn Renfro
+So that's cost is going to is basically a technical debt that's got to be paid sometime by industry. And, you know, that's, you know, it's like I tell folks, I said, most of the developers I know outside their hair is getting a little gray here. So, you know, we need that next generation to come in. And if we're not, students aren't coming in, who's here to replace us when that slop layer hits in your, the technical debt hits.
+
+44:23 - Kito Mann
+Yeah.
+
+44:24 - Glenn Renfro
+And so the concern is, is that we've got the growing gap of no junior developers being created because they're not being trained. That's an industry problem that used to be kind of how we did it. Um, we've got developers that are being laid off because of just the nature of what's happening in the world. But we always know that they get rehired after the turnaround, but then people are being told this because it's AI layoffs. We don't need them. We have AI. And it's like, you have AI that may help supplement, but you're also creating a lot of slop. The question is, is that even though you may be doing spec driven development, how well are you doing it? And that, like I said, I don't know what that is yet.
+
+45:10 - Frank Greco
+It's also showing a problem with our educational institutions that, you know, used to be, there was a focus on sort of like a wide education. You got not just training, but you got an education. And then over the past 10 years, it shifted to training. Colleges were training students in the latest things so they can get hired, which was, which is my opinion, wrong, but because companies wanted that. So all the universities went that direction and it wasn't educating people, it was training people. And now we're showing that there's no jobs for it. So you shouldn't be training and say, oh, okay, what did we just do for the past 10, 15 years? So it just showed that there was a mistake, I think, by universities to start focusing on training rather than education. And it's better to have education because you need it in times like this.
+
+46:02 - Glenn Renfro
+Exactly.
+
+46:06 - Frank Greco
+And of course, all the AI BS that all the companies are using as an excuse is because the business environment right now is flat. Nobody knows what's doing direction to go in, right? Everybody's, I mean, the US especially, but the rest of the world, there's no clear direction. So companies have to plan, right? You have to plan your budget. So you have to plan strategy for three to five years. That's how a big company works. If you can't do that, you kind of, you're flat. So when you're flat, you're not making money. So to maintain a profit margin, you have to cut costs. And what do you do? You lay off people. And you, oh, AI is a great excuse to use. So it's not AI. It's just the business environment sucks, right?
+
+46:45 - Glenn Renfro
+Agreed. Agreed. Or I agree.
+
+46:52 - Tom Cools
+I think that at the same vibes in Europe, by the way, it's not just in America.
+
+46:56 - Frank Greco
+Yeah, it's a global thing. So the whole thing is that's a side effect. It's a side effect of that problem.
+
+47:05 - Glenn Renfro
+The two things I saw that we got from our numbers at DevNexus is how people were allocating to different tracks. We had four AI tracks. We had a tech leadership, which was kind of like a soft skill track. We had practices and Java tracks. So we had a total of 10 tracks.
+
+47:29 - Glenn Renfro
+And the AI and the soft skill tracks sucked the air of all the other tracks. I mean, there was like, they were all packed. Those five were packed. All the others were crickets. Even the architecture track had less than 25% full at any time. Wow. And it used to be architecture was like one of the, that was your growth pattern, right? It was architecture. And it was like, no, everybody's going to skill and soft skill, like soft skills so they can get a job and keep their job. You know, the classic is we're no longer, you know, no longer a job. Hunting or job hopping or job hugging. And so people trying to hold what they have, and they're trying to learn the skills that they need to survive and what's coming up. But we're foregoing, as I think Frank brought up earlier and a couple other people brought up, that thing to push forward. Those types of skills are like, again, like in architecture and practices. No, no, we don't. Those are the ones that keep you in the industry for years. And that's the ones we need to be teaching, because that's what's going to help you with your development, whether you're using AI or not. And so, you know, the next year, this coming year, I've got to defend keeping the architecture track, which I don't think will be too hard. I've got Pratik and Victor there, so that's not going to be too hard. But, you know, 25% for two years in a row, what's going on? Is it how we're choosing our talk? Or is it just a lack of interest?
+
+49:09 - Kito Mann
+Yeah. And I've thought about this a lot with a lot of the, you know, low level Java stuff. It's like, there's all these great things have been added. And it's like, I don't know if anybody cares anymore because they can just generate the code. And half the code is like old Java code anyways.
+
+49:26 - Glenn Renfro
+You have to really try to make it use new features.
+
+49:29 - Kito Mann
+So.
+
+49:32 - Glenn Renfro
+Very true.
+
+49:36 - Glenn Renfro
+Well, folks, what I have is 1150 Eastern Standard. We're 50 minutes into the meeting.
+
+49:44 - Glenn Renfro
+So I didn't really have anything else much to go on the track. We did have, we did cover these, the key ones. Well, these two kind of were the educators and then the AI for JVM and Fuji. We have those action items. I will again, I will write up for the educators what we learned from there after this.
+
+50:10 - Glenn Renfro
+Is there anything else anybody wanted to cover today or had any thing they would like to raise? We'll re-raise the junior developers and what is AI content in our next meeting or in the meetings in the near future to kind of see what we want to do with those. But I think these two seem to be the most pressing things, especially where we want to put our content that we're creating and or what we aggregate. Where's the new home? Or do we keep the existing home? And Lize will see where she goes with the AI patterns. And like I said, we had a really good discussion on educators. In the educator side, what, since I will be talking to some university folks, I'm trying to get the Georgia Tech here as well. And this is not just for Georgia, United States. This is for any educators. They're all invited. As a matter of fact, one of the professors is from Florida. That's coming.
+
+51:08 - Glenn Renfro
+But what is it that we would like to take to them? I mean, we talked about educating over just teaching them a trade. What is it that you think that they need to do or what we can do to help them encourage students to show up? Does that question make sense or is that too broad?
+
+51:33 - Kito Mann
+I mean, I think it makes sense. I mean, I think to me, because, you know, I think we've all been going through this like, OK, what does it mean to code? And because we've been doing this forever, right? So and this is the first for me, this is the first major shift because. I mean, the Internet obviously is a major shift, but that was just more of an shift so um but uh I think I think focus on what it is that we like to do so I think number one is like problem solving right um to me that's a major thing um and I still think logic and stuff is very important um I think the idea of building systems is important um I mean if I look at my my son is 12 and I am encouraging him to do more engineering than software development, but that's really also because he's really good at doing stuff with his hands and mechanical engineering stuff too, which I'm not.
+
+52:37 - Glenn Renfro
+My daughter was the same way. She didn't take to the coding, she took to the engineering, the actual physical.
+
+52:42 - Glenn Renfro#+#Kito Mann
+Yeah, he likes the coding, but I was like, I think you should probably do something with your hands just to be safe.
+
+52:51 - Kito Mann
+But I think that whole problem and solving and building things is kind of, is you still can build stuff. Like it's still pretty, you can just do it faster. And the way we building is changing with the idea of building things that people use and building systems, I think is what they should focus on. And when I think back like into my CS degree, I think some of the best things I did was like I, the computer system fundamentals, learning about FSA, things like that, you know, that sort of stuff. And even like UML stuff, like I still, I know UML isn't cool anymore, but I still write UML diagrams. It's like just the default way that, and people don't realize like, even these LLMs, they'll generate like sequence diagrams and things like that. So learning all that stuff is really important. Like, and still I use it today, even though the languages change. Java came out when I was in school. Um, but I, you know, I learned other languages too.
+
+53:54 - Frank Greco#+#Glenn Renfro
+Cool. I think we should also point out.
+
+53:56 - Frank Greco
+So, um, kids watch YouTube, right? Yes. I mean, that's, they watched it. So there's a lot of, there's a lot of crap, uh, all these, these talking heads and also the, the talking heads that talk about the talking heads. Right. So, and they're, they're basically guys that play too much X-Box when they're kid, right? And they think it's the future is going to be like, you know, all kinds of wacky, you know, AI things. So we need to there's a now a thread growing thread of people pushing back about against AI. So we probably should make those sites and they're starting to get really popular. I mean, there's some really negative things with like with chatbots and like people committing suicide, and believing them that and that the so called was it the Dunning, whoops, the psychological, basically making you think you're smarter than you are. Because the LM's are instruction tuned, which means they will only give you back what humans like, which is like, that's not good. That's not good, right? So we need to point people to places where they can find out, you know, actually what Ultima just said, or what Amadei said, that is total bullshit. So we have to show people, like push back, have some critical thinking.
+
+55:15 - Glenn Renfro
+Yeah. Thank you, Tom. Yeah.
+
+55:18 - Catalin Tudose
+Let me add something here because I heard what you said previously and I see here some keywords on this notes and I will provide you some other example. I have recently developed and conducted a course this time in corporate environment that was entitled Algorithmic Thinking for developers. So we don't go back to very basic algorithms, because we are expecting people to know them. But we demonstrate that in the business world, and in the real world from today, you have to take some decisions that have to be supported by your critical thinking by your capacity to be a problem solver to build systems to understand things at the low level. And I'm reading here from from your slide. Example, I was talking about the minimum spanning tree for a graph, and you have two alternatives, Kruskal algorithm or Prim algorithm. They are implemented, you can apply them, you can eventually use a little the AI support. But I said, you have to understand when to pick up to decide. Because if it is a dense graph, you will pick up one of them, and if it is a sparse graph, you will pick up another one, and the answer why to do this is in the complexity of the algorithm. One is V log V, another one is V log E. So we go at the higher level, but in order to be able to work as a problem solver at the higher level, you have to have passed through the low level or to be able to be the explorer. And I'm reading from your...
+
+56:58 - Glenn Renfro
+from your.
+
+57:11 - Unidentified Speaker
+Awesome.
+
+57:12 - Glenn Renfro
+Thank you. Well, folks, we are at a near time. First off, I want to thank y'all for the folks in the Oh, Tom, go ahead.
+
+57:20 - Tom Cools
+Oh, yeah, I just have two more things I would would tell students one is ego system, because the language is one thing, but it's everything around it. We have Maven. We have all these wonderful dependencies we can pull in instead of building it ourselves. So getting some grasp of what is out there already. And the bigger one, especially as a JUG leader, is community. We actually try to get students to our JUGs as much as we can. We entice them with t-shirts and all the other fun stuff. And often they come back after the first time, they just love hanging about, they get free pizza, they get whatever, they get connections. And I feel that the human connection is becoming more important now. Because as the social skills on DevNexus are becoming more important, I see it in the jokes as well. People are getting more interested, at least for our part, to connect because they realize that connections and knowing people is going to get very important if AI is going to take everything over, so to say.
+
+58:26 - Glenn Renfro
+Yeah, what we've done is, I know Mitch has before, but we started the Lightning Talk tutorials. And we basically have already just about filled up our class. I do one set a year. And we've just about filled up this roster for this coming year. And most of them are now students. And it came from when we started this Lightning and talk tutorials with just one student and then three developers. And then after her success, we picked up four more students this semester. And so we usually take about six people. And students came in. And they are desperate to try to find that thing that helps them get their first job. So if you all are interested, of the material that I use, and the course outline that I do. It's really simple, but it really just gives them that first opportunity to learn how to give a lightning talk. And then once they learn how to give a lightning talk, we put them up front in front of the jug and they give their lightning talks. And from there, the first thing I do after they do it, I say, submit to DevNexus.
+
+59:44 - Glenn Renfro
+And this last year, the AI committee that this year the AI community picked all the AI talks. They picked up that students talk. I didn't have to go in and say, OK, we're going to take one student, you know, one of the students and put them in. They picked it up like that. That's awesome.
+
+1:00:01 - Kito Mann
+It was a good topic.
+
+1:00:03 - Glenn Renfro
+And she did a great job. And so the thing is, is that that's something if you're looking at get students in, say, we'll teach you how to do lightning talks. Come on in. And just spend four weeks, one day a week, helping them set up and give them a place, a venue to give it. It's amazing what they'll do for that now. So all right, folks. I wanted to thank y'all. I will schedule a new meeting. I will make sure I check to make sure the calendar is open, make sure I don't pick people's holidays when I do it for those people who are on holiday. Thank you for coming. I appreciate you spending time with us today. I hope you have a wonderful rest of your day on your holiday. And for the rest of us, I hope you'll have a wonderful day. For those folks, I'm going to see you at Arc of AI, Frank, and Kito. Can't wait to see you all next week. All right.
+
+1:00:51 - Kito Mann
+Sounds good. Thanks, Glenn.
+
+1:00:52 - Frank Greco
+Take care, folks. Thank you all so much.
