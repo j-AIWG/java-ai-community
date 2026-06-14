@@ -1,0 +1,539 @@
+Java-AI-Education Group
+Mon, Jun 8, 2026
+
+0:13 - Unidentified Speaker
+Hello, Glenn.
+
+0:15 - Chicago Java Users Group
+Hi, Barry.
+
+0:16 - Unidentified Speaker
+Hello. Hello.
+
+0:18 - Barry Burd
+Yes.
+
+0:24 - Chicago Java Users Group
+It's been a long time, it seems like, Yeah.
+
+0:28 - mirowengner
+Good. Hi.
+
+0:31 - Chicago Java Users Group
+Hello, Miro, right? Okay, yes.
+
+0:35 - mirowengner
+Okay, now nice to seeing you. Seeing you all.
+
+0:40 - Chicago Java Users Group
+Yeah.
+
+0:43 - Glenn Renfro
+I'm going to see if I can, pardon me, see if I can, come on.
+
+0:52 - Chicago Java Users Group
+Just so you know, I can only stay for half hour. So, because I for coming.
+
+0:56 - Glenn Renfro
+But yeah, just wanted to at least touch base a bit.
+
+1:00 - mirowengner
+Yes, I'm off to a vacation and also me to arrange things. You know it.
+
+1:09 - Chicago Java Users Group
+Yeah, so much to do all the time.
+
+1:11 - mirowengner
+Monday vacation.
+
+1:17 - mirowengner
+But to stay in touch. Yeah. Yeah, it's good to stay in touch.
+
+1:21 - Chicago Java Users Group
+And Barry, I missed you because you're in New Jersey, right?
+
+1:26 - Unidentified Speaker
+Yes.
+
+1:27 - Barry Burd
+Yeah. Well, anyway, I was in New York, New Jersey.
+
+1:30 - Chicago Java Users Group
+I stayed with Neha. No, Neha. Anyway, but I was there only like lightning, less than 24 hours. She let me stay at her house and I just did either of you get any sleep with the babies there?
+
+1:44 - Unidentified Speaker
+know. Yeah, the baby, yeah, the babies actually were good, not bad at all. I was able to sleep actually.
+
+1:49 - Barry Burd
+It's good. Good. Was Neha able to sleep? Probably.
+
+1:53 - Chicago Java Users Group
+Oh, yeah, Neha. I think she was up. Yeah. Yeah. That's very exciting.
+
+2:00 - Barry Burd
+But next time when you breeze through again, you should do the tunes.
+
+2:06 - Chicago Java Users Group
+Yeah, next time when I'm there, I like to stay a bit longer. So this time was the API days, it was very short. Yeah, so yeah.
+
+2:18 - Unidentified Speaker
+Hello, Vlad, right? Yeah.
+
+2:21 - Chicago Java Users Group
+Hi, everyone.
+
+2:22 - Glenn Renfro
+Hello.
+
+2:23 - Unidentified Speaker
+Hello.
+
+2:24 - mirowengner
+Hey, hi.
+
+2:28 - Glenn Renfro
+You moved stuff around. Now I'm trying to figure out how to turn off the meeting room so people can just jump on in. It's like, instead of me having to admit, I had to admit, Dan.
+
+2:38 - Unidentified Speaker
+Yeah.
+
+2:48 - Barry Burd
+You may not be able to turn that off while the meeting's going on.
+
+2:51 - Glenn Renfro
+I used to, but I think I'm not sure if I can do that anymore.
+
+2:55 - Barry Burd
+I used to, like, yeah, I was like, yeah, everybody in.
+
+2:59 - mirowengner
+Maybe some new feature, you know, to make people happy.
+
+3:07 - Barry Burd
+Turning off the ability to do something. I don't know.
+
+3:10 - Glenn Renfro
+Yeah. Don't like it.
+
+3:13 - mirowengner
+Why not? You can pay for it, right?
+
+3:16 - Barry Burd
+That's right.
+
+3:20 - Glenn Renfro
+I'll just keep an eye out for it. Make sure nobody gets blocked. They shouldn't be blocked. We'll give everybody a couple more minutes to come on in. It was, it's, it's been the one thing I think about is when we were talking about AI, every time going into it, it's, it literally is a month, it's like a daily, weekly change on either feature or behavior or what people are willing to accept cultural. And I'm going.
+
+3:50 - Glenn Renfro
+what do we even talk about education? By the time we produce the education materials, it feels like, oh, we already did that. That was like last week. But it's, but I think it's still paramount that we stay on top of it. I mean, and try to produce materials that folks can use, or like what Miro's doing as far as curating articles, because it's.
+
+4:18 - mirowengner
+Hopefully after vacation and so on, I will right now publish a new AI newsletters.
+
+4:25 - Glenn Renfro
+Perfect.
+
+4:26 - mirowengner
+Yeah, I have collected the articles too, but I didn't have a time. I've been working on other stuff. I had to invest time. But I think right now it's what I heard from today's presentation, some other AI engineers. They proposing the guys from a center uh to hypothesis driven driven development which is basically yeah yeah sure they are talking more uh from a center's hypothesis oh it makes sense you know because because ai is probabilistic this just the models are probabilistic and you cannot expect the answer the most what I have been mentioning on one of my articles is the changing from J unit test where you add the assertion, where you expecting deterministic results, actually to turning into do how many times, actually evals, how many times your result is confident. I mean, it's a whole about statistic.
+
+5:32 - Chicago Java Users Group
+That's what I've been writing beginning of the year, but it's true.
+
+5:37 - Glenn Renfro
+Well, I mean, well, that's a good question because I guess we should. I'm going to give just a couple more minutes for folks to jump in. Is, but how is that different than like an LM as a judge where you're saying basically where you're coming in and you're saying, okay, here's, you know, here's what the range of, here's like what I want to see as a response in that zone. Now run the test, you know. Get back the responses and yes or no was the answer within like the range of what we would expect of what we would like to see.
+
+6:16 - Chicago Java Users Group
+How is this different within what they're suggesting?
+
+6:20 - mirowengner
+I mean, what do you mean? The hypothesis driven development?
+
+6:25 - Unidentified Speaker
+Yeah.
+
+6:26 - Glenn Renfro
+How's it different than like Elma as a judge in a sense?
+
+6:30 - mirowengner
+Actually, well, you mentioned it, right? You just mentioned you write the eval, which you have a collection of possible response you would expect, which each word, probably each line, when it as a line, right, is already a number of lines. So you have each line has a probability based on the number of lines you expect, or actually the results. So, and that's an eval. Basically. It's not really a unit test.
+
+7:01 - Unidentified Speaker
+Right.
+
+7:02 - Glenn Renfro
+It's an evaluation if it's in within, like you a range of what we would say is acceptable.
+
+7:08 - mirowengner
+Yes. But you have a very hard problem if we are talking about run, right? This goes to the scale, and especially when the agents like writing the code as the people. Try to use the specs-driven development, which is not closed by the evaluation itself.
+
+7:31 - mirowengner
+You know, so it goes exponentially to Friday. So, and I mean, then then mentioned, the people mentioning from Accenture, the hypothesis-driven development, it's just the description, what is happening. It's just a shorter term.
+
+7:52 - Glenn Renfro
+Okay. I mean, I'm curious. I'm most notably curious about that because you're going to be mentioning it.
+
+7:59 - mirowengner
+Yeah, please. That would be awesome.
+
+8:01 - Glenn Renfro
+Yeah. Again, this, the way that the group works is it's very fluid. I may come I may say, hey, let's, I might give like a real quick, you this is what's happened since the last meeting. I'm going to do that really briefly. I have a couple of topics if we to go with those as well. We certainly can go that direction. Let's make sure. Sorry. I'm just making sure that. Oh, come on, be good. Okay, okay, we're good. So, really quick, if y'all can see my screen. We kicked off the NYJavaSIG AI conference group last month. Sat with Ito, and he's looking into actually kicking that off. This group's focus is to see how we could get more NYJavaSIG developers, speakers into AI conferences. And so that has been something that. We've been trying to kick off for a while. So we started spinning that up in May. He's going to do some research and kind of carry that forward. So that's exciting. Last month, we talked about possibly moving the just, you know, relocating the, I say not last month, but a month or so ago, relocating the, you know, the monthly newsletter that Miro. Produces for Fujay to possibly using another location. For now, based on my reading, we're okay to leave it there for now. I don't see any reason that they're still producing material for Fujay. We just want to make sure that if there's any kind of shakiness, that we could find a new home board if there is such a need. But I haven't heard anything where they're trying to take it down. As a matter of fact, I see that they're still keeping it up. So no activity there.
+
+10:09 - mirowengner
+Why would be Fujay willing to take it down?
+
+10:14 - Glenn Renfro
+Well, the only reason that there was is that there was a discussion that there was some series of layoffs at the host company and we were just concerned like, do we need to find a new home for it that's a little bit more stable? And we were like, well, after time, Yazul. And right now is, yeah, right now I didn't see the need in it after kind of asking around. I didn't see that like, you know, Azul seems to be still monitoring and maintaining Fuji. So I don't think there's any reason for us to move it, you know, unless we just absolutely need to. It's still got good readership. So it's like, if it works, leave it alone.
+
+10:58 - mirowengner
+It's like, you know, exactly. It's an established kind of brand.
+
+11:06 - mirowengner
+Christian was not affected, or some other, yeah.
+
+11:10 - Glenn Renfro
+Gertrude is still there, so that was my only concern. Is I didn't know if he was still there or not. I know that some other folks were affected, and they were, uh, I thought they were kind of pivotal for the maintenance and the maintaining of Fuji. But actually, sorry, real quick. Um, uh, Hirchon was also laid off, so he's not officially uh working on Fuji, yeah.
+
+11:32 - Pratik Patel
+When was he laid off? Same time as me. You're kidding.
+
+11:36 - Glenn Renfro
+I thought he still was there. Oh, okay.
+
+11:38 - Pratik Patel
+I think he may still be participating in some part, but the persons who are effectively running Fuji are Frank Delport, who you guys probably know.
+
+11:49 - Glenn Renfro
+Yeah.
+
+11:50 - Pratik Patel
+As well as Dominika, and she has a Polish last name I can't pronounce, but they both work in Azul still.
+
+11:59 - Glenn Renfro
+Okay. And songs is still up. Thank you for the update. I didn't know he was he was let go.
+
+12:05 - Pratik Patel
+Yeah, no problem. I mean, it's still going.
+
+12:09 - Unidentified Speaker
+I haven't been paying super close attention as to what they're doing, but I have seen like new articles and other stuff, et cetera, et cetera. So they're maintaining it.
+
+12:19 - Pratik Patel
+And they're still, I think, doing all the editorials and all that.
+
+12:23 - Glenn Renfro
+Okay. Again, I saw no change in activity. So I was like, let's leave it alone. Go ahead. I'm sorry.
+
+12:30 - mirowengner
+No, Pratik, been also affected. You didn't mention?
+
+12:34 - Pratik Patel
+Yeah, I also was laid off at Azul about sorry to hear it.
+
+12:39 - mirowengner
+Yeah. Oh, yeah. Sorry to hear all this crap with how the industry is destroying itself. Yeah. Well, believe it or not, it wasn't because of AI. It was because the company was bought by private equity and they came in and slashed and burned and yeah, that's based on the chat GPT recommendation.
+
+13:01 - Glenn Renfro
+Yeah, we know it.
+
+13:07 - Glenn Renfro
+I want to go in and I want to have somebody look over some of the resonate, or not the layout notes to see if they were chat GPT generated.
+
+13:19 - Unidentified Speaker
+lately, like right now, what I am.
+
+13:23 - mirowengner
+reading, also what is mentioning not only the Accenture and so on, also the guys from Anthropic and all these guys responsible for all these disturbances, kind of mentioning against warnings, they are right now getting pretty aware of what they have done. They actually reducing their customers. Like, I wanted to pay.
+
+13:56 - Glenn Renfro
+One of the things I'm seeing, this is kind of goes dovetails into it. This came from like the last couple of Ajugs that I've gone to Lanjava user groups, and I was just talking around and talking to developers. And one of the things that we're seeing now is that early on, there were great deals signed by the company, and developers just went all out. Using whatever AI tool that they were using at the time. That's changing. And now people are getting budgets. And some of these budgets are very tight. And so this is, we're talking specifically around develop creating code and utilizing tools to AI to generate code or be like your online, you you're pairing with somebody. And so this is affecting their utilization of it. And I was wondering: is this a topic we would like to try to talk with folks about, or see if there's curated articles or write or curate that say, okay, how can you, with a limited budget, maximize what you can get out of it? Right. I mean, everything from you know, do you, are we talking about caveman? Are we talking about, say, well, you don't need caveman, just say be concise in your answers so that you reduce the token bill that you get? Do you, you know, at what times do you, can you use caveman successfully? And when do you want to disable it? When do you want it to be concise? Like I may not want it to be concise when I'm doing documentation. These are decisions that developers out there are having to make. Is there something along that lines that we would like to discuss on that? Again, I'm throwing that out there for what we were talking about before. It's like, it's okay, you know, is this something we want to talk about?
+
+15:55 - Pratik Patel
+Yeah, so Glenn, it's actually quite a nice idea. The fact that tokens actually cost real money now has shifted the way people. Are approaching and using these tools, right? So it might be worth having a little discussion and just see how people have been adjusting to it. We may be a little bit ahead of the curve in thinking about this because it's just starting to hit people now, as you mentioned.
+
+16:23 - Glenn Renfro
+So yeah, out of a group of last month, out of a group of five engineers, I'm going to say. Two were under budget. One was about to get a budget and the other two said, what do you mean by budget? That's anecdotal, but that's, I think this is reality. And so these really affect how we're not, we've always known that there was a cost to deploying our apps to the real world, right? And so that was always budgeted in, but it was like the developers were kind of like left alone. Well, that's changed. And it's because we look at Opus that is three to five times the cost of Sonnet. And then we look at Mythos that's come in at three to five times the cost of Opus. And so You know, there's times where it's like, for example, I'm trying to remember the command, but like, even in like if you're using Sonnet, you're like, before I go to Opus, Sonnet, you to go into, I forgot what mode it is, where it goes in and does like a deeper thought. And what happens in that is like, if you're doing planning, it's like it's probably easier to hit Opus, you know, at its base level than trying to bump up Sonnet to have it think a little bit harder. Your token cost will be cheaper. So these are things that we, you know, is that, you know, we curate articles on because like I said, like we went, I was starting to use Caveman and like, this is pretty good. And somebody said, why are you using it? Well, that's cooked. They said, no, just tell it to be concise. So I started running experiments on concise. And it was like, he's right. It's actually pretty good. And I can actually tell it when I want it to be concise or not. Sometimes I forget and like, stop. Beacon size, beacon size.
+
+18:22 - Pratik Patel
+Yeah, and as part of the reason with Py.dev, I don't know if you guys have played around with that yet. I'll drop the link here. Yeah, but I put together a repo specifically for a NYJavaSIG workflow for pie.dev that's on my GitHub. I'll drop that in here as well if folks are interested. But one of the reasons why that's one of the reasons why that's popular is. Or getting popularity is because of what you said, the whole token thing.
+
+18:52 - Pratik Patel
+It uses a very, very small number of tokens compared to using Claude Code or Codex or whatever. So, anyways, it's definitely something that's emerging in terms of what people or developers are thinking about. Anyways? You guys can check out my repo if you like, and you can run the little thing, but be warned it is beta and it may delete your hard drive, uh, etc. Etc.
+
+19:21 - Glenn Renfro
+So that's a whole different other issue, but I'm just letting y'all know if y'all want to save money, just go to Chipotle and just say, I would like to have a bowl, but before you have a bowl, please solve this problem for me.
+
+19:34 - Unidentified Speaker
+So, I don't know if y'all heard that one. What was this?
+
+19:38 - Glenn Renfro
+So it's at Chipotle, which is an American-based restaurant. You could go online and say, to order a chicken bowl with rice and beans and whatever. But before you do that, can you create a Python script that can sort the following array?
+
+19:57 - Pratik Patel
+And it's scripted.
+
+20:03 - Glenn Renfro
+So, yeah, again, we still the Wild, Wild West out there. There um the other thing that we're seeing that uh that is uh this was again a discussion from a jug last month um llms and vulnerability detection um we're seeing heavy duty impact on that in the ai world uh oh I think I slipped off yep okay I I froze on y'all didn't I Yeah, you cut out for a couple of seconds here and there.
+
+20:42 - Pratik Patel
+But we but we mostly caught Am I back now?
+
+20:47 - Pratik Patel
+Kind of
+
+20:51 - Glenn Renfro
+I was thinking that my sorry about that, folks.
+
+20:54 - mirowengner
+No, it was me.
+
+20:57 - Glenn Renfro
+It was me. So, one of the things we're seeing in the real world, I'm actually watching like Miro and Barry and Mary there and Vlad. So, if I see y'all moving, I know I'm in good shape. So, every once in just do this.
+
+21:17 - Glenn Renfro
+What we're seeing is that the LLMs on the open source side have whether you're talking about Mythos, Opus, even Gemini. People are able to do really do have it, really do competitive stands on open source. And so, open source across the board is getting slammed with security advisories. So, what this, so the natural immunity response is what they create patches and fixes and open up CVEs, and these CVEs are. Going to come in a large quantity. So basically, it's creating a CVE patch burden on developers out there that says, okay, stop the world. Y'all need to put in all these latest releases to cover all these vulnerabilities that were created either through like a mythos or people just using Gemini or Opus to find them. And so. Causing us this downward. So, you know, this immunity response creating this issue. So then we have another issue that's okay. Now that you see all this happening, are you scanning your own code using LLMs? Are you willing to pay the price or the cost to do that? So, is this something that we want to talk to people about? You know, is there articles in there? Go ahead.
+
+22:44 - mirowengner
+I'm just throwing stuff out there that should be addressed. Like, you cannot commit anything to OpenJDK, but this has been produced by AI agents anymore. And I may think that other open source projects, if they are smart, they follow because, I mean, this is a really big problem right now. Or agents can produce a lot of code and also pull requests, but I mean, human or you cannot keep up with any changes. So they do the architectural changes on the fly and you cannot keep up with this. They also skip. I know that they are using the skills or some kind of this is the specification-driven development. You define everything, but you have the specification-driven development that does not tell you how you evaluate the changes and whether your application still behaves in the way you have intended, including the architecture, even how you would write in the very complex architecture eval. That is a good, very good question. So, this is what I wanted to ask: do you observe?
+
+24:07 - Glenn Renfro
+that another open source projects are also denying actually to use the agents to actually the patches produced by agents and I don't know how to scan it it's it's a mixed bag some some organizations well I'll put this way there's there I would say there's three groups there's one group that's just like is they're just saying okay you submit something if it's a quality. First off, let's talk about you get security advisories. These are the bug people are looking for, the bug bounties. That's what's swamping the entire OSS world. Now, some people don't even look at those. And some groups say that if they detect it, they're not going to look at it. But most groups are taking those security vulnerability reports or advisories seriously. And are reviewing them and are responding to them. I can tell you from our group, when we get one, it is reviewed, and I work for Spring, and we review it, it's graded, and it's sent on its way. There are some of our groups that are using AI to evaluate those and to see if they're any good. It depends on the group. But we have those. Do we have those folks that? That are, so that's on the security side, right? So it really depends on some projects. I've seen some projects actually, not spring, but other OSS projects that will go in and they look at the security advisory, and originally they were declining them, now they're accepting them again. With many of the OSS projects, what they're doing is they're saying there's a certain criteria you have to meet when you open an advisory. Please, you know, not only tell us what you saw. And explain it, but give us a sample code that can reproduce that advisory.
+
+26:04 - Unidentified Speaker
+Because sometimes they're pretty wide open, right?
+
+26:10 - Unidentified Speaker
+So we're seeing that.
+
+26:12 - Glenn Renfro
+And like I said, this is the immune responses, we see it, we fix it, and CV is produced. From that, or we don't deem it as a security vulnerability. We may deem it as just a bug. Because if my explanation, or let me define the CVE first, a CVE is a bug. Okay, that's it. It's a bug. What it does have is it has extra paperwork associated to let y'all know that this bug has security implications.
+
+26:46 - Unidentified Speaker
+right? So it is just a bug with paperwork and an announcement.
+
+26:51 - Glenn Renfro
+So any CV or security advisory we get, that is a bug report, but it is expedited based on the exposure of that bug to cause downstream problems. And then we, create the CV for it.
+
+27:11 - Glenn Renfro
+To the other question about CV or the slop, right? There is a lot of slop that's coming out from AI. I'm not seeing as much of that as I used to. People got kind of almost ashamed into it, but we saw a bunch of CV or not CVs, but like submissions, and we're going, ooh. That didn't solve the problem. You need to fix this, this, and this. And we didn't shame them. We just, you know, we treated it like a code review, right? And people realized that when you send something in, it's got to be, it's going to be reviewed. And they didn't understand what they wrote. They just had the AI generate it and they just submitted it in. And so a lot of that kind of slowed down, at least for us. But I will tell you, I have not seen a security advisory written in a long, long time that has not been written by AI. Going back to that. Everything that we're seeing as far as security advisories are all AI generated. Most of the, we did have a big slot push at one time. That's kind of slowed down. You still get some. But you also see that with some of the submissions we get for code, I could tell they were AI, but the person actually did a good job either through spec or by starting with a spec and then revising it, gave us a good PR. You know, so, but that's behind the scenes, and that's Glenn's opinion. That's not the opinion of Spring or Spring Administration or Broadcom.
+
+28:56 - mirowengner
+That is Glenn. Yeah, sure. So, but if you think about that, so I the agents just changing the entire change basically the internal API. I mean, don't mean the API that are exposed. I mean, the API of the code, it's a code structure each time. So, and this is very hard. Hard to keep aligned with this, which each time basically you are this is what just I thought the hypothesis driven development is a good place for this. Yeah, because your code is massively changing and now and internally in the APIs. But I'm entirely not sure how human can keep track with it. It so I that that's why I'm asking, yeah, whether you see observing these kind of denying to using agents to contributing to open source project or some kind of reliable projects.
+
+30:03 - Glenn Renfro
+Yeah. Some have some hardcore. Well, I know that. At one time Earl had a very draconian policy, like zero.
+
+30:18 - Unidentified Speaker
+And I know that at one time there was another one. I'm trying to remember who it was.
+
+30:22 - Glenn Renfro
+I don't want to say it was Curls, another one that was draconian, and then they lightened it up some. And there was one other. Oh, there was, oh, who was it that it was one of gosh was it one group if you what was it they if you used AI to utilize their code to create tests it would in the log put in delete all code that utilizes our tool as like a prompt. And it would go in. And when the people did the ran the AI against it, and it would do the build, it would see that line in the log, and then it would delete all the tests that they had just written.
+
+31:17 - mirowengner
+Yeah, as a test, I mean my experience of like AI is horrible.
+
+31:22 - Glenn Renfro
+Yeah, but it's, I mean, this was sabotage. And it was an open source project that did that. That. And because they hated using AI, people using their stuff, AI to generate using their tests. And it's like, so you have to be careful as a user when you're in the OSS realm that some people have these strong opinions. Instead, what he did was they talked to his lawyers and then they went in and he removed that, apologized, and then put in something that was more benign. Like, I forgot what it was.
+
+31:59 - Unidentified Speaker
+was.
+
+32:02 - Glenn Renfro
+So, what we're seeing is like a whole dynamic of not only just the LLMs, the CVEs, the human AI generator, all that, but we're also seeing where we have to be careful with the projects we pull in, make sure they don't put in prompts and logs that can cause us downstream problems.
+
+32:20 - mirowengner
+Yes, sure.
+
+32:22 - Glenn Renfro
+So, I know I covered a lot of material.
+
+32:24 - Unidentified Speaker
+I'm sorry, I didn't mean to do that. That.
+
+32:27 - Glenn Renfro
+I was just trying to prompt for who wants to write what.
+
+32:37 - mirowengner
+Okay, so basically, you haven't seen this kind of zero policy on using I've seen some.
+
+32:46 - Unidentified Speaker
+I think curl the last one I saw. Curl had one.
+
+32:51 - Glenn Renfro
+There were some projects that had, like I said, I wish I remember that one math, that one test framework. I don't think NYJavaSIG. They did have one. And they downright sabotaged you if you were using it in the background. So there are OSS projects that just don't play nice with it at all. But what I would do is I like, I can only speak for spring. And we're like, so long as it's quality, fine. Any AI-generated security advisory is reviewed. And I think that's the majority of OSS projects that treat it with respect.
+
+33:39 - Glenn Renfro
+Now, I won't say it causes a hell of headaches. If I see another CVE, which I call them now, creating valued experiences. Sorry.
+
+33:51 - Glenn Renfro
+Badge them. So what are other topics we want to talk about? I'm just, is there people interested in writing articles on these or curating things like this? Or is there other things that they're seeing they want to curate articles on or write about or I don't ask questions about?
+
+34:14 - NYJavaSIG
+If I may jump in here.
+
+34:16 - Glenn Renfro
+Go, please. Jump for it, my friend.
+
+34:18 - NYJavaSIG
+I think our goal in the very, very beginning was just to keep a list, a curated list for our audience. And we decided, right, that would be the best way. So I don't think we want to write articles. I think we wanted to just curate a list, as we said weeks, weeks, months ago. Yeah.
+
+34:39 - NYJavaSIG
+But I'm not seeing a lot. Well, maybe that's maybe that's I need to go and look.
+
+34:44 - Glenn Renfro
+It's like the budgeting things, just maybe we just keep an eye out for those things if we can and be able to propose those to Miro. Is that what you're kind of saying?
+
+34:56 - NYJavaSIG
+Yeah, exactly. That's what that was our goal, is to do that.
+
+35:00 - Glenn Renfro
+I thought it was either way. You could either be curating was preferred because we don't want to.
+
+35:05 - Unidentified Speaker
+There's too much stuff out there to compete with. There's just way, way, way too much. You don't want to do that. So you just want to list the list. Here's a link, check it out. Here's another link on token cost.
+
+35:14 - NYJavaSIG
+Check it out. Here's the one in AI slop. Check it out. And for specifically for NYJavaSIG developers, that's our goal, right?
+
+35:20 - Glenn Renfro
+Right.
+
+35:24 - Glenn Renfro
+But I guess the one thing I was trying to do is say, are these topics that we need to be actively looking for? Is there other things that we need to be actively looking for? As well.
+
+35:34 - NYJavaSIG
+Anything that's NYJavaSIG related, I think, and we let our audience decide whether it's important or not. How do we do that? We just put things that are NYJavaSIG and AI-related and say, here you go, check it out if it's interested.
+
+35:49 - Unidentified Speaker
+You follow up on it. We can't, right? We can't think for our audience. Go for it.
+
+35:59 - Glenn Renfro
+No, I just thinking as like, but do we? I guess do we see where I was going with like these? It's like, is there a guidance that we want to like when we're searching for articles? Like, you know, like I said, again, this is just me talking with the jug folks here, right? These were things that were impacting them that they were like interested in. Is that again? As just thinking, these are things that we need to kind of maybe look for, maybe.
+
+36:33 - NYJavaSIG
+Well, I mean, obviously it's just the hot button items that, and I think that they will naturally bubble up to the top, right? Token expense is another one, right?
+
+36:41 - Glenn Renfro
+Anything upcoming public companies is going to affect things, right?
+
+36:46 - NYJavaSIG
+The statement that somebody makes on NYJavaSIG and AI, right? So it's a new something about Project Panama or, you know, vector API, just stuff like that. Anything that's, you know, NYJavaSIG slanted with AI.
+
+37:03 - NYJavaSIG
+Okay.
+
+37:08 - NYJavaSIG
+we could probably automate that, right?
+
+37:10 - Unidentified Speaker
+It's probably good.
+
+37:14 - NYJavaSIG
+2026, I think we can automate that. It's true.
+
+37:18 - Glenn Renfro
+I mean, I guess it would just be creating a prompt. And well, the one problem you do have is sites now, if they detect that you're an AI bot, they kind of shut you down too. Seeing that. It's like, you look like you're not a real person. Bye. I am a real person. I just use AI to do it. You know what I mean?
+
+37:41 - NYJavaSIG
+Yeah, but this stuff has been done for decades.
+
+37:43 - Glenn Renfro
+True. Scraping.
+
+37:46 - NYJavaSIG
+I mean, yeah, what's the difference? There's no difference.
+
+37:52 - NYJavaSIG
+It's what you do with the data afterwards, is the difference. So scraping, right?
+
+37:56 - Unidentified Speaker
+So.
+
+38:00 - NYJavaSIG
+I mean, there's a lot of new, you know, like that thing I posted in the chat at the meeting tomorrow with the JCP and AI and NYJavaSIG. That's something that. That's right.
+
+38:08 - Glenn Renfro
+That's the ninth. I thought today.
+
+38:10 - NYJavaSIG
+That's tomorrow. Today's the Apple announcement. Yes.
+
+38:15 - mirowengner
+It was very fast. I thought that it's right now.
+
+38:19 - NYJavaSIG
+No, it's later. But so the JCP thing is tomorrow. And I think everybody should attend that one.
+
+38:26 - Unidentified Speaker
+Yeah.
+
+38:26 - mirowengner
+Yeah. Nice.
+
+38:29 - Unidentified Speaker
+That's Zoran is leading that discussion or I believe I believe so. Yeah. Okay.
+
+38:34 - NYJavaSIG
+And what's this Apple announcement?
+
+38:36 - Pratik Patel
+Do I need to go get a new credit card or what's going on?
+
+38:41 - Unidentified Speaker
+It's well, their conference starts today.
+
+38:44 - Pratik Patel
+Okay. Right. I know I'm anticipating or hoping that they release the M5 Ultra Mac Studio.
+
+38:54 - NYJavaSIG
+Yeah, not with a RAM chip, not with RAM prices. I doubt it.
+
+38:59 - Glenn Renfro
+The world is a funny place with RAM prices.
+
+39:03 - NYJavaSIG
+No, I know, right?
+
+39:04 - mirowengner
+Ask ChatGPT. Yeah, that's not going to be clear for another.
+
+39:09 - Unidentified Speaker
+That's not going to be clear for another year, RAM prices, unfortunately.
+
+39:17 - NYJavaSIG
+Also, James, do James Ward's list of like skills repository that's that's really useful someplace?
+
+39:26 - mirowengner
+Yeah, he posted it at LinkedIn.
+
+39:29 - NYJavaSIG
+Yeah, yeah, so he has a really nice repo. I mean, that's those are things that we should let our audience know about.
+
+39:36 - Glenn Renfro
+Right. Yep.
+
+39:46 - NYJavaSIG
+Brian Vermeer stuff that you know that's always good to let our audience know about the security aspects of LLMs and chatbots.
+
+40:12 - NYJavaSIG
+Actually, this is a good uh example of using a coding assistant. Let's have an intern use a coding assistant, build an app that looks for this stuff on the web and creates a nice little curated thing and build a program, have a conversation with Claude to build it.
+
+40:33 - Glenn Renfro
+Well, that's how I did this presentation, by the way. I had a conversation with Claude yesterday and had this present build the presentation for us.
+
+40:45 - Glenn Renfro
+All right. Well, is there anything else anybody wants to bring up?
+
+40:56 - Unidentified Speaker
+Okie dokie. Well, I'll tell you what, folks, I do appreciate y'all attending. I will get the recording and the notes out later today, or by later day, probably later this week.
+
+41:07 - Glenn Renfro
+And see y'all next time, okay?
+
+41:09 - mirowengner
+Yes, see you tomorrow at JCP.
+
+41:12 - NYJavaSIG
+See you in the Thanks, Glenn.
+
+41:15 - Unidentified Speaker
+Thank you. Bye-bye. Thanks, Glenn.
